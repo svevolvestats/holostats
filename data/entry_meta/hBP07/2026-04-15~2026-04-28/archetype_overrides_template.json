@@ -1,0 +1,147 @@
+{
+  "_split_suggestions": {
+    "5ebce9": {
+      "name": "5ebce9",
+      "oshi_id": "hBP06-003",
+      "n": 28,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD06-006",
+              "card_name": "風真いろは",
+              "ratio": 29
+            },
+            {
+              "name": "hSD06-012",
+              "card_name": "ぽこべぇ",
+              "ratio": 25
+            },
+            {
+              "name": "hSD06-011",
+              "card_name": "ﾁｬｷ丸",
+              "ratio": 32
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-114",
+              "y_name": "石の斧",
+              "y_ratio": 64,
+              "co_occur_pct": 4,
+              "diff_pct": -72
+            },
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 64,
+              "co_occur_pct": 7,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-094",
+              "card_name": "ギリわるロボ",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 64,
+              "co_occur_pct": 4,
+              "diff_pct": -61
+            },
+            {
+              "y": "hBP01-114",
+              "y_name": "石の斧",
+              "y_ratio": 64,
+              "co_occur_pct": 4,
+              "diff_pct": -61
+            }
+          ]
+        }
+      ]
+    },
+    "cf9435": {
+      "name": "cf9435",
+      "oshi_id": "hBP07-004",
+      "n": 24,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP07-038",
+              "card_name": "赤井はあと",
+              "ratio": 29
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP03-033",
+              "y_name": "赤井はあと",
+              "y_ratio": 54,
+              "co_occur_pct": 4,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "fc8c0f": {
+      "name": "fc8c0f",
+      "oshi_id": "hBP07-007",
+      "n": 12,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-016",
+              "card_name": "春先のどか",
+              "ratio": 58
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-092",
+              "y_name": "アーカイブパソコン",
+              "y_ratio": 25,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

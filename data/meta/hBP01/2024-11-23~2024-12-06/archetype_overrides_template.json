@@ -1,0 +1,204 @@
+{
+  "_split_suggestions": {
+    "a9b7b2": {
+      "name": "a9b7b2",
+      "oshi_id": "hBP01-001",
+      "n": 63,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-009",
+              "card_name": "AZKi",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-104",
+              "y_name": "ふつうのパソコン",
+              "y_ratio": 78,
+              "co_occur_pct": 5,
+              "diff_pct": -79
+            },
+            {
+              "y": "hSD01-016",
+              "y_name": "春先のどか",
+              "y_ratio": 73,
+              "co_occur_pct": 6,
+              "diff_pct": -64
+            }
+          ]
+        }
+      ]
+    },
+    "776883": {
+      "name": "776883",
+      "oshi_id": "hBP01-002",
+      "n": 54,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-009",
+              "card_name": "AZKi",
+              "ratio": 11
+            },
+            {
+              "name": "hSD01-004",
+              "card_name": "ときのそら",
+              "ratio": 19
+            },
+            {
+              "name": "hBP01-009",
+              "card_name": "天音かなた",
+              "ratio": 13
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-092",
+              "y_name": "オーロ・クロニー",
+              "y_ratio": 81,
+              "co_occur_pct": 0,
+              "diff_pct": -92
+            },
+            {
+              "y": "hBP01-015",
+              "y_name": "七詩ムメイ",
+              "y_ratio": 81,
+              "co_occur_pct": 2,
+              "diff_pct": -73
+            },
+            {
+              "y": "hSD01-016",
+              "y_name": "春先のどか",
+              "y_ratio": 85,
+              "co_occur_pct": 4,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-048",
+              "card_name": "風真いろは",
+              "ratio": 26
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-015",
+              "y_name": "七詩ムメイ",
+              "y_ratio": 81,
+              "co_occur_pct": 7,
+              "diff_pct": -71
+            },
+            {
+              "y": "hBP01-092",
+              "y_name": "オーロ・クロニー",
+              "y_ratio": 81,
+              "co_occur_pct": 9,
+              "diff_pct": -62
+            }
+          ]
+        }
+      ]
+    },
+    "71cc9c": {
+      "name": "71cc9c",
+      "oshi_id": "hBP01-004",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-004",
+              "card_name": "ときのそら",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-092",
+              "y_name": "オーロ・クロニー",
+              "y_ratio": 72,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP01-018",
+              "y_name": "七詩ムメイ",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-092",
+              "card_name": "オーロ・クロニー",
+              "ratio": 72
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-009",
+              "y_name": "AZKi",
+              "y_ratio": 17,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-018",
+              "card_name": "七詩ムメイ",
+              "ratio": 44
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-007",
+              "y_name": "IRyS",
+              "y_ratio": 56,
+              "co_occur_pct": 11,
+              "diff_pct": -55
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

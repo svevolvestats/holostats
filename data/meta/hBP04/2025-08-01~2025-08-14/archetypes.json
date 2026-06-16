@@ -1,0 +1,8649 @@
+{
+  "353b28": {
+    "name": "小鳥遊キアラ",
+    "class": "赤",
+    "oshi_id": "hBP01-006",
+    "member": "小鳥遊キアラ",
+    "cards": {
+      "hBP01-062": {
+        "avg": 10.25,
+        "ratio": 0.9643,
+        "rank": 0.261,
+        "avg_when_used": 10.63
+      },
+      "hBP02-038": {
+        "avg": 3.9107,
+        "ratio": 0.9821,
+        "rank": 0.331,
+        "avg_when_used": 3.98
+      },
+      "hBP01-065": {
+        "avg": 3.8571,
+        "ratio": 0.9643,
+        "rank": 0.271,
+        "avg_when_used": 4.0
+      },
+      "hBP03-036": {
+        "avg": 3.8571,
+        "ratio": 0.9643,
+        "rank": 0.271,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.8393,
+        "ratio": 1.0,
+        "rank": 0.317,
+        "avg_when_used": 3.84
+      },
+      "hBP01-121": {
+        "avg": 3.7857,
+        "ratio": 0.9643,
+        "rank": 0.282,
+        "avg_when_used": 3.93
+      },
+      "hBP01-067": {
+        "avg": 3.5,
+        "ratio": 0.9643,
+        "rank": 0.191,
+        "avg_when_used": 3.63
+      },
+      "hBP02-084": {
+        "avg": 2.5357,
+        "ratio": 0.9464,
+        "rank": 0.288,
+        "avg_when_used": 2.68
+      },
+      "hBP01-063": {
+        "avg": 2.4107,
+        "ratio": 0.875,
+        "rank": 0.35,
+        "avg_when_used": 2.76
+      },
+      "hBP02-035": {
+        "avg": 2.1786,
+        "ratio": 0.9821,
+        "rank": 0.302,
+        "avg_when_used": 2.22
+      },
+      "hSD01-017": {
+        "avg": 2.1071,
+        "ratio": 0.7143,
+        "rank": 0.332,
+        "avg_when_used": 2.95
+      },
+      "hBP01-066": {
+        "avg": 2.0,
+        "ratio": 0.9464,
+        "rank": 0.43,
+        "avg_when_used": 2.11
+      },
+      "hBP01-104": {
+        "avg": 1.3393,
+        "ratio": 0.4821,
+        "rank": 0.499,
+        "avg_when_used": 2.78
+      },
+      "hBP01-098": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.136,
+        "avg_when_used": 1.0
+      },
+      "hBP01-108": {
+        "avg": 0.3214,
+        "ratio": 0.3036,
+        "rank": 0.136,
+        "avg_when_used": 1.06
+      },
+      "hBP01-114": {
+        "avg": 0.1607,
+        "ratio": 0.0714,
+        "rank": 0.414,
+        "avg_when_used": 2.25
+      },
+      "hBP04-089": {
+        "avg": 0.1429,
+        "ratio": 0.0714,
+        "rank": 0.404,
+        "avg_when_used": 2.0
+      },
+      "hBP02-028": {
+        "avg": 0.1429,
+        "ratio": 0.0179,
+        "rank": 0.0,
+        "avg_when_used": 8.0
+      },
+      "hSD01-018": {
+        "avg": 0.125,
+        "ratio": 0.1071,
+        "rank": 0.064,
+        "avg_when_used": 1.17
+      },
+      "hBP04-032": {
+        "avg": 0.0893,
+        "ratio": 0.0179,
+        "rank": 1.0,
+        "avg_when_used": 5.0
+      },
+      "hBP02-079": {
+        "avg": 0.0893,
+        "ratio": 0.0893,
+        "rank": 0.641,
+        "avg_when_used": 1.0
+      },
+      "hBP02-040": {
+        "avg": 0.0893,
+        "ratio": 0.0893,
+        "rank": 0.282,
+        "avg_when_used": 1.0
+      },
+      "hBP04-033": {
+        "avg": 0.0714,
+        "ratio": 0.0179,
+        "rank": 0.879,
+        "avg_when_used": 4.0
+      },
+      "hBP04-036": {
+        "avg": 0.0714,
+        "ratio": 0.0179,
+        "rank": 0.879,
+        "avg_when_used": 4.0
+      },
+      "hBP04-037": {
+        "avg": 0.0714,
+        "ratio": 0.0179,
+        "rank": 0.879,
+        "avg_when_used": 4.0
+      },
+      "hBP02-032": {
+        "avg": 0.0714,
+        "ratio": 0.0179,
+        "rank": 0.141,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 0.0714,
+        "ratio": 0.0179,
+        "rank": 0.141,
+        "avg_when_used": 4.0
+      },
+      "hBP04-035": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.751,
+        "avg_when_used": 3.0
+      },
+      "hBP04-091": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.751,
+        "avg_when_used": 3.0
+      },
+      "hBP02-019": {
+        "avg": 0.0536,
+        "ratio": 0.0536,
+        "rank": 0.181,
+        "avg_when_used": 1.0
+      },
+      "hBP01-048": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.181,
+        "avg_when_used": 3.0
+      },
+      "hBP01-050": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.181,
+        "avg_when_used": 3.0
+      },
+      "hBP02-030": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.181,
+        "avg_when_used": 3.0
+      },
+      "hBP02-095": {
+        "avg": 0.0536,
+        "ratio": 0.0179,
+        "rank": 0.181,
+        "avg_when_used": 3.0
+      },
+      "hBP04-034": {
+        "avg": 0.0357,
+        "ratio": 0.0179,
+        "rank": 0.615,
+        "avg_when_used": 2.0
+      },
+      "hSD05-011": {
+        "avg": 0.0357,
+        "ratio": 0.0179,
+        "rank": 0.615,
+        "avg_when_used": 2.0
+      },
+      "hBP03-086": {
+        "avg": 0.0357,
+        "ratio": 0.0179,
+        "rank": 0.224,
+        "avg_when_used": 2.0
+      },
+      "hBP02-031": {
+        "avg": 0.0357,
+        "ratio": 0.0179,
+        "rank": 0.224,
+        "avg_when_used": 2.0
+      },
+      "hBP04-038": {
+        "avg": 0.0357,
+        "ratio": 0.0179,
+        "rank": 0.224,
+        "avg_when_used": 2.0
+      },
+      "hBP02-077": {
+        "avg": 0.0179,
+        "ratio": 0.0179,
+        "rank": 0.27,
+        "avg_when_used": 1.0
+      },
+      "hBP02-076": {
+        "avg": 0.0179,
+        "ratio": 0.0179,
+        "rank": 0.27,
+        "avg_when_used": 1.0
+      },
+      "hBP02-029": {
+        "avg": 0.0179,
+        "ratio": 0.0179,
+        "rank": 0.27,
+        "avg_when_used": 1.0
+      },
+      "hBP03-088": {
+        "avg": 0.0179,
+        "ratio": 0.0179,
+        "rank": 0.27,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY03-001": {
+        "avg": 19.8036,
+        "ratio": 1.0
+      },
+      "hY04-001": {
+        "avg": 0.1964,
+        "ratio": 0.0893
+      }
+    },
+    "decks": [
+      {
+        "event": "1281505",
+        "deck_id": "X961",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "やっくん",
+        "friend_code": "FKPMR",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP04-032",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-033",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-062",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-065",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1281505",
+        "deck_id": "6WU7M",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "へんぴょん",
+        "friend_code": "CFNKW",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40
+      },
+      {
+        "event": "1247057",
+        "deck_id": "24FLX",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おかぱふマン(ぱねぱね)",
+        "friend_code": "IUAIT",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22
+      },
+      {
+        "event": "1247057",
+        "deck_id": "5W1VH",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "フジヤマ",
+        "friend_code": "QZLIY",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247057",
+        "deck_id": "2W3BV",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ヤツシマ",
+        "friend_code": "TCTTO",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247057",
+        "deck_id": "7LAZZ",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "きると",
+        "friend_code": "FMEED",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22
+      },
+      {
+        "event": "1247052",
+        "deck_id": "6PK8F",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "マイマイ",
+        "friend_code": "OSXNF",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247106",
+        "deck_id": "6CGPZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ルリ",
+        "friend_code": "UWSNY",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15
+      },
+      {
+        "event": "1247044",
+        "deck_id": "24FLX",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おかぱふマン(ぱねぱね)",
+        "friend_code": "IUAIT",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247106",
+        "deck_id": "4N0S7",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ひいらぎ",
+        "friend_code": "AAYSG",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247018",
+        "deck_id": "5DMGX",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "小林",
+        "friend_code": "LAABN",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22
+      },
+      {
+        "event": "1247044",
+        "deck_id": "430N7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ハナ",
+        "friend_code": "EZMDR",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247044",
+        "deck_id": "5K2C7",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "赤井隼人",
+        "friend_code": "WGORV",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247106",
+        "deck_id": "3EJ03",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Fan_will.co",
+        "friend_code": "TJZJG",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247052",
+        "deck_id": "4D6KF",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ナナキ",
+        "friend_code": "OUIQD",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16
+      },
+      {
+        "event": "1247042",
+        "deck_id": "2B6AF",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "リース",
+        "friend_code": "CUSYC",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1
+      },
+      {
+        "event": "1247051",
+        "deck_id": "43VQP",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "じゃるあ",
+        "friend_code": "QHSYY",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1247042",
+        "deck_id": "6SQDT",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "hanzo",
+        "friend_code": "WJOBK",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1
+      },
+      {
+        "event": "1247063",
+        "deck_id": "6LE55",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "とうま△",
+        "friend_code": "VMUYT",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34
+      },
+      {
+        "event": "1250529",
+        "deck_id": "69995",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "地球委員長",
+        "friend_code": "VTYEP",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247116",
+        "deck_id": "22H99",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ジロウ",
+        "friend_code": "OFFFI",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247109",
+        "deck_id": "6SQDT",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "hanzo",
+        "friend_code": "WJOBK",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1250514",
+        "deck_id": "4D6KF",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ナナキ",
+        "friend_code": "OUIQD",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1247123",
+        "deck_id": "3PYZM",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ゆうや",
+        "friend_code": "PTXSG",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-063",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247123",
+        "deck_id": "7HFSK",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しのむん",
+        "friend_code": "IPTNU",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247038",
+        "deck_id": "4NAK5",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ニョロゾ",
+        "friend_code": "VYWLC",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12
+      },
+      {
+        "event": "1250533",
+        "deck_id": "2X7YD",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "めぐみん",
+        "friend_code": "HDEBZ",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4
+      },
+      {
+        "event": "1250529",
+        "deck_id": "3NXHR",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "minato",
+        "friend_code": "YTPIR",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12
+      },
+      {
+        "event": "1247116",
+        "deck_id": "218YK",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Ayu",
+        "friend_code": "WJJYD",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP04-089",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250793",
+        "deck_id": "77GL8",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おっくん",
+        "friend_code": "QJSHG",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247109",
+        "deck_id": "2XVWP",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "エト",
+        "friend_code": "HGVSE",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP02-077",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247133",
+        "deck_id": "4NN03",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "フミコミザン",
+        "friend_code": "FLWKS",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-066",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-063",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247123",
+        "deck_id": "3EGC3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "はっしー",
+        "friend_code": "GCYYQ",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247109",
+        "deck_id": "68L3M",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "リース",
+        "friend_code": "CUSYC",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1250514",
+        "deck_id": "7481R",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ゆう",
+        "friend_code": "BCPJA",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17,
+        "variant_cards": [
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247133",
+        "deck_id": "4YERR",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "赤井隼人",
+        "friend_code": "WGORV",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP03-086",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-076",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250533",
+        "deck_id": "5K3ST",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ルリ",
+        "friend_code": "UWSNY",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4
+      },
+      {
+        "event": "1246960",
+        "deck_id": "7N941",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しぇいかー",
+        "friend_code": "LYSCP",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246960",
+        "deck_id": "2YB4P",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あとり",
+        "friend_code": "CIIMS",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "2YB4P",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あとり",
+        "friend_code": "CIIMS",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246894",
+        "deck_id": "1XPPB",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "霜野",
+        "friend_code": "UWOCL",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43
+      },
+      {
+        "event": "1246894",
+        "deck_id": "5HSM7",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "みつき",
+        "friend_code": "YYUMR",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43
+      },
+      {
+        "event": "1246986",
+        "deck_id": "4ULXB",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "コト",
+        "friend_code": "HGDVS",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37
+      },
+      {
+        "event": "1246894",
+        "deck_id": "2X2QR",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "ゴー",
+        "friend_code": "DINQZ",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43,
+        "variant_cards": [
+          {
+            "name": "hBP04-089",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "16LEV",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まう",
+        "friend_code": "RRLGX",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8
+      },
+      {
+        "event": "1247008",
+        "deck_id": "6L4EV",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しろあん",
+        "friend_code": "ASOQM",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "3E577",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "きりしま",
+        "friend_code": "CKPPB",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8
+      },
+      {
+        "event": "1246978",
+        "deck_id": "28D2H",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "かなた",
+        "friend_code": "VKVJV",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP01-063",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "2KHR3",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ミナト(ホロ友ch.)",
+        "friend_code": "RROHG",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8
+      },
+      {
+        "event": "1246978",
+        "deck_id": "6WVD3",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おかぱふマン(ぱねぱね)",
+        "friend_code": "IUAIT",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22
+      },
+      {
+        "event": "1247008",
+        "deck_id": "43BPK",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "キム",
+        "friend_code": "PVNAW",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hBP01-063",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "6ABWH",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タジ",
+        "friend_code": "UWXCP",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247112",
+        "deck_id": "16229",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ONE",
+        "friend_code": "TJZYY",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247034",
+        "deck_id": "27YAR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ほろぶひー",
+        "friend_code": "YIEWW",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-063",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247034",
+        "deck_id": "4D6KF",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ナナキ",
+        "friend_code": "OUIQD",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28
+      },
+      {
+        "event": "1247034",
+        "deck_id": "24ZJ7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "たくここ",
+        "friend_code": "EAPNG",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "prev_id": "4b267d",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "d7a74b": {
+    "name": "星街すいせい",
+    "class": "青",
+    "oshi_id": "hBP01-007",
+    "member": "星街すいせい",
+    "cards": {
+      "hBP01-076": {
+        "avg": 6.1273,
+        "ratio": 1.0,
+        "rank": 0.434,
+        "avg_when_used": 6.13
+      },
+      "hBP01-081": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.566,
+        "avg_when_used": 4.0
+      },
+      "hBP03-044": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.566,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.9818,
+        "ratio": 1.0,
+        "rank": 0.559,
+        "avg_when_used": 3.98
+      },
+      "hBP01-079": {
+        "avg": 3.8909,
+        "ratio": 1.0,
+        "rank": 0.561,
+        "avg_when_used": 3.89
+      },
+      "hBP02-084": {
+        "avg": 3.5273,
+        "ratio": 0.9818,
+        "rank": 0.554,
+        "avg_when_used": 3.59
+      },
+      "hBP01-104": {
+        "avg": 3.4,
+        "ratio": 0.9818,
+        "rank": 0.723,
+        "avg_when_used": 3.46
+      },
+      "hBP02-038": {
+        "avg": 3.3455,
+        "ratio": 0.8364,
+        "rank": 0.547,
+        "avg_when_used": 4.0
+      },
+      "hBP01-077": {
+        "avg": 2.8545,
+        "ratio": 0.9455,
+        "rank": 0.641,
+        "avg_when_used": 3.02
+      },
+      "hBP02-035": {
+        "avg": 2.7273,
+        "ratio": 0.8364,
+        "rank": 0.592,
+        "avg_when_used": 3.26
+      },
+      "hBP02-042": {
+        "avg": 1.4,
+        "ratio": 0.4,
+        "rank": 0.514,
+        "avg_when_used": 3.5
+      },
+      "hBP02-045": {
+        "avg": 1.3818,
+        "ratio": 0.4,
+        "rank": 0.533,
+        "avg_when_used": 3.45
+      },
+      "hBP04-089": {
+        "avg": 1.2182,
+        "ratio": 0.4909,
+        "rank": 0.498,
+        "avg_when_used": 2.48
+      },
+      "hSD01-017": {
+        "avg": 1.2,
+        "ratio": 0.7091,
+        "rank": 0.594,
+        "avg_when_used": 1.69
+      },
+      "hBP01-080": {
+        "avg": 0.8,
+        "ratio": 0.5273,
+        "rank": 1.0,
+        "avg_when_used": 1.52
+      },
+      "hBP02-077": {
+        "avg": 0.7818,
+        "ratio": 0.6909,
+        "rank": 0.467,
+        "avg_when_used": 1.13
+      },
+      "hBP01-108": {
+        "avg": 0.7636,
+        "ratio": 0.6545,
+        "rank": 0.609,
+        "avg_when_used": 1.17
+      },
+      "hSD01-020": {
+        "avg": 0.5273,
+        "ratio": 0.2182,
+        "rank": 0.406,
+        "avg_when_used": 2.42
+      },
+      "hBP01-090": {
+        "avg": 0.3636,
+        "ratio": 0.0909,
+        "rank": 0.843,
+        "avg_when_used": 4.0
+      },
+      "hBP02-076": {
+        "avg": 0.3455,
+        "ratio": 0.2364,
+        "rank": 0.063,
+        "avg_when_used": 1.46
+      },
+      "hBP01-115": {
+        "avg": 0.3091,
+        "ratio": 0.1818,
+        "rank": 0.74,
+        "avg_when_used": 1.7
+      },
+      "hSD01-018": {
+        "avg": 0.2545,
+        "ratio": 0.2364,
+        "rank": 0.518,
+        "avg_when_used": 1.08
+      },
+      "hBP01-088": {
+        "avg": 0.2545,
+        "ratio": 0.0909,
+        "rank": 0.852,
+        "avg_when_used": 2.8
+      },
+      "hBP01-078": {
+        "avg": 0.2364,
+        "ratio": 0.2,
+        "rank": 0.0,
+        "avg_when_used": 1.18
+      },
+      "hBP01-102": {
+        "avg": 0.2,
+        "ratio": 0.0727,
+        "rank": 0.883,
+        "avg_when_used": 2.75
+      },
+      "hBP03-087": {
+        "avg": 0.1455,
+        "ratio": 0.1273,
+        "rank": 0.702,
+        "avg_when_used": 1.14
+      },
+      "hBP01-048": {
+        "avg": 0.1091,
+        "ratio": 0.0182,
+        "rank": 0.198,
+        "avg_when_used": 6.0
+      },
+      "hBP03-057": {
+        "avg": 0.0909,
+        "ratio": 0.0182,
+        "rank": 0.546,
+        "avg_when_used": 5.0
+      },
+      "hBP01-041": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.303,
+        "avg_when_used": 4.0
+      },
+      "hBP03-025": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.794,
+        "avg_when_used": 4.0
+      },
+      "hBP03-029": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.794,
+        "avg_when_used": 4.0
+      },
+      "hBP03-030": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.794,
+        "avg_when_used": 4.0
+      },
+      "hBP03-107": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.794,
+        "avg_when_used": 4.0
+      },
+      "hBP03-024": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.303,
+        "avg_when_used": 4.0
+      },
+      "hSD06-005": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.303,
+        "avg_when_used": 4.0
+      },
+      "hBP02-019": {
+        "avg": 0.0545,
+        "ratio": 0.0545,
+        "rank": 0.551,
+        "avg_when_used": 1.0
+      },
+      "hBP04-049": {
+        "avg": 0.0545,
+        "ratio": 0.0364,
+        "rank": 0.424,
+        "avg_when_used": 1.5
+      },
+      "hBP03-059": {
+        "avg": 0.0545,
+        "ratio": 0.0182,
+        "rank": 0.551,
+        "avg_when_used": 3.0
+      },
+      "hBP01-038": {
+        "avg": 0.0545,
+        "ratio": 0.0182,
+        "rank": 0.36,
+        "avg_when_used": 3.0
+      },
+      "hBP02-079": {
+        "avg": 0.0364,
+        "ratio": 0.0364,
+        "rank": 0.488,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.0364,
+        "ratio": 0.0364,
+        "rank": 0.422,
+        "avg_when_used": 1.0
+      },
+      "hBP03-060": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.553,
+        "avg_when_used": 2.0
+      },
+      "hSD03-013": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.422,
+        "avg_when_used": 2.0
+      },
+      "hBP03-026": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.685,
+        "avg_when_used": 2.0
+      },
+      "hBP03-092": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.685,
+        "avg_when_used": 2.0
+      },
+      "hBP01-050": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.422,
+        "avg_when_used": 2.0
+      },
+      "hSD01-009": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.488,
+        "avg_when_used": 1.0
+      },
+      "hBP01-114": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.488,
+        "avg_when_used": 1.0
+      },
+      "hBP01-105": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.556,
+        "avg_when_used": 1.0
+      },
+      "hBP03-028": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.624,
+        "avg_when_used": 1.0
+      },
+      "hBP03-098": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.624,
+        "avg_when_used": 1.0
+      },
+      "hBP02-040": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.624,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 19.9455,
+        "ratio": 1.0
+      },
+      "hY02-001": {
+        "avg": 0.0545,
+        "ratio": 0.0182
+      }
+    },
+    "decks": [
+      {
+        "event": "1247135",
+        "deck_id": "5FLGP",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "2ndかなた返せ",
+        "friend_code": "KIUKE",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247135",
+        "deck_id": "25KCX",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "さくら鱒",
+        "friend_code": "SNBKZ",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1281505",
+        "deck_id": "541X5",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "フィン",
+        "friend_code": "WQCIE",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40
+      },
+      {
+        "event": "1281505",
+        "deck_id": "5YVRV",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "蓮華",
+        "friend_code": "HDYCK",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP04-049",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-102",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-077",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247106",
+        "deck_id": "64DNT",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "コア",
+        "friend_code": "INSGZ",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-088",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247052",
+        "deck_id": "3FNJK",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ネキ",
+        "friend_code": "QWGUZ",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16
+      },
+      {
+        "event": "1247052",
+        "deck_id": "1KTD7",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "トラキヨ",
+        "friend_code": "TXWAM",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16
+      },
+      {
+        "event": "1247121",
+        "deck_id": "5BYFZ",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "りく",
+        "friend_code": "KSPKC",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247044",
+        "deck_id": "4S5MZ",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "どぅーち",
+        "friend_code": "OFLGO",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247121",
+        "deck_id": "4CCPM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "白昼夢",
+        "friend_code": "FABKP",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247131",
+        "deck_id": "7R2LT",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "ゆう",
+        "friend_code": "BCPJA",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247042",
+        "deck_id": "61XRM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "こもじゅん",
+        "friend_code": "PKFWC",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1
+      },
+      {
+        "event": "1247131",
+        "deck_id": "4J5LF",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "ナギ",
+        "friend_code": "RHZPS",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33
+      },
+      {
+        "event": "1247131",
+        "deck_id": "4ELGF",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "ニケ",
+        "friend_code": "QQLTM",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247063",
+        "deck_id": "1NEFZ",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "サギサカ",
+        "friend_code": "NDBAE",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34
+      },
+      {
+        "event": "1247063",
+        "deck_id": "39CEX",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "シュート",
+        "friend_code": "UQZKK",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34
+      },
+      {
+        "event": "1247042",
+        "deck_id": "61HW7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "夏目そうすけ",
+        "friend_code": "BHNOZ",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247063",
+        "deck_id": "1LS63",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "道元坂",
+        "friend_code": "MNSZD",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250514",
+        "deck_id": "3MJLX",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おしるこ",
+        "friend_code": "OIEDN",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1247109",
+        "deck_id": "7K4TH",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "アジフライ",
+        "friend_code": "CPZGO",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1247123",
+        "deck_id": "5YSS7",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ふわ",
+        "friend_code": "BLHLV",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23
+      },
+      {
+        "event": "1250793",
+        "deck_id": "5WRBZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ふぁそら♪",
+        "friend_code": "BEZBI",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14
+      },
+      {
+        "event": "1247116",
+        "deck_id": "3ZL6T",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "トモ",
+        "friend_code": "NJTWV",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40
+      },
+      {
+        "event": "1250793",
+        "deck_id": "X6X3",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ステラ自爆おばさん",
+        "friend_code": "WDJHA",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14
+      },
+      {
+        "event": "1247109",
+        "deck_id": "53JQX",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "やぎ座",
+        "friend_code": "SQDDD",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1247038",
+        "deck_id": "4MSTR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "無人くん４号",
+        "friend_code": "AVJDN",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP03-057",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-059",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-077",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250533",
+        "deck_id": "ZHXM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "オーバ",
+        "friend_code": "BYGXW",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4
+      },
+      {
+        "event": "1250529",
+        "deck_id": "3CNN1",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ミツオ",
+        "friend_code": "WANQM",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247123",
+        "deck_id": "1KNB5",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "§帝§",
+        "friend_code": "YCDFI",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hSD03-013",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247116",
+        "deck_id": "4G2VZ",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "村人",
+        "friend_code": "EPHZL",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40
+      },
+      {
+        "event": "1250793",
+        "deck_id": "7M1CT",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "TAKAHASHI",
+        "friend_code": "XLMWM",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14
+      },
+      {
+        "event": "1250529",
+        "deck_id": "3SBX5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タコさん",
+        "friend_code": "EPXMC",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12
+      },
+      {
+        "event": "1246984",
+        "deck_id": "64DNT",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "コア",
+        "friend_code": "INSGZ",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-088",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246960",
+        "deck_id": "4EZVB",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わかさみや",
+        "friend_code": "ILMGP",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP04-049",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-088",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246984",
+        "deck_id": "4X71R",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "きなこ",
+        "friend_code": "GFWTG",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15
+      },
+      {
+        "event": "1246984",
+        "deck_id": "6KMVH",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "さくら鱒",
+        "friend_code": "SNBKZ",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246960",
+        "deck_id": "58795",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "makino",
+        "friend_code": "UEUAM",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-038",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-041",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246984",
+        "deck_id": "1FC19",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "ヒロロン",
+        "friend_code": "ZNDUE",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15
+      },
+      {
+        "event": "1247111",
+        "deck_id": "4ELGF",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ニケ",
+        "friend_code": "QQLTM",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247111",
+        "deck_id": "6SJV7",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "キンレンカ",
+        "friend_code": "XTXMS",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1247002",
+        "deck_id": "7S9W3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ねじ",
+        "friend_code": "DCHSV",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27
+      },
+      {
+        "event": "1247111",
+        "deck_id": "7N3DV",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Haru●",
+        "friend_code": "UVAXN",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1246986",
+        "deck_id": "53T8V",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "ニケ",
+        "friend_code": "QQLTM",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246894",
+        "deck_id": "2P22M",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "ナヲ",
+        "friend_code": "AYNTC",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43
+      },
+      {
+        "event": "1246986",
+        "deck_id": "2M4EH",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "HINA",
+        "friend_code": "AIDVV",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246986",
+        "deck_id": "5DUMP",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "siki",
+        "friend_code": "QIXYN",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37
+      },
+      {
+        "event": "1247112",
+        "deck_id": "1NTUV",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "シカワ",
+        "friend_code": "RPOZP",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40
+      },
+      {
+        "event": "1247112",
+        "deck_id": "YUM1",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "K",
+        "friend_code": "GBFUH",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP03-025",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-026",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247008",
+        "deck_id": "5EQPF",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ヒー君",
+        "friend_code": "KHPPK",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hBP02-040",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247112",
+        "deck_id": "2VQAR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ナヲ",
+        "friend_code": "AYNTC",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40
+      },
+      {
+        "event": "1250502",
+        "deck_id": "4XKSH",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "上野",
+        "friend_code": "MBGPQ",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247008",
+        "deck_id": "25JQH",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "issue",
+        "friend_code": "HTWES",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hBP01-077",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247112",
+        "deck_id": "7V67K",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "山田日南",
+        "friend_code": "BLXPE",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247112",
+        "deck_id": "3CUGM",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "パンドラ",
+        "friend_code": "NPRYW",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40
+      },
+      {
+        "event": "1250502",
+        "deck_id": "6XHTK",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "2ndかなた返せ",
+        "friend_code": "KIUKE",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "hBP02-019",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP02-076",
+            "card_name": "カスタムパソコン",
+            "ratio": 24
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP04-089",
+            "y_name": "ツートンカラーパソコン",
+            "y_ratio": 49,
+            "co_occur_pct": 0,
+            "diff_pct": -64
+          },
+          {
+            "y": "hBP02-045",
+            "y_name": "紫咲シオン",
+            "y_ratio": 40,
+            "co_occur_pct": 0,
+            "diff_pct": -52
+          },
+          {
+            "y": "hBP02-042",
+            "y_name": "紫咲シオン",
+            "y_ratio": 40,
+            "co_occur_pct": 0,
+            "diff_pct": -52
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hBP02-042",
+            "card_name": "紫咲シオン",
+            "ratio": 40
+          },
+          {
+            "name": "hBP02-045",
+            "card_name": "紫咲シオン",
+            "ratio": 40
+          },
+          {
+            "name": "hBP04-089",
+            "card_name": "ツートンカラーパソコン",
+            "ratio": 49
+          }
+        ],
+        "drops": [
+          {
+            "y": "hSD01-017",
+            "y_name": "マネちゃん",
+            "y_ratio": 71,
+            "co_occur_pct": 13,
+            "diff_pct": -65
+          },
+          {
+            "y": "hBP01-080",
+            "y_name": "星街すいせい",
+            "y_ratio": 53,
+            "co_occur_pct": 5,
+            "diff_pct": -65
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hBP03-087",
+            "card_name": "コールアンドレスポンス",
+            "ratio": 13
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP01-108",
+            "y_name": "じゃあ敵だね",
+            "y_ratio": 65,
+            "co_occur_pct": 2,
+            "diff_pct": -59
+          },
+          {
+            "y": "hBP04-089",
+            "y_name": "ツートンカラーパソコン",
+            "y_ratio": 49,
+            "co_occur_pct": 0,
+            "diff_pct": -56
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hBP01-115",
+            "card_name": "星街すいせいのマイク",
+            "ratio": 18
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP04-089",
+            "y_name": "ツートンカラーパソコン",
+            "y_ratio": 49,
+            "co_occur_pct": 0,
+            "diff_pct": -60
+          }
+        ]
+      }
+    ],
+    "prev_id": "8a8c63",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "af8a9f": {
+    "name": "天音かなた",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-009": {
+        "avg": 10.5952,
+        "ratio": 0.8571,
+        "rank": 0.643,
+        "avg_when_used": 12.36
+      },
+      "hSD01-016": {
+        "avg": 3.9762,
+        "ratio": 1.0,
+        "rank": 0.459,
+        "avg_when_used": 3.98
+      },
+      "hBP01-104": {
+        "avg": 3.881,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 3.88
+      },
+      "hBP01-013": {
+        "avg": 3.4286,
+        "ratio": 0.8571,
+        "rank": 0.606,
+        "avg_when_used": 4.0
+      },
+      "hBP01-012": {
+        "avg": 3.4048,
+        "ratio": 0.8571,
+        "rank": 0.602,
+        "avg_when_used": 3.97
+      },
+      "hSD01-017": {
+        "avg": 3.4048,
+        "ratio": 1.0,
+        "rank": 0.406,
+        "avg_when_used": 3.4
+      },
+      "hBP01-116": {
+        "avg": 2.5714,
+        "ratio": 0.8571,
+        "rank": 0.45,
+        "avg_when_used": 3.0
+      },
+      "hBP02-084": {
+        "avg": 2.0714,
+        "ratio": 0.9286,
+        "rank": 0.727,
+        "avg_when_used": 2.23
+      },
+      "hBP02-079": {
+        "avg": 1.8095,
+        "ratio": 0.9762,
+        "rank": 0.57,
+        "avg_when_used": 1.85
+      },
+      "hBP01-108": {
+        "avg": 1.7857,
+        "ratio": 1.0,
+        "rank": 0.418,
+        "avg_when_used": 1.79
+      },
+      "hSD01-018": {
+        "avg": 1.1905,
+        "ratio": 0.5952,
+        "rank": 0.222,
+        "avg_when_used": 2.0
+      },
+      "hBP02-077": {
+        "avg": 0.9524,
+        "ratio": 0.9286,
+        "rank": 0.511,
+        "avg_when_used": 1.03
+      },
+      "hSD01-019": {
+        "avg": 0.9048,
+        "ratio": 0.8571,
+        "rank": 0.596,
+        "avg_when_used": 1.06
+      },
+      "hBP01-010": {
+        "avg": 0.8571,
+        "ratio": 0.8571,
+        "rank": 0.566,
+        "avg_when_used": 1.0
+      },
+      "hBP01-014": {
+        "avg": 0.8571,
+        "ratio": 0.8571,
+        "rank": 0.566,
+        "avg_when_used": 1.0
+      },
+      "hBP04-032": {
+        "avg": 0.7619,
+        "ratio": 0.119,
+        "rank": 0.0,
+        "avg_when_used": 6.4
+      },
+      "hBP04-036": {
+        "avg": 0.4762,
+        "ratio": 0.119,
+        "rank": 0.059,
+        "avg_when_used": 4.0
+      },
+      "hBP04-037": {
+        "avg": 0.4762,
+        "ratio": 0.119,
+        "rank": 0.059,
+        "avg_when_used": 4.0
+      },
+      "hBP04-091": {
+        "avg": 0.4762,
+        "ratio": 0.119,
+        "rank": 0.059,
+        "avg_when_used": 4.0
+      },
+      "hSD05-011": {
+        "avg": 0.4286,
+        "ratio": 0.119,
+        "rank": 0.057,
+        "avg_when_used": 3.6
+      },
+      "hBP04-034": {
+        "avg": 0.4048,
+        "ratio": 0.119,
+        "rank": 0.119,
+        "avg_when_used": 3.4
+      },
+      "hBP04-035": {
+        "avg": 0.4048,
+        "ratio": 0.119,
+        "rank": 0.088,
+        "avg_when_used": 3.4
+      },
+      "hBP02-019": {
+        "avg": 0.3571,
+        "ratio": 0.3571,
+        "rank": 0.95,
+        "avg_when_used": 1.0
+      },
+      "hBP04-033": {
+        "avg": 0.2619,
+        "ratio": 0.0952,
+        "rank": 0.16,
+        "avg_when_used": 2.75
+      },
+      "hBP02-028": {
+        "avg": 0.2143,
+        "ratio": 0.0238,
+        "rank": 0.006,
+        "avg_when_used": 9.0
+      },
+      "hBP03-088": {
+        "avg": 0.1429,
+        "ratio": 0.1429,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hBP01-114": {
+        "avg": 0.1429,
+        "ratio": 0.0714,
+        "rank": 0.476,
+        "avg_when_used": 2.0
+      },
+      "hBP02-030": {
+        "avg": 0.0952,
+        "ratio": 0.0238,
+        "rank": 0.223,
+        "avg_when_used": 4.0
+      },
+      "hBP02-032": {
+        "avg": 0.0952,
+        "ratio": 0.0238,
+        "rank": 0.223,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 0.0952,
+        "ratio": 0.0238,
+        "rank": 0.223,
+        "avg_when_used": 4.0
+      },
+      "hBP02-086": {
+        "avg": 0.0952,
+        "ratio": 0.0476,
+        "rank": 0.41,
+        "avg_when_used": 2.0
+      },
+      "hBP02-038": {
+        "avg": 0.0714,
+        "ratio": 0.0238,
+        "rank": 0.276,
+        "avg_when_used": 3.0
+      },
+      "hBP02-095": {
+        "avg": 0.0714,
+        "ratio": 0.0238,
+        "rank": 0.276,
+        "avg_when_used": 3.0
+      },
+      "hBP01-011": {
+        "avg": 0.0714,
+        "ratio": 0.0714,
+        "rank": 0.374,
+        "avg_when_used": 1.0
+      },
+      "hBP02-029": {
+        "avg": 0.0476,
+        "ratio": 0.0238,
+        "rank": 0.334,
+        "avg_when_used": 2.0
+      },
+      "hBP02-031": {
+        "avg": 0.0476,
+        "ratio": 0.0238,
+        "rank": 0.334,
+        "avg_when_used": 2.0
+      },
+      "hBP04-038": {
+        "avg": 0.0476,
+        "ratio": 0.0238,
+        "rank": 0.334,
+        "avg_when_used": 2.0
+      },
+      "hBP02-076": {
+        "avg": 0.0476,
+        "ratio": 0.0238,
+        "rank": 0.537,
+        "avg_when_used": 2.0
+      },
+      "hSD01-007": {
+        "avg": 0.0476,
+        "ratio": 0.0476,
+        "rank": 0.436,
+        "avg_when_used": 1.0
+      },
+      "hBP02-035": {
+        "avg": 0.0238,
+        "ratio": 0.0238,
+        "rank": 0.397,
+        "avg_when_used": 1.0
+      },
+      "hBP01-098": {
+        "avg": 0.0238,
+        "ratio": 0.0238,
+        "rank": 0.503,
+        "avg_when_used": 1.0
+      },
+      "hSD01-009": {
+        "avg": 0.0238,
+        "ratio": 0.0238,
+        "rank": 0.397,
+        "avg_when_used": 1.0
+      },
+      "hBP01-030": {
+        "avg": 0.0238,
+        "ratio": 0.0238,
+        "rank": 0.397,
+        "avg_when_used": 1.0
+      },
+      "hBP04-090": {
+        "avg": 0.0238,
+        "ratio": 0.0238,
+        "rank": 0.503,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 17.1429,
+        "ratio": 0.8571
+      },
+      "hY03-001": {
+        "avg": 2.8571,
+        "ratio": 0.1429
+      }
+    },
+    "decks": [
+      {
+        "event": "1247057",
+        "deck_id": "WR3V",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "パセリ",
+        "friend_code": "FBGBB",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP03-088",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247044",
+        "deck_id": "376MV",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "にっしー",
+        "friend_code": "NXNRD",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247018",
+        "deck_id": "WR3V",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "パセリ",
+        "friend_code": "FBGBB",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP03-088",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247044",
+        "deck_id": "51VVV",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "よだ",
+        "friend_code": "TFRJD",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247121",
+        "deck_id": "61BZV",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まこも",
+        "friend_code": "MSXUF",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247106",
+        "deck_id": "4962T",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "カワチ",
+        "friend_code": "SUQDT",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-032",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-010",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247121",
+        "deck_id": "3XJAB",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "るっち",
+        "friend_code": "DRHEM",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247121",
+        "deck_id": "2U2M5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "はるみん",
+        "friend_code": "QTWRZ",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247018",
+        "deck_id": "2V1NK",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "Noble",
+        "friend_code": "LLILH",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-028",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-029",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-077",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247051",
+        "deck_id": "WR3V",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "パセリ",
+        "friend_code": "FBGBB",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9,
+        "variant_cards": [
+          {
+            "name": "hBP03-088",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247131",
+        "deck_id": "3CM5Z",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "ゼロまる♪",
+        "friend_code": "MOVZD",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP01-098",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-076",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247063",
+        "deck_id": "11DF3",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "弁当箱窪田",
+        "friend_code": "QNHEP",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP02-086",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-033",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-010",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247131",
+        "deck_id": "298U7",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "Dyu-",
+        "friend_code": "HQGCX",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33
+      },
+      {
+        "event": "1247133",
+        "deck_id": "36491",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "モリモ",
+        "friend_code": "GMBEU",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34
+      },
+      {
+        "event": "1247123",
+        "deck_id": "3WEFD",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あくあ",
+        "friend_code": "VJPMA",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23
+      },
+      {
+        "event": "1247038",
+        "deck_id": "WR3V",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "パセリ",
+        "friend_code": "FBGBB",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP03-088",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250529",
+        "deck_id": "2SEE7",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "どりるもぐら",
+        "friend_code": "GCOSW",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247133",
+        "deck_id": "11DF3",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "弁当箱窪田",
+        "friend_code": "QNHEP",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP02-086",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-033",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-010",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247123",
+        "deck_id": "51B8F",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "オマエラ",
+        "friend_code": "YXOIH",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23
+      },
+      {
+        "event": "1247038",
+        "deck_id": "3KYKM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "なの",
+        "friend_code": "BKYKG",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247133",
+        "deck_id": "30NNP",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "春冬",
+        "friend_code": "OHLRA",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-011",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247109",
+        "deck_id": "1WQ4K",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "りむ",
+        "friend_code": "",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1247038",
+        "deck_id": "6R7CF",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "遊音",
+        "friend_code": "HULTG",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP01-011",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250533",
+        "deck_id": "2GKPX",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まろん",
+        "friend_code": "QXFST",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP01-030",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-007",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250514",
+        "deck_id": "6HZU5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Akaki",
+        "friend_code": "LBLSZ",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1250533",
+        "deck_id": "6J9SP",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "KEI",
+        "friend_code": "IMIOW",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247123",
+        "deck_id": "18XDH",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ツナえもん",
+        "friend_code": "ZZMGI",
+        "venue": "トレーディングカードゲームショップ193名駅太閤店",
+        "date": "2025-08-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP04-033",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-032",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-077",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247116",
+        "deck_id": "14YKZ",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "きたち",
+        "friend_code": "OVLBI",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40
+      },
+      {
+        "event": "1246960",
+        "deck_id": "3T70K",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "つくし",
+        "friend_code": "QHBLC",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246990",
+        "deck_id": "2U2M5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "はるみん",
+        "friend_code": "QTWRZ",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33
+      },
+      {
+        "event": "1247002",
+        "deck_id": "42UVD",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "えま",
+        "friend_code": "CIIST",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP03-088",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247002",
+        "deck_id": "5Q1CX",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "海月　ナユタ",
+        "friend_code": "BIXMF",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27
+      },
+      {
+        "event": "1247111",
+        "deck_id": "XCL5",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "夏目美緒",
+        "friend_code": "LNJBP",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1247002",
+        "deck_id": "430AF",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "じゅんちゃん",
+        "friend_code": "COUTZ",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP04-033",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-032",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-079",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247111",
+        "deck_id": "5S03K",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "そうい",
+        "friend_code": "ECTGD",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1247111",
+        "deck_id": "7AD2R",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タケ",
+        "friend_code": "CWQIG",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246894",
+        "deck_id": "5Z2FB",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "ミナカミ",
+        "friend_code": "TAVSP",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43,
+        "variant_cards": [
+          {
+            "name": "hBP02-077",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247112",
+        "deck_id": "4PUF3",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "シロン",
+        "friend_code": "GSCFV",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40
+      },
+      {
+        "event": "1247008",
+        "deck_id": "12ULH",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "りゅーせー",
+        "friend_code": "FCMZS",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3
+      },
+      {
+        "event": "1247034",
+        "deck_id": "5S03K",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "そうい",
+        "friend_code": "ECTGD",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28
+      },
+      {
+        "event": "1247034",
+        "deck_id": "19G7F",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まったり",
+        "friend_code": "QKUFL",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP04-090",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-007",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247034",
+        "deck_id": "47RQ5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "え",
+        "friend_code": "",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP04-032",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          },
+          {
+            "name": "hBP04-034",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          },
+          {
+            "name": "hBP04-035",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          },
+          {
+            "name": "hBP04-036",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          },
+          {
+            "name": "hBP04-037",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          },
+          {
+            "name": "hBP04-091",
+            "card_name": "限界飯",
+            "ratio": 12
+          },
+          {
+            "name": "hSD05-011",
+            "card_name": "一条莉々華",
+            "ratio": 12
+          }
+        ],
+        "drops": [
+          {
+            "y": "hSD01-019",
+            "y_name": "スゴイパソコン",
+            "y_ratio": 86,
+            "co_occur_pct": 0,
+            "diff_pct": -97
+          },
+          {
+            "y": "hBP01-116",
+            "y_name": "うぱお",
+            "y_ratio": 86,
+            "co_occur_pct": 0,
+            "diff_pct": -97
+          },
+          {
+            "y": "hBP01-014",
+            "y_name": "天音かなた",
+            "y_ratio": 86,
+            "co_occur_pct": 0,
+            "diff_pct": -97
+          },
+          {
+            "y": "hBP01-013",
+            "y_name": "天音かなた",
+            "y_ratio": 86,
+            "co_occur_pct": 0,
+            "diff_pct": -97
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hBP03-088",
+            "card_name": "凸待ち",
+            "ratio": 14
+          }
+        ],
+        "drops": [
+          {
+            "y": "hSD01-018",
+            "y_name": "サブパソコン",
+            "y_ratio": 60,
+            "co_occur_pct": 0,
+            "diff_pct": -69
+          }
+        ]
+      }
+    ],
+    "prev_id": "789096",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "6471bb": {
+    "name": "こぼ・かなえる",
+    "class": "青",
+    "oshi_id": "hBP01-008",
+    "member": "こぼ・かなえる",
+    "cards": {
+      "hBP02-018": {
+        "avg": 6.913,
+        "ratio": 0.9565,
+        "rank": 0.558,
+        "avg_when_used": 7.23
+      },
+      "hSD01-016": {
+        "avg": 3.9565,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 3.96
+      },
+      "hBP02-023": {
+        "avg": 3.8261,
+        "ratio": 0.9565,
+        "rank": 0.605,
+        "avg_when_used": 4.0
+      },
+      "hBP02-028": {
+        "avg": 3.7826,
+        "ratio": 0.8261,
+        "rank": 0.762,
+        "avg_when_used": 4.58
+      },
+      "hBP01-104": {
+        "avg": 3.6522,
+        "ratio": 1.0,
+        "rank": 0.721,
+        "avg_when_used": 3.65
+      },
+      "hBP02-032": {
+        "avg": 3.3043,
+        "ratio": 0.8261,
+        "rank": 0.751,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 3.3043,
+        "ratio": 0.9565,
+        "rank": 0.784,
+        "avg_when_used": 3.45
+      },
+      "hBP02-033": {
+        "avg": 3.2609,
+        "ratio": 0.8261,
+        "rank": 0.776,
+        "avg_when_used": 3.95
+      },
+      "hBP02-020": {
+        "avg": 2.9565,
+        "ratio": 0.9565,
+        "rank": 0.805,
+        "avg_when_used": 3.09
+      },
+      "hBP02-021": {
+        "avg": 2.7391,
+        "ratio": 0.9565,
+        "rank": 0.708,
+        "avg_when_used": 2.86
+      },
+      "hBP02-022": {
+        "avg": 2.2174,
+        "ratio": 0.9565,
+        "rank": 0.477,
+        "avg_when_used": 2.32
+      },
+      "hBP02-019": {
+        "avg": 1.5652,
+        "ratio": 0.9565,
+        "rank": 0.951,
+        "avg_when_used": 1.64
+      },
+      "hBP04-089": {
+        "avg": 1.0,
+        "ratio": 0.6957,
+        "rank": 0.72,
+        "avg_when_used": 1.44
+      },
+      "hBP02-094": {
+        "avg": 0.9565,
+        "ratio": 0.9565,
+        "rank": 0.617,
+        "avg_when_used": 1.0
+      },
+      "hBP02-075": {
+        "avg": 0.6957,
+        "ratio": 0.3478,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "hBP03-088": {
+        "avg": 0.6087,
+        "ratio": 0.6087,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hSD01-017": {
+        "avg": 0.6087,
+        "ratio": 0.3043,
+        "rank": 0.434,
+        "avg_when_used": 2.0
+      },
+      "hBP01-054": {
+        "avg": 0.5217,
+        "ratio": 0.1304,
+        "rank": 0.127,
+        "avg_when_used": 4.0
+      },
+      "hSD01-012": {
+        "avg": 0.5217,
+        "ratio": 0.1304,
+        "rank": 0.127,
+        "avg_when_used": 4.0
+      },
+      "hBP01-055": {
+        "avg": 0.3913,
+        "ratio": 0.1304,
+        "rank": 0.206,
+        "avg_when_used": 3.0
+      },
+      "hSD01-018": {
+        "avg": 0.2609,
+        "ratio": 0.1739,
+        "rank": 0.162,
+        "avg_when_used": 1.5
+      },
+      "hSD01-019": {
+        "avg": 0.2609,
+        "ratio": 0.2609,
+        "rank": 0.162,
+        "avg_when_used": 1.0
+      },
+      "hBP01-108": {
+        "avg": 0.2609,
+        "ratio": 0.2609,
+        "rank": 0.584,
+        "avg_when_used": 1.0
+      },
+      "hBP01-082": {
+        "avg": 0.2609,
+        "ratio": 0.0435,
+        "rank": 0.896,
+        "avg_when_used": 6.0
+      },
+      "hBP03-045": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-076": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-079": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-083": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-086": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-087": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP01-112": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.83,
+        "avg_when_used": 4.0
+      },
+      "hBP02-031": {
+        "avg": 0.1304,
+        "ratio": 0.087,
+        "rank": 0.275,
+        "avg_when_used": 1.5
+      },
+      "hBP02-029": {
+        "avg": 0.087,
+        "ratio": 0.087,
+        "rank": 0.383,
+        "avg_when_used": 1.0
+      },
+      "hBP04-038": {
+        "avg": 0.087,
+        "ratio": 0.087,
+        "rank": 0.383,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.087,
+        "ratio": 0.087,
+        "rank": 0.566,
+        "avg_when_used": 1.0
+      },
+      "hBP01-081": {
+        "avg": 0.087,
+        "ratio": 0.0435,
+        "rank": 0.749,
+        "avg_when_used": 2.0
+      },
+      "hSD01-020": {
+        "avg": 0.087,
+        "ratio": 0.0435,
+        "rank": 0.749,
+        "avg_when_used": 2.0
+      },
+      "hBP02-076": {
+        "avg": 0.0435,
+        "ratio": 0.0435,
+        "rank": 0.505,
+        "avg_when_used": 1.0
+      },
+      "hBP01-105": {
+        "avg": 0.0435,
+        "ratio": 0.0435,
+        "rank": 0.505,
+        "avg_when_used": 1.0
+      },
+      "hBP02-077": {
+        "avg": 0.0435,
+        "ratio": 0.0435,
+        "rank": 0.7,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 7.2174,
+        "ratio": 0.9565
+      },
+      "hY03-001": {
+        "avg": 4.0435,
+        "ratio": 0.9565
+      },
+      "hY04-001": {
+        "avg": 2.8261,
+        "ratio": 1.0
+      },
+      "hY01-001": {
+        "avg": 2.0435,
+        "ratio": 0.9565
+      },
+      "hY05-001": {
+        "avg": 1.9565,
+        "ratio": 0.9565
+      },
+      "hY06-001": {
+        "avg": 1.913,
+        "ratio": 0.9565
+      }
+    },
+    "decks": [
+      {
+        "event": "1247135",
+        "deck_id": "5W4Y3",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "ザイフリート",
+        "friend_code": "ZSYIV",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-029",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-031",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247135",
+        "deck_id": "5CK9Z",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "わく",
+        "friend_code": "YNRQG",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15
+      },
+      {
+        "event": "1247121",
+        "deck_id": "5W6E7",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "かたなし",
+        "friend_code": "MZUZW",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247018",
+        "deck_id": "66J75",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "ホロ豚",
+        "friend_code": "",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22
+      },
+      {
+        "event": "1247018",
+        "deck_id": "4R3PK",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "拒否スイッチ",
+        "friend_code": "",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-054",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-028",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-032",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247018",
+        "deck_id": "1LTVH",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "みー",
+        "friend_code": "GILHF",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-076",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-054",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-028",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-032",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247106",
+        "deck_id": "5CK9Z",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わく",
+        "friend_code": "YNRQG",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15
+      },
+      {
+        "event": "1247063",
+        "deck_id": "1RMTV",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まあ",
+        "friend_code": "UUYHJ",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34
+      },
+      {
+        "event": "1247051",
+        "deck_id": "5NL83",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "成瀬",
+        "friend_code": "DSVPC",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1250533",
+        "deck_id": "5NL83",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "FAMS",
+        "friend_code": "DSVPC",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4
+      },
+      {
+        "event": "1247133",
+        "deck_id": "7HASV",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "イッシー",
+        "friend_code": "DFJCL",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-105",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250514",
+        "deck_id": "65J21",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わく",
+        "friend_code": "YNRQG",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1247109",
+        "deck_id": "1UNXM",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しゅーさん",
+        "friend_code": "GWSPU",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1
+      },
+      {
+        "event": "1247038",
+        "deck_id": "1DP39",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "アドロム",
+        "friend_code": "GQWEC",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12
+      },
+      {
+        "event": "1246960",
+        "deck_id": "3R3G3",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "FAMS",
+        "friend_code": "DSVPC",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15
+      },
+      {
+        "event": "1246960",
+        "deck_id": "2YPVF",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ザイフリート",
+        "friend_code": "ZSYIV",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-029",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-031",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "5EEZR",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ホロ仏陀",
+        "friend_code": "",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4
+      },
+      {
+        "event": "1250380",
+        "deck_id": "1K1KH",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "P-90 ",
+        "friend_code": "UGEOD",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4
+      },
+      {
+        "event": "1247002",
+        "deck_id": "37PY6",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "尻尾の人",
+        "friend_code": "KHVPG",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP03-045",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-076",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-018",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-019",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247111",
+        "deck_id": "5EW5D",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "えびポン",
+        "friend_code": "EUPWO",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1246986",
+        "deck_id": "3N8XX",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "ハヤテ",
+        "friend_code": "PPLPF",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37
+      },
+      {
+        "event": "1246978",
+        "deck_id": "3YK5B",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ほろぶひ",
+        "friend_code": "YEJCO",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22
+      },
+      {
+        "event": "1246978",
+        "deck_id": "4R3PK",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "拒否スイッチ",
+        "friend_code": "",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-054",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-028",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-032",
+            "flag": "out"
+          }
+        ]
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hSD01-017",
+            "card_name": "マネちゃん",
+            "ratio": 30
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP02-033",
+            "y_name": "宝鐘マリン",
+            "y_ratio": 83,
+            "co_occur_pct": 13,
+            "diff_pct": -57
+          },
+          {
+            "y": "hBP02-032",
+            "y_name": "宝鐘マリン",
+            "y_ratio": 83,
+            "co_occur_pct": 13,
+            "diff_pct": -57
+          },
+          {
+            "y": "hBP02-028",
+            "y_name": "宝鐘マリン",
+            "y_ratio": 83,
+            "co_occur_pct": 13,
+            "diff_pct": -57
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hSD01-019",
+            "card_name": "スゴイパソコン",
+            "ratio": 26
+          },
+          {
+            "name": "hBP02-075",
+            "card_name": "アイドルサインペン",
+            "ratio": 35
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP03-088",
+            "y_name": "凸待ち",
+            "y_ratio": 61,
+            "co_occur_pct": 4,
+            "diff_pct": -60
+          }
+        ]
+      },
+      {
+        "xs": [
+          {
+            "name": "hBP04-089",
+            "card_name": "ツートンカラーパソコン",
+            "ratio": 70
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP02-075",
+            "y_name": "アイドルサインペン",
+            "y_ratio": 35,
+            "co_occur_pct": 13,
+            "diff_pct": -53
+          }
+        ]
+      }
+    ],
+    "prev_id": "375074",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "e35e56": {
+    "name": "戌神ころね",
+    "class": "黄",
+    "oshi_id": "hBP03-006",
+    "member": "戌神ころね",
+    "cards": {
+      "hBP04-067": {
+        "avg": 5.913,
+        "ratio": 0.9565,
+        "rank": 0.828,
+        "avg_when_used": 6.18
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP02-032": {
+        "avg": 3.8261,
+        "ratio": 0.9565,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 3.8261,
+        "ratio": 0.9565,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP04-072": {
+        "avg": 3.8261,
+        "ratio": 0.9565,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 3.7826,
+        "ratio": 1.0,
+        "rank": 0.525,
+        "avg_when_used": 3.78
+      },
+      "hBP02-084": {
+        "avg": 3.6957,
+        "ratio": 1.0,
+        "rank": 0.716,
+        "avg_when_used": 3.7
+      },
+      "hBP02-028": {
+        "avg": 3.2174,
+        "ratio": 0.9565,
+        "rank": 0.743,
+        "avg_when_used": 3.36
+      },
+      "hBP04-071": {
+        "avg": 3.2174,
+        "ratio": 0.913,
+        "rank": 1.0,
+        "avg_when_used": 3.52
+      },
+      "hBP04-068": {
+        "avg": 3.0,
+        "ratio": 0.9565,
+        "rank": 0.651,
+        "avg_when_used": 3.14
+      },
+      "hBP04-069": {
+        "avg": 2.6957,
+        "ratio": 0.9565,
+        "rank": 0.602,
+        "avg_when_used": 2.82
+      },
+      "hBP04-089": {
+        "avg": 1.8261,
+        "ratio": 0.9565,
+        "rank": 0.705,
+        "avg_when_used": 1.91
+      },
+      "hBP04-070": {
+        "avg": 1.6957,
+        "ratio": 0.913,
+        "rank": 0.849,
+        "avg_when_used": 1.86
+      },
+      "hSD01-019": {
+        "avg": 1.0435,
+        "ratio": 0.8696,
+        "rank": 0.372,
+        "avg_when_used": 1.2
+      },
+      "hSD01-018": {
+        "avg": 1.0435,
+        "ratio": 0.7826,
+        "rank": 0.733,
+        "avg_when_used": 1.33
+      },
+      "hBP01-108": {
+        "avg": 0.6087,
+        "ratio": 0.4783,
+        "rank": 0.813,
+        "avg_when_used": 1.27
+      },
+      "hBP03-088": {
+        "avg": 0.4348,
+        "ratio": 0.4348,
+        "rank": 0.582,
+        "avg_when_used": 1.0
+      },
+      "hBP03-061": {
+        "avg": 0.3913,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 9.0
+      },
+      "hSD01-017": {
+        "avg": 0.3478,
+        "ratio": 0.2609,
+        "rank": 0.0,
+        "avg_when_used": 1.33
+      },
+      "hBP03-062": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP03-063": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP03-065": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP03-066": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP03-102": {
+        "avg": 0.1739,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 4.0
+      },
+      "hBP04-038": {
+        "avg": 0.1304,
+        "ratio": 0.1304,
+        "rank": 0.921,
+        "avg_when_used": 1.0
+      },
+      "hBP04-104": {
+        "avg": 0.1304,
+        "ratio": 0.087,
+        "rank": 0.705,
+        "avg_when_used": 1.5
+      },
+      "hBP01-050": {
+        "avg": 0.1304,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 3.0
+      },
+      "hBP01-048": {
+        "avg": 0.087,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 2.0
+      },
+      "hBP03-064": {
+        "avg": 0.087,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 2.0
+      },
+      "hBP01-105": {
+        "avg": 0.0435,
+        "ratio": 0.0435,
+        "rank": 0.705,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY06-001": {
+        "avg": 16.0435,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 3.9565,
+        "ratio": 0.9565
+      }
+    },
+    "decks": [
+      {
+        "event": "1247135",
+        "deck_id": "48DQ7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "とんぼ",
+        "friend_code": "HAYDG",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP04-038",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247044",
+        "deck_id": "150G7",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "サトー",
+        "friend_code": "XNVFF",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-105",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-104",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-019",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247018",
+        "deck_id": "1ZYDD",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "はまちゃん",
+        "friend_code": "TDDYS",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247106",
+        "deck_id": "61V87",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "DJ",
+        "friend_code": "DVVMA",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15
+      },
+      {
+        "event": "1247018",
+        "deck_id": "35JBZ",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 24,
+        "player": "きりゅう",
+        "friend_code": "GPAWH",
+        "venue": "カードラボ静岡店",
+        "date": "2025-08-13",
+        "pref_code": 22
+      },
+      {
+        "event": "1247063",
+        "deck_id": "6A523",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おかみ",
+        "friend_code": "HGSHU",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34
+      },
+      {
+        "event": "1247051",
+        "deck_id": "4415R",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "志乃",
+        "friend_code": "REXTQ",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9,
+        "variant_cards": [
+          {
+            "name": "hBP04-104",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247051",
+        "deck_id": "5Y08D",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ゆう",
+        "friend_code": "OODGN",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1247131",
+        "deck_id": "30RU7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "大助@大助杯ホロカch",
+        "friend_code": "ZZMTP",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33
+      },
+      {
+        "event": "1247038",
+        "deck_id": "5GHW3",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "のり",
+        "friend_code": "IOEPC",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247116",
+        "deck_id": "4WRQT",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しぇり",
+        "friend_code": "VSVCE",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP03-061",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-062",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-028",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-032",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250793",
+        "deck_id": "5HFGX",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まぁ",
+        "friend_code": "DPIAO",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "hBP04-038",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-019",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246984",
+        "deck_id": "48DQ7",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "とんぼ",
+        "friend_code": "HAYDG",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP04-038",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246984",
+        "deck_id": "1GUW3",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "YMDクロエ",
+        "friend_code": "JHEDN",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15
+      },
+      {
+        "event": "1246990",
+        "deck_id": "5XKXM",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ケルティ",
+        "friend_code": "TIRWN",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33
+      },
+      {
+        "event": "1246990",
+        "deck_id": "7F875",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ハヤテ",
+        "friend_code": "PPLPF",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33
+      },
+      {
+        "event": "1246984",
+        "deck_id": "58M1M",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "スサノヲ",
+        "friend_code": "XICFT",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP04-071",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246990",
+        "deck_id": "6K6GK",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "たいし@たいCS",
+        "friend_code": "",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP04-070",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "61V87",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "DJ",
+        "friend_code": "DVVMA",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4
+      },
+      {
+        "event": "1247111",
+        "deck_id": "VLNV",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "シード",
+        "friend_code": "FWTVT",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2025-08-06",
+        "pref_code": 28
+      },
+      {
+        "event": "1246986",
+        "deck_id": "4E78V",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "つばさ",
+        "friend_code": "KHMHP",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37
+      },
+      {
+        "event": "1246986",
+        "deck_id": "56D8H",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "てぃる",
+        "friend_code": "BLWHF",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37
+      },
+      {
+        "event": "1247034",
+        "deck_id": "50ZTT",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ジューショク",
+        "friend_code": "FFIEQ",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP03-088",
+            "card_name": "凸待ち",
+            "ratio": 43
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP01-108",
+            "y_name": "じゃあ敵だね",
+            "y_ratio": 48,
+            "co_occur_pct": 4,
+            "diff_pct": -67
+          }
+        ]
+      }
+    ]
+  },
+  "9817ec": {
+    "name": "宝鐘マリン",
+    "class": "赤",
+    "oshi_id": "hBP02-003",
+    "member": "宝鐘マリン",
+    "cards": {
+      "hBP02-028": {
+        "avg": 9.5,
+        "ratio": 1.0,
+        "rank": 0.763,
+        "avg_when_used": 9.5
+      },
+      "hBP02-032": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.667,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.667,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.9375,
+        "ratio": 1.0,
+        "rank": 0.648,
+        "avg_when_used": 3.94
+      },
+      "hBP02-030": {
+        "avg": 3.8125,
+        "ratio": 1.0,
+        "rank": 0.661,
+        "avg_when_used": 3.81
+      },
+      "hBP02-031": {
+        "avg": 3.3125,
+        "ratio": 0.9375,
+        "rank": 0.66,
+        "avg_when_used": 3.53
+      },
+      "hBP02-084": {
+        "avg": 3.25,
+        "ratio": 0.875,
+        "rank": 1.0,
+        "avg_when_used": 3.71
+      },
+      "hBP01-104": {
+        "avg": 3.0,
+        "ratio": 0.875,
+        "rank": 0.796,
+        "avg_when_used": 3.43
+      },
+      "hBP04-038": {
+        "avg": 2.8125,
+        "ratio": 1.0,
+        "rank": 0.591,
+        "avg_when_used": 2.81
+      },
+      "hBP02-029": {
+        "avg": 2.4375,
+        "ratio": 0.9375,
+        "rank": 0.488,
+        "avg_when_used": 2.6
+      },
+      "hBP02-095": {
+        "avg": 1.625,
+        "ratio": 0.75,
+        "rank": 0.844,
+        "avg_when_used": 2.17
+      },
+      "hBP03-088": {
+        "avg": 1.125,
+        "ratio": 0.9375,
+        "rank": 0.762,
+        "avg_when_used": 1.2
+      },
+      "hBP01-108": {
+        "avg": 1.0625,
+        "ratio": 0.875,
+        "rank": 0.454,
+        "avg_when_used": 1.21
+      },
+      "hSD01-018": {
+        "avg": 0.75,
+        "ratio": 0.5625,
+        "rank": 0.43,
+        "avg_when_used": 1.33
+      },
+      "hBP01-050": {
+        "avg": 0.625,
+        "ratio": 0.1875,
+        "rank": 0.796,
+        "avg_when_used": 3.33
+      },
+      "hBP04-089": {
+        "avg": 0.625,
+        "ratio": 0.3125,
+        "rank": 0.796,
+        "avg_when_used": 2.0
+      },
+      "hBP01-048": {
+        "avg": 0.5625,
+        "ratio": 0.1875,
+        "rank": 0.734,
+        "avg_when_used": 3.0
+      },
+      "hBP02-085": {
+        "avg": 0.5625,
+        "ratio": 0.25,
+        "rank": 0.555,
+        "avg_when_used": 2.25
+      },
+      "hSD01-017": {
+        "avg": 0.4375,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 1.75
+      },
+      "hBP02-038": {
+        "avg": 0.375,
+        "ratio": 0.125,
+        "rank": 0.511,
+        "avg_when_used": 3.0
+      },
+      "hBP01-098": {
+        "avg": 0.375,
+        "ratio": 0.3125,
+        "rank": 0.511,
+        "avg_when_used": 1.2
+      },
+      "hBP02-075": {
+        "avg": 0.375,
+        "ratio": 0.1875,
+        "rank": 0.511,
+        "avg_when_used": 2.0
+      },
+      "hBP02-035": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.551,
+        "avg_when_used": 2.0
+      },
+      "hBP01-114": {
+        "avg": 0.25,
+        "ratio": 0.125,
+        "rank": 0.085,
+        "avg_when_used": 2.0
+      },
+      "hBP02-076": {
+        "avg": 0.1875,
+        "ratio": 0.125,
+        "rank": 0.945,
+        "avg_when_used": 1.5
+      },
+      "hBP02-019": {
+        "avg": 0.1875,
+        "ratio": 0.1875,
+        "rank": 0.945,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.125,
+        "ratio": 0.125,
+        "rank": 0.601,
+        "avg_when_used": 1.0
+      },
+      "hBP03-086": {
+        "avg": 0.0625,
+        "ratio": 0.0625,
+        "rank": 0.49,
+        "avg_when_used": 1.0
+      },
+      "hBP01-105": {
+        "avg": 0.0625,
+        "ratio": 0.0625,
+        "rank": 0.49,
+        "avg_when_used": 1.0
+      },
+      "hSD02-014": {
+        "avg": 0.0625,
+        "ratio": 0.0625,
+        "rank": 0.49,
+        "avg_when_used": 1.0
+      },
+      "hSD06-002": {
+        "avg": 0.0625,
+        "ratio": 0.0625,
+        "rank": 0.773,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY03-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1247057",
+        "deck_id": "5AH7M",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "はまじぃ",
+        "friend_code": "CEZKP",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP02-076",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247057",
+        "deck_id": "5KN6X",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ミクモ",
+        "friend_code": "TZQYG",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP03-086",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-035",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247121",
+        "deck_id": "58VT5",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "とうめ",
+        "friend_code": "ISNKK",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP02-035",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-038",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247052",
+        "deck_id": "7A0K9",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Akaki",
+        "friend_code": "LBLSZ",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247042",
+        "deck_id": "6F2HF",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "富士清",
+        "friend_code": "RJHOB",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1
+      },
+      {
+        "event": "1247042",
+        "deck_id": "1FMBZ",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ハワード",
+        "friend_code": "TEZBP",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP01-105",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250514",
+        "deck_id": "7JA4X",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "つっぽ",
+        "friend_code": "YJGHN",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1247109",
+        "deck_id": "224U5",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ぽぽんご",
+        "friend_code": "NINSH",
+        "venue": "カードラボ札幌店",
+        "date": "2025-08-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP02-076",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250793",
+        "deck_id": "4NR2P",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ひだ",
+        "friend_code": "BSVNB",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14
+      },
+      {
+        "event": "1247116",
+        "deck_id": "4WQ4B",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "かいちゃん",
+        "friend_code": "TUFBI",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-088",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250529",
+        "deck_id": "6FZXR",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "蒼樹水葉",
+        "friend_code": "ZRSFL",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD02-014",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246990",
+        "deck_id": "78CT1",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Kuryu Kyon",
+        "friend_code": "IWIVC",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "6QB4T",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "よっちゃん",
+        "friend_code": "EFMWN",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4
+      },
+      {
+        "event": "1247002",
+        "deck_id": "30HV5",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "いあ",
+        "friend_code": "JRTUR",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27
+      },
+      {
+        "event": "1246894",
+        "deck_id": "3W9FP",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "まくら",
+        "friend_code": "ZEGBO",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43,
+        "variant_cards": [
+          {
+            "name": "hSD06-002",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-029",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-031",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247008",
+        "deck_id": "57BQR",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "風祭",
+        "friend_code": "KJBDW",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP04-089",
+            "card_name": "ツートンカラーパソコン",
+            "ratio": 31
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP02-095",
+            "y_name": "ドクロくん",
+            "y_ratio": 75,
+            "co_occur_pct": 12,
+            "diff_pct": -51
+          }
+        ]
+      }
+    ],
+    "prev_id": "5ad4a1",
+    "prev_period": "2025-04-15~2025-04-28"
+  },
+  "08f92c": {
+    "name": "クレイジー・オリー",
+    "class": "紫",
+    "oshi_id": "hBP02-006",
+    "member": "クレイジー・オリー",
+    "cards": {
+      "hBP02-018": {
+        "avg": 6.5455,
+        "ratio": 0.8182,
+        "rank": 0.442,
+        "avg_when_used": 8.0
+      },
+      "hBP01-104": {
+        "avg": 3.7273,
+        "ratio": 1.0,
+        "rank": 0.386,
+        "avg_when_used": 3.73
+      },
+      "hSD01-016": {
+        "avg": 3.3636,
+        "ratio": 0.9091,
+        "rank": 0.332,
+        "avg_when_used": 3.7
+      },
+      "hBP02-023": {
+        "avg": 3.2727,
+        "ratio": 0.8182,
+        "rank": 0.413,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 3.1818,
+        "ratio": 0.9091,
+        "rank": 0.415,
+        "avg_when_used": 3.5
+      },
+      "hBP01-054": {
+        "avg": 2.9091,
+        "ratio": 0.7273,
+        "rank": 0.512,
+        "avg_when_used": 4.0
+      },
+      "hBP02-022": {
+        "avg": 2.5455,
+        "ratio": 0.8182,
+        "rank": 0.583,
+        "avg_when_used": 3.11
+      },
+      "hBP02-020": {
+        "avg": 2.3636,
+        "ratio": 0.8182,
+        "rank": 0.412,
+        "avg_when_used": 2.89
+      },
+      "hSD01-012": {
+        "avg": 2.3636,
+        "ratio": 0.7273,
+        "rank": 0.465,
+        "avg_when_used": 3.25
+      },
+      "hBP01-055": {
+        "avg": 2.0909,
+        "ratio": 0.7273,
+        "rank": 0.508,
+        "avg_when_used": 2.88
+      },
+      "hBP02-021": {
+        "avg": 2.0909,
+        "ratio": 0.8182,
+        "rank": 0.126,
+        "avg_when_used": 2.56
+      },
+      "hSD01-017": {
+        "avg": 1.9091,
+        "ratio": 0.8182,
+        "rank": 0.301,
+        "avg_when_used": 2.33
+      },
+      "hBP01-068": {
+        "avg": 1.4545,
+        "ratio": 0.1818,
+        "rank": 0.101,
+        "avg_when_used": 8.0
+      },
+      "hBP01-108": {
+        "avg": 1.4545,
+        "ratio": 0.8182,
+        "rank": 0.409,
+        "avg_when_used": 1.78
+      },
+      "hBP02-019": {
+        "avg": 1.1818,
+        "ratio": 0.7273,
+        "rank": 0.199,
+        "avg_when_used": 1.62
+      },
+      "hBP02-094": {
+        "avg": 0.8182,
+        "ratio": 0.8182,
+        "rank": 0.389,
+        "avg_when_used": 1.0
+      },
+      "hBP01-071": {
+        "avg": 0.7273,
+        "ratio": 0.1818,
+        "rank": 0.092,
+        "avg_when_used": 4.0
+      },
+      "hBP01-125": {
+        "avg": 0.7273,
+        "ratio": 0.1818,
+        "rank": 0.092,
+        "avg_when_used": 4.0
+      },
+      "hBP01-126": {
+        "avg": 0.7273,
+        "ratio": 0.1818,
+        "rank": 0.092,
+        "avg_when_used": 4.0
+      },
+      "hBP01-070": {
+        "avg": 0.5455,
+        "ratio": 0.1818,
+        "rank": 0.193,
+        "avg_when_used": 3.0
+      },
+      "hBP03-088": {
+        "avg": 0.5455,
+        "ratio": 0.5455,
+        "rank": 0.543,
+        "avg_when_used": 1.0
+      },
+      "hBP01-062": {
+        "avg": 0.3636,
+        "ratio": 0.1818,
+        "rank": 0.167,
+        "avg_when_used": 2.0
+      },
+      "hBP02-079": {
+        "avg": 0.3636,
+        "ratio": 0.3636,
+        "rank": 0.167,
+        "avg_when_used": 1.0
+      },
+      "hBP02-100": {
+        "avg": 0.3636,
+        "ratio": 0.0909,
+        "rank": 0.333,
+        "avg_when_used": 4.0
+      },
+      "hBP02-090": {
+        "avg": 0.3636,
+        "ratio": 0.1818,
+        "rank": 1.0,
+        "avg_when_used": 2.0
+      },
+      "hBP04-009": {
+        "avg": 0.3636,
+        "ratio": 0.0909,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hSD01-018": {
+        "avg": 0.3636,
+        "ratio": 0.1818,
+        "rank": 0.167,
+        "avg_when_used": 2.0
+      },
+      "hBP01-048": {
+        "avg": 0.3636,
+        "ratio": 0.0909,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-050": {
+        "avg": 0.3636,
+        "ratio": 0.0909,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP04-012": {
+        "avg": 0.2727,
+        "ratio": 0.0909,
+        "rank": 0.057,
+        "avg_when_used": 3.0
+      },
+      "hBP04-105": {
+        "avg": 0.2727,
+        "ratio": 0.0909,
+        "rank": 0.057,
+        "avg_when_used": 3.0
+      },
+      "hBP02-014": {
+        "avg": 0.1818,
+        "ratio": 0.0909,
+        "rank": 0.334,
+        "avg_when_used": 2.0
+      },
+      "hSD01-019": {
+        "avg": 0.1818,
+        "ratio": 0.1818,
+        "rank": 0.334,
+        "avg_when_used": 1.0
+      },
+      "hBP03-098": {
+        "avg": 0.1818,
+        "ratio": 0.0909,
+        "rank": 0.334,
+        "avg_when_used": 2.0
+      },
+      "hBP04-013": {
+        "avg": 0.1818,
+        "ratio": 0.0909,
+        "rank": 0.127,
+        "avg_when_used": 2.0
+      },
+      "hBP04-089": {
+        "avg": 0.1818,
+        "ratio": 0.0909,
+        "rank": 0.127,
+        "avg_when_used": 2.0
+      },
+      "hSD06-012": {
+        "avg": 0.1818,
+        "ratio": 0.0909,
+        "rank": 0.127,
+        "avg_when_used": 2.0
+      },
+      "hBP01-065": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.334,
+        "avg_when_used": 1.0
+      },
+      "hBP01-114": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.217,
+        "avg_when_used": 1.0
+      },
+      "hSD06-010": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.334,
+        "avg_when_used": 1.0
+      },
+      "hBP02-077": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.217,
+        "avg_when_used": 1.0
+      },
+      "hBP04-100": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.217,
+        "avg_when_used": 1.0
+      },
+      "hBP02-076": {
+        "avg": 0.0909,
+        "ratio": 0.0909,
+        "rank": 0.217,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 7.6364,
+        "ratio": 0.8182
+      },
+      "hY03-001": {
+        "avg": 4.3636,
+        "ratio": 1.0
+      },
+      "hY01-001": {
+        "avg": 3.0,
+        "ratio": 0.9091
+      },
+      "hY05-001": {
+        "avg": 1.7273,
+        "ratio": 0.8182
+      },
+      "hY04-001": {
+        "avg": 1.6364,
+        "ratio": 0.8182
+      },
+      "hY06-001": {
+        "avg": 1.6364,
+        "ratio": 0.8182
+      }
+    },
+    "decks": [
+      {
+        "event": "1247135",
+        "deck_id": "6L8VD",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "ねぎ",
+        "friend_code": "UAWRP",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP02-014",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-065",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-018",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247135",
+        "deck_id": "4V4H5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "エンドウ",
+        "friend_code": "YMXBL",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247052",
+        "deck_id": "511FH",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "すかいらいん",
+        "friend_code": "SYQWT",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16,
+        "variant_cards": [
+          {
+            "name": "hSD06-010",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247044",
+        "deck_id": "24VH6",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "シリカ",
+        "friend_code": "CSSTO",
+        "venue": "パピー弥富店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247131",
+        "deck_id": "427P1",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "弥生",
+        "friend_code": "GTSHD",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP03-098",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247063",
+        "deck_id": "1DZXH",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "とーり",
+        "friend_code": "WKFWZ",
+        "venue": "カードボックス福山店",
+        "date": "2025-08-11",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247133",
+        "deck_id": "2QMGP",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "え",
+        "friend_code": "ADATU",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP02-090",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247038",
+        "deck_id": "3YX19",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Yumeno",
+        "friend_code": "JDQOH",
+        "venue": "フルコンプ千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP04-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-012",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246990",
+        "deck_id": "2QMGP",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "え",
+        "friend_code": "ADATU",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP02-090",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246984",
+        "deck_id": "465N9",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "カイリキー彩芽",
+        "friend_code": "GSPBI",
+        "venue": "カードベース ジャブロー",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247008",
+        "deck_id": "3QL3P",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おぐ",
+        "friend_code": "BWRHO",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          }
+        ]
+      }
+    ],
+    "prev_id": "139fb7",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "18e5a3": {
+    "name": "AZKi",
+    "class": "緑",
+    "oshi_id": "hSD01-002",
+    "member": "AZKi",
+    "cards": {
+      "hBP02-018": {
+        "avg": 4.8,
+        "ratio": 0.7,
+        "rank": 0.0,
+        "avg_when_used": 6.86
+      },
+      "hBP01-104": {
+        "avg": 3.8,
+        "ratio": 1.0,
+        "rank": 0.074,
+        "avg_when_used": 3.8
+      },
+      "hBP01-027": {
+        "avg": 3.6,
+        "ratio": 0.9,
+        "rank": 0.152,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.6,
+        "ratio": 0.9,
+        "rank": 0.152,
+        "avg_when_used": 4.0
+      },
+      "hBP01-024": {
+        "avg": 3.5,
+        "ratio": 0.9,
+        "rank": 0.156,
+        "avg_when_used": 3.89
+      },
+      "hSD01-017": {
+        "avg": 3.1,
+        "ratio": 1.0,
+        "rank": 0.175,
+        "avg_when_used": 3.1
+      },
+      "hBP02-021": {
+        "avg": 2.8,
+        "ratio": 0.7,
+        "rank": 0.009,
+        "avg_when_used": 4.0
+      },
+      "hBP02-023": {
+        "avg": 2.8,
+        "ratio": 0.7,
+        "rank": 0.009,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 2.7,
+        "ratio": 1.0,
+        "rank": 0.104,
+        "avg_when_used": 2.7
+      },
+      "hBP02-022": {
+        "avg": 1.6,
+        "ratio": 0.7,
+        "rank": 0.022,
+        "avg_when_used": 2.29
+      },
+      "hBP01-048": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.024,
+        "avg_when_used": 3.0
+      },
+      "hBP01-050": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.024,
+        "avg_when_used": 3.0
+      },
+      "hBP02-020": {
+        "avg": 1.4,
+        "ratio": 0.7,
+        "rank": 0.026,
+        "avg_when_used": 2.0
+      },
+      "hBP01-062": {
+        "avg": 0.9,
+        "ratio": 0.1,
+        "rank": 1.0,
+        "avg_when_used": 9.0
+      },
+      "hSD01-019": {
+        "avg": 0.8,
+        "ratio": 0.8,
+        "rank": 0.044,
+        "avg_when_used": 1.0
+      },
+      "hBP02-094": {
+        "avg": 0.7,
+        "ratio": 0.7,
+        "rank": 0.049,
+        "avg_when_used": 1.0
+      },
+      "hBP01-021": {
+        "avg": 0.7,
+        "ratio": 0.1,
+        "rank": 0.049,
+        "avg_when_used": 7.0
+      },
+      "hBP04-067": {
+        "avg": 0.6,
+        "ratio": 0.1,
+        "rank": 0.054,
+        "avg_when_used": 6.0
+      },
+      "hSD01-018": {
+        "avg": 0.5,
+        "ratio": 0.3,
+        "rank": 0.061,
+        "avg_when_used": 1.67
+      },
+      "hBP01-065": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.727,
+        "avg_when_used": 4.0
+      },
+      "hBP01-067": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.727,
+        "avg_when_used": 4.0
+      },
+      "hBP03-036": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.727,
+        "avg_when_used": 4.0
+      },
+      "hBP01-108": {
+        "avg": 0.4,
+        "ratio": 0.4,
+        "rank": 0.234,
+        "avg_when_used": 1.0
+      },
+      "hBP01-022": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP01-023": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP03-057": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP03-059": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP01-118": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP03-086": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.069,
+        "avg_when_used": 2.0
+      },
+      "hBP04-068": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP04-069": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP04-072": {
+        "avg": 0.4,
+        "ratio": 0.1,
+        "rank": 0.069,
+        "avg_when_used": 4.0
+      },
+      "hBP01-063": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.632,
+        "avg_when_used": 3.0
+      },
+      "hBP01-121": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.632,
+        "avg_when_used": 3.0
+      },
+      "hBP02-077": {
+        "avg": 0.3,
+        "ratio": 0.3,
+        "rank": 0.079,
+        "avg_when_used": 1.0
+      },
+      "hBP02-019": {
+        "avg": 0.3,
+        "ratio": 0.3,
+        "rank": 0.079,
+        "avg_when_used": 1.0
+      },
+      "hBP03-060": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.079,
+        "avg_when_used": 3.0
+      },
+      "hBP02-086": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.079,
+        "avg_when_used": 3.0
+      },
+      "hBP04-071": {
+        "avg": 0.3,
+        "ratio": 0.1,
+        "rank": 0.079,
+        "avg_when_used": 3.0
+      },
+      "hSD01-004": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.092,
+        "avg_when_used": 2.0
+      },
+      "hBP04-089": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.092,
+        "avg_when_used": 2.0
+      },
+      "hBP04-070": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.092,
+        "avg_when_used": 2.0
+      },
+      "hBP04-104": {
+        "avg": 0.2,
+        "ratio": 0.1,
+        "rank": 0.092,
+        "avg_when_used": 2.0
+      },
+      "hBP01-114": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.11,
+        "avg_when_used": 1.0
+      },
+      "hSD01-013": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.11,
+        "avg_when_used": 1.0
+      },
+      "hSD01-005": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.11,
+        "avg_when_used": 1.0
+      },
+      "hBP01-083": {
+        "avg": 0.1,
+        "ratio": 0.1,
+        "rank": 0.11,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 5.2,
+        "ratio": 0.7
+      },
+      "hY01-001": {
+        "avg": 4.6,
+        "ratio": 0.8
+      },
+      "hY03-001": {
+        "avg": 3.6,
+        "ratio": 0.8
+      },
+      "hY06-001": {
+        "avg": 3.6,
+        "ratio": 0.8
+      },
+      "hY04-001": {
+        "avg": 1.6,
+        "ratio": 0.7
+      },
+      "hY05-001": {
+        "avg": 1.4,
+        "ratio": 0.7
+      }
+    },
+    "decks": [
+      {
+        "event": "1247121",
+        "deck_id": "1PF5D",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "水まんじゅう",
+        "friend_code": "CAECU",
+        "venue": "アドバンテージ大須2号店",
+        "date": "2025-08-13",
+        "pref_code": 23
+      },
+      {
+        "event": "1247051",
+        "deck_id": "4K9FD",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "けいと",
+        "friend_code": "KUVEE",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1247042",
+        "deck_id": "VXG1",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "だうと",
+        "friend_code": "DMZUQ",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1
+      },
+      {
+        "event": "1250529",
+        "deck_id": "5U45Z",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "プッコ",
+        "friend_code": "DDCOB",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP01-062",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-063",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-019",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250793",
+        "deck_id": "4AT7H",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "雪ミル",
+        "friend_code": "BPBMT",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247116",
+        "deck_id": "2MNQF",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "クロちゃん",
+        "friend_code": "EVJAJ",
+        "venue": "竜星の嵐　小倉駅前店",
+        "date": "2025-08-10",
+        "pref_code": 40
+      },
+      {
+        "event": "1247002",
+        "deck_id": "5HKX5",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ツナえもん",
+        "friend_code": "ZZMGI",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hSD01-013",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-021",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-027",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-024",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247002",
+        "deck_id": "4RCXB",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "かみやん",
+        "friend_code": "UMJNJ",
+        "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
+        "date": "2025-08-06",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-083",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-086",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247008",
+        "deck_id": "6T8PF",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "しーびーだもん",
+        "friend_code": "LYDOX",
+        "venue": "トレカショップ ジョニー",
+        "date": "2025-08-02",
+        "pref_code": 3,
+        "variant_cards": [
+          {
+            "name": "hBP04-067",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-068",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246978",
+        "deck_id": "15EH7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "えくしあ",
+        "friend_code": "AARFV",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP03-086",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP01-048",
+            "card_name": "風真いろは",
+            "ratio": 50
+          },
+          {
+            "name": "hBP01-050",
+            "card_name": "風真いろは",
+            "ratio": 50
+          }
+        ],
+        "drops": [
+          {
+            "y": "hBP01-108",
+            "y_name": "じゃあ敵だね",
+            "y_ratio": 40,
+            "co_occur_pct": 0,
+            "diff_pct": -80
+          }
+        ]
+      }
+    ],
+    "prev_id": "07ae37",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "b9993c": {
+    "name": "さくらみこ",
+    "class": "赤",
+    "oshi_id": "hBP03-003",
+    "member": "さくらみこ",
+    "cards": {
+      "hBP03-025": {
+        "avg": 9.8333,
+        "ratio": 1.0,
+        "rank": 0.458,
+        "avg_when_used": 9.83
+      },
+      "hBP03-029": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.504,
+        "avg_when_used": 4.0
+      },
+      "hBP03-030": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.504,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.504,
+        "avg_when_used": 4.0
+      },
+      "hBP03-107": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.504,
+        "avg_when_used": 4.0
+      },
+      "hBP03-028": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.411,
+        "avg_when_used": 3.5
+      },
+      "hSD01-017": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.457,
+        "avg_when_used": 3.5
+      },
+      "hBP01-104": {
+        "avg": 2.6667,
+        "ratio": 0.8333,
+        "rank": 0.86,
+        "avg_when_used": 3.2
+      },
+      "hBP03-027": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.621,
+        "avg_when_used": 2.5
+      },
+      "hBP03-026": {
+        "avg": 2.1667,
+        "ratio": 1.0,
+        "rank": 0.267,
+        "avg_when_used": 2.17
+      },
+      "hBP03-098": {
+        "avg": 1.6667,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.33
+      },
+      "hBP01-108": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.423,
+        "avg_when_used": 1.5
+      },
+      "hBP03-099": {
+        "avg": 1.5,
+        "ratio": 0.6667,
+        "rank": 0.663,
+        "avg_when_used": 2.25
+      },
+      "hBP02-077": {
+        "avg": 0.8333,
+        "ratio": 0.8333,
+        "rank": 0.573,
+        "avg_when_used": 1.0
+      },
+      "hBP02-084": {
+        "avg": 0.6667,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.33
+      },
+      "hSD01-018": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.628,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.5,
+        "ratio": 0.3333,
+        "rank": 0.377,
+        "avg_when_used": 1.5
+      },
+      "hBP03-092": {
+        "avg": 0.1667,
+        "ratio": 0.1667,
+        "rank": 0.554,
+        "avg_when_used": 1.0
+      },
+      "hBP03-090": {
+        "avg": 0.1667,
+        "ratio": 0.1667,
+        "rank": 0.554,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY03-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1281505",
+        "deck_id": "1YWQ3",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "カナタ",
+        "friend_code": "XQOMC",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40
+      },
+      {
+        "event": "1281505",
+        "deck_id": "6845H",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "えだまめ",
+        "friend_code": "ZCKZC",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP02-077",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1281505",
+        "deck_id": "67BYT",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "鳥兜",
+        "friend_code": "JRLZA",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250793",
+        "deck_id": "X7WR",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ポリアネス",
+        "friend_code": "LHJNJ",
+        "venue": "ホビーステーション川崎店",
+        "date": "2025-08-10",
+        "pref_code": 14,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246960",
+        "deck_id": "U1PZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "NRB",
+        "friend_code": "NNGWY",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2025-08-09",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP03-092",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-090",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "29LLM",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ポリアネス",
+        "friend_code": "LHJNJ",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8
+      }
+    ],
+    "prev_id": "15b8d2",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "471a51": {
+    "name": "大空スバル",
+    "class": "黄",
+    "oshi_id": "hBP04-006",
+    "member": "大空スバル",
+    "cards": {
+      "hBP04-067": {
+        "avg": 6.5,
+        "ratio": 1.0,
+        "rank": 0.332,
+        "avg_when_used": 6.5
+      },
+      "hBP04-072": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.255,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.255,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.255,
+        "avg_when_used": 4.0
+      },
+      "hBP04-068": {
+        "avg": 3.8333,
+        "ratio": 1.0,
+        "rank": 0.268,
+        "avg_when_used": 3.83
+      },
+      "hBP04-071": {
+        "avg": 3.6667,
+        "ratio": 1.0,
+        "rank": 0.281,
+        "avg_when_used": 3.67
+      },
+      "hBP02-084": {
+        "avg": 3.6667,
+        "ratio": 1.0,
+        "rank": 0.119,
+        "avg_when_used": 3.67
+      },
+      "hBP04-069": {
+        "avg": 2.8333,
+        "ratio": 1.0,
+        "rank": 0.369,
+        "avg_when_used": 2.83
+      },
+      "hBP04-070": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.184,
+        "avg_when_used": 2.67
+      },
+      "hBP02-032": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-028": {
+        "avg": 1.8333,
+        "ratio": 0.5,
+        "rank": 0.007,
+        "avg_when_used": 3.67
+      },
+      "hSD01-017": {
+        "avg": 1.1667,
+        "ratio": 0.5,
+        "rank": 0.744,
+        "avg_when_used": 2.33
+      },
+      "hBP04-089": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.061,
+        "avg_when_used": 2.0
+      },
+      "hBP01-108": {
+        "avg": 0.8333,
+        "ratio": 0.8333,
+        "rank": 0.283,
+        "avg_when_used": 1.0
+      },
+      "hSD01-018": {
+        "avg": 0.8333,
+        "ratio": 0.5,
+        "rank": 0.078,
+        "avg_when_used": 1.67
+      },
+      "hBP03-088": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.097,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.6667,
+        "ratio": 0.5,
+        "rank": 0.323,
+        "avg_when_used": 1.33
+      },
+      "hBP01-121": {
+        "avg": 0.6667,
+        "ratio": 0.1667,
+        "rank": 1.0,
+        "avg_when_used": 4.0
+      },
+      "hBP04-104": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.097,
+        "avg_when_used": 2.0
+      },
+      "hBP02-077": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.372,
+        "avg_when_used": 1.0
+      },
+      "hBP01-114": {
+        "avg": 0.5,
+        "ratio": 0.1667,
+        "rank": 0.122,
+        "avg_when_used": 3.0
+      },
+      "hBP04-038": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.122,
+        "avg_when_used": 1.0
+      },
+      "hBP04-093": {
+        "avg": 0.1667,
+        "ratio": 0.1667,
+        "rank": 0.19,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY06-001": {
+        "avg": 17.5,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 2.5,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "1281505",
+        "deck_id": "6YZFH",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "豚丼",
+        "friend_code": "GIRLN",
+        "venue": "カードラボ　博多マルイ店",
+        "date": "2025-08-14",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-114",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1247051",
+        "deck_id": "5C7S3",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ワンコ",
+        "friend_code": "ALFMT",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1247051",
+        "deck_id": "2KLR1",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "エレキ",
+        "friend_code": "ATOFA",
+        "venue": "カードラボ宇都宮店",
+        "date": "2025-08-11",
+        "pref_code": 9
+      },
+      {
+        "event": "1246990",
+        "deck_id": "3AJEX",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ばーくら",
+        "friend_code": "NUICP",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP01-121",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "1JYBM",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "営業マン",
+        "friend_code": "OIBXE",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP04-093",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-104",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250502",
+        "deck_id": "4EUSZ",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Kyota",
+        "friend_code": "JQSCQ",
+        "venue": "カードショップさくら",
+        "date": "2025-08-02",
+        "pref_code": 8,
+        "variant_cards": [
+          {
+            "name": "hBP04-104",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "976557": {
+    "name": "博衣こより",
+    "class": "白",
+    "oshi_id": "hBP04-001",
+    "member": "博衣こより",
+    "cards": {
+      "hBP04-008": {
+        "avg": 5.2,
+        "ratio": 1.0,
+        "rank": 0.742,
+        "avg_when_used": 5.2
+      },
+      "hBP04-012": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 4.0
+      },
+      "hBP04-013": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 3.4,
+        "ratio": 1.0,
+        "rank": 0.516,
+        "avg_when_used": 3.4
+      },
+      "hBP04-010": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.513,
+        "avg_when_used": 3.0
+      },
+      "hBP02-084": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 3.0
+      },
+      "hBP04-105": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.48,
+        "avg_when_used": 3.0
+      },
+      "hBP01-048": {
+        "avg": 2.8,
+        "ratio": 0.8,
+        "rank": 0.632,
+        "avg_when_used": 3.5
+      },
+      "hBP01-050": {
+        "avg": 2.6,
+        "ratio": 1.0,
+        "rank": 0.327,
+        "avg_when_used": 2.6
+      },
+      "hBP04-009": {
+        "avg": 1.8,
+        "ratio": 0.6,
+        "rank": 0.309,
+        "avg_when_used": 3.0
+      },
+      "hSD06-008": {
+        "avg": 1.8,
+        "ratio": 1.0,
+        "rank": 0.309,
+        "avg_when_used": 1.8
+      },
+      "hBP04-097": {
+        "avg": 1.6,
+        "ratio": 1.0,
+        "rank": 0.675,
+        "avg_when_used": 1.6
+      },
+      "hSD06-005": {
+        "avg": 1.6,
+        "ratio": 0.8,
+        "rank": 0.624,
+        "avg_when_used": 2.0
+      },
+      "hBP01-108": {
+        "avg": 1.2,
+        "ratio": 1.0,
+        "rank": 0.394,
+        "avg_when_used": 1.2
+      },
+      "hBP04-089": {
+        "avg": 1.2,
+        "ratio": 1.0,
+        "rank": 0.394,
+        "avg_when_used": 1.2
+      },
+      "hBP04-100": {
+        "avg": 1.2,
+        "ratio": 1.0,
+        "rank": 0.394,
+        "avg_when_used": 1.2
+      },
+      "hBP04-011": {
+        "avg": 1.0,
+        "ratio": 0.6,
+        "rank": 0.412,
+        "avg_when_used": 1.67
+      },
+      "hBP02-077": {
+        "avg": 0.6,
+        "ratio": 0.6,
+        "rank": 0.722,
+        "avg_when_used": 1.0
+      },
+      "hSD01-017": {
+        "avg": 0.6,
+        "ratio": 0.6,
+        "rank": 0.376,
+        "avg_when_used": 1.0
+      },
+      "hBP02-080": {
+        "avg": 0.4,
+        "ratio": 0.4,
+        "rank": 0.6,
+        "avg_when_used": 1.0
+      },
+      "hBP03-024": {
+        "avg": 0.4,
+        "ratio": 0.4,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hSD06-002": {
+        "avg": 0.4,
+        "ratio": 0.2,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "hSD01-018": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.314,
+        "avg_when_used": 1.0
+      },
+      "hBP01-010": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.195,
+        "avg_when_used": 1.0
+      },
+      "hBP01-012": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.195,
+        "avg_when_used": 1.0
+      },
+      "hBP01-013": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.195,
+        "avg_when_used": 1.0
+      },
+      "hBP01-014": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.195,
+        "avg_when_used": 1.0
+      },
+      "hSD06-007": {
+        "avg": 0.2,
+        "ratio": 0.2,
+        "rank": 0.314,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 16.8,
+        "ratio": 1.0
+      },
+      "hY02-001": {
+        "avg": 3.2,
+        "ratio": 0.8
+      }
+    },
+    "decks": [
+      {
+        "event": "1247052",
+        "deck_id": "2VB0T",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "カナデ",
+        "friend_code": "ZNNWE",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-080",
+            "flag": "in"
+          },
+          {
+            "name": "hSD06-005",
+            "flag": "out"
+          },
+          {
+            "name": "hBP02-077",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250533",
+        "deck_id": "291GZ",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "おぐ",
+        "friend_code": "BWRHO",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP03-024",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-080",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-009",
+            "flag": "out"
+          },
+          {
+            "name": "hBP04-011",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250514",
+        "deck_id": "4353Z",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "G2@BFP",
+        "friend_code": "FIYJF",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17,
+        "variant_cards": [
+          {
+            "name": "hBP03-024",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246894",
+        "deck_id": "4WWJ1",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "モフモフ",
+        "friend_code": "KEJHN",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43,
+        "variant_cards": [
+          {
+            "name": "hBP01-010",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-012",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-048",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246978",
+        "deck_id": "6FKQ9",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ユウ",
+        "friend_code": "NHYIG",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hSD06-007",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-009",
+            "flag": "out"
+          },
+          {
+            "name": "hBP04-011",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "214fec": {
+    "name": "兎田ぺこら（兎田ぺこら）",
+    "class": "緑",
+    "oshi_id": "hBP01-004",
+    "member": "兎田ぺこら",
+    "cards": {
+      "hBP01-038": {
+        "avg": 8.0,
+        "ratio": 1.0,
+        "rank": 0.535,
+        "avg_when_used": 8.0
+      },
+      "hBP03-023": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hBP01-039": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hBP01-041": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hBP01-042": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.534,
+        "avg_when_used": 4.0
+      },
+      "hBP01-043": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.634,
+        "avg_when_used": 3.75
+      },
+      "hBP01-104": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.634,
+        "avg_when_used": 3.75
+      },
+      "hBP01-121": {
+        "avg": 3.0,
+        "ratio": 0.75,
+        "rank": 1.0,
+        "avg_when_used": 4.0
+      },
+      "hSD01-018": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.18,
+        "avg_when_used": 1.5
+      },
+      "hBP01-108": {
+        "avg": 1.25,
+        "ratio": 1.0,
+        "rank": 0.339,
+        "avg_when_used": 1.25
+      },
+      "hBP02-084": {
+        "avg": 0.75,
+        "ratio": 0.75,
+        "rank": 0.764,
+        "avg_when_used": 1.0
+      },
+      "hBP01-123": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "hBP02-079": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "hBP02-085": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.225,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1247135",
+        "deck_id": "5QN7H",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 20,
+        "player": "みたらし",
+        "friend_code": "GAIFA",
+        "venue": "カードラボ新潟店",
+        "date": "2025-08-14",
+        "pref_code": 15
+      },
+      {
+        "event": "1247106",
+        "deck_id": "5QN7H",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "みたらし",
+        "friend_code": "GAIFA",
+        "venue": "JABUROⅡ",
+        "date": "2025-08-13",
+        "pref_code": 15
+      },
+      {
+        "event": "1250514",
+        "deck_id": "5QN7H",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "みたらし",
+        "friend_code": "GAIFA",
+        "venue": "ホビーステーション金沢店",
+        "date": "2025-08-10",
+        "pref_code": 17
+      },
+      {
+        "event": "1247112",
+        "deck_id": "6VH2A",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ハム平",
+        "friend_code": "NZSQE",
+        "venue": "オレタン福岡天神店",
+        "date": "2025-08-02",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP02-085",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-123",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-084",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-121",
+            "flag": "out"
+          }
+        ]
+      }
+    ],
+    "prev_id": "139ed4",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "fac7a8": {
+    "name": "雪花ラミィ",
+    "class": "青",
+    "oshi_id": "hBP04-004",
+    "member": "雪花ラミィ",
+    "cards": {
+      "hBP04-043": {
+        "avg": 5.25,
+        "ratio": 1.0,
+        "rank": 0.922,
+        "avg_when_used": 5.25
+      },
+      "hBP04-047": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.55,
+        "avg_when_used": 4.0
+      },
+      "hBP04-048": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.55,
+        "avg_when_used": 4.0
+      },
+      "hBP04-083": {
+        "avg": 4.0,
+        "ratio": 0.75,
+        "rank": 0.165,
+        "avg_when_used": 5.33
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.55,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.493,
+        "avg_when_used": 3.75
+      },
+      "hBP01-104": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.62,
+        "avg_when_used": 3.75
+      },
+      "hBP04-044": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.446,
+        "avg_when_used": 2.75
+      },
+      "hBP04-085": {
+        "avg": 2.75,
+        "ratio": 0.75,
+        "rank": 0.191,
+        "avg_when_used": 3.67
+      },
+      "hBP04-045": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.499,
+        "avg_when_used": 2.5
+      },
+      "hBP04-086": {
+        "avg": 2.5,
+        "ratio": 0.75,
+        "rank": 0.089,
+        "avg_when_used": 3.33
+      },
+      "hBP04-106": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.704,
+        "avg_when_used": 2.5
+      },
+      "hBP04-084": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.432,
+        "avg_when_used": 3.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.55,
+        "avg_when_used": 1.0
+      },
+      "hBP04-089": {
+        "avg": 1.0,
+        "ratio": 0.75,
+        "rank": 0.843,
+        "avg_when_used": 1.33
+      },
+      "hBP04-092": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "hBP04-046": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hBP02-045": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hSD01-017": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.897,
+        "avg_when_used": 2.0
+      },
+      "hSD01-019": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.589,
+        "avg_when_used": 1.0
+      },
+      "hBP02-077": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.511,
+        "avg_when_used": 1.0
+      },
+      "hBP02-042": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.897,
+        "avg_when_used": 2.0
+      },
+      "hBP02-086": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.897,
+        "avg_when_used": 2.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 15.0,
+        "ratio": 1.0
+      },
+      "hY06-001": {
+        "avg": 5.0,
+        "ratio": 0.75
+      }
+    },
+    "decks": [
+      {
+        "event": "1247133",
+        "deck_id": "4MMAP",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "つねさん",
+        "friend_code": "LMGJE",
+        "venue": "カードボックス広島店",
+        "date": "2025-08-10",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hSD01-017",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1246894",
+        "deck_id": "4GERB",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 33,
+        "player": "エイゼル",
+        "friend_code": "DYRNT",
+        "venue": "遊ING熊本上通り店",
+        "date": "2025-08-03",
+        "pref_code": 43,
+        "variant_cards": [
+          {
+            "name": "hBP04-092",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-089",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246978",
+        "deck_id": "44SXX",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ノブァ",
+        "friend_code": "VQOWB",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP04-046",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-042",
+            "flag": "in"
+          },
+          {
+            "name": "hBP04-083",
+            "flag": "out"
+          },
+          {
+            "name": "hBP04-085",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1247034",
+        "deck_id": "2GKSV",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タケ",
+        "friend_code": "BOEDG",
+        "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
+        "date": "2025-08-01",
+        "pref_code": 28
+      }
+    ]
+  },
+  "eb1e0f": {
+    "name": "七詩ムメイ",
+    "class": "白",
+    "oshi_id": "hBP01-002",
+    "member": "七詩ムメイ",
+    "cards": {
+      "hBP01-028": {
+        "avg": 5.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 5.0
+      },
+      "hBP01-019": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-031": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-094": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-020": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP02-084": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-015": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.67
+      },
+      "hBP01-092": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.67
+      },
+      "hBP01-029": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.33
+      },
+      "hBP04-015": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP01-016": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP04-089": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP01-108": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.67
+      },
+      "hBP01-030": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hSD01-007": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP01-095": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP03-087": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 18.6667,
+        "ratio": 1.0
+      },
+      "hY04-001": {
+        "avg": 1.3333,
+        "ratio": 0.6667
+      }
+    },
+    "decks": [
+      {
+        "event": "1247052",
+        "deck_id": "51V0F",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "順平侯",
+        "friend_code": "HUKVX",
+        "venue": "ブックマーケット高岡店",
+        "date": "2025-08-13",
+        "pref_code": 16
+      },
+      {
+        "event": "1247042",
+        "deck_id": "24XMZ",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ドン",
+        "friend_code": "QQCJK",
+        "venue": "フルコンプPLAYERS CENTER札幌駅前店",
+        "date": "2025-08-11",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP03-087",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "1250529",
+        "deck_id": "38ER5",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "琴音",
+        "friend_code": "RCZEL",
+        "venue": "ホビーステーション千葉店",
+        "date": "2025-08-10",
+        "pref_code": 12
+      }
+    ],
+    "prev_id": "6bb9f5",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "a83e13": {
+    "name": "兎田ぺこら（宝鐘マリン）",
+    "class": "緑",
+    "oshi_id": "hBP01-004",
+    "member": "兎田ぺこら",
+    "cards": {
+      "hBP02-028": {
+        "avg": 9.0,
+        "ratio": 1.0,
+        "rank": 0.65,
+        "avg_when_used": 9.0
+      },
+      "hBP02-032": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.65,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.65,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.65,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.65,
+        "avg_when_used": 4.0
+      },
+      "hBP02-030": {
+        "avg": 3.6667,
+        "ratio": 1.0,
+        "rank": 0.727,
+        "avg_when_used": 3.67
+      },
+      "hBP02-084": {
+        "avg": 3.6667,
+        "ratio": 1.0,
+        "rank": 0.727,
+        "avg_when_used": 3.67
+      },
+      "hBP02-031": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.918,
+        "avg_when_used": 3.0
+      },
+      "hBP04-038": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.784,
+        "avg_when_used": 3.0
+      },
+      "hBP02-029": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hBP02-095": {
+        "avg": 1.6667,
+        "ratio": 1.0,
+        "rank": 0.585,
+        "avg_when_used": 1.67
+      },
+      "hBP01-048": {
+        "avg": 1.6667,
+        "ratio": 0.3333,
+        "rank": 0.0,
+        "avg_when_used": 5.0
+      },
+      "hBP02-085": {
+        "avg": 1.3333,
+        "ratio": 0.6667,
+        "rank": 0.944,
+        "avg_when_used": 2.0
+      },
+      "hBP04-089": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.063,
+        "avg_when_used": 4.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.903,
+        "avg_when_used": 1.5
+      },
+      "hBP01-050": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.144,
+        "avg_when_used": 3.0
+      },
+      "hBP01-098": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.848,
+        "avg_when_used": 1.0
+      },
+      "hBP03-088": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.411,
+        "avg_when_used": 1.0
+      },
+      "hSD01-018": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.411,
+        "avg_when_used": 1.0
+      },
+      "hSD01-017": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.77,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY03-001": {
+        "avg": 13.3333,
+        "ratio": 1.0
+      },
+      "hY02-001": {
+        "avg": 6.6667,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1247057",
+        "deck_id": "3L835",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "スクリュー",
+        "friend_code": "XJTCZ",
+        "venue": "カードラボ浜松店",
+        "date": "2025-08-14",
+        "pref_code": 22
+      },
+      {
+        "event": "1250380",
+        "deck_id": "2ZE2P",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "とみー",
+        "friend_code": "LHIBX",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-029",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-098",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246978",
+        "deck_id": "7QEHT",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "スクリュー",
+        "friend_code": "XJTCZ",
+        "venue": "マスターズギルド",
+        "date": "2025-08-02",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hSD01-017",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "88c5e9": {
+    "name": "沙花叉クロヱ",
+    "class": "青",
+    "oshi_id": "hBP02-004",
+    "member": "沙花叉クロヱ",
+    "cards": {
+      "hBP02-035": {
+        "avg": 13.6667,
+        "ratio": 1.0,
+        "rank": 0.517,
+        "avg_when_used": 13.67
+      },
+      "hBP01-056": {
+        "avg": 4.0,
+        "ratio": 0.6667,
+        "rank": 0.949,
+        "avg_when_used": 6.0
+      },
+      "hBP02-038": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.54,
+        "avg_when_used": 4.0
+      },
+      "hBP02-040": {
+        "avg": 3.3333,
+        "ratio": 1.0,
+        "rank": 0.472,
+        "avg_when_used": 3.33
+      },
+      "hBP02-028": {
+        "avg": 3.0,
+        "ratio": 0.3333,
+        "rank": 0.079,
+        "avg_when_used": 9.0
+      },
+      "hBP01-060": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.763,
+        "avg_when_used": 4.0
+      },
+      "hBP02-037": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.763,
+        "avg_when_used": 4.0
+      },
+      "hSD01-018": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.763,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-080": {
+        "avg": 2.3333,
+        "ratio": 0.6667,
+        "rank": 0.87,
+        "avg_when_used": 3.5
+      },
+      "hBP01-061": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hBP02-032": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.203,
+        "avg_when_used": 4.0
+      },
+      "hBP02-033": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.203,
+        "avg_when_used": 4.0
+      },
+      "hBP02-036": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.872,
+        "avg_when_used": 1.5
+      },
+      "hBP04-089": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.25,
+        "avg_when_used": 3.0
+      },
+      "hBP01-108": {
+        "avg": 0.6667,
+        "ratio": 0.6667,
+        "rank": 0.654,
+        "avg_when_used": 1.0
+      },
+      "hBP01-101": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.216,
+        "avg_when_used": 2.0
+      },
+      "hBP02-030": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.403,
+        "avg_when_used": 1.0
+      },
+      "hBP04-038": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.403,
+        "avg_when_used": 1.0
+      },
+      "hBP02-039": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.403,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 14.6667,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 5.3333,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1250533",
+        "deck_id": "WDCZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "meer",
+        "friend_code": "UGNEL",
+        "venue": "フルコンプ仙台駅前店",
+        "date": "2025-08-10",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1250380",
+        "deck_id": "7LC4B",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ドロリス",
+        "friend_code": "FJDDR",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2025-08-08",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP02-028",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-030",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-056",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-060",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "1246986",
+        "deck_id": "3BF25",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 44,
+        "player": "バカイト",
+        "friend_code": "AYBGF",
+        "venue": "スミレヤ",
+        "date": "2025-08-03",
+        "pref_code": 37,
+        "variant_cards": [
+          {
+            "name": "hBP01-101",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "prev_id": "3e4cfa",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "60b345": {
+    "name": "白上フブキ",
+    "class": "白",
+    "oshi_id": "hBP02-001",
+    "member": "白上フブキ",
+    "cards": {
+      "hBP02-008": {
+        "avg": 9.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 9.0
+      },
+      "hBP02-011": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP02-013": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP02-026": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP02-084": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP02-089": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP02-010": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP02-012": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP04-014": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP02-024": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP02-090": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP04-026": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-077": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP04-089": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hSD01-017": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-091": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-092": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-093": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 17.0,
+        "ratio": 1.0
+      },
+      "hY02-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1246990",
+        "deck_id": "1EN4D",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ゆーなぎ",
+        "friend_code": "UCMZB",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2025-08-09",
+        "pref_code": 33
+      }
+    ],
+    "prev_id": "ca1f8b",
+    "prev_period": "2025-04-29~2025-05-12"
+  },
+  "fa9b4b": {
+    "name": "儒烏風亭らでん",
+    "class": "緑",
+    "oshi_id": "hBP04-002",
+    "member": "儒烏風亭らでん",
+    "cards": {
+      "hBP04-032": {
+        "avg": 6.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 6.0
+      },
+      "hBP04-037": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP04-063": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP04-065": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP04-091": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP04-034": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP04-035": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP04-089": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP04-033": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP04-036": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP04-066": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY03-001": {
+        "avg": 14.0,
+        "ratio": 1.0
+      },
+      "hY05-001": {
+        "avg": 6.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1247131",
+        "deck_id": "1DD7D",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 29,
+        "player": "ぽんちょ",
+        "friend_code": "RWVMM",
+        "venue": "カードラボ岡山西口店",
+        "date": "2025-08-11",
+        "pref_code": 33
+      }
+    ]
+  }
+}

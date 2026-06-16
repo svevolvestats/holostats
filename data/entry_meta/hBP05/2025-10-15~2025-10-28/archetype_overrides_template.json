@@ -1,0 +1,87 @@
+{
+  "_split_suggestions": {
+    "8a2e3a": {
+      "name": "8a2e3a",
+      "oshi_id": "hBP03-006",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-080",
+              "card_name": "SorAZセレブレーション",
+              "ratio": 69
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-077",
+              "y_name": "レトロパソコン",
+              "y_ratio": 19,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "c95c2c": {
+      "name": "c95c2c",
+      "oshi_id": "hBP05-001",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-066",
+              "card_name": "不知火フレア",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 55,
+              "co_occur_pct": 9,
+              "diff_pct": -63
+            },
+            {
+              "y": "hSD09-006",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

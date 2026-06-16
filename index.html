@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <!-- Domain migration: carry localStorage from svestats.pages.dev → svestats.cc. See MIGRATION_PLAN.md. Runs before gtag so throwaway redirect hops don't fire page_view. -->
+  <script>(function(){
+    var H=location.hostname;
+    var CC='https://svestats.cc', OLD='https://svestats.pages.dev';
+    var KEYS=['sve-theme','sve-favorites','sve-decks','sve-decks-autosave','sve-sort','sve-order','holo-theme'];
+    var BOT=/bot|crawl|spider|slurp|googlebot|bingpreview|yandex|baidu|duckduck|facebookexternalhit|twitterbot|linkedin|line\/|discord|telegram|whatsapp|embedly|pinterest/i.test(navigator.userAgent);
+    function canon(){var h=location.hash;return h.indexOf('#/')===0?h.slice(1):location.pathname+location.search;}
+
+    if(H==='svestats.pages.dev'){
+      var qs=new URLSearchParams(location.search), isExport=qs.get('export')==='1', path;
+      if(isExport){qs.delete('export');var s=qs.toString();path=location.pathname+(s?('?'+s):'');}
+      else{path=canon();}
+      if(BOT){location.replace(CC+path);return;}
+      var data={},has=false;
+      try{for(var i=0;i<KEYS.length;i++){var v=localStorage.getItem(KEYS[i]);if(v!==null){data[KEYS[i]]=v;has=true;}}}catch(e){}
+      var exported=false;try{exported=!!localStorage.getItem('sve-exported');}catch(e){}
+      if(!has||(!isExport&&exported)){location.replace(CC+path);return;}
+      var b64='';
+      try{var bytes=new TextEncoder().encode(JSON.stringify(data)),bin='';for(var j=0;j<bytes.length;j++)bin+=String.fromCharCode(bytes[j]);b64=btoa(bin);}
+      catch(e){location.replace(CC+path);return;}
+      try{localStorage.setItem('sve-exported',new Date().toISOString());}catch(e){}
+      var f=document.createElement('form');f.method='POST';f.action=CC+'/migrate';
+      function add(n,val){var x=document.createElement('input');x.type='hidden';x.name=n;x.value=val;f.appendChild(x);}
+      add('p',b64);add('path',path);
+      (document.body||document.documentElement).appendChild(f);f.submit();
+      return;
+    }
+
+    if(H==='svestats.cc'){
+      if(BOT)return;
+      var migrated=false;try{migrated=!!localStorage.getItem('sve-migrated');}catch(e){}
+      if(migrated)return;
+      var canWrite=false;try{localStorage.setItem('sve-wtest','1');localStorage.removeItem('sve-wtest');canWrite=true;}catch(e){}
+      if(!canWrite)return;
+      var p=canon();location.replace(OLD+p+(p.indexOf('?')===-1?'?':'&')+'export=1');
+      return;
+    }
+  })();</script>
+  <script>if(location.hash.startsWith('#/'))location.replace(location.origin+location.hash.slice(1)+location.search)</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <title>ホロカ統計局</title>
+  <meta name="description" content="hololive OFFICIAL CARD GAME カード検索・デッキ分析ツール" />
+  <meta property="og:title" content="ホロカ統計局" />
+  <meta property="og:description" content="hololive OFFICIAL CARD GAME カード検索・デッキ分析ツール" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@500;700&family=Fraunces:ital,wght@1,400;1,700&family=JetBrains+Mono:wght@400;500&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QBNR5JS39"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-0QBNR5JS39');
+  </script>
+  <script type="module" crossorigin src="/assets/index-BdHEBrBI.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BV8sFM4Z.css">
+</head>
+<body>
+  <div id="root"></div>
+</body>
+</html>

@@ -1,0 +1,4734 @@
+{
+  "776883": {
+    "name": "七詩ムメイ",
+    "class": "白",
+    "oshi_id": "hBP01-002",
+    "member": "七詩ムメイ",
+    "cards": {
+      "hBP01-028": {
+        "avg": 5.1538,
+        "ratio": 1.0,
+        "rank": 0.414,
+        "avg_when_used": 5.15
+      },
+      "hBP01-015": {
+        "avg": 4.5692,
+        "ratio": 0.9692,
+        "rank": 0.461,
+        "avg_when_used": 4.71
+      },
+      "hBP01-019": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.4,
+        "avg_when_used": 4.0
+      },
+      "hBP01-030": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.4,
+        "avg_when_used": 4.0
+      },
+      "hBP01-020": {
+        "avg": 3.9231,
+        "ratio": 1.0,
+        "rank": 0.407,
+        "avg_when_used": 3.92
+      },
+      "hBP01-113": {
+        "avg": 3.8462,
+        "ratio": 1.0,
+        "rank": 0.388,
+        "avg_when_used": 3.85
+      },
+      "hBP01-094": {
+        "avg": 3.7692,
+        "ratio": 1.0,
+        "rank": 0.241,
+        "avg_when_used": 3.77
+      },
+      "hSD01-016": {
+        "avg": 3.3846,
+        "ratio": 0.8923,
+        "rank": 0.451,
+        "avg_when_used": 3.79
+      },
+      "hBP01-104": {
+        "avg": 3.3538,
+        "ratio": 0.9077,
+        "rank": 0.576,
+        "avg_when_used": 3.69
+      },
+      "hBP01-031": {
+        "avg": 2.7846,
+        "ratio": 1.0,
+        "rank": 0.402,
+        "avg_when_used": 2.78
+      },
+      "hBP01-016": {
+        "avg": 2.7692,
+        "ratio": 0.9692,
+        "rank": 0.307,
+        "avg_when_used": 2.86
+      },
+      "hBP01-092": {
+        "avg": 2.2462,
+        "ratio": 0.9385,
+        "rank": 0.257,
+        "avg_when_used": 2.39
+      },
+      "hBP01-108": {
+        "avg": 1.8154,
+        "ratio": 1.0,
+        "rank": 0.25,
+        "avg_when_used": 1.82
+      },
+      "hSD01-017": {
+        "avg": 1.1385,
+        "ratio": 0.5538,
+        "rank": 0.915,
+        "avg_when_used": 2.06
+      },
+      "hSD01-007": {
+        "avg": 0.8154,
+        "ratio": 0.6,
+        "rank": 0.384,
+        "avg_when_used": 1.36
+      },
+      "hBP01-018": {
+        "avg": 0.6769,
+        "ratio": 0.6154,
+        "rank": 0.502,
+        "avg_when_used": 1.1
+      },
+      "hSD01-009": {
+        "avg": 0.2615,
+        "ratio": 0.0923,
+        "rank": 0.2,
+        "avg_when_used": 2.83
+      },
+      "hBP01-048": {
+        "avg": 0.2154,
+        "ratio": 0.0769,
+        "rank": 0.58,
+        "avg_when_used": 2.8
+      },
+      "hSD01-018": {
+        "avg": 0.1692,
+        "ratio": 0.1231,
+        "rank": 0.214,
+        "avg_when_used": 1.38
+      },
+      "hSD01-004": {
+        "avg": 0.1385,
+        "ratio": 0.0615,
+        "rank": 0.833,
+        "avg_when_used": 2.25
+      },
+      "hBP01-009": {
+        "avg": 0.1385,
+        "ratio": 0.0615,
+        "rank": 0.426,
+        "avg_when_used": 2.25
+      },
+      "hBP01-117": {
+        "avg": 0.1231,
+        "ratio": 0.0615,
+        "rank": 1.0,
+        "avg_when_used": 2.0
+      },
+      "hBP01-110": {
+        "avg": 0.1077,
+        "ratio": 0.1077,
+        "rank": 0.387,
+        "avg_when_used": 1.0
+      },
+      "hBP01-072": {
+        "avg": 0.1077,
+        "ratio": 0.0615,
+        "rank": 0.0,
+        "avg_when_used": 1.75
+      },
+      "hBP01-074": {
+        "avg": 0.1077,
+        "ratio": 0.0769,
+        "rank": 0.0,
+        "avg_when_used": 1.4
+      },
+      "hBP01-075": {
+        "avg": 0.0769,
+        "ratio": 0.0615,
+        "rank": 0.105,
+        "avg_when_used": 1.25
+      },
+      "hSD01-019": {
+        "avg": 0.0462,
+        "ratio": 0.0462,
+        "rank": 0.288,
+        "avg_when_used": 1.0
+      },
+      "hBP01-029": {
+        "avg": 0.0308,
+        "ratio": 0.0308,
+        "rank": 0.571,
+        "avg_when_used": 1.0
+      },
+      "hSD01-020": {
+        "avg": 0.0154,
+        "ratio": 0.0154,
+        "rank": 0.545,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 19.0769,
+        "ratio": 0.9846
+      },
+      "hY01-001": {
+        "avg": 0.2154,
+        "ratio": 0.0615
+      }
+    },
+    "decks": [
+      {
+        "event": "909035",
+        "deck_id": "22SBZ",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "ぼぎー",
+        "friend_code": "CLEXT",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47
+      },
+      {
+        "event": "908976",
+        "deck_id": "35J11",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "AKSK",
+        "friend_code": "QOAJN",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "hSD01-020",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908981",
+        "deck_id": "33BDZ",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "百鬼組",
+        "friend_code": "HYAVW",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909035",
+        "deck_id": "37WXM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "奏",
+        "friend_code": "AVCRT",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47
+      },
+      {
+        "event": "909006",
+        "deck_id": "1ZEMX",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "アクロレイン",
+        "friend_code": "KGNOX",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27
+      },
+      {
+        "event": "908981",
+        "deck_id": "59ZGF",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "シンカー",
+        "friend_code": "SZNOD",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909014",
+        "deck_id": "4JNDD",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "salt",
+        "friend_code": "NYNNG",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28
+      },
+      {
+        "event": "908987",
+        "deck_id": "136KM",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "トーマ",
+        "friend_code": "ZTQBO",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908981",
+        "deck_id": "2P33M",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ひがっしー",
+        "friend_code": "CKPPB",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13
+      },
+      {
+        "event": "909035",
+        "deck_id": "3ECDD",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "Kanno",
+        "friend_code": "YMTYA",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47
+      },
+      {
+        "event": "909014",
+        "deck_id": "3WCU7",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "はるみん",
+        "friend_code": "QTWRZ",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909014",
+        "deck_id": "3A3EV",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "ユウ",
+        "friend_code": "BCPJA",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28
+      },
+      {
+        "event": "908976",
+        "deck_id": "2P10M",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "ふぁそら♪",
+        "friend_code": "BEZBI",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909006",
+        "deck_id": "6VJD1",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "すかいらいん",
+        "friend_code": "SYQWT",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27
+      },
+      {
+        "event": "909014",
+        "deck_id": "5UTWK",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "ニケ",
+        "friend_code": "QQLTM",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28
+      },
+      {
+        "event": "908987",
+        "deck_id": "1J6F7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タカ＠イッヌ",
+        "friend_code": "ACVNS",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909035",
+        "deck_id": "46QM5",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "Ta-ta",
+        "friend_code": "JNZWK",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-072",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909014",
+        "deck_id": "4YQKH",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "キムチ酒鯨",
+        "friend_code": "HLHKL",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909018",
+        "deck_id": "1XWVH",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "くお",
+        "friend_code": "TTLUQ",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "909018",
+        "deck_id": "3ADNT",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "のんすとっぷねこ",
+        "friend_code": "XIXIN",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "909022",
+        "deck_id": "1GZCP",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ミヤ",
+        "friend_code": "BHGKW",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "908970",
+        "deck_id": "XWDD",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "リユウ",
+        "friend_code": "ECDFP",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908970",
+        "deck_id": "5RM6T",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "そー",
+        "friend_code": "ZYHMR",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4
+      },
+      {
+        "event": "909012",
+        "deck_id": "3NKKP",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "シエラ117",
+        "friend_code": "DEFXV",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-117",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "1JC5P",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ニノマエ",
+        "friend_code": "QLRMZ",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28
+      },
+      {
+        "event": "909012",
+        "deck_id": "5KNG9",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "夏目美緒",
+        "friend_code": "LNJBP",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "5WKZH",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "フク",
+        "friend_code": "SARHR",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-072",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-075",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "55UVT",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "マレー",
+        "friend_code": "LFSUD",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28
+      },
+      {
+        "event": "909016",
+        "deck_id": "5KNG9",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "夏目美緒",
+        "friend_code": "LNJBP",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909033",
+        "deck_id": "3T66T",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "にら",
+        "friend_code": "HTVES",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46
+      },
+      {
+        "event": "909024",
+        "deck_id": "5QGHK",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "高見",
+        "friend_code": "WFIUF",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39,
+        "variant_cards": [
+          {
+            "name": "hBP01-117",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908989",
+        "deck_id": "4F685",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あおば",
+        "friend_code": "ODXTB",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hBP01-117",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908968",
+        "deck_id": "3UM0R",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あおっしー",
+        "friend_code": "BKFVR",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908989",
+        "deck_id": "4R9SM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "minato",
+        "friend_code": "YTPIR",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22
+      },
+      {
+        "event": "908993",
+        "deck_id": "6Q7LH",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "hori",
+        "friend_code": "PIHVY",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23
+      },
+      {
+        "event": "909024",
+        "deck_id": "33QYR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "タダキチ",
+        "friend_code": "BJGJS",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39,
+        "variant_cards": [
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909028",
+        "deck_id": "61X8H",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "LGK|へんぴょん",
+        "friend_code": "CFNKW",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-110",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908979",
+        "deck_id": "37BCZ",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "桜静月",
+        "friend_code": "QWSQZ",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908968",
+        "deck_id": "6BZYZ",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ガッチ",
+        "friend_code": "CNSPS",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1
+      },
+      {
+        "event": "908993",
+        "deck_id": "6E3NR",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "マユミ",
+        "friend_code": "OBABX",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-015",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909033",
+        "deck_id": "30K2Z",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "レキ",
+        "friend_code": "VTAJC",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46
+      },
+      {
+        "event": "908968",
+        "deck_id": "54U21",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わらびもち",
+        "friend_code": "KNSYA",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1
+      },
+      {
+        "event": "908979",
+        "deck_id": "3MQ8Z",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "もののん",
+        "friend_code": "PKSKI",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908993",
+        "deck_id": "51BLR",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "らんま",
+        "friend_code": "TMXFG",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23
+      },
+      {
+        "event": "909016",
+        "deck_id": "73D3B",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "リトレナ",
+        "friend_code": "JHUSY",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909033",
+        "deck_id": "7P63K",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "りんご",
+        "friend_code": "KRFKA",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46
+      },
+      {
+        "event": "909028",
+        "deck_id": "6ZC25",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "フジ",
+        "friend_code": "DDBAV",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40
+      },
+      {
+        "event": "909020",
+        "deck_id": "2WMZT",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ペペロンチーノ",
+        "friend_code": "SZOQR",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34
+      },
+      {
+        "event": "909010",
+        "deck_id": "1ZEMX",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "アクロレイン",
+        "friend_code": "KGNOX",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      },
+      {
+        "event": "909008",
+        "deck_id": "7Y0FX",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "え",
+        "friend_code": "ADATU",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-029",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908930",
+        "deck_id": "4UP5B",
+        "rank": 2,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "モリオカ",
+        "friend_code": "DSOJG",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23
+      },
+      {
+        "event": "909010",
+        "deck_id": "61YS1",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "むらたむら",
+        "friend_code": "WMKIX",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909020",
+        "deck_id": "18BR7",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ガルヴィ",
+        "friend_code": "HQBNB",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909010",
+        "deck_id": "4DDGH",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "トトロ式",
+        "friend_code": "VNQJN",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908930",
+        "deck_id": "28UDB",
+        "rank": 4,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "マユミ",
+        "friend_code": "OBABX",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-015",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908974",
+        "deck_id": "1NBKT",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "凛果",
+        "friend_code": "RGZXA",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909010",
+        "deck_id": "2V18D",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ReLie",
+        "friend_code": "KNOTS",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      },
+      {
+        "event": "909008",
+        "deck_id": "6YU7T",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "Seiryu",
+        "friend_code": "EKKFE",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-029",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908974",
+        "deck_id": "7ECLM",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "まぜそば",
+        "friend_code": "LYTMT",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909010",
+        "deck_id": "3DHAM",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "トラ",
+        "friend_code": "PBYJV",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-072",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-075",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908930",
+        "deck_id": "7GFE1",
+        "rank": 7,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "ま－てぃ－",
+        "friend_code": "GNHFP",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23
+      },
+      {
+        "event": "908974",
+        "deck_id": "2GU33",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "志乃",
+        "friend_code": "REXTQ",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909010",
+        "deck_id": "4CSNH",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "あ",
+        "friend_code": "OWQBH",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909020",
+        "deck_id": "3FZBX",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ゆかいな",
+        "friend_code": "ISNKC",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-074",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909008",
+        "deck_id": "4CBVK",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "さくなだふぁみりあ",
+        "friend_code": "DCVQI",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-072",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-075",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "a9b7b2": {
+    "name": "天音かなた（天音かなた）",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-009": {
+        "avg": 8.7455,
+        "ratio": 0.9818,
+        "rank": 0.762,
+        "avg_when_used": 8.91
+      },
+      "hBP01-012": {
+        "avg": 3.9818,
+        "ratio": 1.0,
+        "rank": 0.62,
+        "avg_when_used": 3.98
+      },
+      "hBP01-014": {
+        "avg": 3.9818,
+        "ratio": 1.0,
+        "rank": 0.62,
+        "avg_when_used": 3.98
+      },
+      "hBP01-010": {
+        "avg": 3.9636,
+        "ratio": 1.0,
+        "rank": 0.591,
+        "avg_when_used": 3.96
+      },
+      "hBP01-013": {
+        "avg": 3.9455,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 3.95
+      },
+      "hSD01-017": {
+        "avg": 3.8909,
+        "ratio": 1.0,
+        "rank": 0.625,
+        "avg_when_used": 3.89
+      },
+      "hBP01-116": {
+        "avg": 3.8727,
+        "ratio": 1.0,
+        "rank": 0.671,
+        "avg_when_used": 3.87
+      },
+      "hSD01-016": {
+        "avg": 3.5091,
+        "ratio": 0.9091,
+        "rank": 0.692,
+        "avg_when_used": 3.86
+      },
+      "hBP01-104": {
+        "avg": 3.0727,
+        "ratio": 0.8545,
+        "rank": 0.515,
+        "avg_when_used": 3.6
+      },
+      "hBP01-102": {
+        "avg": 2.2545,
+        "ratio": 0.8182,
+        "rank": 0.66,
+        "avg_when_used": 2.76
+      },
+      "hSD01-018": {
+        "avg": 1.2727,
+        "ratio": 0.6182,
+        "rank": 0.586,
+        "avg_when_used": 2.06
+      },
+      "hBP01-038": {
+        "avg": 1.1273,
+        "ratio": 0.1818,
+        "rank": 0.0,
+        "avg_when_used": 6.2
+      },
+      "hBP01-011": {
+        "avg": 0.8909,
+        "ratio": 0.5091,
+        "rank": 1.0,
+        "avg_when_used": 1.75
+      },
+      "hSD01-009": {
+        "avg": 0.6,
+        "ratio": 0.2182,
+        "rank": 0.457,
+        "avg_when_used": 2.75
+      },
+      "hBP01-108": {
+        "avg": 0.5818,
+        "ratio": 0.4182,
+        "rank": 0.44,
+        "avg_when_used": 1.39
+      },
+      "hBP01-021": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.461,
+        "avg_when_used": 4.0
+      },
+      "hBP01-022": {
+        "avg": 0.0727,
+        "ratio": 0.0182,
+        "rank": 0.461,
+        "avg_when_used": 4.0
+      },
+      "hSD01-004": {
+        "avg": 0.0545,
+        "ratio": 0.0182,
+        "rank": 0.496,
+        "avg_when_used": 3.0
+      },
+      "hBP01-050": {
+        "avg": 0.0545,
+        "ratio": 0.0182,
+        "rank": 0.465,
+        "avg_when_used": 3.0
+      },
+      "hBP01-076": {
+        "avg": 0.0545,
+        "ratio": 0.0182,
+        "rank": 0.465,
+        "avg_when_used": 3.0
+      },
+      "hSD01-020": {
+        "avg": 0.0364,
+        "ratio": 0.0364,
+        "rank": 0.616,
+        "avg_when_used": 1.0
+      },
+      "hBP01-023": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.533,
+        "avg_when_used": 2.0
+      },
+      "hBP01-118": {
+        "avg": 0.0364,
+        "ratio": 0.0182,
+        "rank": 0.533,
+        "avg_when_used": 2.0
+      },
+      "hBP01-098": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.656,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.0182,
+        "ratio": 0.0182,
+        "rank": 0.571,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 17.8727,
+        "ratio": 0.9273
+      },
+      "hY01-001": {
+        "avg": 0.2,
+        "ratio": 0.0545
+      }
+    },
+    "decks": [
+      {
+        "event": "909006",
+        "deck_id": "4K9ZV",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "sanba",
+        "friend_code": "SIIPJ",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908987",
+        "deck_id": "69ZQT",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ラプラス山田ークネス",
+        "friend_code": "FIJEP",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908976",
+        "deck_id": "6XGH1",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "すぱいさん",
+        "friend_code": "UHSVC",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10
+      },
+      {
+        "event": "908987",
+        "deck_id": "3XCPM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ボン",
+        "friend_code": "YYCHW",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-098",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-020",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908987",
+        "deck_id": "1Z1EX",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "つぐみ",
+        "friend_code": "HYJHO",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908976",
+        "deck_id": "VSP7",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "紅茶",
+        "friend_code": "VGGRU",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10
+      },
+      {
+        "event": "908987",
+        "deck_id": "2MMUB",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "れいくろす",
+        "friend_code": "KXRPA",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15,
+        "variant_cards": [
+          {
+            "name": "hBP01-021",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-022",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909006",
+        "deck_id": "27L45",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "如月海人",
+        "friend_code": "VSULQ",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908981",
+        "deck_id": "3YW55",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ヒビキ",
+        "friend_code": "NKEUJ",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hBP01-050",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-076",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908976",
+        "deck_id": "5SB6B",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "あき",
+        "friend_code": "",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10
+      },
+      {
+        "event": "909022",
+        "deck_id": "3UUBZ",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ものくま",
+        "friend_code": "XCWQQ",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "909018",
+        "deck_id": "2JYXZ",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "暴れトロル",
+        "friend_code": "RDANX",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "909022",
+        "deck_id": "6EJJB",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "愛生ますたー",
+        "friend_code": "HKLUL",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909018",
+        "deck_id": "665Q7",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "きい",
+        "friend_code": "QDBXH",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "908970",
+        "deck_id": "4NNMH",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "焼け野原ひまわり",
+        "friend_code": "PVNAW",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4
+      },
+      {
+        "event": "908970",
+        "deck_id": "6JX41",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "焼け野原しんのすけ",
+        "friend_code": "XYGEE",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4
+      },
+      {
+        "event": "908970",
+        "deck_id": "3PFWK",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "TaSo",
+        "friend_code": "FITAK",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hSD01-019",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908970",
+        "deck_id": "493T7",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "アカシキフ",
+        "friend_code": "MKGRG",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "27L45",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "如月海人",
+        "friend_code": "VSULQ",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "2VCZK",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "葵",
+        "friend_code": "IYVWT",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909012",
+        "deck_id": "2QT7P",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "しょう",
+        "friend_code": "PAJXH",
+        "venue": "ドラゴンスター神戸三宮店",
+        "date": "2024-11-13",
+        "pref_code": 28
+      },
+      {
+        "event": "908979",
+        "deck_id": "7DE7B",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わ",
+        "friend_code": "AZQWX",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12
+      },
+      {
+        "event": "909016",
+        "deck_id": "7HF9F",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ぽてとさん",
+        "friend_code": "XKNZX",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33
+      },
+      {
+        "event": "909033",
+        "deck_id": "6EBTP",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "うみみ",
+        "friend_code": "UVIOP",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46,
+        "variant_cards": [
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908979",
+        "deck_id": "3QA2R",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "チマ",
+        "friend_code": "JYDJT",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12
+      },
+      {
+        "event": "909033",
+        "deck_id": "4UYD3",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "やまけん",
+        "friend_code": "ISFNA",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46
+      },
+      {
+        "event": "908968",
+        "deck_id": "56HYD",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "茶々丸",
+        "friend_code": "HUHHQ",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909024",
+        "deck_id": "2AUZK",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "のやき",
+        "friend_code": "CLKVC",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39,
+        "variant_cards": [
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908989",
+        "deck_id": "1K189",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "たいやき@炎舞",
+        "friend_code": "QUURL",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22
+      },
+      {
+        "event": "908989",
+        "deck_id": "5Y069",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "スイッチ",
+        "friend_code": "KHWIZ",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22
+      },
+      {
+        "event": "908993",
+        "deck_id": "43AJM",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "葵",
+        "friend_code": "CSTJM",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23
+      },
+      {
+        "event": "909016",
+        "deck_id": "U3XR",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Falcon",
+        "friend_code": "BFZYV",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33
+      },
+      {
+        "event": "909024",
+        "deck_id": "59FZK",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "タケ",
+        "friend_code": "CWQIG",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39
+      },
+      {
+        "event": "908968",
+        "deck_id": "3GGF7",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "りむ",
+        "friend_code": "TKAMS",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908979",
+        "deck_id": "3HFAR",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あまる",
+        "friend_code": "EAMAG",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12
+      },
+      {
+        "event": "909033",
+        "deck_id": "453N1",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "ふぅ@へい民",
+        "friend_code": "IDMQP",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46
+      },
+      {
+        "event": "908989",
+        "deck_id": "62M53",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "りゅうの",
+        "friend_code": "VDQGF",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hSD01-020",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909028",
+        "deck_id": "5QCF3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "寝落ち侍",
+        "friend_code": "NFPNB",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40
+      },
+      {
+        "event": "908993",
+        "deck_id": "2MN7B",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "しろ",
+        "friend_code": "CYYZV",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23
+      },
+      {
+        "event": "908989",
+        "deck_id": "7E76H",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "クーラ",
+        "friend_code": "KAPHW",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908993",
+        "deck_id": "57MC1",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "わらび",
+        "friend_code": "LDGXH",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908983",
+        "deck_id": "3PJQ1",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ジョン",
+        "friend_code": "LASAD",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      },
+      {
+        "event": "908983",
+        "deck_id": "WMVT",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "れと",
+        "friend_code": "TXTZJ",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      },
+      {
+        "event": "908983",
+        "deck_id": "7RAEH",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "リゲル",
+        "friend_code": "NHBNE",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      },
+      {
+        "event": "908930",
+        "deck_id": "57MC1",
+        "rank": 3,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "わらび",
+        "friend_code": "LDGXH",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908974",
+        "deck_id": "43XG5",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "やや",
+        "friend_code": "CXPMG",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909020",
+        "deck_id": "25J7P",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "さきり",
+        "friend_code": "TFTWP",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34
+      },
+      {
+        "event": "908983",
+        "deck_id": "20T05",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "マヅラ",
+        "friend_code": "FKOIO",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      },
+      {
+        "event": "909020",
+        "deck_id": "2RDAM",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "フミコミザン",
+        "friend_code": "FLWKS",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909010",
+        "deck_id": "5G3LH",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "あんばさ",
+        "friend_code": "PEUJT",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      },
+      {
+        "event": "909020",
+        "deck_id": "39PE5",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "みるちー",
+        "friend_code": "WBUUX",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34
+      },
+      {
+        "event": "909008",
+        "deck_id": "1HDQV",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "葵",
+        "friend_code": "IYVWT",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-102",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909020",
+        "deck_id": "6FDB3",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ロボ",
+        "friend_code": "TBNCH",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34
+      },
+      {
+        "event": "909008",
+        "deck_id": "473FT",
+        "rank": 7,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "かたなし",
+        "friend_code": "MZUZW",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      },
+      {
+        "event": "908930",
+        "deck_id": "5A7PR",
+        "rank": 8,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "テレビTV",
+        "friend_code": "DJJYT",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23
+      }
+    ],
+    "split_pairs": [
+      {
+        "xs": [
+          {
+            "name": "hBP01-104",
+            "card_name": "ふつうのパソコン",
+            "ratio": 85
+          }
+        ],
+        "drops": [
+          {
+            "y": "hSD01-009",
+            "y_name": "AZKi",
+            "y_ratio": 22,
+            "co_occur_pct": 11,
+            "diff_pct": -62
+          }
+        ]
+      }
+    ]
+  },
+  "7dee96": {
+    "name": "天音かなた（IRyS・七詩ムメイ）",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-028": {
+        "avg": 5.1364,
+        "ratio": 1.0,
+        "rank": 0.379,
+        "avg_when_used": 5.14
+      },
+      "hBP01-015": {
+        "avg": 4.3636,
+        "ratio": 0.9545,
+        "rank": 0.274,
+        "avg_when_used": 4.57
+      },
+      "hBP01-019": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.342,
+        "avg_when_used": 4.0
+      },
+      "hBP01-030": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.342,
+        "avg_when_used": 4.0
+      },
+      "hBP01-020": {
+        "avg": 3.9545,
+        "ratio": 1.0,
+        "rank": 0.353,
+        "avg_when_used": 3.95
+      },
+      "hBP01-113": {
+        "avg": 3.9091,
+        "ratio": 1.0,
+        "rank": 0.368,
+        "avg_when_used": 3.91
+      },
+      "hBP01-094": {
+        "avg": 3.7727,
+        "ratio": 1.0,
+        "rank": 0.34,
+        "avg_when_used": 3.77
+      },
+      "hSD01-016": {
+        "avg": 3.6364,
+        "ratio": 0.9545,
+        "rank": 0.405,
+        "avg_when_used": 3.81
+      },
+      "hBP01-104": {
+        "avg": 3.2727,
+        "ratio": 0.8636,
+        "rank": 0.54,
+        "avg_when_used": 3.79
+      },
+      "hBP01-016": {
+        "avg": 2.9545,
+        "ratio": 1.0,
+        "rank": 0.257,
+        "avg_when_used": 2.95
+      },
+      "hBP01-031": {
+        "avg": 2.4091,
+        "ratio": 1.0,
+        "rank": 0.3,
+        "avg_when_used": 2.41
+      },
+      "hBP01-092": {
+        "avg": 1.9545,
+        "ratio": 0.8636,
+        "rank": 0.483,
+        "avg_when_used": 2.26
+      },
+      "hSD01-017": {
+        "avg": 1.9091,
+        "ratio": 0.8636,
+        "rank": 0.371,
+        "avg_when_used": 2.21
+      },
+      "hBP01-108": {
+        "avg": 1.1364,
+        "ratio": 0.5909,
+        "rank": 0.312,
+        "avg_when_used": 1.92
+      },
+      "hSD01-007": {
+        "avg": 1.0909,
+        "ratio": 0.6364,
+        "rank": 0.106,
+        "avg_when_used": 1.71
+      },
+      "hBP01-018": {
+        "avg": 0.8182,
+        "ratio": 0.6364,
+        "rank": 0.137,
+        "avg_when_used": 1.29
+      },
+      "hBP01-048": {
+        "avg": 0.3636,
+        "ratio": 0.1364,
+        "rank": 1.0,
+        "avg_when_used": 2.67
+      },
+      "hSD01-009": {
+        "avg": 0.3636,
+        "ratio": 0.1364,
+        "rank": 0.0,
+        "avg_when_used": 2.67
+      },
+      "hSD01-004": {
+        "avg": 0.2727,
+        "ratio": 0.1364,
+        "rank": 0.179,
+        "avg_when_used": 2.0
+      },
+      "hSD01-018": {
+        "avg": 0.2727,
+        "ratio": 0.1364,
+        "rank": 0.072,
+        "avg_when_used": 2.0
+      },
+      "hBP01-103": {
+        "avg": 0.0455,
+        "ratio": 0.0455,
+        "rank": 0.344,
+        "avg_when_used": 1.0
+      },
+      "hBP01-017": {
+        "avg": 0.0455,
+        "ratio": 0.0455,
+        "rank": 0.293,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 18.9545,
+        "ratio": 0.9545
+      },
+      "hY01-001": {
+        "avg": 0.1818,
+        "ratio": 0.0455
+      }
+    },
+    "decks": [
+      {
+        "event": "909035",
+        "deck_id": "3AQCP",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "ハレハレ",
+        "friend_code": "VSFEK",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47,
+        "variant_cards": [
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908981",
+        "deck_id": "3VM1F",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "YYNY",
+        "friend_code": "KJNHM",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909014",
+        "deck_id": "6WM3D",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "けん",
+        "friend_code": "IPXIF",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908981",
+        "deck_id": "5C0MV",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "モモおとこ",
+        "friend_code": "WZUSR",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13
+      },
+      {
+        "event": "909018",
+        "deck_id": "5Z44F",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "とうま△",
+        "friend_code": "VMUYT",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "908968",
+        "deck_id": "5TMHX",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "リース",
+        "friend_code": "CUSYC",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-015",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908979",
+        "deck_id": "5PXV7",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "馬ゆうき",
+        "friend_code": "UXWYG",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12
+      },
+      {
+        "event": "909028",
+        "deck_id": "11FQH",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "ゃぴた",
+        "friend_code": "DKCED",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908989",
+        "deck_id": "6RC9F",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タナカ",
+        "friend_code": "HIFWO",
+        "venue": "マスターズギルド",
+        "date": "2024-11-10",
+        "pref_code": 22
+      },
+      {
+        "event": "908993",
+        "deck_id": "79D57",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "ぬ",
+        "friend_code": "EBOAV",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23
+      },
+      {
+        "event": "909028",
+        "deck_id": "4AWRB",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "レジギガス",
+        "friend_code": "QLVAW",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-103",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908979",
+        "deck_id": "X9Z7",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "がりたまん",
+        "friend_code": "IBQPI",
+        "venue": "トーナメントセンターバトロコ柏駅前",
+        "date": "2024-11-10",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "909033",
+        "deck_id": "3WJ9K",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "kumin",
+        "friend_code": "EJOPZ",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46,
+        "variant_cards": [
+          {
+            "name": "hBP01-017",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908968",
+        "deck_id": "2SBPX",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Qmo",
+        "friend_code": "UTARM",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909024",
+        "deck_id": "5CQ13",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "sigma",
+        "friend_code": "KSSML",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39
+      },
+      {
+        "event": "909020",
+        "deck_id": "5KHXK",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "とうま△",
+        "friend_code": "VMUYT",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34
+      },
+      {
+        "event": "908974",
+        "deck_id": "3D4JM",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "わ",
+        "friend_code": "AZQWX",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909008",
+        "deck_id": "68J1F",
+        "rank": 2,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "サノ",
+        "friend_code": "ACWBM",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      },
+      {
+        "event": "908983",
+        "deck_id": "5Z31B",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "お",
+        "friend_code": "OEDAR",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909008",
+        "deck_id": "6YTUH",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "トリス",
+        "friend_code": "UUYIK",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908983",
+        "deck_id": "36R3V",
+        "rank": 6,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "コニケン",
+        "friend_code": "SGTQQ",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      },
+      {
+        "event": "908974",
+        "deck_id": "3WJMB",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "su",
+        "friend_code": "HAXVP",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      }
+    ]
+  },
+  "71cc9c": {
+    "name": "兎田ぺこら（IRyS・七詩ムメイ）",
+    "class": "緑",
+    "oshi_id": "hBP01-004",
+    "member": "兎田ぺこら",
+    "cards": {
+      "hBP01-028": {
+        "avg": 5.6111,
+        "ratio": 1.0,
+        "rank": 0.854,
+        "avg_when_used": 5.61
+      },
+      "hBP01-015": {
+        "avg": 4.1111,
+        "ratio": 0.9444,
+        "rank": 0.907,
+        "avg_when_used": 4.35
+      },
+      "hBP01-019": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.806,
+        "avg_when_used": 4.0
+      },
+      "hBP01-030": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.806,
+        "avg_when_used": 4.0
+      },
+      "hBP01-020": {
+        "avg": 3.8889,
+        "ratio": 1.0,
+        "rank": 0.84,
+        "avg_when_used": 3.89
+      },
+      "hBP01-104": {
+        "avg": 3.7222,
+        "ratio": 0.9444,
+        "rank": 0.822,
+        "avg_when_used": 3.94
+      },
+      "hBP01-113": {
+        "avg": 3.5556,
+        "ratio": 1.0,
+        "rank": 0.96,
+        "avg_when_used": 3.56
+      },
+      "hSD01-016": {
+        "avg": 3.5556,
+        "ratio": 0.9444,
+        "rank": 0.908,
+        "avg_when_used": 3.76
+      },
+      "hBP01-094": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.928,
+        "avg_when_used": 3.5
+      },
+      "hBP01-016": {
+        "avg": 2.8333,
+        "ratio": 1.0,
+        "rank": 0.8,
+        "avg_when_used": 2.83
+      },
+      "hBP01-031": {
+        "avg": 2.7222,
+        "ratio": 1.0,
+        "rank": 0.817,
+        "avg_when_used": 2.72
+      },
+      "hBP01-092": {
+        "avg": 2.0,
+        "ratio": 0.9444,
+        "rank": 0.963,
+        "avg_when_used": 2.12
+      },
+      "hSD01-017": {
+        "avg": 1.9444,
+        "ratio": 0.7222,
+        "rank": 0.0,
+        "avg_when_used": 2.69
+      },
+      "hBP01-108": {
+        "avg": 1.6111,
+        "ratio": 0.9444,
+        "rank": 1.0,
+        "avg_when_used": 1.71
+      },
+      "hSD01-018": {
+        "avg": 0.7222,
+        "ratio": 0.4444,
+        "rank": 0.735,
+        "avg_when_used": 1.62
+      },
+      "hSD01-007": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.505,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.4444,
+        "ratio": 0.2778,
+        "rank": 0.817,
+        "avg_when_used": 1.6
+      },
+      "hBP01-018": {
+        "avg": 0.3889,
+        "ratio": 0.3889,
+        "rank": 0.781,
+        "avg_when_used": 1.0
+      },
+      "hBP01-048": {
+        "avg": 0.2778,
+        "ratio": 0.1111,
+        "rank": 0.627,
+        "avg_when_used": 2.5
+      },
+      "hSD01-009": {
+        "avg": 0.2222,
+        "ratio": 0.0556,
+        "rank": 0.761,
+        "avg_when_used": 4.0
+      },
+      "hBP01-009": {
+        "avg": 0.1111,
+        "ratio": 0.0556,
+        "rank": 0.782,
+        "avg_when_used": 2.0
+      },
+      "hSD01-004": {
+        "avg": 0.1111,
+        "ratio": 0.0556,
+        "rank": 0.499,
+        "avg_when_used": 2.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 7.7778,
+        "ratio": 0.9444
+      },
+      "hY02-001": {
+        "avg": 0.1111,
+        "ratio": 0.0556
+      }
+    },
+    "decks": [
+      {
+        "event": "909014",
+        "deck_id": "2YJ4P",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "ria",
+        "friend_code": "FJFWR",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28
+      },
+      {
+        "event": "909014",
+        "deck_id": "64Q7B",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "けい",
+        "friend_code": "GMSTI",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "date": "2024-11-17",
+        "pref_code": 28
+      },
+      {
+        "event": "909006",
+        "deck_id": "5P3YT",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "トトロ式",
+        "friend_code": "VNQJN",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-015",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-104",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908976",
+        "deck_id": "6ZUJ7",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "こまいぬ",
+        "friend_code": "LQEGW",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10,
+        "variant_cards": [
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909006",
+        "deck_id": "12215",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "コウ",
+        "friend_code": "PRJDD",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27
+      },
+      {
+        "event": "908981",
+        "deck_id": "7475M",
+        "rank": 4,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "カイル",
+        "friend_code": "VYFKA",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13
+      },
+      {
+        "event": "909006",
+        "deck_id": "1158B",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "ユクモ",
+        "friend_code": "BJGXS",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27
+      },
+      {
+        "event": "908981",
+        "deck_id": "2ADYP",
+        "rank": 5,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "sbbp.",
+        "friend_code": "CPQVN",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "date": "2024-11-17",
+        "pref_code": 13,
+        "variant_cards": [
+          {
+            "name": "hSD01-004",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-048",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-092",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908987",
+        "deck_id": "3DVD1",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ユキ",
+        "friend_code": "MUEVH",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15
+      },
+      {
+        "event": "908976",
+        "deck_id": "3WL3F",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "けいと",
+        "friend_code": "KUVEE",
+        "venue": "コミかる堂　高崎店",
+        "date": "2024-11-17",
+        "pref_code": 10
+      },
+      {
+        "event": "909022",
+        "deck_id": "4AD9Z",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "霧風",
+        "friend_code": "BRNPY",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "909024",
+        "deck_id": "5MNQR",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "Swallow",
+        "friend_code": "CDOYN",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39
+      },
+      {
+        "event": "909016",
+        "deck_id": "3FAEM",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "you",
+        "friend_code": "GHLYP",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33
+      },
+      {
+        "event": "909024",
+        "deck_id": "11URX",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "◆リンちゃん",
+        "friend_code": "ZEEDP",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39
+      },
+      {
+        "event": "909016",
+        "deck_id": "1EL8D",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "あっきー",
+        "friend_code": "OJGDB",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33
+      },
+      {
+        "event": "909024",
+        "deck_id": "VXYP",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "ゆぴ",
+        "friend_code": "QNBDI",
+        "venue": "カードボックスイオンモール高知店",
+        "date": "2024-11-10",
+        "pref_code": 39
+      },
+      {
+        "event": "908974",
+        "deck_id": "3GZ7B",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "みのみの",
+        "friend_code": "GBJGM",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "908930",
+        "deck_id": "2955K",
+        "rank": 5,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "ひぢき",
+        "friend_code": "OCHGP",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "49d105": {
+    "name": "兎田ぺこら（AZKi・SorAZ）",
+    "class": "緑",
+    "oshi_id": "hBP01-004",
+    "member": "兎田ぺこら",
+    "cards": {
+      "hBP01-044": {
+        "avg": 8.1667,
+        "ratio": 1.0,
+        "rank": 0.104,
+        "avg_when_used": 8.17
+      },
+      "hSD01-013": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.299,
+        "avg_when_used": 4.0
+      },
+      "hBP01-047": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.299,
+        "avg_when_used": 4.0
+      },
+      "hSD01-011": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.299,
+        "avg_when_used": 4.0
+      },
+      "hSD01-021": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.299,
+        "avg_when_used": 4.0
+      },
+      "hSD01-010": {
+        "avg": 3.8333,
+        "ratio": 1.0,
+        "rank": 0.316,
+        "avg_when_used": 3.83
+      },
+      "hBP01-102": {
+        "avg": 3.8333,
+        "ratio": 1.0,
+        "rank": 0.316,
+        "avg_when_used": 3.83
+      },
+      "hSD01-009": {
+        "avg": 3.6667,
+        "ratio": 0.8333,
+        "rank": 0.088,
+        "avg_when_used": 4.4
+      },
+      "hBP01-046": {
+        "avg": 3.3333,
+        "ratio": 1.0,
+        "rank": 0.26,
+        "avg_when_used": 3.33
+      },
+      "hSD01-016": {
+        "avg": 3.1667,
+        "ratio": 0.8333,
+        "rank": 0.398,
+        "avg_when_used": 3.8
+      },
+      "hBP01-045": {
+        "avg": 2.8333,
+        "ratio": 1.0,
+        "rank": 0.393,
+        "avg_when_used": 2.83
+      },
+      "hBP01-062": {
+        "avg": 1.6667,
+        "ratio": 0.3333,
+        "rank": 1.0,
+        "avg_when_used": 5.0
+      },
+      "hSD01-017": {
+        "avg": 1.5,
+        "ratio": 0.6667,
+        "rank": 0.0,
+        "avg_when_used": 2.25
+      },
+      "hBP01-108": {
+        "avg": 1.1667,
+        "ratio": 0.8333,
+        "rank": 0.499,
+        "avg_when_used": 1.4
+      },
+      "hSD01-018": {
+        "avg": 0.5,
+        "ratio": 0.3333,
+        "rank": 0.472,
+        "avg_when_used": 1.5
+      }
+    },
+    "decks": [
+      {
+        "event": "909035",
+        "deck_id": "3UBWR",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "和歌山",
+        "friend_code": "EAVNB",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47,
+        "variant_cards": [
+          {
+            "name": "hBP01-062",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909022",
+        "deck_id": "286D9",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ReGLOSS箱推しニキ",
+        "friend_code": "JDXAT",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36,
+        "variant_cards": [
+          {
+            "name": "hBP01-062",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908970",
+        "deck_id": "3ZX8Z",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タク",
+        "friend_code": "GWCKK",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4
+      },
+      {
+        "event": "909028",
+        "deck_id": "4Z1V3",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "じゃる",
+        "friend_code": "KWOBQ",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40
+      },
+      {
+        "event": "908968",
+        "deck_id": "2WFUM",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "だうと",
+        "friend_code": "DMZUQ",
+        "venue": "カードラボ札幌店",
+        "date": "2024-11-10",
+        "pref_code": 1,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908983",
+        "deck_id": "5TD17",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "サカモト",
+        "friend_code": "RUQEL",
+        "venue": "カードラボ池袋店",
+        "date": "2024-11-09",
+        "pref_code": 13
+      }
+    ]
+  },
+  "bf2591": {
+    "name": "星街すいせい",
+    "class": "青",
+    "oshi_id": "hBP01-007",
+    "member": "星街すいせい",
+    "cards": {
+      "hBP01-076": {
+        "avg": 6.0,
+        "ratio": 1.0,
+        "rank": 0.694,
+        "avg_when_used": 6.0
+      },
+      "hBP01-048": {
+        "avg": 4.6,
+        "ratio": 0.8,
+        "rank": 1.0,
+        "avg_when_used": 5.75
+      },
+      "hBP01-050": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hBP01-077": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hBP01-078": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hBP01-079": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hBP01-081": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.659,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.2,
+        "ratio": 0.8,
+        "rank": 0.943,
+        "avg_when_used": 4.0
+      },
+      "hBP01-115": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.601,
+        "avg_when_used": 3.0
+      },
+      "hSD01-018": {
+        "avg": 2.4,
+        "ratio": 1.0,
+        "rank": 0.489,
+        "avg_when_used": 2.4
+      },
+      "hSD01-020": {
+        "avg": 2.4,
+        "ratio": 0.8,
+        "rank": 0.915,
+        "avg_when_used": 3.0
+      },
+      "hBP01-104": {
+        "avg": 1.8,
+        "ratio": 0.8,
+        "rank": 0.838,
+        "avg_when_used": 2.25
+      },
+      "hBP02-028": {
+        "avg": 1.0,
+        "ratio": 0.2,
+        "rank": 0.0,
+        "avg_when_used": 5.0
+      },
+      "hBP01-009": {
+        "avg": 0.8,
+        "ratio": 0.2,
+        "rank": 0.087,
+        "avg_when_used": 4.0
+      },
+      "hSD01-009": {
+        "avg": 0.8,
+        "ratio": 0.2,
+        "rank": 0.087,
+        "avg_when_used": 4.0
+      }
+    },
+    "decks": [
+      {
+        "event": "909006",
+        "deck_id": "4ZQEX",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "蒼穹",
+        "friend_code": "ZGOHR",
+        "venue": "ハリケーンなんば店",
+        "date": "2024-11-17",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-048",
+            "flag": "out"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909018",
+        "deck_id": "55F55",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "れ1む",
+        "friend_code": "YKTAZ",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "908970",
+        "deck_id": "2HR7Z",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "梅沢",
+        "friend_code": "OXIPH",
+        "venue": "ホビーステーション仙台駅前店",
+        "date": "2024-11-15",
+        "pref_code": 4
+      },
+      {
+        "event": "909028",
+        "deck_id": "1DMZF",
+        "rank": 1,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "めかごじら",
+        "friend_code": "JDBNI",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40
+      },
+      {
+        "event": "909016",
+        "deck_id": "6VAPP",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "かなすけ",
+        "friend_code": "OPACY",
+        "venue": "カードゲームショップ オレタン 岡山本店",
+        "date": "2024-11-10",
+        "pref_code": 33
+      }
+    ]
+  },
+  "91c505": {
+    "name": "AZKi",
+    "class": "緑",
+    "oshi_id": "hSD01-002",
+    "member": "AZKi",
+    "cards": {
+      "hBP01-044": {
+        "avg": 5.75,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 5.75
+      },
+      "hSD01-013": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-046": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.75
+      },
+      "hBP01-047": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.5
+      },
+      "hSD01-011": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.5
+      },
+      "hSD01-021": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.5
+      },
+      "hSD01-009": {
+        "avg": 3.25,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.25
+      },
+      "hSD01-016": {
+        "avg": 2.75,
+        "ratio": 0.75,
+        "rank": 0.5,
+        "avg_when_used": 3.67
+      },
+      "hSD01-017": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.75
+      },
+      "hSD01-010": {
+        "avg": 2.75,
+        "ratio": 0.75,
+        "rank": 0.5,
+        "avg_when_used": 3.67
+      },
+      "hBP01-045": {
+        "avg": 2.5,
+        "ratio": 0.75,
+        "rank": 0.5,
+        "avg_when_used": 3.33
+      },
+      "hBP01-062": {
+        "avg": 2.5,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 10.0
+      },
+      "hBP01-102": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-021": {
+        "avg": 1.25,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 5.0
+      },
+      "hBP01-104": {
+        "avg": 1.25,
+        "ratio": 0.5,
+        "rank": 0.5,
+        "avg_when_used": 2.5
+      },
+      "hBP01-118": {
+        "avg": 1.0,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-009": {
+        "avg": 1.0,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-006": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-023": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-108": {
+        "avg": 0.75,
+        "ratio": 0.75,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP01-022": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hSD01-004": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 2.0,
+        "ratio": 0.25
+      }
+    },
+    "decks": [
+      {
+        "event": "909035",
+        "deck_id": "4JD5M",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "ジュン",
+        "friend_code": "BTTEI",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47,
+        "variant_cards": [
+          {
+            "name": "hSD01-006",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-021",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-045",
+            "flag": "out"
+          },
+          {
+            "name": "hSD01-010",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909035",
+        "deck_id": "4J019",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 28,
+        "player": "ミカ",
+        "friend_code": "HHEFJ",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "date": "2024-11-17",
+        "pref_code": 47
+      },
+      {
+        "event": "909022",
+        "deck_id": "W207",
+        "rank": 6,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "タクヤ",
+        "friend_code": "FSJTQ",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "909028",
+        "deck_id": "6NQZK",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 26,
+        "player": "えんえん",
+        "friend_code": "QFMCN",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2024-11-10",
+        "pref_code": 40,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-062",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          },
+          {
+            "name": "hSD01-016",
+            "flag": "out"
+          }
+        ]
+      }
+    ]
+  },
+  "75ecf0": {
+    "name": "こぼ・かなえる",
+    "class": "青",
+    "oshi_id": "hBP01-008",
+    "member": "こぼ・かなえる",
+    "cards": {
+      "hBP01-088": {
+        "avg": 8.0,
+        "ratio": 1.0,
+        "rank": 0.689,
+        "avg_when_used": 8.0
+      },
+      "hBP01-024": {
+        "avg": 5.0,
+        "ratio": 1.0,
+        "rank": 0.687,
+        "avg_when_used": 5.0
+      },
+      "hBP01-027": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.686,
+        "avg_when_used": 4.0
+      },
+      "hBP01-091": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.686,
+        "avg_when_used": 4.0
+      },
+      "hBP01-090": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.686,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.686,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.78,
+        "avg_when_used": 3.75
+      },
+      "hSD01-018": {
+        "avg": 3.75,
+        "ratio": 1.0,
+        "rank": 0.78,
+        "avg_when_used": 3.75
+      },
+      "hBP01-104": {
+        "avg": 3.25,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.25
+      },
+      "hBP01-096": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.801,
+        "avg_when_used": 2.75
+      },
+      "hBP01-108": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.681,
+        "avg_when_used": 2.0
+      },
+      "hSD01-009": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "hBP01-109": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.164,
+        "avg_when_used": 1.0
+      },
+      "hSD01-020": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.164,
+        "avg_when_used": 2.0
+      },
+      "hBP01-009": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.377,
+        "avg_when_used": 1.0
+      },
+      "hBP01-105": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.377,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 6.0,
+        "ratio": 0.75
+      }
+    },
+    "decks": [
+      {
+        "event": "909022",
+        "deck_id": "4PE35",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "ごと",
+        "friend_code": "KEEFZ",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "909022",
+        "deck_id": "6UXBD",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "sigma",
+        "friend_code": "KSSML",
+        "venue": "ビデオ100徳島藍住店",
+        "date": "2024-11-16",
+        "pref_code": 36
+      },
+      {
+        "event": "908974",
+        "deck_id": "UDJP",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "すい",
+        "friend_code": "LQBHQ",
+        "venue": "カードショップ裁龍",
+        "date": "2024-11-09",
+        "pref_code": 8
+      },
+      {
+        "event": "909020",
+        "deck_id": "31BB3",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "Nary",
+        "friend_code": "SLZGY",
+        "venue": "カードボックス広島店",
+        "date": "2024-11-09",
+        "pref_code": 34,
+        "variant_cards": [
+          {
+            "name": "hBP01-009",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-009",
+            "flag": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "2999bf": {
+    "name": "ときのそら",
+    "class": "白",
+    "oshi_id": "hSD01-001",
+    "member": "ときのそら",
+    "cards": {
+      "hSD01-016": {
+        "avg": 3.6667,
+        "ratio": 1.0,
+        "rank": 0.651,
+        "avg_when_used": 3.67
+      },
+      "hBP01-104": {
+        "avg": 3.3333,
+        "ratio": 1.0,
+        "rank": 0.744,
+        "avg_when_used": 3.33
+      },
+      "hBP01-028": {
+        "avg": 3.0,
+        "ratio": 0.6667,
+        "rank": 1.0,
+        "avg_when_used": 4.5
+      },
+      "hBP01-021": {
+        "avg": 3.0,
+        "ratio": 0.3333,
+        "rank": 0.0,
+        "avg_when_used": 9.0
+      },
+      "hBP01-019": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.918,
+        "avg_when_used": 4.0
+      },
+      "hBP01-030": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.918,
+        "avg_when_used": 4.0
+      },
+      "hBP01-113": {
+        "avg": 2.6667,
+        "ratio": 0.6667,
+        "rank": 0.918,
+        "avg_when_used": 4.0
+      },
+      "hBP01-016": {
+        "avg": 2.3333,
+        "ratio": 0.6667,
+        "rank": 0.818,
+        "avg_when_used": 3.5
+      },
+      "hBP01-094": {
+        "avg": 2.3333,
+        "ratio": 0.6667,
+        "rank": 0.818,
+        "avg_when_used": 3.5
+      },
+      "hSD01-017": {
+        "avg": 2.3333,
+        "ratio": 1.0,
+        "rank": 0.322,
+        "avg_when_used": 2.33
+      },
+      "hBP01-020": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.894,
+        "avg_when_used": 3.0
+      },
+      "hBP01-031": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.894,
+        "avg_when_used": 3.0
+      },
+      "hBP01-015": {
+        "avg": 1.6667,
+        "ratio": 0.6667,
+        "rank": 0.766,
+        "avg_when_used": 2.5
+      },
+      "hSD01-018": {
+        "avg": 1.6667,
+        "ratio": 0.6667,
+        "rank": 0.989,
+        "avg_when_used": 2.5
+      },
+      "hBP01-092": {
+        "avg": 1.3333,
+        "ratio": 0.6667,
+        "rank": 0.856,
+        "avg_when_used": 2.0
+      },
+      "hBP01-022": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.137,
+        "avg_when_used": 4.0
+      },
+      "hBP01-023": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.137,
+        "avg_when_used": 4.0
+      },
+      "hBP01-118": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.137,
+        "avg_when_used": 4.0
+      },
+      "hSD01-007": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.676,
+        "avg_when_used": 1.5
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.676,
+        "avg_when_used": 1.5
+      },
+      "hSD01-006": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.194,
+        "avg_when_used": 3.0
+      },
+      "hSD01-013": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.194,
+        "avg_when_used": 3.0
+      },
+      "hSD01-004": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.194,
+        "avg_when_used": 3.0
+      },
+      "hBP01-045": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.194,
+        "avg_when_used": 3.0
+      },
+      "hSD01-011": {
+        "avg": 1.0,
+        "ratio": 0.3333,
+        "rank": 0.194,
+        "avg_when_used": 3.0
+      },
+      "hSD01-021": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.274,
+        "avg_when_used": 2.0
+      },
+      "hBP01-029": {
+        "avg": 0.3333,
+        "ratio": 0.3333,
+        "rank": 0.955,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 17.3333,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "909008",
+        "deck_id": "3XKXB",
+        "rank": 3,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "AJI",
+        "friend_code": "OAZLS",
+        "venue": "GIRAFULL なんば店",
+        "date": "2024-11-09",
+        "pref_code": 27,
+        "variant_cards": [
+          {
+            "name": "hBP01-029",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "908930",
+        "deck_id": "48QPF",
+        "rank": 6,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "はやっち",
+        "friend_code": "FKUVO",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hSD01-006",
+            "flag": "in"
+          },
+          {
+            "name": "hSD01-013",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-015",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-016",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909010",
+        "deck_id": "1YTZT",
+        "rank": 8,
+        "tourney_size": 5,
+        "participants": 64,
+        "player": "白夜",
+        "friend_code": "COUTZ",
+        "venue": "ドラゴンスター日本橋2号店",
+        "date": "2024-11-09",
+        "pref_code": 27
+      }
+    ]
+  },
+  "182a69": {
+    "name": "小鳥遊キアラ",
+    "class": "赤",
+    "oshi_id": "hBP01-006",
+    "member": "小鳥遊キアラ",
+    "cards": {
+      "hBP01-068": {
+        "avg": 9.3333,
+        "ratio": 1.0,
+        "rank": 0.697,
+        "avg_when_used": 9.33
+      },
+      "hBP01-071": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hBP01-070": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hBP01-125": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hBP01-126": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.615,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 3.3333,
+        "ratio": 1.0,
+        "rank": 0.797,
+        "avg_when_used": 3.33
+      },
+      "hBP01-062": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.405,
+        "avg_when_used": 2.67
+      },
+      "hSD01-018": {
+        "avg": 2.6667,
+        "ratio": 1.0,
+        "rank": 0.721,
+        "avg_when_used": 2.67
+      },
+      "hBP01-123": {
+        "avg": 2.3333,
+        "ratio": 0.6667,
+        "rank": 1.0,
+        "avg_when_used": 3.5
+      },
+      "hBP01-096": {
+        "avg": 2.0,
+        "ratio": 0.6667,
+        "rank": 0.991,
+        "avg_when_used": 3.0
+      },
+      "hBP01-065": {
+        "avg": 1.3333,
+        "ratio": 0.3333,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 0.6667,
+        "rank": 0.378,
+        "avg_when_used": 1.5
+      },
+      "hBP01-066": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.216,
+        "avg_when_used": 2.0
+      },
+      "hBP01-067": {
+        "avg": 0.6667,
+        "ratio": 0.3333,
+        "rank": 0.216,
+        "avg_when_used": 2.0
+      }
+    },
+    "decks": [
+      {
+        "event": "908993",
+        "deck_id": "6KK3T",
+        "rank": 1,
+        "tourney_size": 5,
+        "participants": 60,
+        "player": "Noble",
+        "friend_code": "LLILH",
+        "venue": "ホビーステーション名古屋大須本店",
+        "date": "2024-11-10",
+        "pref_code": 23,
+        "variant_cards": [
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "909033",
+        "deck_id": "5TUB7",
+        "rank": 4,
+        "tourney_size": 4,
+        "participants": 31,
+        "player": "ルスワール",
+        "friend_code": "AMHNT",
+        "venue": "カードショップ彩々アミュプラザ鹿児島店",
+        "date": "2024-11-10",
+        "pref_code": 46,
+        "variant_cards": [
+          {
+            "name": "hBP01-065",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-066",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-096",
+            "flag": "out"
+          },
+          {
+            "name": "hBP01-123",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "908930",
+        "deck_id": "2GTEZ",
+        "rank": 1,
+        "tourney_size": 6,
+        "participants": 65,
+        "player": "アミツキ",
+        "friend_code": "VMSVB",
+        "venue": "竜星の嵐　名古屋店",
+        "date": "2024-11-09",
+        "pref_code": 23
+      }
+    ]
+  },
+  "1a6394": {
+    "name": "天音かなた（ときのそら・鷹嶺ルイ）",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-021": {
+        "avg": 5.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 11.0
+      },
+      "hBP01-056": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.174,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.439,
+        "avg_when_used": 4.0
+      },
+      "hBP01-108": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.533,
+        "avg_when_used": 2.5
+      },
+      "hSD01-017": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.345,
+        "avg_when_used": 2.5
+      },
+      "hSD01-006": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hSD01-013": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hBP01-022": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hBP01-023": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hSD01-009": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hBP01-118": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.878,
+        "avg_when_used": 4.0
+      },
+      "hBP01-048": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-050": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-060": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-063": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-065": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-067": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-062": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.045,
+        "avg_when_used": 3.0
+      },
+      "hBP01-104": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.045,
+        "avg_when_used": 3.0
+      },
+      "hSD01-011": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.766,
+        "avg_when_used": 2.0
+      },
+      "hSD01-021": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.766,
+        "avg_when_used": 2.0
+      },
+      "hBP01-061": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.112,
+        "avg_when_used": 2.0
+      },
+      "hBP01-121": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.112,
+        "avg_when_used": 2.0
+      },
+      "hBP01-066": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.222,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 6.0,
+        "ratio": 0.5
+      }
+    },
+    "decks": [
+      {
+        "event": "909018",
+        "deck_id": "7G2QP",
+        "rank": 2,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "らいむ",
+        "friend_code": "JHNQN",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      },
+      {
+        "event": "909018",
+        "deck_id": "5VBK1",
+        "rank": 7,
+        "tourney_size": 4,
+        "participants": 30,
+        "player": "しぇり",
+        "friend_code": "VSVCE",
+        "venue": "カードボックス福山店",
+        "date": "2024-11-16",
+        "pref_code": 34
+      }
+    ]
+  },
+  "e4d7ee": {
+    "name": "小鳥遊キアラ",
+    "class": "白",
+    "oshi_id": "hBP01-024",
+    "member": "小鳥遊キアラ",
+    "cards": {
+      "hBP01-068": {
+        "avg": 10.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 10.0
+      },
+      "hBP01-071": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-065": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-070": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-125": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-126": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-018": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-067": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hSD01-009": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 5.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "908987",
+        "deck_id": "4B40K",
+        "rank": 8,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "つっつ",
+        "friend_code": "GJWAO",
+        "venue": "カードベース ジャブロー",
+        "date": "2024-11-17",
+        "pref_code": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "era": "hBP01",
+  "period": {
+    "start": "2024-11-09",
+    "end": "2024-11-22"
+  },
+  "total_decks": 188,
+  "total_winners": 24,
+  "total_finalists": 48,
+  "archetypes": [
+    {
+      "id": "776883",
+      "name": "七詩ムメイ",
+      "class": "白",
+      "oshi_id": "hBP01-002",
+      "member": "七詩ムメイ",
+      "count": 65,
+      "winner": 10,
+      "finalist": 18,
+      "top8_share": 0.3457,
+      "win_share": 0.4167,
+      "deck_rank": 0.68,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-015",
+        "hBP01-019"
+      ]
+    },
+    {
+      "id": "a9b7b2",
+      "name": "天音かなた（天音かなた）",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 55,
+      "winner": 6,
+      "finalist": 13,
+      "top8_share": 0.2926,
+      "win_share": 0.25,
+      "deck_rank": -0.29,
+      "top_cards": [
+        "hBP01-009",
+        "hBP01-012",
+        "hBP01-014"
+      ]
+    },
+    {
+      "id": "7dee96",
+      "name": "天音かなた（IRyS・七詩ムメイ）",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 22,
+      "winner": 2,
+      "finalist": 7,
+      "top8_share": 0.117,
+      "win_share": 0.0833,
+      "deck_rank": -0.14,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-015",
+        "hBP01-019"
+      ]
+    },
+    {
+      "id": "71cc9c",
+      "name": "兎田ぺこら（IRyS・七詩ムメイ）",
+      "class": "緑",
+      "oshi_id": "hBP01-004",
+      "member": "兎田ぺこら",
+      "count": 18,
+      "winner": 3,
+      "finalist": 5,
+      "top8_share": 0.0957,
+      "win_share": 0.125,
+      "deck_rank": 0.44,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-015",
+        "hBP01-019"
+      ]
+    },
+    {
+      "id": "49d105",
+      "name": "兎田ぺこら（AZKi・SorAZ）",
+      "class": "緑",
+      "oshi_id": "hBP01-004",
+      "member": "兎田ぺこら",
+      "count": 6,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0319,
+      "win_share": 0.0,
+      "deck_rank": -2.83,
+      "top_cards": [
+        "hBP01-044",
+        "hSD01-013",
+        "hBP01-047"
+      ]
+    },
+    {
+      "id": "bf2591",
+      "name": "星街すいせい",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 5,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0266,
+      "win_share": 0.0417,
+      "deck_rank": 1.4,
+      "top_cards": [
+        "hBP01-076",
+        "hBP01-048",
+        "hBP01-050"
+      ]
+    },
+    {
+      "id": "91c505",
+      "name": "AZKi",
+      "class": "緑",
+      "oshi_id": "hSD01-002",
+      "member": "AZKi",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0213,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP01-044",
+        "hSD01-013",
+        "hBP01-046"
+      ]
+    },
+    {
+      "id": "75ecf0",
+      "name": "こぼ・かなえる",
+      "class": "青",
+      "oshi_id": "hBP01-008",
+      "member": "こぼ・かなえる",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0213,
+      "win_share": 0.0,
+      "deck_rank": -3.0,
+      "top_cards": [
+        "hBP01-088",
+        "hBP01-024",
+        "hBP01-027"
+      ]
+    },
+    {
+      "id": "2999bf",
+      "name": "ときのそら",
+      "class": "白",
+      "oshi_id": "hSD01-001",
+      "member": "ときのそら",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.016,
+      "win_share": 0.0,
+      "deck_rank": -3.67,
+      "top_cards": [
+        "hSD01-016",
+        "hBP01-104",
+        "hBP01-028"
+      ]
+    },
+    {
+      "id": "182a69",
+      "name": "小鳥遊キアラ",
+      "class": "赤",
+      "oshi_id": "hBP01-006",
+      "member": "小鳥遊キアラ",
+      "count": 3,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.016,
+      "win_share": 0.0833,
+      "deck_rank": 11.0,
+      "top_cards": [
+        "hBP01-068",
+        "hBP01-071",
+        "hBP01-070"
+      ]
+    },
+    {
+      "id": "1a6394",
+      "name": "天音かなた（ときのそら・鷹嶺ルイ）",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 2,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0106,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "hBP01-021",
+        "hBP01-056",
+        "hSD01-016"
+      ]
+    },
+    {
+      "id": "e4d7ee",
+      "name": "小鳥遊キアラ",
+      "class": "白",
+      "oshi_id": "hBP01-024",
+      "member": "小鳥遊キアラ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0053,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP01-068",
+        "hBP01-071",
+        "hBP01-065"
+      ]
+    }
+  ]
+}

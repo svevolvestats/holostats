@@ -1,0 +1,169 @@
+{
+  "_split_suggestions": {
+    "549c7a": {
+      "name": "549c7a",
+      "oshi_id": "hBP01-007",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-040",
+              "card_name": "miComet",
+              "ratio": 62
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-078",
+              "y_name": "星街すいせい",
+              "y_ratio": 23,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-084",
+              "card_name": "みっころね24",
+              "ratio": 46
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-018",
+              "y_name": "サブパソコン",
+              "y_ratio": 46,
+              "co_occur_pct": 8,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 46
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 46,
+              "co_occur_pct": 8,
+              "diff_pct": -55
+            }
+          ]
+        }
+      ]
+    },
+    "eee764": {
+      "name": "eee764",
+      "oshi_id": "hBP02-006",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-052",
+              "card_name": "アイラニ・イオフィフティーン",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-034",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP05-031",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-126",
+              "y_name": "座員",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-071",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-079",
+              "card_name": "爆発の魔法",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 64,
+              "co_occur_pct": 9,
+              "diff_pct": -80
+            },
+            {
+              "y": "hBP02-019",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 64,
+              "co_occur_pct": 9,
+              "diff_pct": -80
+            },
+            {
+              "y": "hBP01-121",
+              "y_name": "Kotori",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

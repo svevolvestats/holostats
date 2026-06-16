@@ -1,0 +1,566 @@
+{
+  "f92698": {
+    "name": "天音かなた",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-009": {
+        "avg": 12.5,
+        "ratio": 1.0,
+        "rank": 0.825,
+        "avg_when_used": 12.5
+      },
+      "hBP01-012": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hBP01-013": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hBP01-014": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.598,
+        "avg_when_used": 4.0
+      },
+      "hBP01-116": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.513,
+        "avg_when_used": 2.75
+      },
+      "hBP02-084": {
+        "avg": 2.25,
+        "ratio": 1.0,
+        "rank": 0.964,
+        "avg_when_used": 2.25
+      },
+      "hBP01-108": {
+        "avg": 1.75,
+        "ratio": 1.0,
+        "rank": 0.186,
+        "avg_when_used": 1.75
+      },
+      "hBP01-010": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.607,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 2.0
+      },
+      "hBP02-019": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.244,
+        "avg_when_used": 1.0
+      },
+      "hSD01-018": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      },
+      "hBP01-011": {
+        "avg": 0.25,
+        "ratio": 0.25,
+        "rank": 0.266,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976845",
+        "deck_id": "5XNZW",
+        "rank": 1,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "メィリィ",
+        "friend_code": "OWQBH",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      },
+      {
+        "event": "976845",
+        "deck_id": "2A098",
+        "rank": 3,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "ガイウス",
+        "friend_code": "MAWLA",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      },
+      {
+        "event": "976845",
+        "deck_id": "27YNG",
+        "rank": 5,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "56寝すきー",
+        "friend_code": "CHLNE",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hSD01-018",
+            "flag": "in"
+          }
+        ]
+      },
+      {
+        "event": "976845",
+        "deck_id": "76AW8",
+        "rank": 7,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "まる",
+        "friend_code": "HUDYA",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28,
+        "variant_cards": [
+          {
+            "name": "hBP01-011",
+            "flag": "in"
+          }
+        ]
+      }
+    ],
+    "prev_id": "f92698",
+    "prev_period": "2025-01-18~2025-01-31"
+  },
+  "9a41cb": {
+    "name": "クレイジー・オリー",
+    "class": "紫",
+    "oshi_id": "hBP02-006",
+    "member": "クレイジー・オリー",
+    "cards": {
+      "hBP02-018": {
+        "avg": 10.5,
+        "ratio": 1.0,
+        "rank": 0.507,
+        "avg_when_used": 10.5
+      },
+      "hBP01-054": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 4.0
+      },
+      "hBP02-022": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 4.0
+      },
+      "hBP02-023": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 4.0
+      },
+      "hBP01-052": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.267,
+        "avg_when_used": 3.0
+      },
+      "hBP02-020": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.267,
+        "avg_when_used": 3.0
+      },
+      "hBP02-094": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 3.0
+      },
+      "hBP01-055": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 2.0
+      },
+      "hSD01-012": {
+        "avg": 2.0,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-108": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.47,
+        "avg_when_used": 2.0
+      },
+      "hSD01-017": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.313,
+        "avg_when_used": 1.5
+      },
+      "hBP02-084": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "hBP01-104": {
+        "avg": 1.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 3.0
+      },
+      "hBP02-021": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.853,
+        "avg_when_used": 2.0
+      },
+      "hBP02-075": {
+        "avg": 1.0,
+        "ratio": 0.5,
+        "rank": 0.853,
+        "avg_when_used": 2.0
+      },
+      "hBP02-019": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.716,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.716,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.716,
+        "avg_when_used": 1.0
+      },
+      "hSD01-018": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.224,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 8.5,
+        "ratio": 1.0
+      },
+      "hY01-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY04-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY05-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 2.5,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976845",
+        "deck_id": "4KP1N",
+        "rank": 2,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "夏目美緒",
+        "friend_code": "LNJBP",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      },
+      {
+        "event": "976845",
+        "deck_id": "3MJHN",
+        "rank": 4,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "もるがな",
+        "friend_code": "RAWYH",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      }
+    ],
+    "prev_id": "9a41cb",
+    "prev_period": "2025-01-18~2025-01-31"
+  },
+  "2aa36e": {
+    "name": "星街すいせい",
+    "class": "青",
+    "oshi_id": "hBP01-007",
+    "member": "星街すいせい",
+    "cards": {
+      "hBP01-076": {
+        "avg": 5.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 5.0
+      },
+      "hBP01-077": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-079": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-080": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-081": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP02-035": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP02-038": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hSD01-017": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-078": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP02-077": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976845",
+        "deck_id": "1TPQ0",
+        "rank": 6,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "スイッチ",
+        "friend_code": "KHWIZ",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      }
+    ],
+    "prev_id": "bf2591",
+    "prev_period": "2024-12-07~2024-12-19"
+  },
+  "560820": {
+    "name": "沙花叉クロヱ",
+    "class": "青",
+    "oshi_id": "hBP02-004",
+    "member": "沙花叉クロヱ",
+    "cards": {
+      "hBP02-035": {
+        "avg": 9.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 9.0
+      },
+      "hBP01-056": {
+        "avg": 6.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 6.0
+      },
+      "hBP01-060": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-036": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-037": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-038": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP02-040": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hSD01-018": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 4.0
+      },
+      "hBP01-061": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hBP02-080": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 3.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY04-001": {
+        "avg": 15.0,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 5.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976845",
+        "deck_id": "3C3GL",
+        "rank": 8,
+        "tourney_size": 9,
+        "participants": 1024,
+        "player": "Dora81",
+        "friend_code": "SVIWP",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-02-22",
+        "pref_code": 28
+      }
+    ]
+  }
+}

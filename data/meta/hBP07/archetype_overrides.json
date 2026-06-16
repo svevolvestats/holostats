@@ -1,0 +1,13 @@
+{
+  "merges": [],
+  "auto_splits": [],
+  "splits": [
+    {
+      "source": "ea736e",
+      "name": "ジジ・ムリン（ジジ型）",
+      "rules": [
+        { "required": ["hBP04-055"], "name": "ジジ・ムリン（ラプラス型）" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "era": "hBP01",
+  "period": {
+    "start": "2024-11-23",
+    "end": "2024-12-06"
+  },
+  "total_decks": 166,
+  "total_winners": 19,
+  "total_finalists": 40,
+  "archetypes": [
+    {
+      "id": "a9b7b2",
+      "name": "天音かなた（天音かなた）",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 63,
+      "winner": 11,
+      "finalist": 17,
+      "top8_share": 0.3795,
+      "win_share": 0.5789,
+      "deck_rank": 0.48,
+      "top_cards": [
+        "hBP01-009",
+        "hBP01-012",
+        "hBP01-014"
+      ],
+      "prev_id": "a9b7b2"
+    },
+    {
+      "id": "776883",
+      "name": "七詩ムメイ",
+      "class": "白",
+      "oshi_id": "hBP01-002",
+      "member": "七詩ムメイ",
+      "count": 54,
+      "winner": 4,
+      "finalist": 12,
+      "top8_share": 0.3253,
+      "win_share": 0.2105,
+      "deck_rank": -0.56,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-019",
+        "hBP01-030"
+      ],
+      "prev_id": "776883"
+    },
+    {
+      "id": "71cc9c",
+      "name": "兎田ぺこら（IRyS）",
+      "class": "緑",
+      "oshi_id": "hBP01-004",
+      "member": "兎田ぺこら",
+      "count": 18,
+      "winner": 2,
+      "finalist": 5,
+      "top8_share": 0.1084,
+      "win_share": 0.1053,
+      "deck_rank": 0.61,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-030",
+        "hBP01-019"
+      ],
+      "prev_id": "71cc9c"
+    },
+    {
+      "id": "0766e4",
+      "name": "天音かなた（IRyS・七詩ムメイ）",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 11,
+      "winner": 0,
+      "finalist": 3,
+      "top8_share": 0.0663,
+      "win_share": 0.0,
+      "deck_rank": -1.64,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-019",
+        "hBP01-113"
+      ],
+      "prev_id": "7dee96"
+    },
+    {
+      "id": "182a69",
+      "name": "小鳥遊キアラ",
+      "class": "赤",
+      "oshi_id": "hBP01-006",
+      "member": "小鳥遊キアラ",
+      "count": 5,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0301,
+      "win_share": 0.0526,
+      "deck_rank": 1.0,
+      "top_cards": [
+        "hBP01-068",
+        "hBP01-071",
+        "hBP01-070"
+      ],
+      "prev_id": "182a69"
+    },
+    {
+      "id": "bf2591",
+      "name": "星街すいせい",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0301,
+      "win_share": 0.0,
+      "deck_rank": -1.6,
+      "top_cards": [
+        "hBP01-076",
+        "hBP01-077",
+        "hBP01-081"
+      ],
+      "prev_id": "bf2591"
+    },
+    {
+      "id": "49d105",
+      "name": "兎田ぺこら（AZKi・First Gravity）",
+      "class": "緑",
+      "oshi_id": "hBP01-004",
+      "member": "兎田ぺこら",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0241,
+      "win_share": 0.0,
+      "deck_rank": -2.25,
+      "top_cards": [
+        "hBP01-044",
+        "hSD01-021",
+        "hSD01-013"
+      ],
+      "prev_id": "49d105"
+    },
+    {
+      "id": "2999bf",
+      "name": "ときのそら",
+      "class": "白",
+      "oshi_id": "hSD01-001",
+      "member": "ときのそら",
+      "count": 3,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0181,
+      "win_share": 0.0526,
+      "deck_rank": 2.0,
+      "top_cards": [
+        "hBP01-028",
+        "hBP01-015",
+        "hBP01-019"
+      ],
+      "prev_id": "2999bf"
+    },
+    {
+      "id": "91c505",
+      "name": "AZKi",
+      "class": "緑",
+      "oshi_id": "hSD01-002",
+      "member": "AZKi",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.012,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP01-062",
+        "hSD01-013",
+        "hBP01-046"
+      ],
+      "prev_id": "91c505"
+    },
+    {
+      "id": "75ecf0",
+      "name": "こぼ・かなえる",
+      "class": "青",
+      "oshi_id": "hBP01-008",
+      "member": "こぼ・かなえる",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.006,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP01-088",
+        "hBP01-024",
+        "hBP01-027"
+      ],
+      "prev_id": "75ecf0"
+    }
+  ]
+}

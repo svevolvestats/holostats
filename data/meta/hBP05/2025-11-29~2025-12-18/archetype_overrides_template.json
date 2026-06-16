@@ -1,0 +1,55 @@
+{
+  "_split_suggestions": {
+    "549c7a": {
+      "name": "549c7a",
+      "oshi_id": "hBP01-007",
+      "n": 71,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD03-013",
+              "card_name": "おかにゃん",
+              "ratio": 34
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 48,
+              "co_occur_pct": 3,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

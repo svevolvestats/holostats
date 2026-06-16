@@ -1,0 +1,370 @@
+{
+  "f92698": {
+    "name": "天音かなた",
+    "class": "白",
+    "oshi_id": "hBP01-001",
+    "member": "天音かなた",
+    "cards": {
+      "hBP01-009": {
+        "avg": 12.25,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 12.25
+      },
+      "hBP01-012": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hBP01-013": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hBP01-014": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hSD01-017": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hBP01-116": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.635,
+        "avg_when_used": 4.0
+      },
+      "hBP02-084": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 0.149,
+        "avg_when_used": 2.75
+      },
+      "hSD01-018": {
+        "avg": 1.25,
+        "ratio": 0.5,
+        "rank": 0.397,
+        "avg_when_used": 2.5
+      },
+      "hBP01-010": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.64,
+        "avg_when_used": 1.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 0.75,
+        "rank": 0.64,
+        "avg_when_used": 1.33
+      },
+      "hBP02-079": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.0,
+        "avg_when_used": 2.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976841",
+        "deck_id": "6Z67A",
+        "rank": 2,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "曳山まつり",
+        "friend_code": "YIJMB",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12
+      },
+      {
+        "event": "976841",
+        "deck_id": "5D7BS",
+        "rank": 5,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "フミコミザン",
+        "friend_code": "FLWKS",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12
+      },
+      {
+        "event": "976841",
+        "deck_id": "5MMH8",
+        "rank": 7,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "TaRu",
+        "friend_code": "VLZSX",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12
+      },
+      {
+        "event": "976841",
+        "deck_id": "5CXTY",
+        "rank": 8,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "まう",
+        "friend_code": "RRLGX",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP01-108",
+            "flag": "out"
+          }
+        ]
+      }
+    ],
+    "prev_id": "7dee96",
+    "prev_period": "2024-12-07~2024-12-19"
+  },
+  "9a41cb": {
+    "name": "クレイジー・オリー",
+    "class": "紫",
+    "oshi_id": "hBP02-006",
+    "member": "クレイジー・オリー",
+    "cards": {
+      "hBP02-018": {
+        "avg": 9.0,
+        "ratio": 1.0,
+        "rank": 0.725,
+        "avg_when_used": 9.0
+      },
+      "hBP01-054": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.584,
+        "avg_when_used": 4.0
+      },
+      "hBP02-022": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.584,
+        "avg_when_used": 4.0
+      },
+      "hBP02-023": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.584,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.584,
+        "avg_when_used": 4.0
+      },
+      "hBP01-104": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.584,
+        "avg_when_used": 4.0
+      },
+      "hBP02-021": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.685,
+        "avg_when_used": 3.5
+      },
+      "hBP02-094": {
+        "avg": 3.25,
+        "ratio": 1.0,
+        "rank": 0.531,
+        "avg_when_used": 3.25
+      },
+      "hSD01-012": {
+        "avg": 2.75,
+        "ratio": 1.0,
+        "rank": 1.0,
+        "avg_when_used": 2.75
+      },
+      "hBP02-084": {
+        "avg": 2.5,
+        "ratio": 1.0,
+        "rank": 0.458,
+        "avg_when_used": 2.5
+      },
+      "hBP01-055": {
+        "avg": 2.25,
+        "ratio": 1.0,
+        "rank": 0.517,
+        "avg_when_used": 2.25
+      },
+      "hBP02-075": {
+        "avg": 1.5,
+        "ratio": 0.75,
+        "rank": 0.413,
+        "avg_when_used": 2.0
+      },
+      "hBP02-019": {
+        "avg": 1.25,
+        "ratio": 1.0,
+        "rank": 0.49,
+        "avg_when_used": 1.25
+      },
+      "hSD01-017": {
+        "avg": 1.0,
+        "ratio": 0.75,
+        "rank": 0.376,
+        "avg_when_used": 1.33
+      },
+      "hBP02-020": {
+        "avg": 0.75,
+        "ratio": 0.25,
+        "rank": 0.234,
+        "avg_when_used": 3.0
+      },
+      "hBP01-052": {
+        "avg": 0.75,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 1.5
+      },
+      "hBP01-108": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.85,
+        "avg_when_used": 1.0
+      },
+      "hSD01-019": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.85,
+        "avg_when_used": 1.0
+      },
+      "hBP02-079": {
+        "avg": 0.5,
+        "ratio": 0.25,
+        "rank": 0.318,
+        "avg_when_used": 2.0
+      }
+    },
+    "cheer_cards": {
+      "hY02-001": {
+        "avg": 8.25,
+        "ratio": 1.0
+      },
+      "hY01-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY04-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY05-001": {
+        "avg": 3.0,
+        "ratio": 1.0
+      },
+      "hY03-001": {
+        "avg": 2.75,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "976841",
+        "deck_id": "3JKG0",
+        "rank": 1,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "Aki",
+        "friend_code": "RNTNF",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12
+      },
+      {
+        "event": "976841",
+        "deck_id": "4F79J",
+        "rank": 3,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "Renka",
+        "friend_code": "PTNKU",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hBP02-020",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-079",
+            "flag": "in"
+          },
+          {
+            "name": "hBP02-075",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "976841",
+        "deck_id": "5102N",
+        "rank": 4,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "クロ",
+        "friend_code": "ZCNRD",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12,
+        "variant_cards": [
+          {
+            "name": "hSD01-017",
+            "flag": "out"
+          }
+        ]
+      },
+      {
+        "event": "976841",
+        "deck_id": "5LQZJ",
+        "rank": 6,
+        "tourney_size": 9,
+        "participants": 1001,
+        "player": "そみー/HoloSpirits",
+        "friend_code": "LBEVU",
+        "venue": "hololive OFFICIAL CARD GAME公式",
+        "date": "2025-01-18",
+        "pref_code": 12
+      }
+    ]
+  }
+}

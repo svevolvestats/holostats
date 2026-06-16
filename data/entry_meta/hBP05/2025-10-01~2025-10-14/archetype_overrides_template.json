@@ -1,0 +1,391 @@
+{
+  "_split_suggestions": {
+    "0e8f6a": {
+      "name": "0e8f6a",
+      "oshi_id": "hBP01-007",
+      "n": 78,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-076",
+              "card_name": "星街すいせい",
+              "ratio": 14
+            },
+            {
+              "name": "hBP01-081",
+              "card_name": "星街すいせい",
+              "ratio": 14
+            },
+            {
+              "name": "hBP01-079",
+              "card_name": "星街すいせい",
+              "ratio": 15
+            },
+            {
+              "name": "hBP05-079",
+              "card_name": "み俺恥",
+              "ratio": 17
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-041",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP01-038",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP02-041",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 85,
+              "co_occur_pct": 5,
+              "diff_pct": -56
+            },
+            {
+              "y": "hSD03-003",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 90,
+              "co_occur_pct": 6,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD03-003",
+              "card_name": "猫又おかゆ",
+              "ratio": 90
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-079",
+              "y_name": "星街すいせい",
+              "y_ratio": 15,
+              "co_occur_pct": 8,
+              "diff_pct": -66
+            },
+            {
+              "y": "hBP05-079",
+              "y_name": "み俺恥",
+              "y_ratio": 17,
+              "co_occur_pct": 10,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "549c7a": {
+      "name": "549c7a",
+      "oshi_id": "hBP01-007",
+      "n": 37,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-014",
+              "card_name": "兎田ぺこら",
+              "ratio": 16
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-038",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 70,
+              "co_occur_pct": 3,
+              "diff_pct": -64
+            },
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 86,
+              "co_occur_pct": 5,
+              "diff_pct": -63
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-020",
+              "card_name": "ホロリスの輪",
+              "ratio": 16
+            },
+            {
+              "name": "hBP02-079",
+              "card_name": "爆発の魔法",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 54,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            },
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 51,
+              "co_occur_pct": 0,
+              "diff_pct": -61
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-114",
+              "card_name": "石の斧",
+              "ratio": 30
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-040",
+              "y_name": "miComet",
+              "y_ratio": 76,
+              "co_occur_pct": 11,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "cff087": {
+      "name": "cff087",
+      "oshi_id": "hBP05-003",
+      "n": 22,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 23
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-080",
+              "y_name": "SorAZセレブレーション",
+              "y_ratio": 82,
+              "co_occur_pct": 5,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    },
+    "bbb584": {
+      "name": "bbb584",
+      "oshi_id": "hBP05-004",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-038",
+              "card_name": "兎田ぺこら",
+              "ratio": 50
+            },
+            {
+              "name": "hBP01-041",
+              "card_name": "兎田ぺこら",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-077",
+              "y_name": "レトロパソコン",
+              "y_ratio": 56,
+              "co_occur_pct": 6,
+              "diff_pct": -89
+            }
+          ]
+        }
+      ]
+    },
+    "8a2e3a": {
+      "name": "8a2e3a",
+      "oshi_id": "hBP03-006",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-077",
+              "y_name": "レトロパソコン",
+              "y_ratio": 62,
+              "co_occur_pct": 6,
+              "diff_pct": -73
+            }
+          ]
+        }
+      ]
+    },
+    "54578e": {
+      "name": "54578e",
+      "oshi_id": "hSD01-002",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-042",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hBP05-043",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hBP05-044",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hBP05-045",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hSD03-002",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hSD03-007",
+              "card_name": "猫又おかゆ",
+              "ratio": 64
+            },
+            {
+              "name": "hSD03-003",
+              "card_name": "猫又おかゆ",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-016",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP05-014",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-041",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-038",
+              "y_name": "兎田ぺこら",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-108",
+              "card_name": "じゃあ敵だね",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD03-007",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 64,
+              "co_occur_pct": 14,
+              "diff_pct": -54
+            },
+            {
+              "y": "hSD03-002",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 64,
+              "co_occur_pct": 14,
+              "diff_pct": -54
+            },
+            {
+              "y": "hBP05-045",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 64,
+              "co_occur_pct": 14,
+              "diff_pct": -54
+            },
+            {
+              "y": "hBP05-044",
+              "y_name": "猫又おかゆ",
+              "y_ratio": 64,
+              "co_occur_pct": 14,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

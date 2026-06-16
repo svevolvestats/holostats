@@ -1,0 +1,124 @@
+{
+  "_split_suggestions": {
+    "4b267d": {
+      "name": "4b267d",
+      "oshi_id": "hBP01-006",
+      "n": 25,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-065",
+              "card_name": "小鳥遊キアラ",
+              "ratio": 80
+            },
+            {
+              "name": "hBP01-067",
+              "card_name": "小鳥遊キアラ",
+              "ratio": 80
+            },
+            {
+              "name": "hBP03-036",
+              "card_name": "小鳥遊キアラ",
+              "ratio": 80
+            },
+            {
+              "name": "hBP01-121",
+              "card_name": "Kotori",
+              "ratio": 76
+            },
+            {
+              "name": "hBP01-063",
+              "card_name": "小鳥遊キアラ",
+              "ratio": 72
+            },
+            {
+              "name": "hBP02-035",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 72
+            },
+            {
+              "name": "hBP02-038",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 72
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-126",
+              "y_name": "座員",
+              "y_ratio": 16,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            },
+            {
+              "y": "hBP01-125",
+              "y_name": "KFP",
+              "y_ratio": 16,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            },
+            {
+              "y": "hBP01-071",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 16,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            },
+            {
+              "y": "hBP01-070",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 16,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-104",
+              "card_name": "ふつうのパソコン",
+              "ratio": 44
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-076",
+              "y_name": "カスタムパソコン",
+              "y_ratio": 48,
+              "co_occur_pct": 8,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

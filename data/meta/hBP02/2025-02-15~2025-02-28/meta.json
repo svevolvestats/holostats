@@ -1,0 +1,87 @@
+{
+  "era": "hBP02",
+  "period": {
+    "start": "2025-02-15",
+    "end": "2025-02-28"
+  },
+  "total_decks": 8,
+  "total_winners": 1,
+  "total_finalists": 2,
+  "archetypes": [
+    {
+      "id": "f92698",
+      "name": "天音かなた",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 4,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.5,
+      "win_share": 1.0,
+      "deck_rank": 2.25,
+      "top_cards": [
+        "hBP01-009",
+        "hBP01-012",
+        "hBP01-013"
+      ],
+      "prev_id": "f92698"
+    },
+    {
+      "id": "9a41cb",
+      "name": "クレイジー・オリー",
+      "class": "紫",
+      "oshi_id": "hBP02-006",
+      "member": "クレイジー・オリー",
+      "count": 2,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.25,
+      "win_share": 0.0,
+      "deck_rank": 4.5,
+      "top_cards": [
+        "hBP02-018",
+        "hBP01-054",
+        "hBP02-022"
+      ],
+      "prev_id": "9a41cb"
+    },
+    {
+      "id": "2aa36e",
+      "name": "星街すいせい",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.125,
+      "win_share": 0.0,
+      "deck_rank": -9.0,
+      "top_cards": [
+        "hBP01-076",
+        "hBP01-077",
+        "hBP01-079"
+      ],
+      "prev_id": "bf2591"
+    },
+    {
+      "id": "560820",
+      "name": "沙花叉クロヱ",
+      "class": "青",
+      "oshi_id": "hBP02-004",
+      "member": "沙花叉クロヱ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.125,
+      "win_share": 0.0,
+      "deck_rank": -9.0,
+      "top_cards": [
+        "hBP02-035",
+        "hBP01-056",
+        "hBP01-060"
+      ]
+    }
+  ]
+}

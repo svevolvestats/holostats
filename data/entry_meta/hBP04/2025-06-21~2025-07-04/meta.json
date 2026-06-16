@@ -1,0 +1,156 @@
+{
+  "era": "hBP04",
+  "period": {
+    "start": "2025-06-21",
+    "end": "2025-07-04"
+  },
+  "total_decks": 76,
+  "total_winners": 9,
+  "total_finalists": 18,
+  "archetypes": [
+    {
+      "id": "9817ec",
+      "name": "宝鐘マリン",
+      "class": "赤",
+      "oshi_id": "hBP02-003",
+      "member": "宝鐘マリン",
+      "count": 18,
+      "winner": 2,
+      "finalist": 5,
+      "top8_share": 0.2368,
+      "win_share": 0.2222,
+      "deck_rank": 0.67,
+      "top_cards": [
+        "hBP02-028",
+        "hBP02-032",
+        "hBP02-033"
+      ]
+    },
+    {
+      "id": "471a51",
+      "name": "大空スバル",
+      "class": "黄",
+      "oshi_id": "hBP04-006",
+      "member": "大空スバル",
+      "count": 16,
+      "winner": 2,
+      "finalist": 2,
+      "top8_share": 0.2105,
+      "win_share": 0.2222,
+      "deck_rank": -2.12,
+      "top_cards": [
+        "hBP04-067",
+        "hBP04-072",
+        "hBP04-071"
+      ]
+    },
+    {
+      "id": "fac7a8",
+      "name": "雪花ラミィ",
+      "class": "青",
+      "oshi_id": "hBP04-004",
+      "member": "雪花ラミィ",
+      "count": 15,
+      "winner": 2,
+      "finalist": 5,
+      "top8_share": 0.1974,
+      "win_share": 0.2222,
+      "deck_rank": 1.6,
+      "top_cards": [
+        "hBP04-043",
+        "hBP04-048",
+        "hSD01-016"
+      ]
+    },
+    {
+      "id": "fa9b4b",
+      "name": "儒烏風亭らでん",
+      "class": "緑",
+      "oshi_id": "hBP04-002",
+      "member": "儒烏風亭らでん",
+      "count": 11,
+      "winner": 3,
+      "finalist": 5,
+      "top8_share": 0.1447,
+      "win_share": 0.3333,
+      "deck_rank": 3.45,
+      "top_cards": [
+        "hBP04-067",
+        "hSD01-016",
+        "hBP02-084"
+      ]
+    },
+    {
+      "id": "08f92c",
+      "name": "クレイジー・オリー",
+      "class": "紫",
+      "oshi_id": "hBP02-006",
+      "member": "クレイジー・オリー",
+      "count": 10,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.1316,
+      "win_share": 0.0,
+      "deck_rank": -2.6,
+      "top_cards": [
+        "hSD01-016",
+        "hBP01-104",
+        "hBP02-018"
+      ]
+    },
+    {
+      "id": "976557",
+      "name": "博衣こより",
+      "class": "白",
+      "oshi_id": "hBP04-001",
+      "member": "博衣こより",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0526,
+      "win_share": 0.0,
+      "deck_rank": -3.5,
+      "top_cards": [
+        "hBP04-008",
+        "hBP04-013",
+        "hBP01-104"
+      ]
+    },
+    {
+      "id": "b4093f",
+      "name": "一条莉々華",
+      "class": "赤",
+      "oshi_id": "hBP04-003",
+      "member": "一条莉々華",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0132,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP04-032",
+        "hBP04-035",
+        "hBP04-036"
+      ]
+    },
+    {
+      "id": "65eaf6",
+      "name": "紫咲シオン",
+      "class": "紫",
+      "oshi_id": "hBP02-005",
+      "member": "紫咲シオン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0132,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP02-042",
+        "hBP02-045",
+        "hBP02-047"
+      ]
+    }
+  ]
+}

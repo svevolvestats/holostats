@@ -1,0 +1,49 @@
+{
+  "era": "hBP02",
+  "period": {
+    "start": "2025-01-18",
+    "end": "2025-01-31"
+  },
+  "total_decks": 8,
+  "total_winners": 1,
+  "total_finalists": 2,
+  "archetypes": [
+    {
+      "id": "f92698",
+      "name": "天音かなた",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 4,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.5,
+      "win_share": 0.0,
+      "deck_rank": -4.5,
+      "top_cards": [
+        "hBP01-009",
+        "hBP01-012",
+        "hBP01-013"
+      ],
+      "prev_id": "7dee96"
+    },
+    {
+      "id": "9a41cb",
+      "name": "クレイジー・オリー",
+      "class": "紫",
+      "oshi_id": "hBP02-006",
+      "member": "クレイジー・オリー",
+      "count": 4,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.5,
+      "win_share": 1.0,
+      "deck_rank": 4.5,
+      "top_cards": [
+        "hBP02-018",
+        "hBP01-054",
+        "hBP02-022"
+      ]
+    }
+  ]
+}

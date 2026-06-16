@@ -1,0 +1,368 @@
+{
+  "_split_suggestions": {
+    "315829": {
+      "name": "315829",
+      "oshi_id": "hBP03-006",
+      "n": 141,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-106",
+              "card_name": "あとは任せた！",
+              "ratio": 18
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-075",
+              "y_name": "牛丼",
+              "y_ratio": 61,
+              "co_occur_pct": 0,
+              "diff_pct": -74
+            }
+          ]
+        }
+      ]
+    },
+    "0d0d2e": {
+      "name": "0d0d2e",
+      "oshi_id": "hBP06-003",
+      "n": 39,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-077",
+              "card_name": "レトロパソコン",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 3,
+              "diff_pct": -55
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 3,
+              "diff_pct": -55
+            },
+            {
+              "y": "hBP01-056",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 3,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP06-022",
+              "card_name": "風真いろは",
+              "ratio": 13
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            },
+            {
+              "y": "hBP01-056",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 46,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-079",
+              "card_name": "爆発の魔法",
+              "ratio": 13
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD06-006",
+              "y_name": "風真いろは",
+              "y_ratio": 74,
+              "co_occur_pct": 3,
+              "diff_pct": -62
+            }
+          ]
+        }
+      ]
+    },
+    "98f20d": {
+      "name": "98f20d",
+      "oshi_id": "hBP02-007",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-104",
+              "card_name": "ふつうのパソコン",
+              "ratio": 30
+            },
+            {
+              "name": "hBP02-059",
+              "card_name": "森カリオペ",
+              "ratio": 35
+            },
+            {
+              "name": "hSD01-017",
+              "card_name": "マネちゃん",
+              "ratio": 30
+            },
+            {
+              "name": "hBP02-055",
+              "card_name": "森カリオペ",
+              "ratio": 40
+            },
+            {
+              "name": "hBP01-048",
+              "card_name": "風真いろは",
+              "ratio": 30
+            },
+            {
+              "name": "hBP01-050",
+              "card_name": "風真いろは",
+              "ratio": 30
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-038",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 50,
+              "co_occur_pct": 0,
+              "diff_pct": -71
+            },
+            {
+              "y": "hBP02-035",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 50,
+              "co_occur_pct": 0,
+              "diff_pct": -71
+            },
+            {
+              "y": "hSD01-016",
+              "y_name": "春先のどか",
+              "y_ratio": 55,
+              "co_occur_pct": 5,
+              "diff_pct": -55
+            },
+            {
+              "y": "hBP02-040",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 35,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-040",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-098",
+              "y_name": "Death-sensei",
+              "y_ratio": 65,
+              "co_occur_pct": 10,
+              "diff_pct": -56
+            },
+            {
+              "y": "hBP02-058",
+              "y_name": "森カリオペ",
+              "y_ratio": 50,
+              "co_occur_pct": 5,
+              "diff_pct": -55
+            },
+            {
+              "y": "hBP02-059",
+              "y_name": "森カリオペ",
+              "y_ratio": 35,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "071f6d": {
+      "name": "071f6d",
+      "oshi_id": "hBP04-006",
+      "n": 15,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-114",
+              "card_name": "石の斧",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-090",
+              "y_name": "ブルームステージ",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP06-090",
+              "card_name": "ブルームステージ",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-114",
+              "y_name": "石の斧",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "713064": {
+      "name": "713064",
+      "oshi_id": "hBP01-004",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-104",
+              "card_name": "ふつうのパソコン",
+              "ratio": 36
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-094",
+              "y_name": "ワークアウト",
+              "y_ratio": 57,
+              "co_occur_pct": 0,
+              "diff_pct": -89
+            },
+            {
+              "y": "hBP03-065",
+              "y_name": "戌神ころね",
+              "y_ratio": 64,
+              "co_occur_pct": 7,
+              "diff_pct": -69
+            },
+            {
+              "y": "hBP06-060",
+              "y_name": "森カリオペ",
+              "y_ratio": 79,
+              "co_occur_pct": 14,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP06-058",
+              "y_name": "森カリオペ",
+              "y_ratio": 79,
+              "co_occur_pct": 14,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP06-094",
+              "card_name": "ワークアウト",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-033",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP02-032",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP02-028",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

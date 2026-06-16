@@ -1,0 +1,465 @@
+{
+  "era": "hBP07",
+  "period": {
+    "start": "2026-05-16",
+    "end": "2026-05-29"
+  },
+  "total_decks": 425,
+  "total_winners": 53,
+  "total_finalists": 107,
+  "archetypes": [
+    {
+      "id": "d9dc98",
+      "name": "AZKi（フロンティアスピリット・AZKi）",
+      "class": "紫",
+      "oshi_id": "hBP07-006",
+      "member": "AZKi",
+      "count": 119,
+      "winner": 9,
+      "finalist": 24,
+      "top8_share": 0.28,
+      "win_share": 0.1698,
+      "deck_rank": -0.88,
+      "top_cards": [
+        "フロンティアスピリット",
+        "AZKi",
+        "春先のどか"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "133bb1",
+      "name": "オーロ・クロニー",
+      "class": "青",
+      "oshi_id": "hBP07-005",
+      "member": "オーロ・クロニー",
+      "count": 116,
+      "winner": 21,
+      "finalist": 43,
+      "top8_share": 0.2729,
+      "win_share": 0.3962,
+      "deck_rank": 1.53,
+      "top_cards": [
+        "オーロ・クロニー",
+        "時の支配者 -Promise-",
+        "ふつうのパソコン"
+      ],
+      "prev_id": "133bb1"
+    },
+    {
+      "id": "1e85ec",
+      "name": "大神ミオ",
+      "class": "緑",
+      "oshi_id": "hBP07-003",
+      "member": "大神ミオ",
+      "count": 59,
+      "winner": 10,
+      "finalist": 15,
+      "top8_share": 0.1388,
+      "win_share": 0.1887,
+      "deck_rank": 0.73,
+      "top_cards": [
+        "エリザベス・ローズ・ブラッドフレイム",
+        "フェイバリットパソコン",
+        "ハコス・ベールズ"
+      ],
+      "prev_id": "1e85ec"
+    },
+    {
+      "id": "490a74",
+      "name": "AZKi（山田ルイ54世・沙花叉クロヱ）",
+      "class": "紫",
+      "oshi_id": "hBP07-006",
+      "member": "AZKi",
+      "count": 49,
+      "winner": 5,
+      "finalist": 9,
+      "top8_share": 0.1153,
+      "win_share": 0.0943,
+      "deck_rank": -0.86,
+      "top_cards": [
+        "山田ルイ54世",
+        "沙花叉クロヱ",
+        "鷹嶺ルイ"
+      ],
+      "prev_id": "d9dc98"
+    },
+    {
+      "id": "5ebce9",
+      "name": "風真いろは",
+      "class": "緑",
+      "oshi_id": "hBP06-003",
+      "member": "風真いろは",
+      "count": 16,
+      "winner": 2,
+      "finalist": 3,
+      "top8_share": 0.0376,
+      "win_share": 0.0377,
+      "deck_rank": -0.44,
+      "top_cards": [
+        "山田ルイ54世",
+        "風真いろは",
+        "フレンドリーパソコン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "bcf7fc",
+      "name": "角巻わため",
+      "class": "白",
+      "oshi_id": "hBP07-001",
+      "member": "角巻わため",
+      "count": 9,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0212,
+      "win_share": 0.0,
+      "deck_rank": -4.11,
+      "top_cards": [
+        "ふつうのパソコン",
+        "角巻わため",
+        "ラムダック"
+      ],
+      "prev_id": "bcf7fc"
+    },
+    {
+      "id": "c2108f",
+      "name": "兎田ぺこら",
+      "class": "緑",
+      "oshi_id": "hBP01-004",
+      "member": "兎田ぺこら",
+      "count": 6,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0141,
+      "win_share": 0.0,
+      "deck_rank": -4.17,
+      "top_cards": [
+        "山田ルイ54世",
+        "ブヒー！",
+        "ふつうのパソコン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "fc8c0f",
+      "name": "桃鈴ねね",
+      "class": "黄",
+      "oshi_id": "hBP07-007",
+      "member": "桃鈴ねね",
+      "count": 6,
+      "winner": 1,
+      "finalist": 4,
+      "top8_share": 0.0141,
+      "win_share": 0.0189,
+      "deck_rank": 2.5,
+      "top_cards": [
+        "桃鈴ねね",
+        "ねっ子",
+        "ブルームステージ"
+      ],
+      "prev_id": "fc8c0f"
+    },
+    {
+      "id": "ed00c3",
+      "name": "輪堂千速",
+      "class": "緑",
+      "oshi_id": "hSD10-001",
+      "member": "輪堂千速",
+      "count": 5,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0118,
+      "win_share": 0.0189,
+      "deck_rank": -0.8,
+      "top_cards": [
+        "輪堂千速",
+        "SorAZセレブレーション",
+        "ふつうのパソコン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "cf9435",
+      "name": "赤井はあと",
+      "class": "赤",
+      "oshi_id": "hBP07-004",
+      "member": "赤井はあと",
+      "count": 5,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0118,
+      "win_share": 0.0,
+      "deck_rank": -3.2,
+      "top_cards": [
+        "赤井はあと",
+        "ちゃま旅",
+        "ふつうのパソコン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "e16699",
+      "name": "シオリ・ノヴェラ",
+      "class": "青",
+      "oshi_id": "hSD12-001",
+      "member": "シオリ・ノヴェラ",
+      "count": 5,
+      "winner": 0,
+      "finalist": 2,
+      "top8_share": 0.0118,
+      "win_share": 0.0,
+      "deck_rank": 0.2,
+      "top_cards": [
+        "シオリ・ノヴェラ",
+        "ふつうのパソコン",
+        "春先のどか"
+      ]
+    },
+    {
+      "id": "04bcaf",
+      "name": "星街すいせい",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 5,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0118,
+      "win_share": 0.0189,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "春先のどか",
+        "ブルームステージ",
+        "フレンドリーパソコン"
+      ],
+      "prev_id": "20cb0d"
+    },
+    {
+      "id": "ea736e",
+      "name": "ジジ・ムリン",
+      "class": "黄",
+      "oshi_id": "hSD13-002",
+      "member": "ジジ・ムリン",
+      "count": 5,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0118,
+      "win_share": 0.0189,
+      "deck_rank": 1.2,
+      "top_cards": [
+        "ふつうのパソコン",
+        "ブヒー！",
+        "山田ルイ54世"
+      ]
+    },
+    {
+      "id": "2c5c91",
+      "name": "戌神ころね",
+      "class": "黄",
+      "oshi_id": "hBP03-006",
+      "member": "戌神ころね",
+      "count": 5,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0118,
+      "win_share": 0.0189,
+      "deck_rank": 1.4,
+      "top_cards": [
+        "holoAN",
+        "桃鈴ねね",
+        "SorAZセレブレーション"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "339f73",
+      "name": "森カリオペ",
+      "class": "紫",
+      "oshi_id": "hBP02-007",
+      "member": "森カリオペ",
+      "count": 4,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0094,
+      "win_share": 0.0,
+      "deck_rank": -3.5,
+      "top_cards": [
+        "SorAZセレブレーション",
+        "ふつうのパソコン",
+        "風真いろは"
+      ],
+      "prev_id": "339f73"
+    },
+    {
+      "id": "5da5e5",
+      "name": "響咲リオナ",
+      "class": "白",
+      "oshi_id": "hBP06-002",
+      "member": "響咲リオナ",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0047,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "響咲リオナ",
+        "フレンドリーパソコン",
+        "ブルームステージ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "d50700",
+      "name": "ラプラス・ダークネス",
+      "class": "紫",
+      "oshi_id": "hBP04-005",
+      "member": "ラプラス・ダークネス",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0047,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "山田ルイ54世",
+        "ブヒー！",
+        "ラプラス・ダークネス"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "ce7708",
+      "name": "ラオーラ・パンテーラ",
+      "class": "白",
+      "oshi_id": "hBP06-001",
+      "member": "ラオーラ・パンテーラ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 1,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": 4.0,
+      "top_cards": [
+        "ラオーラ・パンテーラ",
+        "ドローイングストリーム",
+        "春先のどか"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "6b36a6",
+      "name": "天音かなた",
+      "class": "白",
+      "oshi_id": "hBP01-001",
+      "member": "天音かなた",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "マネちゃん",
+        "ふつうのパソコン",
+        "角巻わためのハンマー"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "905984",
+      "name": "AZKi",
+      "class": "緑",
+      "oshi_id": "hSD01-002",
+      "member": "AZKi",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "森カリオペ",
+        "SorAZセレブレーション",
+        "春先のどか"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "8afdfc",
+      "name": "百鬼あやめ",
+      "class": "赤",
+      "oshi_id": "hBP06-004",
+      "member": "百鬼あやめ",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "百鬼あやめ",
+        "春先のどか",
+        "ふつうのパソコン"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "989538",
+      "name": "こぼ・かなえる",
+      "class": "青",
+      "oshi_id": "hBP01-008",
+      "member": "こぼ・かなえる",
+      "count": 1,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0024,
+      "win_share": 0.0189,
+      "deck_rank": 12.0,
+      "top_cards": [
+        "マネちゃん",
+        "春先のどか",
+        "ムーナ・ホシノヴァ"
+      ],
+      "prev_id": null
+    },
+    {
+      "id": "bd7281",
+      "name": "AZKi（桃鈴ねね・ねぽらぼ）",
+      "class": "紫",
+      "oshi_id": "hBP07-006",
+      "member": "AZKi",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": 0.0,
+      "top_cards": [
+        "桃鈴ねね",
+        "ねぽらぼ",
+        "ドローイングストリーム"
+      ],
+      "prev_id": "490a74"
+    },
+    {
+      "id": "19b60a",
+      "name": "AZKi（山田ルイ54世・ブヒー！）",
+      "class": "紫",
+      "oshi_id": "hBP07-006",
+      "member": "AZKi",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0024,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "山田ルイ54世",
+        "ブヒー！",
+        "風真いろは"
+      ]
+    }
+  ]
+}

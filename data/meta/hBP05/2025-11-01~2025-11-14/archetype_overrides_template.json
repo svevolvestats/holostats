@@ -1,0 +1,145 @@
+{
+  "_split_suggestions": {
+    "eee764": {
+      "name": "eee764",
+      "oshi_id": "hBP02-006",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-068",
+              "card_name": "尾丸ポルカ",
+              "ratio": 38
+            },
+            {
+              "name": "hBP01-070",
+              "card_name": "尾丸ポルカ",
+              "ratio": 38
+            },
+            {
+              "name": "hBP01-071",
+              "card_name": "尾丸ポルカ",
+              "ratio": 38
+            },
+            {
+              "name": "hBP05-031",
+              "card_name": "尾丸ポルカ",
+              "ratio": 38
+            },
+            {
+              "name": "hBP01-062",
+              "card_name": "小鳥遊キアラ",
+              "ratio": 31
+            },
+            {
+              "name": "hBP01-125",
+              "card_name": "KFP",
+              "ratio": 31
+            },
+            {
+              "name": "hBP05-034",
+              "card_name": "尾丸ポルカ",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-094",
+              "y_name": "Tatang",
+              "y_ratio": 62,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP02-023",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 62,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP02-022",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 62,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP02-021",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 62,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-019",
+              "card_name": "パヴォリア・レイネ",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-031",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP02-079",
+              "y_name": "爆発の魔法",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-071",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-070",
+              "y_name": "尾丸ポルカ",
+              "y_ratio": 38,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

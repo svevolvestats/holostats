@@ -1,0 +1,123 @@
+{
+  "_split_suggestions": {
+    "315829": {
+      "name": "315829",
+      "oshi_id": "hBP03-006",
+      "n": 130,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-106",
+              "card_name": "あとは任せた！",
+              "ratio": 15
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-075",
+              "y_name": "牛丼",
+              "y_ratio": 65,
+              "co_occur_pct": 1,
+              "diff_pct": -71
+            }
+          ]
+        }
+      ]
+    },
+    "0d0d2e": {
+      "name": "0d0d2e",
+      "oshi_id": "hBP06-003",
+      "n": 41,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-079",
+              "card_name": "爆発の魔法",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-025",
+              "y_name": "風真いろは",
+              "y_ratio": 49,
+              "co_occur_pct": 0,
+              "diff_pct": -61
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP06-090",
+              "card_name": "ブルームステージ",
+              "ratio": 27
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD06-006",
+              "y_name": "風真いろは",
+              "y_ratio": 78,
+              "co_occur_pct": 10,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    },
+    "dcf50a": {
+      "name": "dcf50a",
+      "oshi_id": "hBP06-001",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP06-012",
+              "card_name": "ラオーラ・パンテーラ",
+              "ratio": 40
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-017",
+              "y_name": "ラオーラ・パンテーラ",
+              "y_ratio": 60,
+              "co_occur_pct": 5,
+              "diff_pct": -79
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

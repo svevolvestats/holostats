@@ -1,0 +1,274 @@
+{
+  "_split_suggestions": {
+    "9817ec": {
+      "name": "9817ec",
+      "oshi_id": "hBP02-003",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-085",
+              "card_name": "HOLOLIVE FANTASY",
+              "ratio": 39
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-019",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 61,
+              "co_occur_pct": 6,
+              "diff_pct": -77
+            },
+            {
+              "y": "hBP02-075",
+              "y_name": "アイドルサインペン",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -64
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-075",
+              "card_name": "アイドルサインペン",
+              "ratio": 39
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-085",
+              "y_name": "HOLOLIVE FANTASY",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -64
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-095",
+              "card_name": "ドクロくん",
+              "ratio": 50
+            },
+            {
+              "name": "hBP02-076",
+              "card_name": "カスタムパソコン",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-018",
+              "y_name": "サブパソコン",
+              "y_ratio": 50,
+              "co_occur_pct": 11,
+              "diff_pct": -56
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-095",
+              "y_name": "ドクロくん",
+              "y_ratio": 50,
+              "co_occur_pct": 11,
+              "diff_pct": -56
+            }
+          ]
+        }
+      ]
+    },
+    "471a51": {
+      "name": "471a51",
+      "oshi_id": "hBP04-006",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-104",
+              "card_name": "スバルドダック",
+              "ratio": 69
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-038",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 19,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "fac7a8": {
+      "name": "fac7a8",
+      "oshi_id": "hBP04-004",
+      "n": 15,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-101",
+              "card_name": "だいふく",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP02-045",
+              "y_name": "紫咲シオン",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP02-042",
+              "y_name": "紫咲シオン",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-042",
+              "card_name": "紫咲シオン",
+              "ratio": 33
+            },
+            {
+              "name": "hBP02-045",
+              "card_name": "紫咲シオン",
+              "ratio": 33
+            },
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-101",
+              "y_name": "だいふく",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "fa9b4b": {
+      "name": "fa9b4b",
+      "oshi_id": "hBP04-002",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-067",
+              "card_name": "大空スバル",
+              "ratio": 55
+            },
+            {
+              "name": "hBP04-069",
+              "card_name": "大空スバル",
+              "ratio": 55
+            },
+            {
+              "name": "hBP04-071",
+              "card_name": "大空スバル",
+              "ratio": 55
+            },
+            {
+              "name": "hBP04-072",
+              "card_name": "大空スバル",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD05-011",
+              "y_name": "一条莉々華",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP04-094",
+              "y_name": "まいたけダンス",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP04-091",
+              "y_name": "限界飯",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

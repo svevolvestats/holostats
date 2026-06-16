@@ -1,0 +1,324 @@
+{
+  "_split_suggestions": {
+    "9817ec": {
+      "name": "9817ec",
+      "oshi_id": "hBP02-003",
+      "n": 75,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 16
+            },
+            {
+              "name": "hBP01-088",
+              "card_name": "ムーナ・ホシノヴァ",
+              "ratio": 12
+            },
+            {
+              "name": "hBP01-090",
+              "card_name": "ムーナ・ホシノヴァ",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-019",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 77,
+              "co_occur_pct": 3,
+              "diff_pct": -72
+            },
+            {
+              "y": "hBP02-075",
+              "y_name": "アイドルサインペン",
+              "y_ratio": 52,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            }
+          ]
+        }
+      ]
+    },
+    "fa9b4b": {
+      "name": "fa9b4b",
+      "oshi_id": "hBP04-002",
+      "n": 63,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-105",
+              "card_name": "ペンライト",
+              "ratio": 11
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 52,
+              "co_occur_pct": 0,
+              "diff_pct": -59
+            }
+          ]
+        }
+      ]
+    },
+    "471a51": {
+      "name": "471a51",
+      "oshi_id": "hBP04-006",
+      "n": 41,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-077",
+              "card_name": "レトロパソコン",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-033",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 73,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP02-032",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 73,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP02-028",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 73,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 68,
+              "co_occur_pct": 0,
+              "diff_pct": -90
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP04-038",
+              "card_name": "宝鐘マリン",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 59,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "fac7a8": {
+      "name": "fac7a8",
+      "oshi_id": "hBP04-004",
+      "n": 40,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-092",
+              "card_name": "ねぽらぼ",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 48,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "9c95a0": {
+      "name": "9c95a0",
+      "oshi_id": "hBP04-002",
+      "n": 21,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-077",
+              "card_name": "レトロパソコン",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-033",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 57,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            },
+            {
+              "y": "hBP02-032",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 57,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            },
+            {
+              "y": "hBP02-028",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 57,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            }
+          ]
+        }
+      ]
+    },
+    "da35c6": {
+      "name": "da35c6",
+      "oshi_id": "hBP02-006",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-028",
+              "card_name": "宝鐘マリン",
+              "ratio": 33
+            },
+            {
+              "name": "hBP02-032",
+              "card_name": "宝鐘マリン",
+              "ratio": 33
+            },
+            {
+              "name": "hBP02-033",
+              "card_name": "宝鐘マリン",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-049",
+              "y_name": "ムーナ・ホシノヴァ",
+              "y_ratio": 50,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            },
+            {
+              "y": "hBP02-079",
+              "y_name": "爆発の魔法",
+              "y_ratio": 50,
+              "co_occur_pct": 0,
+              "diff_pct": -75
+            }
+          ]
+        }
+      ]
+    },
+    "976557": {
+      "name": "976557",
+      "oshi_id": "hBP04-001",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-079",
+              "card_name": "爆発の魔法",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-033",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP02-032",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP02-028",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 30,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP04-009",
+              "card_name": "博衣こより",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-019",
+              "y_name": "パヴォリア・レイネ",
+              "y_ratio": 60,
+              "co_occur_pct": 10,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

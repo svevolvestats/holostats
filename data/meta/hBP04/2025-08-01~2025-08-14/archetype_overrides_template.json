@@ -1,0 +1,401 @@
+{
+  "_split_suggestions": {
+    "d7a74b": {
+      "name": "d7a74b",
+      "oshi_id": "hBP01-007",
+      "n": 55,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-076",
+              "card_name": "カスタムパソコン",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 49,
+              "co_occur_pct": 0,
+              "diff_pct": -64
+            },
+            {
+              "y": "hBP02-045",
+              "y_name": "紫咲シオン",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -52
+            },
+            {
+              "y": "hBP02-042",
+              "y_name": "紫咲シオン",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-042",
+              "card_name": "紫咲シオン",
+              "ratio": 40
+            },
+            {
+              "name": "hBP02-045",
+              "card_name": "紫咲シオン",
+              "ratio": 40
+            },
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 49
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 71,
+              "co_occur_pct": 13,
+              "diff_pct": -65
+            },
+            {
+              "y": "hBP01-080",
+              "y_name": "星街すいせい",
+              "y_ratio": 53,
+              "co_occur_pct": 5,
+              "diff_pct": -65
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP03-087",
+              "card_name": "コールアンドレスポンス",
+              "ratio": 13
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 65,
+              "co_occur_pct": 2,
+              "diff_pct": -59
+            },
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 49,
+              "co_occur_pct": 0,
+              "diff_pct": -56
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-115",
+              "card_name": "星街すいせいのマイク",
+              "ratio": 18
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-089",
+              "y_name": "ツートンカラーパソコン",
+              "y_ratio": 49,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "af8a9f": {
+      "name": "af8a9f",
+      "oshi_id": "hBP01-001",
+      "n": 42,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-032",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            },
+            {
+              "name": "hBP04-034",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            },
+            {
+              "name": "hBP04-035",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            },
+            {
+              "name": "hBP04-036",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            },
+            {
+              "name": "hBP04-037",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            },
+            {
+              "name": "hBP04-091",
+              "card_name": "限界飯",
+              "ratio": 12
+            },
+            {
+              "name": "hSD05-011",
+              "card_name": "一条莉々華",
+              "ratio": 12
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-019",
+              "y_name": "スゴイパソコン",
+              "y_ratio": 86,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP01-116",
+              "y_name": "うぱお",
+              "y_ratio": 86,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP01-014",
+              "y_name": "天音かなた",
+              "y_ratio": 86,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            },
+            {
+              "y": "hBP01-013",
+              "y_name": "天音かなた",
+              "y_ratio": 86,
+              "co_occur_pct": 0,
+              "diff_pct": -97
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP03-088",
+              "card_name": "凸待ち",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-018",
+              "y_name": "サブパソコン",
+              "y_ratio": 60,
+              "co_occur_pct": 0,
+              "diff_pct": -69
+            }
+          ]
+        }
+      ]
+    },
+    "6471bb": {
+      "name": "6471bb",
+      "oshi_id": "hBP01-008",
+      "n": 23,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-017",
+              "card_name": "マネちゃん",
+              "ratio": 30
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-033",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 83,
+              "co_occur_pct": 13,
+              "diff_pct": -57
+            },
+            {
+              "y": "hBP02-032",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 83,
+              "co_occur_pct": 13,
+              "diff_pct": -57
+            },
+            {
+              "y": "hBP02-028",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 83,
+              "co_occur_pct": 13,
+              "diff_pct": -57
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-019",
+              "card_name": "スゴイパソコン",
+              "ratio": 26
+            },
+            {
+              "name": "hBP02-075",
+              "card_name": "アイドルサインペン",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 61,
+              "co_occur_pct": 4,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 70
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-075",
+              "y_name": "アイドルサインペン",
+              "y_ratio": 35,
+              "co_occur_pct": 13,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    },
+    "e35e56": {
+      "name": "e35e56",
+      "oshi_id": "hBP03-006",
+      "n": 23,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP03-088",
+              "card_name": "凸待ち",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 48,
+              "co_occur_pct": 4,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "9817ec": {
+      "name": "9817ec",
+      "oshi_id": "hBP02-003",
+      "n": 16,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 31
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-095",
+              "y_name": "ドクロくん",
+              "y_ratio": 75,
+              "co_occur_pct": 12,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "18e5a3": {
+      "name": "18e5a3",
+      "oshi_id": "hSD01-002",
+      "n": 10,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-048",
+              "card_name": "風真いろは",
+              "ratio": 50
+            },
+            {
+              "name": "hBP01-050",
+              "card_name": "風真いろは",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
