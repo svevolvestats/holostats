@@ -18,7 +18,9 @@
       var data={},has=false;
       try{for(var i=0;i<KEYS.length;i++){var v=localStorage.getItem(KEYS[i]);if(v!==null){data[KEYS[i]]=v;has=true;}}}catch(e){}
       var exported=false;try{exported=!!localStorage.getItem('sve-exported');}catch(e){}
-      if(!has||(!isExport&&exported)){location.replace(CC+path);return;}
+      // In export mode (.cc explicitly asked), always POST — even an empty payload —
+      // so .cc records sve-migrated and stops bouncing. Only skip for organic visits.
+      if(!isExport&&(!has||exported)){location.replace(CC+path);return;}
       var b64='';
       try{var bytes=new TextEncoder().encode(JSON.stringify(data)),bin='';for(var j=0;j<bytes.length;j++)bin+=String.fromCharCode(bytes[j]);b64=btoa(bin);}
       catch(e){location.replace(CC+path);return;}
@@ -32,10 +34,18 @@
 
     if(H==='svestats.cc'){
       if(BOT)return;
+      // Storage-independent loop guard (key for in-app browsers like X/Twitter that drop
+      // localStorage/sessionStorage across navigations): if we just came back from the old
+      // domain or the /migrate handler, migration already ran/attempted — never bounce again.
+      try{var ref=document.referrer||'';if(ref.indexOf('//svestats.pages.dev')!==-1||ref.indexOf('//svestats.cc/migrate')!==-1)return;}catch(e){}
       var migrated=false;try{migrated=!!localStorage.getItem('sve-migrated');}catch(e){}
       if(migrated)return;
       var canWrite=false;try{localStorage.setItem('sve-wtest','1');localStorage.removeItem('sve-wtest');canWrite=true;}catch(e){}
       if(!canWrite)return;
+      // Loop guard: bounce at most once per tab session. If we return still unmigrated
+      // (migrate fn missing, empty data, write blocked), do NOT bounce again — render as-is.
+      var bounced=false;try{bounced=!!sessionStorage.getItem('sve-bounced');sessionStorage.setItem('sve-bounced','1');}catch(e){}
+      if(bounced)return;
       var p=canon();location.replace(OLD+p+(p.indexOf('?')===-1?'?':'&')+'export=1');
       return;
     }
@@ -60,7 +70,7 @@
     gtag('js', new Date());
     gtag('config', 'G-0QBNR5JS39');
   </script>
-  <script type="module" crossorigin src="/assets/index-C87MQlM5.js"></script>
+  <script type="module" crossorigin src="/assets/index-Bbl-72MX.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-BV8sFM4Z.css">
 </head>
 <body>
