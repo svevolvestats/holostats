@@ -1,0 +1,135 @@
+{
+  "_split_suggestions": {
+    "490a74": {
+      "name": "490a74",
+      "oshi_id": "hBP07-006",
+      "n": 63,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-057",
+              "card_name": "ラプラス・ダークネス",
+              "ratio": 19
+            },
+            {
+              "name": "hBP04-054",
+              "card_name": "ラプラス・ダークネス",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-056",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 43,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            },
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 41,
+              "co_occur_pct": 0,
+              "diff_pct": -51
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 41,
+              "co_occur_pct": 0,
+              "diff_pct": -51
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-037",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-039",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-039",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-037",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 33,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "5ebce9": {
+      "name": "5ebce9",
+      "oshi_id": "hBP06-003",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD14-010",
+              "card_name": "holoAN",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-080",
+              "y_name": "SorAZセレブレーション",
+              "y_ratio": 36,
+              "co_occur_pct": 0,
+              "diff_pct": -80
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

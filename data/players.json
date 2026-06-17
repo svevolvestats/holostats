@@ -257,8 +257,28 @@
     ],
     "wins": 5,
     "second": 2,
-    "top8": 22,
+    "top8": 24,
     "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "5DE05",
+        "rank": 7,
+        "event_id": "1607225",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "1B85F",
+        "rank": 6,
+        "event_id": "1610390",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "CARD WINGS　秋葉原駅前店",
@@ -678,8 +698,18 @@
     ],
     "wins": 0,
     "second": 3,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "4AX73",
+        "rank": 5,
+        "event_id": "1613653",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 24
+      },
       {
         "date": "2026-05-20",
         "venue": "トレカチャンス日本橋店",
@@ -759,9 +789,19 @@
       "MAC72"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 4,
+    "second": 1,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "68YKX",
+        "rank": 2,
+        "event_id": "1616382",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 34
+      },
       {
         "date": "2026-06-02",
         "venue": "カードボックス横浜西口2号店",
@@ -1060,9 +1100,19 @@
       "ショート"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 3,
+    "second": 1,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "3QY8H",
+        "rank": 2,
+        "event_id": "1602744",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 30
+      },
       {
         "date": "2025-08-11",
         "venue": "カードボックス福山店",
@@ -1365,8 +1415,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "3PG09",
+        "rank": 7,
+        "event_id": "1614082",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 19
+      },
       {
         "date": "2026-05-24",
         "venue": "アメニティードリーム秋葉原",
@@ -1715,8 +1775,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 11,
+    "top8": 12,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "4NNVK",
+        "rank": 3,
+        "event_id": "1621884",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-06-06",
         "venue": "カードショップ竜星のPAO大宮店",
@@ -1989,8 +2059,18 @@
     ],
     "wins": 4,
     "second": 3,
-    "top8": 13,
+    "top8": 14,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "114X7",
+        "rank": 5,
+        "event_id": "1627934",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-06-06",
         "venue": "シーガル仙台駅前店",
@@ -2377,10 +2457,20 @@
     "names": [
       "じふ"
     ],
-    "wins": 4,
+    "wins": 5,
     "second": 2,
-    "top8": 13,
+    "top8": 14,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "39CHX",
+        "rank": 1,
+        "event_id": "1613497",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-23",
         "venue": "オレタン福岡天神店",
@@ -2618,9 +2708,19 @@
       "Japan"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 6,
+    "second": 1,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "4WTCV",
+        "rank": 2,
+        "event_id": "1613497",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-02-23",
         "venue": "カードラボ　博多マルイ店",
@@ -2689,8 +2789,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "5Z1J5",
+        "rank": 8,
+        "event_id": "1639120",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 27
+      },
       {
         "date": "2025-04-19",
         "venue": "遊ING熊本上通り店",
@@ -3120,8 +3230,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "1KFLV",
+        "rank": 3,
+        "event_id": "1612813",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 32
+      },
       {
         "date": "2024-11-23",
         "venue": "カードボックス横浜西口2号店",
@@ -3289,9 +3409,19 @@
       "BLACK"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 3,
+    "second": 1,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "60EVB",
+        "rank": 2,
+        "event_id": "1602060",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-06-04",
         "venue": "パピー弥富店",
@@ -3623,8 +3753,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "7ZBT7",
+        "rank": 3,
+        "event_id": "1631200",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 15
+      },
       {
         "date": "2026-05-31",
         "venue": "シーガル嶋北店",
@@ -3783,8 +3923,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 18,
+    "top8": 19,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "5R3RT",
+        "rank": 8,
+        "event_id": "1600215",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-05-30",
         "venue": "トレカショップ ジョニー",
@@ -4061,10 +4211,20 @@
     "names": [
       "スズキング"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "187U5",
+        "rank": 1,
+        "event_id": "1616382",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 34
+      },
       {
         "date": "2026-06-07",
         "venue": "カードショップ竜星のPAO立川店",
@@ -4133,8 +4293,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "2U68Z",
+        "rank": 8,
+        "event_id": "1628261",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-31",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -4323,8 +4493,18 @@
     ],
     "wins": 1,
     "second": 2,
-    "top8": 12,
+    "top8": 13,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "4K5T3",
+        "rank": 8,
+        "event_id": "1616644",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 28
+      },
       {
         "date": "2026-06-06",
         "venue": "GIRAFULL なんば店",
@@ -4687,8 +4867,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "23J1D",
+        "rank": 5,
+        "event_id": "1621884",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2025-11-01",
         "venue": "CARD WINGS　秋葉原駅前店",
@@ -4907,8 +5097,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "25K73",
+        "rank": 6,
+        "event_id": "1628261",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "遊INGコマーシャルモール博多店",
@@ -5137,9 +5337,19 @@
       "ジュン"
     ],
     "wins": 2,
-    "second": 0,
-    "top8": 6,
+    "second": 1,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "URMM",
+        "rank": 2,
+        "event_id": "1628261",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-31",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -5437,10 +5647,20 @@
       "如月海人/ぶるーむ！ch.",
       "如月海人"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "2UFUH",
+        "rank": 1,
+        "event_id": "1639120",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-05-30",
         "venue": "GIRAFULL なんば店",
@@ -5748,10 +5968,20 @@
     "names": [
       "霧風"
     ],
-    "wins": 2,
+    "wins": 3,
     "second": 4,
-    "top8": 12,
+    "top8": 13,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "666S9",
+        "rank": 1,
+        "event_id": "1617102",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      },
       {
         "date": "2026-05-24",
         "venue": "トレカショップ竜のしっぽ 姫路店",
@@ -6011,9 +6241,19 @@
       "ものくま"
     ],
     "wins": 0,
-    "second": 1,
-    "top8": 2,
+    "second": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "7425F",
+        "rank": 2,
+        "event_id": "1610432",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "オレタン松山店",
@@ -6058,12 +6298,23 @@
   },
   "JDXAT": {
     "names": [
-      "ReGLOSS箱推しニキ"
+      "ReGLOSS箱推しニキ",
+      "GLOSSER"
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "2S1TK",
+        "rank": 3,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2024-11-16",
         "venue": "ビデオ100徳島藍住店",
@@ -6080,10 +6331,20 @@
     "names": [
       "くお"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "190MF",
+        "rank": 1,
+        "event_id": "1602744",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2025-11-01",
         "venue": "オレタン松山店",
@@ -6903,8 +7164,18 @@
     ],
     "wins": 5,
     "second": 1,
-    "top8": 8,
+    "top8": 9,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "3RFVF",
+        "rank": 7,
+        "event_id": "1621884",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-06-07",
         "venue": "フルコンプPLAYERS CENTER札幌駅前店",
@@ -7213,8 +7484,18 @@
     ],
     "wins": 0,
     "second": 4,
-    "top8": 8,
+    "top8": 9,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "5ZAYD",
+        "rank": 7,
+        "event_id": "1610433",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2026-05-23",
         "venue": "ビデオ100徳島藍住店",
@@ -7562,10 +7843,20 @@
       "タナカ",
       "ぺんぎん"
     ],
-    "wins": 3,
+    "wins": 4,
     "second": 1,
-    "top8": 11,
+    "top8": 12,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "4AXA1",
+        "rank": 1,
+        "event_id": "1610390",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "トレーディングカードゲームショップ193名駅椿店",
@@ -7817,8 +8108,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "6TE2H",
+        "rank": 4,
+        "event_id": "1606041",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-02-23",
         "venue": "CARD SHOP ラリアット！",
@@ -7907,8 +8208,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "399C3",
+        "rank": 4,
+        "event_id": "1602493",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 31
+      },
       {
         "date": "2025-04-27",
         "venue": "フルコンプPLAYERS CENTER札幌駅前店",
@@ -9231,10 +9542,20 @@
     "names": [
       "え"
     ],
-    "wins": 5,
+    "wins": 6,
     "second": 1,
-    "top8": 18,
+    "top8": 19,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "5PVS1",
+        "rank": 1,
+        "event_id": "1612901",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "ホビーステーション神戸三宮店",
@@ -11374,8 +11695,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "7042Z",
+        "rank": 6,
+        "event_id": "1612813",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-04",
         "venue": "Japan TCG Center吉祥寺駅北口店",
@@ -11594,8 +11925,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "46B11",
+        "rank": 4,
+        "event_id": "1607621",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-05-13",
         "venue": "パピー弥富店",
@@ -12114,8 +12455,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "2RV2D",
+        "rank": 8,
+        "event_id": "1612813",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "フルコンプ千葉店",
@@ -12446,8 +12797,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "111R3",
+        "rank": 4,
+        "event_id": "1613497",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "遊INGコマーシャルモール博多店",
@@ -12485,10 +12846,20 @@
       "ぱぷりけ",
       "そうちゃん"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "4NKSZ",
+        "rank": 1,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2026-06-07",
         "venue": "カードボックス広島店",
@@ -12607,8 +12978,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "4NG9D",
+        "rank": 7,
+        "event_id": "1628261",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 32
+      },
       {
         "date": "2026-05-10",
         "venue": "カードラボ福岡天神店",
@@ -12979,9 +13360,19 @@
       "パタパタ"
     ],
     "wins": 2,
-    "second": 0,
-    "top8": 7,
+    "second": 1,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "1U9C1",
+        "rank": 2,
+        "event_id": "1613875",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-06-07",
         "venue": "ハリケーンなんば店",
@@ -13621,8 +14012,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "45869",
+        "rank": 6,
+        "event_id": "1616644",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 28
+      },
       {
         "date": "2026-02-23",
         "venue": "ホビーステーション　イオンモールKYOTO店",
@@ -14082,10 +14483,20 @@
     "names": [
       "リオン"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 2,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "3Z2VK",
+        "rank": 1,
+        "event_id": "1621022",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-25",
         "venue": "ホビーステーション金沢店",
@@ -14836,8 +15247,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "25HQZ",
+        "rank": 5,
+        "event_id": "1617102",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "ホビーステーション神戸三宮店",
@@ -15145,9 +15566,19 @@
       "タケ"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 2,
+    "second": 1,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "1QGT7",
+        "rank": 2,
+        "event_id": "1607700",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2025-08-01",
         "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
@@ -15709,10 +16140,20 @@
     "names": [
       "Renka"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "2JECR",
+        "rank": 1,
+        "event_id": "1620051",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-05-30",
         "venue": "青馬堂本店",
@@ -16064,8 +16505,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "7NCWH",
+        "rank": 6,
+        "event_id": "1621022",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "トーナメントセンターバトロコ金沢駅前",
@@ -16445,8 +16896,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "XPZF",
+        "rank": 7,
+        "event_id": "1610432",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-02-28",
         "venue": "マナソース和歌山駅前店",
@@ -16940,8 +17401,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "57H6F",
+        "rank": 4,
+        "event_id": "1631200",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 15
+      },
       {
         "date": "2026-02-23",
         "venue": "Cards of Paradise桜木店",
@@ -17250,8 +17721,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "35W1H",
+        "rank": 6,
+        "event_id": "1630535",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      },
       {
         "date": "2026-05-30",
         "venue": "ビデオ100徳島藍住店",
@@ -18477,8 +18958,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 9,
+    "top8": 10,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "5EXDV",
+        "rank": 3,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hSD01-002",
+        "participants": 32
+      },
       {
         "date": "2026-05-26",
         "venue": "ホビーステーション仙台駅前店",
@@ -18839,8 +19330,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "5DGV1",
+        "rank": 5,
+        "event_id": "1631200",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 15
+      },
       {
         "date": "2026-05-23",
         "venue": "シーガル嶋北店",
@@ -19610,8 +20111,18 @@
     ],
     "wins": 0,
     "second": 2,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "6L85X",
+        "rank": 7,
+        "event_id": "1602493",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 31
+      },
       {
         "date": "2026-06-07",
         "venue": "フルコンプPLAYERS CENTER札幌駅前店",
@@ -20031,8 +20542,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "38MZ7",
+        "rank": 4,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2025-12-06",
         "venue": "hololive OFFICIAL CARD GAME公式",
@@ -20675,8 +21196,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "69Q4H",
+        "rank": 5,
+        "event_id": "1602060",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 64
+      },
       {
         "date": "2026-05-10",
         "venue": "ホビーステーション名古屋大須本店",
@@ -20725,8 +21256,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "6CAFX",
+        "rank": 5,
+        "event_id": "1639120",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-06-06",
         "venue": "GIRAFULL なんば店",
@@ -21075,8 +21616,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "634KP",
+        "rank": 8,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2026-06-07",
         "venue": "カードボックス広島店",
@@ -21585,8 +22136,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "1PPK7",
+        "rank": 6,
+        "event_id": "1602493",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 31
+      },
       {
         "date": "2026-05-31",
         "venue": "カードラボ札幌店",
@@ -21655,8 +22216,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "3L6F7",
+        "rank": 7,
+        "event_id": "1602744",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2025-11-16",
         "venue": "カードラボ岡山西口店",
@@ -21928,8 +22499,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "34MG9",
+        "rank": 6,
+        "event_id": "1613497",
+        "member": "百鬼あやめ",
+        "oshi": "hBP06-004",
+        "participants": 32
+      },
       {
         "date": "2025-04-26",
         "venue": "オレタン福岡天神店",
@@ -23014,9 +23595,19 @@
       "とんにぃ"
     ],
     "wins": 1,
-    "second": 2,
-    "top8": 4,
+    "second": 3,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "684BF",
+        "rank": 2,
+        "event_id": "1627934",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-05-04",
         "venue": "シーガル仙台駅前店",
@@ -23126,8 +23717,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "2CH1P",
+        "rank": 3,
+        "event_id": "1597534",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 15
+      },
       {
         "date": "2025-11-03",
         "venue": "Cards of Paradise桜木店",
@@ -23156,8 +23757,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "VE1M",
+        "rank": 8,
+        "event_id": "1614082",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 19
+      },
       {
         "date": "2026-05-20",
         "venue": "カードラボ水戸店",
@@ -23308,8 +23919,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "47QWH",
+        "rank": 5,
+        "event_id": "1613875",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 20
+      },
       {
         "date": "2026-05-17",
         "venue": "ハリケーンなんば店",
@@ -23348,8 +23969,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "6M9TP",
+        "rank": 6,
+        "event_id": "1613875",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-23",
         "venue": "マナソース和歌山駅前店",
@@ -23378,8 +24009,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "271YP",
+        "rank": 4,
+        "event_id": "1612901",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-19",
         "venue": "ドラゴンスター神戸三宮店",
@@ -23558,8 +24199,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 9,
+    "top8": 10,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "4CSA9",
+        "rank": 6,
+        "event_id": "1598114",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 26
+      },
       {
         "date": "2026-05-31",
         "venue": "カードショップ竜星のPAO立川店",
@@ -24260,8 +24911,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "UZLF",
+        "rank": 3,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-31",
         "venue": "フルコンプ仙台駅前店",
@@ -24561,8 +25222,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "10U3K",
+        "rank": 5,
+        "event_id": "1607225",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-24",
         "venue": "トーナメントセンターバトロコ柏駅前",
@@ -24830,10 +25501,30 @@
     "names": [
       "そうい"
     ],
-    "wins": 6,
+    "wins": 8,
     "second": 1,
-    "top8": 13,
+    "top8": 15,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "4YT9K",
+        "rank": 1,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "4YT9K",
+        "rank": 1,
+        "event_id": "1630535",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "ホビーステーション神戸三宮店",
@@ -24992,8 +25683,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "3A8RK",
+        "rank": 5,
+        "event_id": "1599751",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2025-04-20",
         "venue": "遊ING浜町店",
@@ -26146,9 +26847,19 @@
       "カナデ"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 7,
+    "second": 1,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "7MBEM",
+        "rank": 2,
+        "event_id": "1621022",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-09",
         "venue": "トーナメントセンターバトロコ金沢駅前",
@@ -27551,8 +28262,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "42WLD",
+        "rank": 4,
+        "event_id": "1607700",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2025-04-13",
         "venue": "オレタン松山店",
@@ -27649,10 +28370,20 @@
     "names": [
       "Taki"
     ],
-    "wins": 2,
+    "wins": 3,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "60ZM7",
+        "rank": 1,
+        "event_id": "1604031",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 39
+      },
       {
         "date": "2026-05-06",
         "venue": "JABUROⅡ",
@@ -27923,9 +28654,39 @@
       "常闇トワの顔ファン"
     ],
     "wins": 0,
-    "second": 1,
-    "top8": 7,
+    "second": 2,
+    "top8": 10,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "1LVBP",
+        "rank": 7,
+        "event_id": "1612901",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "2NYQM",
+        "rank": 8,
+        "event_id": "1633408",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 18
+      },
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "7QB0K",
+        "rank": 2,
+        "event_id": "1617102",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "ホビーステーション神戸三宮店",
@@ -28527,8 +29288,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "2L3U3",
+        "rank": 3,
+        "event_id": "1607700",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-05-24",
         "venue": "トレカショップ竜のしっぽ 姫路店",
@@ -28597,8 +29368,18 @@
     ],
     "wins": 2,
     "second": 1,
-    "top8": 10,
+    "top8": 11,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "5JQS1",
+        "rank": 3,
+        "event_id": "1633408",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 18
+      },
       {
         "date": "2026-06-07",
         "venue": "ホビーステーション神戸三宮店",
@@ -28737,8 +29518,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "171T9",
+        "rank": 3,
+        "event_id": "1602493",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 31
+      },
       {
         "date": "2026-06-07",
         "venue": "フルコンプPLAYERS CENTER札幌駅前店",
@@ -29293,8 +30084,18 @@
     ],
     "wins": 1,
     "second": 2,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "22ZR3",
+        "rank": 8,
+        "event_id": "1613875",
+        "member": "戌神ころね",
+        "oshi": "hBP03-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-17",
         "venue": "カードラボ　アバンティ京都店",
@@ -29603,8 +30404,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "178PH",
+        "rank": 5,
+        "event_id": "1598114",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 26
+      },
       {
         "date": "2025-11-08",
         "venue": "カードショップさくら",
@@ -29653,8 +30464,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "2GBDF",
+        "rank": 4,
+        "event_id": "1610433",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2026-06-07",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -29751,10 +30572,20 @@
     "names": [
       "スマデキン"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 8,
+    "top8": 9,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "1R50D",
+        "rank": 1,
+        "event_id": "1610432",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-30",
         "venue": "GIRAFULL なんば店",
@@ -30665,8 +31496,28 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 5,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "2AUT7",
+        "rank": 7,
+        "event_id": "1598114",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 26
+      },
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "2AUT7",
+        "rank": 5,
+        "event_id": "1619990",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 29
+      },
       {
         "date": "2026-06-07",
         "venue": "BUSHIROAD TCG SHOP with GiGO",
@@ -31219,8 +32070,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "1L5LD",
+        "rank": 7,
+        "event_id": "1633408",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 18
+      },
       {
         "date": "2026-06-04",
         "venue": "パピー弥富店",
@@ -31368,9 +32229,19 @@
       "いちごだいふく"
     ],
     "wins": 0,
-    "second": 3,
-    "top8": 9,
+    "second": 4,
+    "top8": 10,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "52125",
+        "rank": 2,
+        "event_id": "1612813",
+        "member": "ジジ・ムリン",
+        "oshi": "hSD13-002",
+        "participants": 32
+      },
       {
         "date": "2026-06-05",
         "venue": "ホビーステーション川崎店",
@@ -31741,8 +32612,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "2V7A5",
+        "rank": 6,
+        "event_id": "1606041",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-24",
         "venue": "ホビーステーション大宮店",
@@ -31831,8 +32712,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "14XH7",
+        "rank": 7,
+        "event_id": "1616645",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 27
+      },
       {
         "date": "2026-02-04",
         "venue": "トレカチャンス日本橋店",
@@ -32849,10 +33740,20 @@
     "names": [
       "椛"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "6MA6Z",
+        "rank": 1,
+        "event_id": "1610433",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 23
+      },
       {
         "date": "2026-02-23",
         "venue": "オレタン松山店",
@@ -33655,8 +34556,18 @@
     ],
     "wins": 0,
     "second": 2,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "47SXR",
+        "rank": 4,
+        "event_id": "1614082",
+        "member": "赤井はあと",
+        "oshi": "hBP07-004",
+        "participants": 19
+      },
       {
         "date": "2026-02-14",
         "venue": "シーガル仙台駅前店",
@@ -33935,8 +34846,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "7807X",
+        "rank": 3,
+        "event_id": "1630535",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      },
       {
         "date": "2026-05-02",
         "venue": "竜星の嵐　名古屋店",
@@ -34164,9 +35085,19 @@
       "みらい"
     ],
     "wins": 0,
-    "second": 3,
-    "top8": 6,
+    "second": 4,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "6NUSR",
+        "rank": 2,
+        "event_id": "1630535",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "ハリケーンなんば店",
@@ -34563,12 +35494,23 @@
   },
   "RTBIP": {
     "names": [
-      "A2"
+      "A2",
+      "A2/SOUKA"
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "385Y5",
+        "rank": 3,
+        "event_id": "1627934",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2025-08-31",
         "venue": "カードラボ仙台店",
@@ -35038,8 +35980,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "2RMLZ",
+        "rank": 8,
+        "event_id": "1607225",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-04",
         "venue": "CREATIVE STYLE",
@@ -36234,8 +37186,28 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 6,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "22ZN5",
+        "rank": 3,
+        "event_id": "1612901",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 32
+      },
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "3YQDM",
+        "rank": 4,
+        "event_id": "1639120",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 27
+      },
       {
         "date": "2026-06-06",
         "venue": "トレーディングカードゲームショップ193名駅椿店",
@@ -36976,8 +37948,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "6REBD",
+        "rank": 5,
+        "event_id": "1616382",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 34
+      },
       {
         "date": "2026-05-31",
         "venue": "カードショップ竜星のPAO立川店",
@@ -37046,8 +38028,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 7,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "1BR35",
+        "rank": 6,
+        "event_id": "1619990",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 29
+      },
       {
         "date": "2026-05-25",
         "venue": "Japan TCG Center吉祥寺駅北口店",
@@ -37156,8 +38148,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "1GUFF",
+        "rank": 4,
+        "event_id": "1599751",
+        "member": "兎田ぺこら",
+        "oshi": "hBP01-004",
+        "participants": 30
+      },
       {
         "date": "2026-05-05",
         "venue": "カードショップ彩々　鹿児島店",
@@ -37438,8 +38440,18 @@
     ],
     "wins": 0,
     "second": 2,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "33HVV",
+        "rank": 7,
+        "event_id": "1630535",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-02-28",
         "venue": "カードラボ岡山西口店",
@@ -37549,8 +38561,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "1B58R",
+        "rank": 7,
+        "event_id": "1602060",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-02-22",
         "venue": "カードラボ　アバンティ京都店",
@@ -37619,8 +38641,18 @@
     ],
     "wins": 2,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "48VAM",
+        "rank": 7,
+        "event_id": "1597534",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      },
       {
         "date": "2026-02-28",
         "venue": "カードラボ仙台店",
@@ -38720,10 +39752,20 @@
     "names": [
       "ベリ"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "1RT9K",
+        "rank": 1,
+        "event_id": "1609719",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2025-08-17",
         "venue": "青馬堂本店",
@@ -39430,10 +40472,20 @@
     "names": [
       "かしお"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "1YDB5",
+        "rank": 1,
+        "event_id": "1633408",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 18
+      },
       {
         "date": "2025-08-17",
         "venue": "竜星の嵐　名古屋店",
@@ -39692,8 +40744,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "3VFE1",
+        "rank": 6,
+        "event_id": "1617102",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-02-19",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -40040,10 +41102,30 @@
     "names": [
       "キツネ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "6G2N1",
+        "rank": 1,
+        "event_id": "1613875",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 20
+      },
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "6G2N1",
+        "rank": 6,
+        "event_id": "1610432",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-05",
         "venue": "ホビーステーション名古屋大須本店",
@@ -40543,8 +41625,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "27CCV",
+        "rank": 6,
+        "event_id": "1607176",
+        "member": "森カリオペ",
+        "oshi": "hBP02-007",
+        "participants": 20
+      },
       {
         "date": "2025-08-16",
         "venue": "カードゲームのシーガル郡山店",
@@ -41658,8 +42750,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "4GFAV",
+        "rank": 7,
+        "event_id": "1620051",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-05-24",
         "venue": "青馬堂本店",
@@ -41886,10 +42988,20 @@
     "names": [
       "おかみ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 3,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "6WVR7",
+        "rank": 1,
+        "event_id": "1629527",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-05-05",
         "venue": "カードボックス福山店",
@@ -42430,8 +43542,18 @@
     ],
     "wins": 3,
     "second": 1,
-    "top8": 8,
+    "top8": 9,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "3HHTD",
+        "rank": 7,
+        "event_id": "1616382",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 34
+      },
       {
         "date": "2026-06-06",
         "venue": "カードショップ竜星のPAO大宮店",
@@ -43221,8 +44343,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "545TT",
+        "rank": 7,
+        "event_id": "1627934",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-05-26",
         "venue": "ホビーステーション仙台駅前店",
@@ -43461,8 +44593,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "6VFAV",
+        "rank": 8,
+        "event_id": "1617102",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2025-08-09",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -44495,8 +45637,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "4TZXT",
+        "rank": 8,
+        "event_id": "1610390",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-05-12",
         "venue": "カードラボ浜松店",
@@ -44907,8 +46059,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "79BAV",
+        "rank": 7,
+        "event_id": "1606041",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2025-11-30",
         "venue": "カードショップ竜星のPAO大宮店",
@@ -44976,9 +46138,19 @@
       "れいん"
     ],
     "wins": 0,
-    "second": 3,
-    "top8": 5,
+    "second": 4,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "53U09",
+        "rank": 2,
+        "event_id": "1619990",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 29
+      },
       {
         "date": "2026-06-07",
         "venue": "ドラゴンスター池袋店",
@@ -45219,8 +46391,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "2FSWZ",
+        "rank": 8,
+        "event_id": "1610433",
+        "member": "百鬼あやめ",
+        "oshi": "hBP06-004",
+        "participants": 23
+      },
       {
         "date": "2026-02-11",
         "venue": "ホビーステーション神戸三宮店",
@@ -45639,9 +46821,19 @@
       "アオイ"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 5,
+    "second": 1,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "1HU4Z",
+        "rank": 2,
+        "event_id": "1633408",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 18
+      },
       {
         "date": "2026-06-04",
         "venue": "カードラボ　アバンティ京都店",
@@ -46210,8 +47402,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "2MVHT",
+        "rank": 4,
+        "event_id": "1621022",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2025-11-24",
         "venue": "ブックマーケット高岡店",
@@ -47506,8 +48708,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "56Z3K",
+        "rank": 8,
+        "event_id": "1621022",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "JABUROⅡ",
@@ -47615,9 +48827,29 @@
       "朱色"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 4,
+    "second": 1,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "1PS45",
+        "rank": 2,
+        "event_id": "1607225",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "79GZT",
+        "rank": 6,
+        "event_id": "1602060",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-05-12",
         "venue": "カードラボ静岡店",
@@ -47736,8 +48968,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "6S8A5",
+        "rank": 6,
+        "event_id": "1610433",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 23
+      },
       {
         "date": "2025-11-23",
         "venue": "スミレヤ",
@@ -48219,8 +49461,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "7GAB7",
+        "rank": 3,
+        "event_id": "1598114",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 26
+      },
       {
         "date": "2025-11-22",
         "venue": "カードショップ竜星のPAO立川店",
@@ -49161,8 +50413,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "29DMT",
+        "rank": 5,
+        "event_id": "1628261",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2025-11-16",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -49241,10 +50503,20 @@
       "甘党ゆずき",
       "甘党ユズキ"
     ],
-    "wins": 2,
+    "wins": 3,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "3UQ5T",
+        "rank": 1,
+        "event_id": "1602060",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-05-24",
         "venue": "トレーディングカードゲームショップ193名駅椿店",
@@ -49774,8 +51046,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "1VP0H",
+        "rank": 4,
+        "event_id": "1630535",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-06-06",
         "venue": "GIRAFULL なんば店",
@@ -50764,8 +52046,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "4NZCZ",
+        "rank": 5,
+        "event_id": "1607621",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 64
+      },
       {
         "date": "2025-11-15",
         "venue": "トレーディングカードゲームショップ193 大須店",
@@ -50784,8 +52076,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "X9JX",
+        "rank": 6,
+        "event_id": "1599782",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 25
+      },
       {
         "date": "2025-11-15",
         "venue": "カードラボ宇都宮店",
@@ -51395,8 +52697,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "20V2D",
+        "rank": 6,
+        "event_id": "1597534",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 15
+      },
       {
         "date": "2026-06-06",
         "venue": "シーガル仙台駅前店",
@@ -52738,8 +54050,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "2ZHCZ",
+        "rank": 5,
+        "event_id": "1606041",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-02-18",
         "venue": "ホビーステーション仙台駅前店",
@@ -52898,8 +54220,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "5KHMP",
+        "rank": 7,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      },
       {
         "date": "2026-05-09",
         "venue": "レプトン サンモール店",
@@ -53289,8 +54621,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "2VNH7",
+        "rank": 5,
+        "event_id": "1621022",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-20",
         "venue": "ブックマーケット高岡店",
@@ -53509,8 +54851,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "53663",
+        "rank": 5,
+        "event_id": "1612901",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-20",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -54189,10 +55541,20 @@
     "names": [
       "ムラクモ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "2HW0R",
+        "rank": 1,
+        "event_id": "1607621",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2025-11-01",
         "venue": "カードラボ名古屋大須店",
@@ -54827,12 +56189,23 @@
   },
   "IAKUK": {
     "names": [
-      "Melton"
+      "Melton",
+      "Atu/Melton　ぷれみ。"
     ],
     "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "69MKK",
+        "rank": 6,
+        "event_id": "1631200",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 15
+      },
       {
         "date": "2026-05-23",
         "venue": "シーガル嶋北店",
@@ -54981,8 +56354,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "4RKD7",
+        "rank": 8,
+        "event_id": "1597534",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 15
+      },
       {
         "date": "2026-05-16",
         "venue": "シーガル仙台駅前店",
@@ -55061,8 +56444,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "6LVM3",
+        "rank": 5,
+        "event_id": "1613497",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "遊INGコマーシャルモール博多店",
@@ -55241,8 +56634,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "2500H",
+        "rank": 6,
+        "event_id": "1599751",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-05-10",
         "venue": "カードラボ小倉店",
@@ -55319,10 +56722,20 @@
     "names": [
       "かむいん"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "60ZHZ",
+        "rank": 1,
+        "event_id": "1606041",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-02-28",
         "venue": "カードショップ竜星のPAO立川店",
@@ -55441,8 +56854,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "784R3",
+        "rank": 5,
+        "event_id": "1610433",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 23
+      },
       {
         "date": "2026-02-28",
         "venue": "ビデオ100徳島藍住店",
@@ -55501,8 +56924,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "6MBQH",
+        "rank": 8,
+        "event_id": "1613497",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-23",
         "venue": "オレタン福岡天神店",
@@ -56149,10 +57582,20 @@
     "names": [
       "ルネ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "43R7K",
+        "rank": 1,
+        "event_id": "1612813",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 32
+      },
       {
         "date": "2026-05-13",
         "venue": "トーナメントセンターバトロコ高田馬場",
@@ -56191,8 +57634,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "5JMEB",
+        "rank": 8,
+        "event_id": "1606041",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-02-25",
         "venue": "アメニティードリーム横浜店",
@@ -56801,8 +58254,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "2YF49",
+        "rank": 7,
+        "event_id": "1639120",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-02-23",
         "venue": "ハリケーンなんば店",
@@ -56900,9 +58363,19 @@
       "SOLDAM"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "3DYPP",
+        "rank": 2,
+        "event_id": "1639120",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 27
+      },
       {
         "date": "2026-02-23",
         "venue": "ハリケーンなんば店",
@@ -57111,8 +58584,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "59M2Z",
+        "rank": 7,
+        "event_id": "1617102",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-05-17",
         "venue": "ハリケーンなんば店",
@@ -57371,8 +58854,28 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "2NME5",
+        "rank": 3,
+        "event_id": "1610433",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 23
+      },
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "3KPV9",
+        "rank": 3,
+        "event_id": "1610432",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-16",
         "venue": "スポーツカード＆カードゲームショップ MINT三宮店",
@@ -57679,10 +59182,30 @@
     "names": [
       "ごまこんぶ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 3,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "UEC9",
+        "rank": 1,
+        "event_id": "1621884",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "7G28X",
+        "rank": 3,
+        "event_id": "1620051",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-06-05",
         "venue": "ホビーステーション川崎店",
@@ -57750,9 +59273,19 @@
       "ダークマター"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 2,
+    "second": 1,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "6JJKT",
+        "rank": 2,
+        "event_id": "1612901",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "トレカプラザ55名古屋駅前店",
@@ -57811,8 +59344,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 6,
+    "top8": 7,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "1ZA6X",
+        "rank": 7,
+        "event_id": "1613653",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 24
+      },
       {
         "date": "2026-06-06",
         "venue": "カードラボなんば店",
@@ -58001,8 +59544,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "6JMKF",
+        "rank": 3,
+        "event_id": "1599751",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-05-16",
         "venue": "遊ING熊本上通り店",
@@ -58100,9 +59653,19 @@
       "MIKE"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 2,
+    "second": 1,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "6CAMH",
+        "rank": 2,
+        "event_id": "1620051",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 64
+      },
       {
         "date": "2026-05-10",
         "venue": "カードラボ小倉店",
@@ -58160,9 +59723,19 @@
       "ねっしゅー"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "72CU5",
+        "rank": 2,
+        "event_id": "1598114",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 26
+      },
       {
         "date": "2026-02-23",
         "venue": "トレーディングカードゲームショップ193秋葉原店",
@@ -58179,10 +59752,30 @@
     "names": [
       "楠本"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 3,
-    "top8": 6,
+    "top8": 8,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "36GX7",
+        "rank": 1,
+        "event_id": "1599751",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "2P2ER",
+        "rank": 3,
+        "event_id": "1613497",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "遊ING浜町店",
@@ -58641,8 +60234,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "1JYHK",
+        "rank": 5,
+        "event_id": "1602493",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 31
+      },
       {
         "date": "2026-06-07",
         "venue": "フルコンプPLAYERS CENTER札幌駅前店",
@@ -58711,8 +60314,28 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "3QV5B",
+        "rank": 8,
+        "event_id": "1621884",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "3QV5B",
+        "rank": 8,
+        "event_id": "1598114",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 26
+      },
       {
         "date": "2026-05-23",
         "venue": "BUSHIROAD TCG SHOP with GiGO",
@@ -58761,8 +60384,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "40FGM",
+        "rank": 3,
+        "event_id": "1629527",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-02-22",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -58971,8 +60604,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "5EC1D",
+        "rank": 5,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-05-20",
         "venue": "トレカチャンス日本橋店",
@@ -59282,8 +60925,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "6MUXB",
+        "rank": 3,
+        "event_id": "1613875",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-06-07",
         "venue": "ハリケーンなんば店",
@@ -59442,8 +61095,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "1B22M",
+        "rank": 4,
+        "event_id": "1602744",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -59692,8 +61355,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "2QNKK",
+        "rank": 4,
+        "event_id": "1616644",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 28
+      },
       {
         "date": "2026-02-21",
         "venue": "GIRAFULL なんば店",
@@ -59822,8 +61495,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "51YJ3",
+        "rank": 4,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-05-10",
         "venue": "ハリケーンなんば店",
@@ -60092,8 +61775,28 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 3,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "18GYZ",
+        "rank": 8,
+        "event_id": "1604031",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 39
+      },
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "18GYZ",
+        "rank": 5,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-31",
         "venue": "フルコンプ仙台駅前店",
@@ -60892,8 +62595,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "5YBK7",
+        "rank": 3,
+        "event_id": "1599782",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 25
+      },
       {
         "date": "2026-02-15",
         "venue": "カードラボ宇都宮店",
@@ -60908,12 +62621,23 @@
   },
   "XHAOL": {
     "names": [
-      "しのは"
+      "しのは",
+      "しのは@48点の虫"
     ],
     "wins": 0,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "ZQYV",
+        "rank": 3,
+        "event_id": "1639126",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 23
+      },
       {
         "date": "2026-05-09",
         "venue": "レプトン サンモール店",
@@ -61030,10 +62754,20 @@
     "names": [
       "レキ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "42AXK",
+        "rank": 1,
+        "event_id": "1628261",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 32
+      },
       {
         "date": "2026-02-15",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -61142,8 +62876,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "1K7CD",
+        "rank": 7,
+        "event_id": "1599751",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 30
+      },
       {
         "date": "2026-02-15",
         "venue": "遊ING熊本上通り店",
@@ -61552,8 +63296,18 @@
     ],
     "wins": 2,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "WYDZ",
+        "rank": 4,
+        "event_id": "1609719",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "カードショップ竜星のPAO大宮店",
@@ -61782,8 +63536,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "75BBK",
+        "rank": 4,
+        "event_id": "1629527",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-02-14",
         "venue": "カードボックス福山店",
@@ -61822,8 +63586,28 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "3HLQD",
+        "rank": 8,
+        "event_id": "1627934",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "3HLQD",
+        "rank": 6,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "シーガル仙台駅前店",
@@ -61882,8 +63666,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "6R277",
+        "rank": 3,
+        "event_id": "1604031",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 39
+      },
       {
         "date": "2026-06-07",
         "venue": "JABUROⅡ",
@@ -62132,8 +63926,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "1BM6V",
+        "rank": 3,
+        "event_id": "1619990",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 29
+      },
       {
         "date": "2026-02-11",
         "venue": "ホビーステーション秋葉原本店",
@@ -62602,8 +64406,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "22C9X",
+        "rank": 3,
+        "event_id": "1607225",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-02",
         "venue": "マスターズギルド",
@@ -62823,8 +64637,18 @@
     ],
     "wins": 1,
     "second": 2,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "4RXY3",
+        "rank": 6,
+        "event_id": "1627934",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-06-06",
         "venue": "シーガル仙台駅前店",
@@ -63323,8 +65147,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "65C9K",
+        "rank": 4,
+        "event_id": "1628261",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-02-07",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -63433,8 +65267,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "3FXVB",
+        "rank": 7,
+        "event_id": "1631200",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      },
       {
         "date": "2026-02-07",
         "venue": "シーガル仙台駅前店",
@@ -63663,8 +65507,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "5EKZ7",
+        "rank": 7,
+        "event_id": "1607621",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-06-06",
         "venue": "カードラボ　オタロード本店",
@@ -63743,8 +65597,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 5,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "3PV7K",
+        "rank": 3,
+        "event_id": "1610390",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-04",
         "venue": "パピー弥富店",
@@ -64062,9 +65926,19 @@
       "ヒナ次郎"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "5P42H",
+        "rank": 2,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-02-04",
         "venue": "ホビーステーション仙台駅前店",
@@ -64162,9 +66036,19 @@
       "ヨヨヨ"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 2,
+    "second": 1,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "43E8V",
+        "rank": 2,
+        "event_id": "1604031",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 39
+      },
       {
         "date": "2026-02-04",
         "venue": "カードラボ静岡店",
@@ -64353,8 +66237,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "26R7P",
+        "rank": 4,
+        "event_id": "1602060",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 64
+      },
       {
         "date": "2026-06-07",
         "venue": "トレカプラザ55名古屋駅前店",
@@ -64583,8 +66477,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "5FSMX",
+        "rank": 4,
+        "event_id": "1599782",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 25
+      },
       {
         "date": "2026-02-01",
         "venue": "トレーディングカードゲームショップ193秋葉原店",
@@ -64601,10 +66505,20 @@
     "names": [
       "SEN "
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "4FDTF",
+        "rank": 1,
+        "event_id": "1631200",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 15
+      },
       {
         "date": "2026-05-31",
         "venue": "シーガル嶋北店",
@@ -64763,8 +66677,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "Japan TCG Center那覇沖映通り店",
+        "deck_id": "294RT",
+        "rank": 3,
+        "event_id": "1628261",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-31",
         "venue": "Japan TCG Center那覇沖映通り店",
@@ -64781,10 +66705,20 @@
     "names": [
       "Gauss(ガウス)"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "32MGB",
+        "rank": 1,
+        "event_id": "1614082",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 19
+      },
       {
         "date": "2026-05-31",
         "venue": "フルコンプ仙台駅前店",
@@ -65123,8 +67057,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "4GXEV",
+        "rank": 5,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-30",
         "venue": "トレカショップ ジョニー",
@@ -65162,9 +67106,19 @@
       "ひびきんぐ"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "798KR",
+        "rank": 2,
+        "event_id": "1616644",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 28
+      },
       {
         "date": "2026-05-30",
         "venue": "GIRAFULL なんば店",
@@ -65222,9 +67176,19 @@
       "マンガン電池"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-15",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "4G2FB",
+        "rank": 2,
+        "event_id": "1610433",
+        "member": "兎田ぺこら",
+        "oshi": "hBP01-004",
+        "participants": 23
+      },
       {
         "date": "2026-05-30",
         "venue": "ビデオ100徳島藍住店",
@@ -65313,8 +67277,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "3X9Y1",
+        "rank": 8,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-30",
         "venue": "トレカショップ ジョニー",
@@ -65452,9 +67426,19 @@
       "みない"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "4JETZ",
+        "rank": 2,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-30",
         "venue": "トレカショップ ジョニー",
@@ -65513,8 +67497,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "6MGJ1",
+        "rank": 7,
+        "event_id": "1616644",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 28
+      },
       {
         "date": "2026-05-30",
         "venue": "GIRAFULL なんば店",
@@ -65563,8 +67557,18 @@
     ],
     "wins": 1,
     "second": 1,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "43E8V",
+        "rank": 7,
+        "event_id": "1599782",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 25
+      },
       {
         "date": "2026-05-29",
         "venue": "カードラボ豊橋店",
@@ -65693,8 +67697,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "4RDAZ",
+        "rank": 6,
+        "event_id": "1639120",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
       {
         "date": "2026-05-27",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -65713,8 +67727,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "7JEAD",
+        "rank": 3,
+        "event_id": "1616644",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 28
+      },
       {
         "date": "2026-05-27",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -65731,10 +67755,30 @@
     "names": [
       "ピザ"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 2,
-    "top8": 4,
+    "top8": 6,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "6Z7E1",
+        "rank": 4,
+        "event_id": "1627934",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "5YK3K",
+        "rank": 1,
+        "event_id": "1600215",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "シーガル仙台駅前店",
@@ -65833,8 +67877,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "3CCWM",
+        "rank": 8,
+        "event_id": "1609719",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-05-25",
         "venue": "Japan TCG Center吉祥寺駅北口店",
@@ -65873,8 +67927,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "2YTXD",
+        "rank": 3,
+        "event_id": "1621022",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-05-25",
         "venue": "ホビーステーション金沢店",
@@ -65912,9 +67976,19 @@
       "モル"
     ],
     "wins": 1,
-    "second": 1,
-    "top8": 2,
+    "second": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "23LJH",
+        "rank": 2,
+        "event_id": "1599782",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 25
+      },
       {
         "date": "2026-05-24",
         "venue": "カードラボ宇都宮店",
@@ -65963,8 +68037,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "36GRB",
+        "rank": 6,
+        "event_id": "1616382",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 34
+      },
       {
         "date": "2026-06-07",
         "venue": "CARD WINGS　秋葉原駅前店",
@@ -66314,8 +68398,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "5TR85",
+        "rank": 3,
+        "event_id": "1607621",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
       {
         "date": "2026-05-24",
         "venue": "トレーディングカードゲームショップ193名駅椿店",
@@ -66714,8 +68808,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "1GWC9",
+        "rank": 5,
+        "event_id": "1599782",
+        "member": "兎田ぺこら",
+        "oshi": "hBP01-004",
+        "participants": 25
+      },
       {
         "date": "2026-05-24",
         "venue": "カードラボ宇都宮店",
@@ -66954,8 +69058,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "121J5",
+        "rank": 5,
+        "event_id": "1630535",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      },
       {
         "date": "2026-06-07",
         "venue": "ハリケーンなんば店",
@@ -67234,8 +69348,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "22EFK",
+        "rank": 8,
+        "event_id": "1620051",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-05-23",
         "venue": "トレーディングカードゲームショップ193秋葉原店",
@@ -67284,8 +69408,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "1BN3T",
+        "rank": 4,
+        "event_id": "1610432",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "カードラボ　オタロード本店",
@@ -67414,8 +69548,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 4,
+    "top8": 5,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ホビーステーション神戸三宮店",
+        "deck_id": "433WR",
+        "rank": 8,
+        "event_id": "1630535",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-05-20",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -67484,8 +69628,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "39YMF",
+        "rank": 7,
+        "event_id": "1613875",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-20",
         "venue": "トレカショップ竜のしっぽ梅田NU茶屋町店",
@@ -67593,9 +69747,19 @@
       "まなぴ"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "43E8V",
+        "rank": 2,
+        "event_id": "1621884",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
       {
         "date": "2026-05-20",
         "venue": "アメニティードリーム横浜店",
@@ -67784,8 +69948,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "4ABER",
+        "rank": 8,
+        "event_id": "1629527",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      },
       {
         "date": "2026-05-17",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -67844,8 +70018,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "6AMEZ",
+        "rank": 3,
+        "event_id": "1617102",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 30
+      },
       {
         "date": "2026-05-17",
         "venue": "ホビーステーション神戸三宮店",
@@ -68024,8 +70208,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "5NT4D",
+        "rank": 3,
+        "event_id": "1602744",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 30
+      },
       {
         "date": "2026-05-17",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -68164,8 +70358,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "1C83T",
+        "rank": 8,
+        "event_id": "1602744",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      },
       {
         "date": "2026-05-17",
         "venue": "カードゲームショップ オレタン 岡山本店",
@@ -68292,10 +70496,20 @@
     "names": [
       "こがちゃん"
     ],
-    "wins": 1,
+    "wins": 2,
     "second": 0,
-    "top8": 3,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "1TDKD",
+        "rank": 1,
+        "event_id": "1598114",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 26
+      },
       {
         "date": "2026-06-02",
         "venue": "カードボックス横浜西口2号店",
@@ -68643,9 +70857,19 @@
       "クレ(cresc.)"
     ],
     "wins": 1,
-    "second": 0,
-    "top8": 3,
+    "second": 1,
+    "top8": 4,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "53MTK",
+        "rank": 2,
+        "event_id": "1609719",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "カードショップ竜星のPAO大宮店",
@@ -68682,10 +70906,20 @@
     "names": [
       "ノブ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "10Q9M",
+        "rank": 1,
+        "event_id": "1597534",
+        "member": "ジジ・ムリン",
+        "oshi": "hSD13-002",
+        "participants": 15
+      },
       {
         "date": "2026-05-16",
         "venue": "シーガル仙台駅前店",
@@ -69134,8 +71368,18 @@
     ],
     "wins": 1,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "3LBB3",
+        "rank": 4,
+        "event_id": "1604031",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 39
+      },
       {
         "date": "2026-05-10",
         "venue": "カードラボ仙台店",
@@ -69304,8 +71548,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "V23H",
+        "rank": 3,
+        "event_id": "1606041",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-10",
         "venue": "カードラボ甲府店",
@@ -69444,8 +71698,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "Y4YD",
+        "rank": 7,
+        "event_id": "1602060",
+        "member": "AZKi",
+        "oshi": "hSD01-002",
+        "participants": 64
+      },
       {
         "date": "2026-05-10",
         "venue": "竜星の嵐　名古屋店",
@@ -70375,8 +72639,18 @@
     ],
     "wins": 0,
     "second": 1,
-    "top8": 2,
+    "top8": 3,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "5HY37",
+        "rank": 3,
+        "event_id": "1616382",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 34
+      },
       {
         "date": "2026-06-02",
         "venue": "カードボックス横浜西口2号店",
@@ -71395,8 +73669,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "5X6CM",
+        "rank": 6,
+        "event_id": "1604031",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 39
+      },
       {
         "date": "2026-05-05",
         "venue": "カードゲームのシーガル郡山店",
@@ -72065,8 +74349,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "6VVC5",
+        "rank": 4,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-05-02",
         "venue": "トレカショップ ジョニー",
@@ -72204,9 +74498,19 @@
       "りんく"
     ],
     "wins": 0,
-    "second": 0,
-    "top8": 1,
+    "second": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "51HA5",
+        "rank": 2,
+        "event_id": "1610390",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-05-02",
         "venue": "マスターズギルド",
@@ -72363,10 +74667,20 @@
     "names": [
       "リプ"
     ],
-    "wins": 0,
+    "wins": 1,
     "second": 1,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "5TSKT",
+        "rank": 1,
+        "event_id": "1607700",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "カードボックス広島店",
@@ -72445,8 +74759,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "55EN5",
+        "rank": 5,
+        "event_id": "1607700",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      },
       {
         "date": "2026-06-07",
         "venue": "カードボックス広島店",
@@ -73205,8 +75529,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "2M0PK",
+        "rank": 6,
+        "event_id": "1607700",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      },
       {
         "date": "2026-06-06",
         "venue": "レプトン サンモール店",
@@ -73225,8 +75559,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "マナソース和歌山駅前店",
+        "deck_id": "61451",
+        "rank": 4,
+        "event_id": "1613875",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      },
       {
         "date": "2026-06-06",
         "venue": "GIRAFULL なんば店",
@@ -73465,8 +75809,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "4B925",
+        "rank": 4,
+        "event_id": "1621884",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 64
+      },
       {
         "date": "2026-06-05",
         "venue": "ホビーステーション千葉店",
@@ -73625,8 +75979,18 @@
     ],
     "wins": 0,
     "second": 0,
-    "top8": 1,
+    "top8": 2,
     "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "22Q59",
+        "rank": 4,
+        "event_id": "1633408",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 18
+      },
       {
         "date": "2026-06-04",
         "venue": "カードラボ　アバンティ京都店",
@@ -73716,6 +76080,1656 @@
         "member": "百鬼あやめ",
         "oshi": "hBP06-004",
         "participants": 64
+      }
+    ]
+  },
+  "CMOAE": {
+    "names": [
+      "ショウ"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "3YQKT",
+        "rank": 2,
+        "event_id": "1616645",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 27
+      }
+    ]
+  },
+  "YMQQT": {
+    "names": [
+      "WD6代目推しまい屋"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "2H279",
+        "rank": 6,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      }
+    ]
+  },
+  "FVRHD": {
+    "names": [
+      "黒猫"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "6VKJX",
+        "rank": 6,
+        "event_id": "1612901",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "ZXQGK": {
+    "names": [
+      "ユテルス"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "4XZN9",
+        "rank": 8,
+        "event_id": "1616645",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      }
+    ]
+  },
+  "SEWZZ": {
+    "names": [
+      "ゆうり"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-17",
+        "venue": "ドラゴンスター日本橋2号店",
+        "deck_id": "39MGV",
+        "rank": 8,
+        "event_id": "1612901",
+        "member": "百鬼あやめ",
+        "oshi": "hBP06-004",
+        "participants": 32
+      }
+    ]
+  },
+  "JUATP": {
+    "names": [
+      "カエデ"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "6JJKT",
+        "rank": 1,
+        "event_id": "1607225",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      }
+    ]
+  },
+  "VCCOW": {
+    "names": [
+      "アキ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "4TXP7",
+        "rank": 4,
+        "event_id": "1607225",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "BTLQB": {
+    "names": [
+      "こばしん@ファンねる"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-16",
+        "venue": "カードラボ静岡店",
+        "deck_id": "2F6ZB",
+        "rank": 6,
+        "event_id": "1607225",
+        "member": "天音かなた",
+        "oshi": "hBP01-001",
+        "participants": 32
+      }
+    ]
+  },
+  "HJNFC": {
+    "names": [
+      "凜祢"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "フルコンプ仙台駅前店",
+        "deck_id": "5Y721",
+        "rank": 1,
+        "event_id": "1627934",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 27
+      }
+    ]
+  },
+  "IPXZP": {
+    "names": [
+      "M.K."
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "2EN9K",
+        "rank": 2,
+        "event_id": "1599751",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      }
+    ]
+  },
+  "TUWJI": {
+    "names": [
+      "七味"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "4DC9Z",
+        "rank": 2,
+        "event_id": "1639126",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 23
+      }
+    ]
+  },
+  "IEWXS": {
+    "names": [
+      "ファルス"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "7903B",
+        "rank": 2,
+        "event_id": "1629527",
+        "member": "森カリオペ",
+        "oshi": "hBP02-007",
+        "participants": 27
+      }
+    ]
+  },
+  "DJCYG": {
+    "names": [
+      "夜桜"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "竜星の嵐　名古屋店",
+        "deck_id": "20Z1X",
+        "rank": 3,
+        "event_id": "1602060",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      }
+    ]
+  },
+  "LJCZX": {
+    "names": [
+      "RUOU"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "3JGL9",
+        "rank": 5,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hSD01-002",
+        "participants": 23
+      }
+    ]
+  },
+  "CBXAH": {
+    "names": [
+      "ハク"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 2,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "7K0ZX",
+        "rank": 5,
+        "event_id": "1629527",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      },
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "7K0ZX",
+        "rank": 5,
+        "event_id": "1602744",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 30
+      }
+    ]
+  },
+  "TIQHK": {
+    "names": [
+      "カルラ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "4615F",
+        "rank": 5,
+        "event_id": "1610432",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      }
+    ]
+  },
+  "VVPBP": {
+    "names": [
+      "(E－N2W)90°t "
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "GIRAFULL 広島ドンキ店",
+        "deck_id": "7K5WD",
+        "rank": 6,
+        "event_id": "1639126",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 23
+      }
+    ]
+  },
+  "MTXHJ": {
+    "names": [
+      "よぞら"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "2UF7X",
+        "rank": 6,
+        "event_id": "1629527",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 27
+      }
+    ]
+  },
+  "ZJHJO": {
+    "names": [
+      "たまも"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 2,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "トレーディングカードゲームショップ193秋葉原店",
+        "deck_id": "5NQX7",
+        "rank": 6,
+        "event_id": "1621884",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      },
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "5NQX7",
+        "rank": 8,
+        "event_id": "1616382",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 34
+      }
+    ]
+  },
+  "CISLH": {
+    "names": [
+      "セセル"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードボックス福山店",
+        "deck_id": "7F04M",
+        "rank": 7,
+        "event_id": "1629527",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 27
+      }
+    ]
+  },
+  "LQHYO": {
+    "names": [
+      "ひらさー"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "4WYJ5",
+        "rank": 7,
+        "event_id": "1607700",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "KSYVB": {
+    "names": [
+      "りん"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "遊ING熊本上通り店",
+        "deck_id": "1QXUD",
+        "rank": 8,
+        "event_id": "1599751",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 30
+      }
+    ]
+  },
+  "FKEYW": {
+    "names": [
+      "まっちゃん"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "ビデオ100徳島藍住店",
+        "deck_id": "7P95P",
+        "rank": 8,
+        "event_id": "1610432",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 32
+      }
+    ]
+  },
+  "UKSCQ": {
+    "names": [
+      "ハル"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-14",
+        "venue": "カードラボ広島店",
+        "deck_id": "4JCQZ",
+        "rank": 8,
+        "event_id": "1607700",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      }
+    ]
+  },
+  "MFNAX": {
+    "names": [
+      "かなちゃん"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "4U4QR",
+        "rank": 1,
+        "event_id": "1602493",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 31
+      }
+    ]
+  },
+  "NSRXY": {
+    "names": [
+      "kasutera"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "6S557",
+        "rank": 1,
+        "event_id": "1616644",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 28
+      }
+    ]
+  },
+  "GPEXD": {
+    "names": [
+      "かける"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "3W34Z",
+        "rank": 1,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      }
+    ]
+  },
+  "QTXSP": {
+    "names": [
+      "アルスト"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "6GFLH",
+        "rank": 2,
+        "event_id": "1607621",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 64
+      }
+    ]
+  },
+  "PEDFA": {
+    "names": [
+      "ひかりちゃん"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "4KLB7",
+        "rank": 2,
+        "event_id": "1602493",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 31
+      }
+    ]
+  },
+  "LWJNB": {
+    "names": [
+      "かむい"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "2WH7B",
+        "rank": 2,
+        "event_id": "1597534",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      }
+    ]
+  },
+  "CTBQS": {
+    "names": [
+      "Atu/猫"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "5DLRX",
+        "rank": 2,
+        "event_id": "1631200",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      }
+    ]
+  },
+  "ZLUXV": {
+    "names": [
+      "horiichi"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "4T38V",
+        "rank": 2,
+        "event_id": "1614082",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 19
+      }
+    ]
+  },
+  "NWFJP": {
+    "names": [
+      "こっさん"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "50CCZ",
+        "rank": 3,
+        "event_id": "1609719",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "KOTIL": {
+    "names": [
+      "マッカツ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "7W197",
+        "rank": 3,
+        "event_id": "1614082",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 19
+      }
+    ]
+  },
+  "NEKSL": {
+    "names": [
+      "ユキ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "59WGM",
+        "rank": 4,
+        "event_id": "1597534",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      }
+    ]
+  },
+  "PYCHF": {
+    "names": [
+      "コアラ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "22SNZ",
+        "rank": 4,
+        "event_id": "1620051",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 64
+      }
+    ]
+  },
+  "ZQBWD": {
+    "names": [
+      "くみちょ～(久道葉)"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "5Y7UH",
+        "rank": 5,
+        "event_id": "1609719",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "ZIHDI": {
+    "names": [
+      "ガノエル"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカチャンス日本橋店",
+        "deck_id": "60KUR",
+        "rank": 5,
+        "event_id": "1616644",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 28
+      }
+    ]
+  },
+  "ESUMX": {
+    "names": [
+      "けーね"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル仙台駅前店",
+        "deck_id": "7GC81",
+        "rank": 5,
+        "event_id": "1597534",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 15
+      }
+    ]
+  },
+  "BGLSP": {
+    "names": [
+      "ヤナギン"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "663SM",
+        "rank": 5,
+        "event_id": "1620051",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      }
+    ]
+  },
+  "UYSBN": {
+    "names": [
+      "Kyo@ヰ世界"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "1NBKB",
+        "rank": 5,
+        "event_id": "1614082",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 19
+      }
+    ]
+  },
+  "SVDMS": {
+    "names": [
+      "Setsuna"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "7DAA9",
+        "rank": 5,
+        "event_id": "1604031",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 39
+      }
+    ]
+  },
+  "IVKEI": {
+    "names": [
+      "もうどうなってもえいや"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "5FQ7F",
+        "rank": 6,
+        "event_id": "1609719",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      }
+    ]
+  },
+  "DDJAC": {
+    "names": [
+      "しろまる"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "21NR3",
+        "rank": 6,
+        "event_id": "1607621",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 64
+      }
+    ]
+  },
+  "MXZLP": {
+    "names": [
+      "れんほー"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードボックス横浜西口2号店",
+        "deck_id": "1UQNM",
+        "rank": 6,
+        "event_id": "1620051",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 64
+      }
+    ]
+  },
+  "LWIJF": {
+    "names": [
+      "アヤト"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "ブックエース植田店",
+        "deck_id": "7B4UD",
+        "rank": 6,
+        "event_id": "1614082",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 19
+      }
+    ]
+  },
+  "PXSHY": {
+    "names": [
+      "こりん"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ岡山西口店",
+        "deck_id": "7CFL5",
+        "rank": 6,
+        "event_id": "1602744",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 30
+      }
+    ]
+  },
+  "YAQFK": {
+    "names": [
+      "KAZUMA∞"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トーナメントセンターバトロコ金沢駅前",
+        "deck_id": "754CD",
+        "rank": 7,
+        "event_id": "1621022",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "AQNES": {
+    "names": [
+      "ほしよみ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ所沢店",
+        "deck_id": "2L66V",
+        "rank": 7,
+        "event_id": "1609719",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      }
+    ]
+  },
+  "KDCEN": {
+    "names": [
+      "ぐぐ丸"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードゲームのシーガル郡山店",
+        "deck_id": "5AUVX",
+        "rank": 7,
+        "event_id": "1604031",
+        "member": "角巻わため",
+        "oshi": "hBP07-001",
+        "participants": 39
+      }
+    ]
+  },
+  "WAGDZ": {
+    "names": [
+      "Oracle"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカショップ ジョニー",
+        "deck_id": "1HLLM",
+        "rank": 7,
+        "event_id": "1607176",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 20
+      }
+    ]
+  },
+  "SICNZ": {
+    "names": [
+      "LGW♮BRAN"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 2,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "トレカプラザ55大須アメ横店",
+        "deck_id": "6177X",
+        "rank": 8,
+        "event_id": "1607621",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 64
+      },
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "6177X",
+        "rank": 3,
+        "event_id": "1613653",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 24
+      }
+    ]
+  },
+  "FCMIA": {
+    "names": [
+      "スクラップ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "カードラボ札幌店",
+        "deck_id": "70DDP",
+        "rank": 8,
+        "event_id": "1602493",
+        "member": "桃鈴ねね",
+        "oshi": "hBP07-007",
+        "participants": 31
+      }
+    ]
+  },
+  "PJMUS": {
+    "names": [
+      "つー"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-13",
+        "venue": "シーガル嶋北店",
+        "deck_id": "2SFE5",
+        "rank": 8,
+        "event_id": "1631200",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 15
+      }
+    ]
+  },
+  "VFVWK": {
+    "names": [
+      "コマノ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-12",
+        "venue": "ホビーステーション川崎店",
+        "deck_id": "1GWJ5",
+        "rank": 4,
+        "event_id": "1598114",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 26
+      }
+    ]
+  },
+  "FYDPY": {
+    "names": [
+      "わらびぃ"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "436WD",
+        "rank": 1,
+        "event_id": "1619990",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 29
+      }
+    ]
+  },
+  "PWAHC": {
+    "names": [
+      "柳桜"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "7516K",
+        "rank": 4,
+        "event_id": "1619990",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 29
+      }
+    ]
+  },
+  "OQEJG": {
+    "names": [
+      "サケとば"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "Japan TCG Center吉祥寺駅北口店",
+        "deck_id": "66VSH",
+        "rank": 4,
+        "event_id": "1616382",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 34
+      }
+    ]
+  },
+  "WILDS": {
+    "names": [
+      "アラツキ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "5JBQM",
+        "rank": 4,
+        "event_id": "1610390",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "CEJZZ": {
+    "names": [
+      "WsM/hekomin"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "1WY3D",
+        "rank": 5,
+        "event_id": "1633408",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 18
+      }
+    ]
+  },
+  "ZWOKC": {
+    "names": [
+      "ヤマダ"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "5W105",
+        "rank": 5,
+        "event_id": "1610390",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "WBABZ": {
+    "names": [
+      "あすた"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "CREATIVE STYLE",
+        "deck_id": "XSFM",
+        "rank": 6,
+        "event_id": "1633408",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 18
+      }
+    ]
+  },
+  "XACPH": {
+    "names": [
+      "ゆり"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "3LKK9",
+        "rank": 7,
+        "event_id": "1619990",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 29
+      }
+    ]
+  },
+  "RIFHZ": {
+    "names": [
+      "ペイル"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "カードラボ浜松店",
+        "deck_id": "6TLAM",
+        "rank": 7,
+        "event_id": "1610390",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      }
+    ]
+  },
+  "QAEVT": {
+    "names": [
+      "和田"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-11",
+        "venue": "MINT GAMES池袋店",
+        "deck_id": "21DS5",
+        "rank": 8,
+        "event_id": "1619990",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 29
+      }
+    ]
+  },
+  "AVKEK": {
+    "names": [
+      "でっかいの"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "663LR",
+        "rank": 1,
+        "event_id": "1599782",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 25
+      }
+    ]
+  },
+  "AFDBF": {
+    "names": [
+      "たぬ"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トーナメントセンターバトロコ高田馬場",
+        "deck_id": "326C7",
+        "rank": 2,
+        "event_id": "1606041",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      }
+    ]
+  },
+  "YKKPZ": {
+    "names": [
+      "ハルペト"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "トレカショップ竜のしっぽ 姫路店",
+        "deck_id": "6VFGR",
+        "rank": 4,
+        "event_id": "1617102",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 30
+      }
+    ]
+  },
+  "YIJYK": {
+    "names": [
+      "ex-"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "5QSA1",
+        "rank": 4,
+        "event_id": "1612813",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "AXKFL": {
+    "names": [
+      "つるたく"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "1EW0V",
+        "rank": 5,
+        "event_id": "1612813",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 32
+      }
+    ]
+  },
+  "OOYLC": {
+    "names": [
+      "にくにく"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ福岡天神店",
+        "deck_id": "2A46H",
+        "rank": 7,
+        "event_id": "1613497",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 32
+      }
+    ]
+  },
+  "DFJYV": {
+    "names": [
+      "鳥さん"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "アメニティードリーム横浜店",
+        "deck_id": "2WQW1",
+        "rank": 7,
+        "event_id": "1612813",
+        "member": "輪堂千速",
+        "oshi": "hSD10-001",
+        "participants": 32
+      }
+    ]
+  },
+  "EOOWR": {
+    "names": [
+      "アクア"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-10",
+        "venue": "カードラボ宇都宮店",
+        "deck_id": "105J1",
+        "rank": 8,
+        "event_id": "1599782",
+        "member": "風真いろは",
+        "oshi": "hBP06-003",
+        "participants": 25
+      }
+    ]
+  },
+  "UPXZN": {
+    "names": [
+      "カナメ"
+    ],
+    "wins": 1,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "3YXZP",
+        "rank": 1,
+        "event_id": "1613653",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 24
+      }
+    ]
+  },
+  "QMOEU": {
+    "names": [
+      "たろす"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "カードボックス京都店",
+        "deck_id": "6YXZF",
+        "rank": 2,
+        "event_id": "1639120",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 27
+      }
+    ]
+  },
+  "QIOKH": {
+    "names": [
+      "ねぼすけ"
+    ],
+    "wins": 0,
+    "second": 1,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "32QU1",
+        "rank": 2,
+        "event_id": "1613653",
+        "member": "オーロ・クロニー",
+        "oshi": "hBP07-005",
+        "participants": 24
+      }
+    ]
+  },
+  "NFAQD": {
+    "names": [
+      "ライス"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "5RN8V",
+        "rank": 4,
+        "event_id": "1613653",
+        "member": "星街すいせい",
+        "oshi": "hBP01-007",
+        "participants": 24
+      }
+    ]
+  },
+  "HIWSP": {
+    "names": [
+      "暁"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "6J6T3",
+        "rank": 4,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
+      }
+    ]
+  },
+  "UWFKC": {
+    "names": [
+      "ゆうゆう"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "42ZRX",
+        "rank": 6,
+        "event_id": "1613653",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 24
+      }
+    ]
+  },
+  "IBEQT": {
+    "names": [
+      "リン"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ドラゴンスター神戸三宮店",
+        "deck_id": "5NM25",
+        "rank": 7,
+        "event_id": "1613653",
+        "member": "大神ミオ",
+        "oshi": "hBP07-003",
+        "participants": 24
+      }
+    ]
+  },
+  "WANYO": {
+    "names": [
+      "さな"
+    ],
+    "wins": 0,
+    "second": 0,
+    "top8": 1,
+    "records": [
+      {
+        "date": "2026-06-09",
+        "venue": "ホビーステーション仙台駅前店",
+        "deck_id": "5V0AR",
+        "rank": 7,
+        "event_id": "1600215",
+        "member": "AZKi",
+        "oshi": "hBP07-006",
+        "participants": 32
       }
     ]
   }
