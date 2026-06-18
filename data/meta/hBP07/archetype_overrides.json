@@ -8,6 +8,19 @@
       "rules": [
         { "required": ["hBP04-055"], "name": "ジジ・ムリン（ラプラス型）" }
       ]
+    },
+    {
+      "source": "2c5c91",
+      "rules": [
+        {
+          "required": ["hSD11-002"],
+          "name": "戌神ころね(虎金妃笑虎)"
+        },
+        {
+          "required": [],
+          "name": "戌神ころね"
+        }
+      ]
     }
   ]
 }

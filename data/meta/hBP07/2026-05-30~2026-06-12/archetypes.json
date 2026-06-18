@@ -11682,276 +11682,6 @@
     "prev_id": "4a4153",
     "prev_period": "2026-05-16~2026-05-29"
   },
-  "2c5c91": {
-    "name": "戌神ころね",
-    "class": "黄",
-    "oshi_id": "hBP03-006",
-    "member": "戌神ころね",
-    "cards": {
-      "hSD01-016": {
-        "avg": 4.0,
-        "ratio": 1.0,
-        "rank": 0.588,
-        "avg_when_used": 4.0
-      },
-      "hBP05-074": {
-        "avg": 4.0,
-        "ratio": 1.0,
-        "rank": 0.588,
-        "avg_when_used": 4.0
-      },
-      "hBP03-061": {
-        "avg": 4.0,
-        "ratio": 0.6667,
-        "rank": 0.892,
-        "avg_when_used": 6.0
-      },
-      "hSD11-002": {
-        "avg": 3.3333,
-        "ratio": 0.3333,
-        "rank": 0.0,
-        "avg_when_used": 10.0
-      },
-      "hBP06-067": {
-        "avg": 2.6667,
-        "ratio": 0.6667,
-        "rank": 0.867,
-        "avg_when_used": 4.0
-      },
-      "hBP06-068": {
-        "avg": 2.6667,
-        "ratio": 0.6667,
-        "rank": 0.867,
-        "avg_when_used": 4.0
-      },
-      "hBP06-070": {
-        "avg": 2.6667,
-        "ratio": 0.6667,
-        "rank": 0.867,
-        "avg_when_used": 4.0
-      },
-      "hBP06-099": {
-        "avg": 2.6667,
-        "ratio": 0.6667,
-        "rank": 0.867,
-        "avg_when_used": 4.0
-      },
-      "hBP06-069": {
-        "avg": 2.3333,
-        "ratio": 0.6667,
-        "rank": 0.742,
-        "avg_when_used": 3.5
-      },
-      "hBP01-013": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 0.846,
-        "avg_when_used": 3.0
-      },
-      "hSD14-010": {
-        "avg": 2.0,
-        "ratio": 0.6667,
-        "rank": 0.588,
-        "avg_when_used": 3.0
-      },
-      "hBP05-080": {
-        "avg": 1.6667,
-        "ratio": 0.6667,
-        "rank": 0.393,
-        "avg_when_used": 2.5
-      },
-      "hBP07-089": {
-        "avg": 1.3333,
-        "ratio": 0.3333,
-        "rank": 0.138,
-        "avg_when_used": 4.0
-      },
-      "hBP07-090": {
-        "avg": 1.3333,
-        "ratio": 0.3333,
-        "rank": 0.138,
-        "avg_when_used": 4.0
-      },
-      "hSD11-004": {
-        "avg": 1.3333,
-        "ratio": 0.3333,
-        "rank": 0.138,
-        "avg_when_used": 4.0
-      },
-      "hSD11-006": {
-        "avg": 1.3333,
-        "ratio": 0.3333,
-        "rank": 0.138,
-        "avg_when_used": 4.0
-      },
-      "hBP01-104": {
-        "avg": 1.3333,
-        "ratio": 0.6667,
-        "rank": 0.138,
-        "avg_when_used": 2.0
-      },
-      "hBP01-009": {
-        "avg": 1.3333,
-        "ratio": 0.6667,
-        "rank": 0.812,
-        "avg_when_used": 2.0
-      },
-      "hBP01-014": {
-        "avg": 1.3333,
-        "ratio": 0.6667,
-        "rank": 0.812,
-        "avg_when_used": 2.0
-      },
-      "hBP07-088": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.19,
-        "avg_when_used": 3.0
-      },
-      "hBP01-108": {
-        "avg": 1.0,
-        "ratio": 1.0,
-        "rank": 0.588,
-        "avg_when_used": 1.0
-      },
-      "hSD10-011": {
-        "avg": 1.0,
-        "ratio": 0.3333,
-        "rank": 0.19,
-        "avg_when_used": 3.0
-      },
-      "hBP05-079": {
-        "avg": 1.0,
-        "ratio": 0.6667,
-        "rank": 0.588,
-        "avg_when_used": 1.5
-      },
-      "hBP07-087": {
-        "avg": 0.6667,
-        "ratio": 0.3333,
-        "rank": 0.265,
-        "avg_when_used": 2.0
-      },
-      "hBP05-071": {
-        "avg": 0.6667,
-        "ratio": 0.6667,
-        "rank": 0.749,
-        "avg_when_used": 1.0
-      },
-      "hBP03-063": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      },
-      "hBP06-090": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      },
-      "hBP07-094": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      },
-      "hBP01-114": {
-        "avg": 0.3333,
-        "ratio": 0.3333,
-        "rank": 1.0,
-        "avg_when_used": 1.0
-      }
-    },
-    "cheer_cards": {
-      "hY01-001": {
-        "avg": 13.3333,
-        "ratio": 0.6667
-      },
-      "hY06-001": {
-        "avg": 6.6667,
-        "ratio": 0.3333
-      }
-    },
-    "decks": [
-      {
-        "event": "1619771",
-        "deck_id": "241RK",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 32,
-        "player": "厨間",
-        "friend_code": "OLSTE",
-        "venue": "遊INGコマーシャルモール博多店",
-        "date": "2026-06-07",
-        "pref_code": 40,
-        "variant_cards": [
-          {
-            "name": "hBP07-087",
-            "flag": "in"
-          },
-          {
-            "name": "hBP07-088",
-            "flag": "in"
-          },
-          {
-            "name": "hBP01-009",
-            "flag": "out"
-          },
-          {
-            "name": "hBP01-013",
-            "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "1625834",
-        "deck_id": "22T1Z",
-        "rank": 5,
-        "tourney_size": 4,
-        "participants": 22,
-        "player": "イングラム",
-        "friend_code": "FLWOW",
-        "venue": "ドラゴンスター池袋店",
-        "date": "2026-06-07",
-        "pref_code": 13,
-        "variant_cards": [
-          {
-            "name": "hBP05-080",
-            "flag": "out"
-          }
-        ]
-      },
-      {
-        "event": "1614459",
-        "deck_id": "2ZEBK",
-        "rank": 3,
-        "tourney_size": 4,
-        "participants": 27,
-        "player": "エンドウ",
-        "friend_code": "YMXBL",
-        "venue": "Cards of Paradise桜木店",
-        "date": "2026-06-06",
-        "pref_code": 15,
-        "variant_cards": [
-          {
-            "name": "hBP03-063",
-            "flag": "in"
-          },
-          {
-            "name": "hBP06-090",
-            "flag": "in"
-          },
-          {
-            "name": "hBP01-104",
-            "flag": "out"
-          }
-        ]
-      }
-    ],
-    "prev_id": "315829",
-    "prev_period": "2026-02-15~2026-02-28"
-  },
   "905984": {
     "name": "AZKi",
     "class": "緑",
@@ -12125,6 +11855,174 @@
     ],
     "prev_id": "905984",
     "prev_period": "2026-05-16~2026-05-29"
+  },
+  "c5175a": {
+    "name": "戌神ころね",
+    "class": "黄",
+    "oshi_id": "hBP03-006",
+    "member": "戌神ころね",
+    "cards": {
+      "hBP03-061": {
+        "avg": 6.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 6.0
+      },
+      "hBP06-067": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP06-068": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP06-070": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP05-074": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP06-099": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP06-069": {
+        "avg": 3.5,
+        "ratio": 1.0,
+        "rank": 0.32,
+        "avg_when_used": 3.5
+      },
+      "hBP01-013": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hSD14-010": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.097,
+        "avg_when_used": 3.0
+      },
+      "hBP01-009": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP01-014": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP05-079": {
+        "avg": 1.5,
+        "ratio": 1.0,
+        "rank": 0.186,
+        "avg_when_used": 1.5
+      },
+      "hBP05-071": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      },
+      "hBP01-104": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 0.0,
+        "avg_when_used": 1.0
+      },
+      "hBP03-063": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hBP05-080": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hBP06-090": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hBP07-094": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      },
+      "hBP01-114": {
+        "avg": 0.5,
+        "ratio": 0.5,
+        "rank": 1.0,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY01-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1625834",
+        "deck_id": "22T1Z",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 22,
+        "player": "イングラム",
+        "friend_code": "FLWOW",
+        "venue": "ドラゴンスター池袋店",
+        "date": "2026-06-07",
+        "pref_code": 13
+      },
+      {
+        "event": "1614459",
+        "deck_id": "2ZEBK",
+        "rank": 3,
+        "tourney_size": 4,
+        "participants": 27,
+        "player": "エンドウ",
+        "friend_code": "YMXBL",
+        "venue": "Cards of Paradise桜木店",
+        "date": "2026-06-06",
+        "pref_code": 15
+      }
+    ],
+    "prev_id": "315829",
+    "prev_period": "2026-02-15~2026-02-28"
   },
   "6b36a6": {
     "name": "天音かなた",
@@ -13140,6 +13038,114 @@
       }
     ],
     "prev_id": "00ad8e",
+    "prev_period": "2026-05-16~2026-05-29"
+  },
+  "67cd63": {
+    "name": "戌神ころね(虎金妃笑虎)",
+    "class": "黄",
+    "oshi_id": "hBP03-006",
+    "member": "戌神ころね",
+    "cards": {
+      "hSD11-002": {
+        "avg": 10.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 10.0
+      },
+      "hBP07-089": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP07-090": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD11-004": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD11-006": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP05-080": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hSD01-016": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP05-074": {
+        "avg": 4.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 4.0
+      },
+      "hBP07-088": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hSD10-011": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP01-104": {
+        "avg": 3.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 3.0
+      },
+      "hBP07-087": {
+        "avg": 2.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 2.0
+      },
+      "hBP01-108": {
+        "avg": 1.0,
+        "ratio": 1.0,
+        "rank": 0.5,
+        "avg_when_used": 1.0
+      }
+    },
+    "cheer_cards": {
+      "hY06-001": {
+        "avg": 20.0,
+        "ratio": 1.0
+      }
+    },
+    "decks": [
+      {
+        "event": "1619771",
+        "deck_id": "241RK",
+        "rank": 5,
+        "tourney_size": 4,
+        "participants": 32,
+        "player": "厨間",
+        "friend_code": "OLSTE",
+        "venue": "遊INGコマーシャルモール博多店",
+        "date": "2026-06-07",
+        "pref_code": 40
+      }
+    ],
+    "prev_id": "887457",
     "prev_period": "2026-05-16~2026-05-29"
   }
 }

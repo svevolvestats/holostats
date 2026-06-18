@@ -313,25 +313,6 @@
       "prev_id": "4a4153"
     },
     {
-      "id": "2c5c91",
-      "name": "戌神ころね",
-      "class": "黄",
-      "oshi_id": "hBP03-006",
-      "member": "戌神ころね",
-      "count": 3,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0058,
-      "win_share": 0.0,
-      "deck_rank": -2.67,
-      "top_cards": [
-        "hSD01-016",
-        "hBP05-074",
-        "hBP03-061"
-      ],
-      "prev_id": "315829"
-    },
-    {
       "id": "905984",
       "name": "AZKi",
       "class": "緑",
@@ -349,6 +330,25 @@
         "hBP06-058"
       ],
       "prev_id": "905984"
+    },
+    {
+      "id": "c5175a",
+      "name": "戌神ころね",
+      "class": "黄",
+      "oshi_id": "hBP03-006",
+      "member": "戌神ころね",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0038,
+      "win_share": 0.0,
+      "deck_rank": -2.0,
+      "top_cards": [
+        "hBP03-061",
+        "hBP06-099",
+        "hBP06-067"
+      ],
+      "prev_id": "315829"
     },
     {
       "id": "6b36a6",
@@ -481,6 +481,25 @@
         "hBP04-055"
       ],
       "prev_id": "00ad8e"
+    },
+    {
+      "id": "67cd63",
+      "name": "戌神ころね(虎金妃笑虎)",
+      "class": "黄",
+      "oshi_id": "hBP03-006",
+      "member": "戌神ころね",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0019,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hSD11-002",
+        "hSD11-004",
+        "hBP07-090"
+      ],
+      "prev_id": "887457"
     }
   ]
 }
