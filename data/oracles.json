@@ -4162,7 +4162,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 220
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-057",
@@ -4318,7 +4318,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 280
+    "min_price": 480
   },
   {
     "oracle_id": "hBP01-061",
@@ -4401,7 +4401,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-063",
@@ -5931,7 +5931,7 @@
       2129
     ],
     "ability_text": "自分のデッキから、Debutホロメン1枚を公開し、ステージに出す。そしてデッキをシャッフルする。",
-    "min_price": 480
+    "min_price": 980
   },
   {
     "oracle_id": "hBP01-105",
@@ -7847,7 +7847,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP02-019",
@@ -8403,7 +8403,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 120
   },
   {
     "oracle_id": "hBP02-033",
@@ -8504,7 +8504,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 780
+    "min_price": 980
   },
   {
     "oracle_id": "hBP02-036",
@@ -8621,7 +8621,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 220
+    "min_price": 280
   },
   {
     "oracle_id": "hBP02-039",
@@ -14631,7 +14631,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP03-039",
@@ -15028,7 +15028,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 380
+    "min_price": 480
   },
   {
     "oracle_id": "hBP03-051",
@@ -23793,7 +23793,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": 180
+    "min_price": 220
   },
   {
     "oracle_id": "hBP05-071",
@@ -24827,7 +24827,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 280
+    "min_price": 80
   },
   {
     "oracle_id": "hSD11-008",
@@ -24908,7 +24908,7 @@
         "tokkou": "紫+50"
       }
     ],
-    "min_price": 980
+    "min_price": 1080
   },
   {
     "oracle_id": "hBP06-001",
@@ -28980,7 +28980,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 580
+    "min_price": 780
   },
   {
     "oracle_id": "hSD12-014",
@@ -29018,7 +29018,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 580
+    "min_price": 780
   },
   {
     "oracle_id": "hSD12-015",
@@ -29035,7 +29035,7 @@
       1764
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#Adventを持つホロメンでなければ使えない。\n\n\n\n相手のセンターホロメンに特殊ダメージ20を与える。その後、自分のアーカイブのエール1枚を自分のホロメンに送る。\n\n自分の〈脱獄を果たした共犯者たち〉はターンに1回しか使えない。",
-    "min_price": 2380
+    "min_price": 2480
   },
   {
     "oracle_id": "hSD12-016",
@@ -35698,7 +35698,7 @@
       "once_per_game": true,
       "text": "自分の〈IRyS〉全員のエール1枚につき、自分のデッキを1枚引く。その後、自分の〈IRyS〉全員の紫エール1枚につき、自分のデッキの上から1枚をホロパワーにする。"
     },
-    "min_price": null
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-002",
@@ -35723,7 +35723,7 @@
       "text": "自分のエールデッキの上から2枚を自分のお休みしている〈セシリア・イマーグリーン〉に割り振って送る。その後、この能力でエールを送られたホロメン全員をアクティブにする。"
     },
     "sp_oshi_skill": null,
-    "min_price": null
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-003",
@@ -35749,7 +35749,7 @@
       "text": "自分のステージに赤エールがあるなら、自分のアーカイブの#Adventを持つホロメン1枚を手札に戻す。青エールがあるなら、自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。"
     },
     "sp_oshi_skill": null,
-    "min_price": null
+    "min_price": 198000
   },
   {
     "oracle_id": "hBP08-004",
@@ -35781,7 +35781,7 @@
       "once_per_game": true,
       "text": "相手のバックホロメン1人に、相手のセンターホロメンが受けているダメージと同じ数値の特殊ダメージを与える。"
     },
-    "min_price": null
+    "min_price": 880
   },
   {
     "oracle_id": "hBP08-005",
@@ -35808,7 +35808,7 @@
       "text": "自分の手札2枚をアーカイブする。この能力で2枚アーカイブしたなら、相手のDebut以外の[センターホロメンとコラボホロメン]に特殊ダメージ50を与える。"
     },
     "sp_oshi_skill": null,
-    "min_price": null
+    "min_price": 780
   },
   {
     "oracle_id": "hBP08-006",
@@ -35834,7 +35834,7 @@
       "text": "[ホロパワー:-X]Ina'nisの色彩この能力でアーカイブしたホロパワー1枚につき、相手のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。"
     },
     "sp_oshi_skill": null,
-    "min_price": null
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-007",
@@ -35866,7 +35866,7 @@
       "once_per_game": true,
       "text": "自分のエールデッキの上から3枚を自分のセンターホロメンの〈音乃瀬奏〉に送る。このターンが終了する時、自分のステージのエール3枚をアーカイブする。"
     },
-    "min_price": null
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-008",
@@ -35905,7 +35905,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-009",
@@ -35945,7 +35945,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-010",
@@ -35985,7 +35985,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-011",
@@ -36025,7 +36025,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-012",
@@ -36066,7 +36066,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-013",
@@ -36109,7 +36109,7 @@
         "tokkou": "紫+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-014",
@@ -36154,7 +36154,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": null
+    "min_price": 180
   },
   {
     "oracle_id": "hBP08-015",
@@ -36194,7 +36194,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-016",
@@ -36232,7 +36232,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-017",
@@ -36273,7 +36273,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-018",
@@ -36319,7 +36319,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": null
+    "min_price": 180
   },
   {
     "oracle_id": "hBP08-019",
@@ -36360,7 +36360,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-020",
@@ -36402,7 +36402,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-021",
@@ -36439,7 +36439,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-022",
@@ -36477,7 +36477,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-023",
@@ -36517,7 +36517,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-024",
@@ -36557,7 +36557,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-025",
@@ -36597,7 +36597,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-026",
@@ -36640,7 +36640,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-027",
@@ -36686,7 +36686,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": null
+    "min_price": 180
   },
   {
     "oracle_id": "hBP08-028",
@@ -36729,7 +36729,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-029",
@@ -36768,7 +36768,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-030",
@@ -36809,7 +36809,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-031",
@@ -36826,7 +36826,7 @@
       2358
     ],
     "ability_text": "緑◇GWS+　60\n自分のエールデッキの上から1枚をアーカイブする。その後、自分のステージのエール1色につき、自分のホロメン1人のHP10回復。",
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-032",
@@ -36870,7 +36870,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-033",
@@ -36916,7 +36916,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-034",
@@ -36953,7 +36953,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-035",
@@ -36990,7 +36990,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-036",
@@ -37030,7 +37030,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-037",
@@ -37071,7 +37071,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-038",
@@ -37114,7 +37114,7 @@
         "tokkou": "緑+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-039",
@@ -37159,7 +37159,7 @@
         "tokkou": "紫+50"
       }
     ],
-    "min_price": null
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-040",
@@ -37176,7 +37176,7 @@
       2363
     ],
     "ability_text": "赤◇お花見デート　30+\n自分のアーカイブの赤エール1枚につき、このアーツ+10。",
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-041",
@@ -37216,7 +37216,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-042",
@@ -37256,7 +37256,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-043",
@@ -37273,7 +37273,7 @@
       2364
     ],
     "ability_text": "赤赤生き抜く覚悟　50\n自分のステージのホロメン全員が#Mythを持つホロメンなら、自分のデッキの上から1枚をホロパワーにする。",
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-044",
@@ -37317,7 +37317,7 @@
         "tokkou": "紫+50"
       }
     ],
-    "min_price": null
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-045",
@@ -37359,7 +37359,7 @@
         "tokkou": "緑+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-046",
@@ -37399,7 +37399,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-047",
@@ -37437,7 +37437,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-048",
@@ -37476,7 +37476,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-049",
@@ -37516,7 +37516,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-050",
@@ -37555,7 +37555,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-051",
@@ -37595,7 +37595,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-052",
@@ -37633,7 +37633,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-053",
@@ -37677,7 +37677,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": null
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-054",
@@ -37721,7 +37721,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-055",
@@ -37761,7 +37761,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-056",
@@ -37801,7 +37801,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-057",
@@ -37841,7 +37841,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-058",
@@ -37881,7 +37881,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-059",
@@ -37926,7 +37926,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": null
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-060",
@@ -37968,7 +37968,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-061",
@@ -38008,7 +38008,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-062",
@@ -38049,7 +38049,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-063",
@@ -38090,7 +38090,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-064",
@@ -38131,7 +38131,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-065",
@@ -38174,7 +38174,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-066",
@@ -38217,7 +38217,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-067",
@@ -38263,7 +38263,7 @@
         "tokkou": "緑+50"
       }
     ],
-    "min_price": null
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-068",
@@ -38303,7 +38303,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-069",
@@ -38344,7 +38344,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-070",
@@ -38386,7 +38386,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-071",
@@ -38428,7 +38428,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-072",
@@ -38470,7 +38470,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-073",
@@ -38514,7 +38514,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-074",
@@ -38560,7 +38560,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": null
+    "min_price": 180
   },
   {
     "oracle_id": "hBP08-075",
@@ -38603,7 +38603,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-076",
@@ -38647,7 +38647,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-077",
@@ -38686,7 +38686,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-078",
@@ -38726,7 +38726,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-079",
@@ -38766,7 +38766,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-080",
@@ -38806,7 +38806,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-081",
@@ -38847,7 +38847,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-082",
@@ -38890,7 +38890,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-083",
@@ -38935,7 +38935,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 180
   },
   {
     "oracle_id": "hBP08-084",
@@ -38975,7 +38975,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-085",
@@ -39015,7 +39015,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-086",
@@ -39055,7 +39055,7 @@
         "power_plus": true
       }
     ],
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-087",
@@ -39097,7 +39097,7 @@
         "tokkou": "青+50"
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-088",
@@ -39142,7 +39142,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": null
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-089",
@@ -39181,7 +39181,7 @@
         "power_plus": false
       }
     ],
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-090",
@@ -39200,7 +39200,7 @@
       2425
     ],
     "ability_text": "自分のアーカイブの[マスコットとファン]合計1～3枚をデッキに戻してシャッフルする。その後、自分のデッキを2枚引く。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-091",
@@ -39218,7 +39218,7 @@
       2426
     ],
     "ability_text": "自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1枚をステージに出す。そしてデッキをシャッフルする。その後、自分のアーカイブのDebutホロメン1枚をステージに出す。",
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-092",
@@ -39236,7 +39236,7 @@
       2295
     ],
     "ability_text": "自分のデッキから、[〈フワワ・アビスガード〉と〈モココ・アビスガード〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のライフが相手より少ないなら、相手のホロメン1人に特殊ダメージ20を与える。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-093",
@@ -39254,7 +39254,7 @@
       2427
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が〈癒月ちょこ〉で、自分のライフが3以下でなければ使えない。\n\n\n\nこのターンの間、自分のステージの[Debutホロメンと1stホロメン]全員のアーツ+20。その後、自分のステージの2ndホロメン全員のアーツ+60。\n\n\n\n自分の〈ちょこのなすユッケ〉はターンに1回しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-094",
@@ -39272,7 +39272,7 @@
       2297
     ],
     "ability_text": "このカードは、自分のコラボホロメンがいる時にしか使えない。\n\n\n\n自分のセンターホロメンを選ぶ。次の相手のターンの間、選んだホロメンがセンターポジションで最初に受けるアーツダメージ-300。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-095",
@@ -39291,7 +39291,7 @@
       2428
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#ENを持つホロメンで、自分のライフが3以下でなければ使えない。\n\n\n\nお互いのセンターホロメンとコラボホロメンに特殊ダメージ50を与える。ただし、この能力でダウンしてもライフは減らない。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-096",
@@ -39310,7 +39310,7 @@
       2429
     ],
     "ability_text": "このカードは、自分の推しホロメンが〈一条莉々華〉でなければ使えない。\n\n\n\n自分のデッキから、[〈一条莉々華〉と〈限界飯〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のアーカイブに〈限界飯〉が3枚以上あるなら、このターンの間、自分のステージの〈一条莉々華〉全員のアーツ+50。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-097",
@@ -39328,7 +39328,7 @@
       2430
     ],
     "ability_text": "自分のステージのホロメン1人を選ぶ。選んだホロメンのHP20回復。その後、自分のアーカイブに#食べ物を持つイベントが2枚以上あるなら、自分のアーカイブのエール1枚をそのホロメンに送る。\n\n\n\n自分の〈りっちしょこらのハンバーグ〉はターンに1回しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-098",
@@ -39347,7 +39347,7 @@
       2431
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#Mythを持つホロメンでなければ使えない。\n\n\n\n自分のデッキの上から4枚を公開する。その中から2枚を手札に加える。そして残ったカードをアーカイブする。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-099",
@@ -39365,7 +39365,7 @@
       2432
     ],
     "ability_text": "以下の能力から1つを選んで使う。\n\n\n\n ■自分の#トリを持つホロメンのエール1枚をアーカイブする。アーカイブしたなら、自分のデッキを2枚引いた後、手札1枚をデッキの下に戻す。\n\n ■自分のアーカイブのエール1枚を自分の#トリを持つホロメンに送る。\n\n\n\n自分の〈HOLOTORI〉はターンに1回しか使えない。",
-    "min_price": null
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-100",
@@ -39384,7 +39384,7 @@
       2433
     ],
     "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n\n\n自分のデッキの上から4枚を見る。その中から、#Mythを持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-101",
@@ -39403,7 +39403,7 @@
       2434
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#ReGLOSSを持つホロメンでなければ使えない。\n\n\n\n 自分のデッキから、#ReGLOSSを持つホロメン2枚を公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のステージのホロメンが相手より少ないなら、自分のデッキを1枚引いた後、手札1枚をアーカイブする。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": null
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-102",
@@ -39421,7 +39421,7 @@
       2435
     ],
     "ability_text": "このツールが付いているホロメンのアーツ+10。\n\n\n\n ◆Buzzホロメンに付いていたら能力追加\n\n [ターンに1回]このホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。\n\n\n\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-103",
@@ -39439,7 +39439,7 @@
       2436
     ],
     "ability_text": "■このツールが付いているホロメンのHP+50。\n\n ■このツールが付いているホロメンがダウンした時、自分のライフ-1。\n\n\n\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-104",
@@ -39457,7 +39457,7 @@
       2437
     ],
     "ability_text": "◆〈水宮枢〉に付いていたら能力追加\n\n ■[センターポジション・コラボポジション限定]相手のセンターホロメンのバトンタッチに必要な無色+1。\n\n ■このホロメンのBloomレベルが上がった時、自分のデッキを1枚引く。\n\n\n\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-105",
@@ -39475,7 +39475,7 @@
       2438
     ],
     "ability_text": "このマスコットが付いているホロメンのHP+20。\n\n\n\n ◆〈IRyS〉に付いていたら能力追加\n\nこのホロメンに白エールと紫エールが付いているなら、このホロメンのアーツ+20。\n\n\n\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-106",
@@ -39493,7 +39493,7 @@
       2439
     ],
     "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンのエール1枚を、自分の他のホロメンに付け替える。\n\n\n\nこのファンは、自分の〈IRyS〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-107",
@@ -39511,7 +39511,7 @@
       2440
     ],
     "ability_text": "このファンが付いているホロメンのアーツ+10。\n\n\n\nこのファンをホロメンに手札かアーカイブから付けた時、このファンが付いているホロメンをアクティブにするかお休みさせる。\n\n\n\nこのファンは、自分の〈セシリア・イマーグリーン〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-108",
@@ -39529,7 +39529,7 @@
       2441
     ],
     "ability_text": "このファンが付いているホロメンのHP+10。\n\n\n\n相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンに赤エールが付いているなら、自分のデッキを1枚引く。\n\n\n\nこのファンは、自分の〈フワワ・アビスガード〉か〈モココ・アビスガード〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": null
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-109",
@@ -39547,7 +39547,7 @@
       2442
     ],
     "ability_text": "このファンが付いているホロメンのアーツ+10。\n\n\n\n相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンの[赤エールか紫エール]1枚を自分の他のホロメンに付け替える。\n\n\n\nこのファンは、自分の〈鷹嶺ルイ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": null
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-110",
@@ -39565,6 +39565,6 @@
       2443
     ],
     "ability_text": "このファンが付いているホロメンのアーツ+10。\n\n\n\n [センターポジション限定]相手のセンターホロメンとコラボホロメンは、すべての色を持つホロメンとして扱う。\n\n\n\nこのファンは、自分の〈一伊那尓栖〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": null
+    "min_price": 30
   }
 ]
