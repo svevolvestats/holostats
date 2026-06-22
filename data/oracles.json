@@ -3141,7 +3141,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 30
+    "min_price": 120
   },
   {
     "oracle_id": "hBP01-031",
@@ -5590,7 +5590,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 420
+    "min_price": 480
   },
   {
     "oracle_id": "hBP01-095",
@@ -6002,7 +6002,7 @@
       834
     ],
     "ability_text": "相手のセンターホロメンとバックホロメン1人を交代させる。\n\n\n\r\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP01-109",
@@ -7071,7 +7071,7 @@
       2453
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
-    "min_price": 80
+    "min_price": 1080
   },
   {
     "oracle_id": "hYS01-001",
@@ -14764,7 +14764,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hBP03-043",
@@ -15028,7 +15028,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 480
+    "min_price": 580
   },
   {
     "oracle_id": "hBP03-051",
@@ -19626,7 +19626,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": 380
+    "min_price": 880
   },
   {
     "oracle_id": "hBP04-073",
@@ -20195,7 +20195,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": 480
+    "min_price": 380
   },
   {
     "oracle_id": "hBP04-087",
@@ -26079,7 +26079,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 80
   },
   {
     "oracle_id": "hBP06-033",
@@ -28237,7 +28237,7 @@
       2133
     ],
     "ability_text": "自分のデッキを2枚引く。その後、自分のライフが4以下なら、自分のこのターンにDebutホロメンからBloomした1stホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 380
+    "min_price": 8980
   },
   {
     "oracle_id": "hBP06-091",
@@ -33300,7 +33300,7 @@
       2201
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#Promiseを持つホロメンでなければ使えない。\n\n\n\n自分のデッキから、#Promiseを持つホロメン2枚を公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のライフが相手より少ないなら、自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 120
+    "min_price": 780
   },
   {
     "oracle_id": "hBP07-098",
@@ -35698,7 +35698,7 @@
       "once_per_game": true,
       "text": "自分の〈IRyS〉全員のエール1枚につき、自分のデッキを1枚引く。その後、自分の〈IRyS〉全員の紫エール1枚につき、自分のデッキの上から1枚をホロパワーにする。"
     },
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-002",
@@ -35723,7 +35723,7 @@
       "text": "自分のエールデッキの上から2枚を自分のお休みしている〈セシリア・イマーグリーン〉に割り振って送る。その後、この能力でエールを送られたホロメン全員をアクティブにする。"
     },
     "sp_oshi_skill": null,
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-003",
@@ -35749,7 +35749,7 @@
       "text": "自分のステージに赤エールがあるなら、自分のアーカイブの#Adventを持つホロメン1枚を手札に戻す。青エールがあるなら、自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。"
     },
     "sp_oshi_skill": null,
-    "min_price": 198000
+    "min_price": 2180
   },
   {
     "oracle_id": "hBP08-004",
@@ -35781,7 +35781,7 @@
       "once_per_game": true,
       "text": "相手のバックホロメン1人に、相手のセンターホロメンが受けているダメージと同じ数値の特殊ダメージを与える。"
     },
-    "min_price": 2180
+    "min_price": 1780
   },
   {
     "oracle_id": "hBP08-005",
@@ -35808,7 +35808,7 @@
       "text": "自分の手札2枚をアーカイブする。この能力で2枚アーカイブしたなら、相手のDebut以外の[センターホロメンとコラボホロメン]に特殊ダメージ50を与える。"
     },
     "sp_oshi_skill": null,
-    "min_price": 980
+    "min_price": 880
   },
   {
     "oracle_id": "hBP08-006",
@@ -36154,7 +36154,7 @@
         "tokkou": "赤+50"
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-015",
@@ -36686,7 +36686,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-028",
@@ -37159,7 +37159,7 @@
         "tokkou": "紫+50"
       }
     ],
-    "min_price": 380
+    "min_price": 480
   },
   {
     "oracle_id": "hBP08-040",
@@ -37677,7 +37677,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": 480
+    "min_price": 12800
   },
   {
     "oracle_id": "hBP08-054",
@@ -37926,7 +37926,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": 480
+    "min_price": 380
   },
   {
     "oracle_id": "hBP08-060",
@@ -38263,7 +38263,7 @@
         "tokkou": "緑+50"
       }
     ],
-    "min_price": 220
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-068",
@@ -38560,7 +38560,7 @@
         "tokkou": "黄+50"
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-075",
@@ -39055,7 +39055,7 @@
         "power_plus": true
       }
     ],
-    "min_price": 30
+    "min_price": 50
   },
   {
     "oracle_id": "hBP08-087",
@@ -39403,7 +39403,7 @@
       2434
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#ReGLOSSを持つホロメンでなければ使えない。\n\n\n\n 自分のデッキから、#ReGLOSSを持つホロメン2枚を公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のステージのホロメンが相手より少ないなら、自分のデッキを1枚引いた後、手札1枚をアーカイブする。\n\n\n\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-102",
