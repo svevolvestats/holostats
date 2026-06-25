@@ -28852,6 +28852,53 @@
   ],
   "トレカショップ竜のしっぽ梅田NU茶屋町店": [
     {
+      "date": "2026-06-25",
+      "event_id": "1627168",
+      "participants": 25,
+      "top8": [
+        {
+          "friend_code": "EXBMU",
+          "deck_id": "577RV",
+          "rank": 1
+        },
+        {
+          "friend_code": "ZGOHR",
+          "deck_id": "3DCV9",
+          "rank": 2
+        },
+        {
+          "friend_code": "JNNSV",
+          "deck_id": "3NE2F",
+          "rank": 3
+        },
+        {
+          "friend_code": "ADATU",
+          "deck_id": "5PVS1",
+          "rank": 4
+        },
+        {
+          "friend_code": "TAVHX",
+          "deck_id": "1MEER",
+          "rank": 5
+        },
+        {
+          "friend_code": "BNKAR",
+          "deck_id": "5E303",
+          "rank": 6
+        },
+        {
+          "friend_code": "PDCWC",
+          "deck_id": "4LULD",
+          "rank": 7
+        },
+        {
+          "friend_code": "KRQPJ",
+          "deck_id": "3ZPJK",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-24",
       "event_id": "1627167",
       "participants": 30,
@@ -35124,6 +35171,53 @@
     }
   ],
   "ドラゴンスター秋葉原駅前店": [
+    {
+      "date": "2026-06-25",
+      "event_id": "1617783",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "ZJHJO",
+          "deck_id": "3LNNF",
+          "rank": 1
+        },
+        {
+          "friend_code": "UIXNA",
+          "deck_id": "5Z63R",
+          "rank": 2
+        },
+        {
+          "friend_code": "JXFXR",
+          "deck_id": "68LZD",
+          "rank": 3
+        },
+        {
+          "friend_code": "JSFPK",
+          "deck_id": "4VK3Z",
+          "rank": 4
+        },
+        {
+          "friend_code": "QPJJC",
+          "deck_id": "WJDK",
+          "rank": 5
+        },
+        {
+          "friend_code": "YNDXO",
+          "deck_id": "3882P",
+          "rank": 6
+        },
+        {
+          "friend_code": "SUDQV",
+          "deck_id": "36GRB",
+          "rank": 7
+        },
+        {
+          "friend_code": "BOFBA",
+          "deck_id": "3S55R",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "event_id": "1588942",
@@ -41817,6 +41911,53 @@
     }
   ],
   "ホビーステーション名古屋大須本店": [
+    {
+      "date": "2026-06-25",
+      "event_id": "1630521",
+      "participants": 27,
+      "top8": [
+        {
+          "friend_code": "ODXTB",
+          "deck_id": "1B6SK",
+          "rank": 1
+        },
+        {
+          "friend_code": "SLUWS",
+          "deck_id": "18VB5",
+          "rank": 2
+        },
+        {
+          "friend_code": "RSVHK",
+          "deck_id": "3XVYX",
+          "rank": 3
+        },
+        {
+          "friend_code": "VCCOW",
+          "deck_id": "4A3UB",
+          "rank": 4
+        },
+        {
+          "friend_code": "YJGHN",
+          "deck_id": "59RY7",
+          "rank": 5
+        },
+        {
+          "friend_code": "SEVMI",
+          "deck_id": "6MBZM",
+          "rank": 6
+        },
+        {
+          "friend_code": "PDUQM",
+          "deck_id": "2CYBD",
+          "rank": 7
+        },
+        {
+          "friend_code": "JRTUR",
+          "deck_id": "WR5V",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-06-21",
       "event_id": "1630520",
