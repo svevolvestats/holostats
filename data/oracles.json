@@ -2333,9 +2333,10 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "こんかなた～",
+        "power": 40,
+        "power_plus": false,
+        "text": "このアーツは、相手のセンターホロメンしか対象にできない。"
       }
     ],
     "min_price": 50
@@ -2406,8 +2407,8 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "塩対応かなたそ",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -2534,7 +2535,8 @@
         "name": "♰漆黒の翼♰",
         "power": 100,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-1。"
       }
     ],
     "min_price": 220
@@ -2570,9 +2572,10 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "Oh,Hi",
+        "power": 10,
+        "power_plus": true,
+        "text": "このターンに自分がサポートカードを使っていた時、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -2647,8 +2650,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "一緒にお出かけ",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "コーヒーブレイク",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -2684,9 +2696,10 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "思い出の欠片",
+        "power": 20,
+        "power_plus": true,
+        "text": "自分のデッキの上から1枚を公開できる:公開したカードが#Promiseを持つ時、このアーツ+20。そして公開したカードを手札に加える。"
       }
     ],
     "min_price": 30
@@ -2772,7 +2785,8 @@
         "name": "みんな一緒に",
         "power": 70,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このターンの間、自分のバックホロメン1人につき、自分のセンターホロメンとコラボホロメンのアーツ+10。"
       }
     ],
     "min_price": 120
@@ -2807,8 +2821,8 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "みんな～こんそめ～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -2894,7 +2908,8 @@
         "name": "止まらねえぞ",
         "power": 80,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "サイコロを1回振れる:奇数の時、同じホロメンに、このアーツをもう1回使う（このアーツはそのホロメンがダウンするまで繰り返せる）。"
       }
     ],
     "min_price": 80
@@ -2930,8 +2945,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ミッションスタート",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -2965,8 +2980,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "温泉は飲まないでね！",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "温泉でくつろぐ一日を",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -3060,8 +3084,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ハイRyS！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -3094,10 +3118,11 @@
     "arts": [
       {
         "cost": [
-          "白"
+          "白",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "清楚なネフィリムです！",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -3182,7 +3207,8 @@
         "name": "約束の力",
         "power": 50,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分の#Promiseを持つホロメン1人につき、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -3220,8 +3246,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "アロ～ナ！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -3298,8 +3324,17 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "あらあら",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "むぎゅむぎゅ雑談",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -3341,7 +3376,8 @@
         ],
         "name": "アキロゼ幻想曲",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンにツールが付いている時、自分のエールデッキの上から1枚を、自分のホロメンに送る。"
       }
     ],
     "min_price": 50
@@ -3427,7 +3463,8 @@
         "name": "秘密の合鍵",
         "power": 70,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンにツールが付いている時、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -3463,9 +3500,10 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "こんぺこー！",
+        "power": 20,
+        "power_plus": true,
+        "text": "サイコロを1回振れる:偶数の時、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -3538,10 +3576,11 @@
     "arts": [
       {
         "cost": [
-          "緑"
+          "緑",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつぺこでした",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -3618,9 +3657,19 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "白い砂浜と兎少女",
+        "power": 40,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "緑"
+        ],
+        "name": "きｔらあああ",
+        "power": 50,
+        "power_plus": true,
+        "text": "サイコロを1回振れる:出た目の数1につき、このアーツ+10。"
       }
     ],
     "min_price": 120
@@ -3665,7 +3714,8 @@
         "name": "全人類兎化計画",
         "power": 60,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "サイコロを3回振れる:出た目の合計数1につき、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -3703,8 +3753,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんあずき～",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -3866,8 +3916,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "皆殿、風真いろはでござる～",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -3901,8 +3951,17 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "とれたてナス",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "おひとついかがでござるか？",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -3945,7 +4004,8 @@
         ],
         "name": "元気を全力でお届けします！",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を、自分の〈風真いろは〉以外の#秘密結社holoXを持つホロメンに送る。"
       }
     ],
     "min_price": 280
@@ -3998,9 +4058,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "スラマッパギ！",
+        "power": 10,
+        "power_plus": false,
+        "text": "自分のステージのエール1枚を、自分の#IDを持つホロメンに付け替えられる。"
       }
     ],
     "min_price": 30
@@ -4032,10 +4093,11 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "あなたの愛しの宇宙人",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -4119,7 +4181,8 @@
         "name": "リレーションスカイ",
         "power": 100,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のステージに〈アイラニ・イオフィフティーン〉以外の#IDを持つホロメンがいる時、このアーツ+50。"
       }
     ],
     "min_price": 120
@@ -4157,8 +4220,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "皆さん、待っ鷹ね？",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -4199,7 +4262,8 @@
         ],
         "name": "漆黒の翼で誘おう",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のコラボホロメンに特殊ダメージ10を与える。"
       }
     ],
     "min_price": 80
@@ -4235,8 +4299,17 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんルイルイ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "おつルイルイ",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -4272,9 +4345,19 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "パーティーへようこそ",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "赤"
+        ],
+        "name": "Lui’s Party",
+        "power": 50,
+        "power_plus": false,
+        "text": "自分の手札1枚をアーカイブできる:自分のデッキから、Buzz以外の1stホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -4360,7 +4443,8 @@
         "name": "ホークレイヴ",
         "power": 60,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分の手札1～5枚をアーカイブできる:相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたカード1枚につき特殊ダメージ20を与える。"
       }
     ],
     "min_price": 280
@@ -4396,9 +4480,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "キッケリキー！",
+        "power": 20,
+        "power_plus": true,
+        "text": "自分の手札1枚をアーカイブできる:このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -4469,8 +4554,8 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "auf Wiedersehen!",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -4546,9 +4631,19 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "不死鳥の剣姫",
+        "power": 50,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "赤"
+        ],
+        "name": "跪きなさい。",
+        "power": 40,
+        "power_plus": false,
+        "text": "このホロメンに重なっているホロメン1枚をアーカイブできる:相手のコラボホロメンに特殊ダメージ40を与える。"
       }
     ],
     "min_price": 50
@@ -4589,6 +4684,18 @@
         "power": 70,
         "power_plus": false,
         "tokkou": "緑+50"
+      },
+      {
+        "cost": [
+          "赤",
+          "赤",
+          "赤"
+        ],
+        "name": "マジェスティック・フェニックス",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "自分のアーカイブのホロメン1枚につき、このアーツ+10。そして自分のアーカイブのホロメン6枚をデッキに戻してシャッフルする。"
       }
     ],
     "min_price": 80
@@ -4623,8 +4730,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ポルカおるよ！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -4658,8 +4765,17 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "おはぽる",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "おそぽる",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -4702,7 +4818,8 @@
         ],
         "name": "共依存",
         "power": 70,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このアーツは、このホロメンに〈座員〉が付いていないと使えない。"
       }
     ],
     "min_price": 80
@@ -4755,9 +4872,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "WAZZUP!!",
+        "power": 20,
+        "power_plus": false,
+        "text": "このホロメンに赤エールが付いている時、サイコロを1回振れる:奇数の時、相手のコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 80
@@ -4789,10 +4907,11 @@
     "arts": [
       {
         "cost": [
-          "赤"
+          "赤",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "WITNESS ME!!",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -4914,9 +5033,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "スターの原石",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ10を与える（ダウンしても相手のライフは減らない）。"
       }
     ],
     "min_price": 50
@@ -4991,8 +5111,17 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "ストリートスナップ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "木漏れ日のひと時",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -5121,7 +5250,8 @@
         "name": "輝く彗星",
         "power": 60,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンの青エール2枚をアーカイブできる:このホロメンに重なっているホロメン1枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。"
       }
     ],
     "min_price": 280
@@ -5156,8 +5286,8 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぼこぼこぼこぼ",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -5227,10 +5357,11 @@
     "arts": [
       {
         "cost": [
-          "青"
+          "青",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "猫になる～",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -5264,9 +5395,19 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "perayaan",
+        "power": 40,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "レインドロップス",
+        "power": 50,
+        "power_plus": false,
+        "text": "相手のバックホロメン3人に特殊ダメージ10を与える（ダウンしても相手のライフは減らない）。"
       }
     ],
     "min_price": 30
@@ -5344,7 +5485,20 @@
         "name": "雨のマントラ",
         "power": 40,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンのエール1枚をアーカイブできる:相手のバックホロメン全員に特殊ダメージ20を与える（ダウンしても相手のライフは減らない）。"
+      },
+      {
+        "cost": [
+          "青",
+          "青",
+          "無"
+        ],
+        "name": "波のマントラ",
+        "power": 40,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "このホロメンのエール2枚をアーカイブできる:相手のセンターホロメンに、相手のバックホロメン全員が受けているダメージの合計数と同じ数値の特殊ダメージを与える。"
       }
     ],
     "min_price": 80
@@ -5380,9 +5534,10 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ムーン ムーン ムーナだよ！",
+        "power": 10,
+        "power_plus": false,
+        "text": "サイコロを1回振れる:偶数の時、相手のバックホロメン1人に特殊ダメージ20を与える（ダウンしても相手のライフは減らない）。"
       }
     ],
     "min_price": 80
@@ -5414,10 +5569,11 @@
     "arts": [
       {
         "cost": [
-          "青"
+          "青",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつムーナ",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -5511,9 +5667,10 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "クロにちは～",
+        "power": 10,
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を、自分の他の#Promiseを持つホロメンに付け替えられる。"
       }
     ],
     "min_price": 120
@@ -5546,8 +5703,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "クロやすみ～",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "お休みクロタイム",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -5630,7 +5796,8 @@
         "name": "早送り",
         "power": 60,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のこのターンに出したDebutバックホロメン1人を、自分の手札の1stホロメンにBloomできる。"
       }
     ],
     "min_price": 180
@@ -6407,8 +6574,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "(๑╹ᆺ╹)ぬんぬん",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -6484,8 +6651,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぬんぬんしよう",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "あなたの心は…くもりのち晴れ！",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -6577,8 +6753,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "がんばれてえらい！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -6652,10 +6828,11 @@
     "arts": [
       {
         "cost": [
-          "緑"
+          "緑",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "きみとあてのない旅",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -6695,7 +6872,20 @@
         "name": "SorAZ グラビティ",
         "power": 60,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のステージにホロメンの〈ときのそら〉がいる時、自分のエールデッキの上から1枚を、自分のホロメンに送る。"
+      },
+      {
+        "cost": [
+          "緑",
+          "緑",
+          "無"
+        ],
+        "name": "デスティニーソング",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "青+50",
+        "text": "サイコロを1回振れる:奇数の時、このアーツ+50。１の時、さらに、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -6768,11 +6958,13 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "越えたい未来",
+        "power": 50,
+        "power_plus": false,
+        "text": "サイコロを1回振れる:奇数の時、自分のエールデッキの上から1枚を、このホロメンに送る。偶数の時、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 280
@@ -6804,10 +6996,11 @@
     "arts": [
       {
         "cost": [
-          "白"
+          "白",
+          "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "へい",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -7447,8 +7640,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんこんきーつね！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -7529,8 +7722,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "キンモクセイの花フブキ",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "Thank You Friends♥",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -7618,7 +7820,8 @@
         ],
         "name": "力をかしてくださいね",
         "power": 50,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンの間、自分のマスコットが付いている[センターホロメンとコラボホロメン]のアーツ+20。"
       }
     ],
     "min_price": 80
@@ -7666,7 +7869,8 @@
         "name": "マスコットたちの饗宴",
         "power": 80,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のステージのマスコット1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 380
@@ -7703,8 +7907,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんまっする～！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -7744,6 +7948,15 @@
         ],
         "name": "おはまっする～！",
         "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "おつまっする～",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -7842,8 +8055,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ペルハティアン！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -7920,10 +8133,11 @@
     "arts": [
       {
         "cost": [
-          "緑"
+          "緑",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "Royal Halu Sleepover",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -7965,7 +8179,8 @@
         ],
         "name": "だから見ててね！大好き！",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分のホロメンに送れる。"
       }
     ],
     "min_price": 30
@@ -8007,7 +8222,8 @@
         ],
         "name": "Spicy Night",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージにエールが2色以上ある時、このアーツ+20。"
       }
     ],
     "min_price": 180
@@ -8054,7 +8270,8 @@
         "name": "孔雀の舞",
         "power": 100,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分のステージのエール1色につき、このアーツ+20。"
       }
     ],
     "min_price": 280
@@ -8095,7 +8312,8 @@
         ],
         "name": "うちうち、うちだよ～大神ミオだよ～",
         "power": 10,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のステージのエール1枚を、自分の#JPを持つホロメンに付け替えられる。"
       }
     ],
     "min_price": 50
@@ -8132,8 +8350,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おはみぉーん",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "おつみぉーん",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -8231,8 +8458,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "宝鐘海賊団船長の宝鐘マリンですぅー！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -8313,8 +8540,17 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "船長、何されちゃうのかな？",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "もう、どスケベ♥",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -8446,7 +8682,8 @@
         "name": "キミたち～？ 船長、かわいい？",
         "power": 80,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに重なっているホロメン1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 780
@@ -8499,8 +8736,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ばっくばっくばく～ん",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -8574,10 +8811,11 @@
     "arts": [
       {
         "cost": [
-          "青"
+          "青",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ふたりじめビーチ",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -8659,7 +8897,8 @@
         ],
         "name": "ホロックスロット",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のデッキの上から3枚を公開できる:公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。"
       }
     ],
     "min_price": 50
@@ -8704,7 +8943,8 @@
         "name": "ホロックスロット",
         "power": 100,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分のデッキの上から3枚を公開できる:公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。"
       }
     ],
     "min_price": 280
@@ -8756,8 +8996,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "どうも～",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -8832,8 +9072,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "照れくさ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "やだ、もー",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -8913,7 +9162,8 @@
         ],
         "name": "チェンジ・ザ・エール",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "サイコロを1回振れる:5以上の時、相手のステージのエール1枚を、相手のホロメンに付け替える。"
       }
     ],
     "min_price": 80
@@ -8958,7 +9208,8 @@
         "name": "ヴァイオレットマジック",
         "power": 80,
         "power_plus": false,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "相手のセンターホロメンとコラボホロメンに、相手のセンターホロメンのエール1枚につき、特殊ダメージ20を与える。"
       }
     ],
     "min_price": 180
@@ -8993,8 +9244,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ゾンばんは！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -9070,8 +9321,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "君を大好きな後輩",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "きゃ～！先輩ごめ～ん！",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -9153,7 +9413,8 @@
         ],
         "name": "正義の名の下に、儂は",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンに紫以外のエールが付いている時、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -9198,7 +9459,8 @@
         "name": "計算された戦術",
         "power": 100,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分のステージに#ID2期生を持つ2ndホロメンが2人以上いる時、このアーツ+40。"
       }
     ],
     "min_price": 80
@@ -9236,9 +9498,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "グリム・リーパーの第一弟子",
+        "power": 30,
+        "power_plus": true,
+        "text": "自分のアーカイブにホロメンがある時、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -9314,8 +9577,8 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "\"Cash-Money\"",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -9398,7 +9661,8 @@
         ],
         "name": "Dead Beat",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンにツールかマスコットが付いている時、このアーツ+30。"
       }
     ],
     "min_price": 50
@@ -9443,7 +9707,8 @@
         "name": "Featuring Myth",
         "power": 80,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のアーカイブに#Mythを持つホロメンが、4枚以上ある時、このアーツ+40。8枚以上ある時、さらに、このアーツ+40。"
       }
     ],
     "min_price": 180
@@ -9498,8 +9763,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "WAH!",
+        "power": 10,
         "power_plus": false
       }
     ],
@@ -9534,10 +9799,11 @@
     "arts": [
       {
         "cost": [
+          "紫",
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "君とタコグラム",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -9635,9 +9901,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "Hiya darlings!",
+        "power": 30,
+        "power_plus": true,
+        "text": "このホロメンに赤エールが付いている時、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -9673,8 +9940,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "良い響きですね",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "アイドルソングというものは",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -10588,8 +10864,8 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんなきり～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -10625,8 +10901,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "不知火",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -10662,8 +10938,8 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "おだんごおいしい余",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -10697,8 +10973,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "寝る余～",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "おつなきりー",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -10830,9 +11115,22 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "あやふぶみの「あや」担当",
+        "power": 60,
+        "power_plus": false,
+        "tokkou": "黄+50"
+      },
+      {
+        "cost": [
+          "赤",
+          "赤",
+          "無"
+        ],
+        "name": "余ーだ余",
+        "power": 40,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "自分の手札1～3枚をアーカイブできる:相手のセンターホロメンに、アーカイブしたカード1枚につき、特殊ダメージ40を与える。"
       }
     ],
     "min_price": 120
@@ -11016,8 +11314,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "もぐもぐ～おかゆ～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -11132,8 +11430,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぎゅ～ってしてよね♡",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "えへへないたずら",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -11169,9 +11476,19 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "猫かぶり",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "しゃー",
+        "power": 40,
+        "power_plus": false,
+        "text": "このホロメンの青エール1枚をアーカイブできる:相手のセンターホロメンとバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -11268,6 +11585,19 @@
         "power": 60,
         "power_plus": false,
         "tokkou": "白+50"
+      },
+      {
+        "cost": [
+          "青",
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "おかゆ～",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "このホロメンの青エール2枚をアーカイブできる:相手のセンターホロメンとバックホロメン1人に特殊ダメージ30を与える。"
       }
     ],
     "min_price": 180
@@ -11340,9 +11670,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "泥棒建設農業大臣",
+        "power": 10,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "絶対、食わせてみせるわ",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分の手札が2枚以下の時、手札が3枚になるまで、自分のデッキを引く。"
       }
     ],
     "min_price": 30
@@ -11461,8 +11801,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "魔界の保健医",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -11575,8 +11915,17 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつかれいと……",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "あ～む（ﾁｭｯ）",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -11607,11 +11956,13 @@
     "arts": [
       {
         "cost": [
-          "紫"
+          "紫",
+          "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "禁断のキッス",
+        "power": 30,
+        "power_plus": false,
+        "text": "このアーツで相手のホロメンにダメージを与えた時、与えたダメージ10につき、このホロメンのHP10回復。"
       }
     ],
     "min_price": 30
@@ -11652,7 +12003,8 @@
         ],
         "name": "大好き！ちゅっ♡",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のバックホロメン1人のHP20回復。"
       }
     ],
     "min_price": 80
@@ -11701,11 +12053,26 @@
     "arts": [
       {
         "cost": [
-          "紫"
+          "紫",
+          "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "33…",
+        "power": 22,
+        "power_plus": false,
+        "tokkou": "緑+50",
+        "text": "… 11… 50"
+      },
+      {
+        "cost": [
+          "紫",
+          "紫",
+          "無"
+        ],
+        "name": "あくとっ",
+        "power": 60,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "このターンに自分が使っていたイベント1枚につき、このアーツ+40。"
       }
     ],
     "min_price": 180
@@ -11943,8 +12310,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぶんぶんぶーん！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -12016,10 +12383,11 @@
     "arts": [
       {
         "cost": [
-          "白"
+          "白",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ReGLOSSの番長",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -12054,8 +12422,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "夜路紫駆！",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "うぃー！",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -12090,9 +12467,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "足取り軽め、轟はじめ",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "ありあとりゃあすっ",
+        "power": 50,
+        "power_plus": true,
+        "text": "自分のステージに異なるカード名の#ReGLOSSを持つホロメンが3人以上いる時、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -12191,7 +12578,8 @@
         "name": "滅紫の雷",
         "power": 80,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のステージに〈轟はじめ〉以外の#ReGLOSSを持つホロメンがいる時、このアーツ+30。"
       }
     ],
     "min_price": 180
@@ -12225,9 +12613,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ちょいと一席",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を、自分の#ReGLOSSを持つホロメンに送れる。"
       }
     ],
     "min_price": 120
@@ -12463,9 +12852,10 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "一刀両断叩き斬る",
+        "power": 30,
+        "power_plus": true,
+        "text": "自分のセンターホロメンのHPが減っている時、このアーツ+10。"
       }
     ],
     "min_price": 120
@@ -12496,10 +12886,11 @@
     "arts": [
       {
         "cost": [
-          "緑"
+          "緑",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "照れ屋な用心棒",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -12599,7 +12990,8 @@
         "name": "天才では？",
         "power": 70,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のステージにエールが5枚以上ある時、このアーツ+50。"
       }
     ],
     "min_price": 180
@@ -12674,9 +13066,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "頼れる女幹部",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のアーカイブの#秘密結社holoXを持つDebutホロメン1枚を手札に戻せる。"
       }
     ],
     "min_price": 80
@@ -12710,9 +13103,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "狂気の宴",
+        "power": 30,
+        "power_plus": true,
+        "text": "[コラボポジション限定]このターンの自分のメインステップに自分のSP推しスキルを使っていた時、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -12814,8 +13208,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんぬいー！",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "不知火フレアだよ！",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -12889,9 +13293,10 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ワンダフルライフ",
+        "power": 30,
+        "power_plus": true,
+        "text": "自分の手札の枚数が相手より少ない時、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -12929,6 +13334,15 @@
         ],
         "name": "私からキミへ",
         "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "キミとティータイム",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -12968,7 +13382,8 @@
         ],
         "name": "キミを1番好きなのはわたしぃ～♡",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のライフが3以下の時、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -13070,7 +13485,8 @@
         "name": "情熱ステージ",
         "power": 70,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のライフが3以下の時、このアーツ+70。"
       }
     ],
     "min_price": 180
@@ -13183,8 +13599,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "骨を埋める覚悟",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -13549,9 +13965,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "みんな～、おりゅ～？",
+        "power": 10,
+        "power_plus": false,
+        "text": "自分の〈ルーナイト〉が付いているホロメンがいない時、自分のデッキから、〈ルーナイト〉1枚を公開し、自分のホロメンに付ける。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 50
@@ -13628,8 +14045,17 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつルーナ",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "ぐっどないと～",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -13711,7 +14137,8 @@
         ],
         "name": "ムーンギャラクシー",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブの〈ルーナイト〉1枚を自分の〈姫森ルーナ〉に付けられる。"
       }
     ],
     "min_price": 50
@@ -13757,7 +14184,8 @@
         "name": "お疲れ様なのらね",
         "power": 100,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに〈ルーナイト〉が付いている時、このアーツ+50。"
       }
     ],
     "min_price": 180
@@ -13802,7 +14230,8 @@
         "name": "これが番長の実力ってやつよ",
         "power": 110,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分の#ReGLOSSを持つバックホロメンが4人以上いる時、このホロメンのアーツ+40。"
       }
     ],
     "min_price": 120
@@ -13838,8 +14267,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ららーいおん♪",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -13918,8 +14347,17 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぼたんがアイドルになったら…",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "絶対、ドキドキさせるから",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -13961,7 +14399,8 @@
         ],
         "name": "じゅるり",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の手札の〈角巻わため〉1枚を公開し、デッキの下に戻せる:このホロメンのHP20回復。"
       }
     ],
     "min_price": 30
@@ -14050,7 +14489,8 @@
         "name": "神エイム",
         "power": 110,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分の推しホロメンが〈獅白ぼたん〉の時、自分のバックホロメンのエール1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ40を与える。"
       }
     ],
     "min_price": 120
@@ -14129,7 +14569,8 @@
         "name": "風真が斬る",
         "power": 100,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンに緑以外のエールが2枚以上付いている時、このアーツ+50。"
       }
     ],
     "min_price": 120
@@ -14165,8 +14606,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "にゃっはろ～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -14243,8 +14684,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "エリートな水着",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "ぷにち",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -14278,9 +14728,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "応援頼んだぞ",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "みこぴー！(｀・ω・´)🌸",
+        "power": 50,
+        "power_plus": false,
+        "text": "サイコロを1回振れる:2か4か6の時、相手のセンターホロメンに特殊ダメージ20を与える。3か5の時、相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -14314,11 +14774,13 @@
     "arts": [
       {
         "cost": [
-          "赤"
+          "赤",
+          "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "35Pと記念写真",
+        "power": 30,
+        "power_plus": true,
+        "text": "このホロメンに〈35P〉が付いている時、このアーツ+30。"
       }
     ],
     "min_price": 180
@@ -14364,7 +14826,8 @@
         "name": "エリート巫女",
         "power": 120,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "このホロメンに付いている〈35P〉1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 380
@@ -14400,8 +14863,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おはるーじゅ！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -14433,10 +14896,11 @@
     "arts": [
       {
         "cost": [
-          "赤"
+          "赤",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつるーじゅ！",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -14588,9 +15052,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "フワワじゃないよ、モココだよ",
+        "power": 20,
+        "power_plus": false,
+        "text": "このアーツは、自分のセンターホロメンが〈フワワ・アビスガード〉の時、エール1枚を必要とせずに使える。"
       }
     ],
     "min_price": 80
@@ -14626,8 +15091,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "モココとドーナツクッキング",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -14681,8 +15146,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "チワワじゃないよ、フワワだよ",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -14718,8 +15183,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "魔界乃番犬のまとめ役",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "ふわふわしてる方",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -14802,6 +15276,18 @@
         "power": 60,
         "power_plus": false,
         "tokkou": "紫+50"
+      },
+      {
+        "cost": [
+          "青",
+          "赤",
+          "無"
+        ],
+        "name": "一緒に食べる？",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "[センターポジション限定]自分の推しホロメンが〈FUWAMOCO〉の時、このホロメンのエール1枚を、自分の〈モココ・アビスガード〉に付け替えられる:相手のセンターホロメンに特殊ダメージ50を与える。"
       }
     ],
     "min_price": 380
@@ -14843,7 +15329,8 @@
         ],
         "name": "バーチャルゴースト",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の推しホロメンが〈星街すいせい〉の時、このホロメンの青エール1枚を、自分のバックホロメンの〈星街すいせい〉に付け替えられる。"
       }
     ],
     "min_price": 280
@@ -14895,8 +15382,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "可愛い女の子かと思った？",
+        "power": 10,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "じゃじゃーん！ 青くんでした。",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -14930,10 +15426,11 @@
     "arts": [
       {
         "cost": [
-          "青"
+          "青",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "アフタヌーンティーデートのその後に…",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -14969,9 +15466,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "僕、カッコいいでしょ？",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "ReGLOSSのボーイッシュ担当",
+        "power": 40,
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を、自分の#ReGLOSSを持つバックホロメンに付け替えられる。"
       }
     ],
     "min_price": 30
@@ -15021,10 +15528,21 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "魔界乃番犬シスターズ",
+        "power": 40,
+        "power_plus": false,
+        "text": "自分のエールデッキから、[赤エールか青エール]1枚を公開し、自分の#Adventを持つホロメンに送る。そしてエールデッキをシャッフルする。"
+      },
+      {
+        "cost": [
+          "青",
+          "赤"
+        ],
+        "name": "2人揃ってFUWAMOCOです！",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -15062,8 +15580,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんやっぴー",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -15100,9 +15618,10 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "そういう感じなんだ",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のセンターホロメンに特殊ダメージ10を与える。その後、自分の推しホロメンが〈常闇トワ〉の時、相手の[センターホロメンかコラボホロメン]に付いているツール1枚をアーカイブできる。"
       }
     ],
     "min_price": 30
@@ -15139,8 +15658,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつやっぴー",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "きゅりん",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -15183,7 +15711,8 @@
         ],
         "name": "大爆発させちゃうぜ！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンの紫エール4枚をアーカイブできる:相手のステージのエール1枚をエールデッキの下に戻す。"
       }
     ],
     "min_price": 30
@@ -15220,9 +15749,19 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "トワとお家デートしたっていい",
+        "power": 40,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "てんQ",
+        "power": 50,
+        "power_plus": false,
+        "text": "自分の#歌を持つバックホロメンがいる時、相手のコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 80
@@ -15263,7 +15802,20 @@
         "name": "私を縛る固定概念を壊せ",
         "power": 30,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。"
+      },
+      {
+        "cost": [
+          "紫",
+          "紫",
+          "無"
+        ],
+        "name": "Break your ×××",
+        "power": 80,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "相手のセンターホロメンかコラボホロメンどちらかに、自分の#歌を持つバックホロメン1人につき、特殊ダメージ20を与える。ただし、数える人数は4人まで。"
       }
     ],
     "min_price": 180
@@ -15299,8 +15851,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "はろーぼー！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -15337,8 +15889,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつろぼー",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "いちゃあま彼女",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -15419,7 +15980,8 @@
         "name": "自称【高性能】",
         "power": 70,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "相手のステージにエールが7枚以上ある時、このアーツ+70。"
       }
     ],
     "min_price": 80
@@ -15455,8 +16017,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ぉぁよ～",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "ゆびゆび～",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -15575,7 +16147,18 @@
         ],
         "name": "ぶるぁあああああ!!!!!!!!!!!!!!",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分の初期ライフから減っているライフ1につき、このアーツ+10。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "おーしぇーい",
+        "power": 70,
+        "power_plus": false
       }
     ],
     "min_price": 30
@@ -15617,7 +16200,8 @@
         ],
         "name": "ほらよ～",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を、自分の#ゲーマーズを持つホロメンに送る。"
       }
     ],
     "min_price": 80
@@ -15662,7 +16246,8 @@
         "name": "最凶天災",
         "power": 120,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このアーツの対象が相手の2ndホロメンの時、このホロメンに重なっている1stホロメン1枚をアーカイブできる:このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -15700,8 +16285,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんばんドドド～！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -15738,9 +16323,10 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "わためのうた",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分の〈わためいと〉が付いているホロメンがいる時、自分のアーカイブのエール1枚を自分の黄ホロメンに送れる。"
       }
     ],
     "min_price": 30
@@ -15780,6 +16366,16 @@
         ],
         "name": "癒しのひととき",
         "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "応援してくれるよねぇ？",
+        "power": 90,
         "power_plus": false
       }
     ],
@@ -15822,7 +16418,8 @@
         ],
         "name": "最後まで見ててね、わためいと！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を、自分のバックホロメンの〈角巻わため〉に送る。"
       }
     ],
     "min_price": 50
@@ -15865,7 +16462,8 @@
         ],
         "name": "つのまきじゃんけん",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手と勝敗が決まるまでじゃんけんできる:自分が勝った時、このターンの間、このホロメンは赤特攻+30を得る。"
       }
     ],
     "min_price": 50
@@ -15911,7 +16509,8 @@
         "name": "わためぇ Night Fever!!",
         "power": 80,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "[センターポジション限定]このホロメンにエールが6枚以上付いている時、このターンの間、このホロメンと自分のコラボホロメンのアーツ+100。"
       }
     ],
     "min_price": 80
@@ -15947,9 +16546,20 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんリス",
+        "power": 20,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "ぷるぷる～",
+        "power": 60,
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を、自分の〈戌神ころね〉に付け替えられる。"
       }
     ],
     "min_price": 50
@@ -15985,9 +16595,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "繋がる願い",
+        "power": 20,
+        "power_plus": true,
+        "text": "■自分のステージに〈アイラニ・イオフィフティーン〉がいる時、このアーツ+10。 ■自分のステージに〈ムーナ･ホシノヴァ〉がいる時、このアーツ+10。"
       }
     ],
     "min_price": 30
@@ -16023,8 +16634,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつリスー",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無",
+          "無"
+        ],
+        "name": "おやすみの思い出",
+        "power": 70,
         "power_plus": false
       }
     ],
@@ -16157,7 +16778,8 @@
         "name": "魔法の森のリスの女の子",
         "power": 50,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "■このホロメンに緑エールが付いている時、このアーツ+50。 ■このホロメンに青エールが付いている時、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -16212,8 +16834,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ドレミファソラシド～！",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "音楽家の卵！ 音乃瀬～奏で～～～す！",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -17151,8 +17783,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんこよ～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -17189,9 +17821,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "終わりなき輪廻に迷いし子らよ",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のデッキの上から3枚を見る。その中から、[#秘密結社holoXを持つDebutホロメンか#こよラボを持つサポートカード]1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
       }
     ],
     "min_price": 30
@@ -17227,8 +17860,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "助手く～ん、なんかお疲れっぽい？",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "こよに添い寝される？",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -17264,9 +17906,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "助手くんっ見ててね！",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のアーカイブの〈こよりの助手くん〉1枚を、自分の他の〈博衣こより〉に付けられる。"
       }
     ],
     "min_price": 30
@@ -17306,7 +17949,8 @@
         ],
         "name": "助手くんとこよはずっと一緒だよ！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに〈こよりの助手くん〉が付いている時、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -17353,7 +17997,8 @@
         "name": "かくせいのこより",
         "power": 160,
         "power_plus": false,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "このホロメンに#こよラボを持つサポートカードが付いている時、自分のデッキから、#こよラボを持つサポートカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 180
@@ -17399,7 +18044,8 @@
         "name": "私の大切な人",
         "power": 100,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のステージに〈白上フブキ〉以外の#ゲーマーズを持つホロメンがいる時、このアーツ+50。"
       }
     ],
     "min_price": 1280
@@ -17453,9 +18099,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "チアオーラ",
+        "power": 10,
+        "power_plus": false,
+        "text": "自分のステージのホロメンが5人以下の時、自分のデッキから、#Justiceを持つSpotホロメン1枚を公開し、ステージに出せる。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -17491,8 +18138,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "正義のピンクパンサー",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -17580,7 +18227,8 @@
         "name": "Art Streamer",
         "power": 70,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "[コラボポジション限定]自分のセンターホロメンが#絵を持つ時、このアーツ+80。"
       }
     ],
     "min_price": 30
@@ -17615,8 +18263,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "儒烏風亭一門は前座見習い！",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "儒烏風亭らでんでございます！",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -17692,8 +18349,17 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "博識ツッコミ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "まぁそんなとこですな",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -17774,7 +18440,8 @@
         ],
         "name": "喝采反芻",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚をこのホロメンに送れる。"
       }
     ],
     "min_price": 50
@@ -17820,7 +18487,8 @@
         "name": "御後がよろしいようで",
         "power": 140,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分の推しホロメンが〈儒烏風亭らでん〉の時、このホロメンのエール2枚を、自分のバックホロメン2人に1枚ずつ付け替えられる:このアーツ+30。"
       }
     ],
     "min_price": 380
@@ -17865,7 +18533,8 @@
         "name": "うちってフブキのものだったの？",
         "power": 100,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分のステージに〈大神ミオ〉以外の#ゲーマーズを持つホロメンがいる時、このアーツ+50。"
       }
     ],
     "min_price": 50
@@ -17942,8 +18611,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "正義の調べ",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -17977,10 +18646,11 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "『古代自動人形』",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -18065,7 +18735,8 @@
         "name": "マルチリンガル",
         "power": 80,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分の#語学を持つバックホロメン1人を選ぶ。自分のエールデッキから、選んだホロメンと同色のエール1枚を公開し、選んだホロメンに送る。そしてエールデッキをシャッフルする。"
       }
     ],
     "min_price": 50
@@ -18101,8 +18772,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "こんりり",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -18139,9 +18810,19 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "莉々華スタンバイ",
+        "power": 20,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "リミットオーバー",
+        "power": 30,
+        "power_plus": false,
+        "text": "このターンに自分が〈限界飯〉を使っていた時、相手のコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -18177,8 +18858,17 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "Let's Dance",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "Subscribe or Die!",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -18221,7 +18911,8 @@
         ],
         "name": "社長パンチ",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -18262,7 +18953,8 @@
         ],
         "name": "いひひっ",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このアーツの対象が相手のコラボホロメンの時、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 50
@@ -18308,7 +19000,8 @@
         "name": "お？ 喧嘩する？",
         "power": 80,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "相手のセンターホロメンに特殊ダメージ50を与える。その後、このターンに自分が〈限界飯〉を使っていた時、相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。"
       }
     ],
     "min_price": 180
@@ -18352,7 +19045,8 @@
         "name": "えっち♥♥",
         "power": 50,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "このホロメンに重なっているホロメン1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -18386,8 +19080,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おはエラ",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -18422,8 +19116,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "When Life is Hard",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "DAHLAH",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -18519,9 +19222,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "こんらみ～",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のホロメン1人に特殊ダメージ10を与える。ただし、ダウンしても相手のライフは減らない。"
       }
     ],
     "min_price": 50
@@ -18600,8 +19304,17 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "おつらみ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "ボスが攻略できな～い",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -18639,9 +19352,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "いっぱい頑張るよ！",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のファンが付いているホロメンがいる時、相手のホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -18730,7 +19444,8 @@
         "name": "今日も祝福がありますように",
         "power": 130,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンのエール1枚をアーカイブできる:相手のセンターホロメンかバックホロメン1人に特殊ダメージ30を与える。"
       }
     ],
     "min_price": 180
@@ -18770,6 +19485,18 @@
         "power": 50,
         "power_plus": false,
         "tokkou": "白+50"
+      },
+      {
+        "cost": [
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "Shining Moon",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "白+50",
+        "text": "相手のバックホロメン1人に特殊ダメージ20を与える。その後、自分のステージにこのホロメンと異なる色のホロメンがいる時、このアーツ+50。"
       }
     ],
     "min_price": 30
@@ -18805,8 +19532,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "しおり～ん！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -18841,8 +19568,17 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "それって素敵な物語だと思わない？",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "尽きない知識欲",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -18936,8 +19672,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "貴様ら、刮目せよ！！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -18975,9 +19711,10 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "我ら、エデンの星を統べる者！",
+        "power": 30,
+        "power_plus": true,
+        "text": "相手のお休みしているホロメン1人につき、このアーツ+10。"
       }
     ],
     "min_price": 30
@@ -19013,8 +19750,17 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "いちごだいすき！",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "紫"
+        ],
+        "name": "ぷらすめいと諸君いつもありがとう",
+        "power": 70,
         "power_plus": false
       }
     ],
@@ -19051,8 +19797,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "最高のステージ魅せてやるからな！！",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -19090,8 +19836,8 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "吾輩に勝つつもりか？",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -19138,7 +19884,8 @@
         "name": "吾輩最強伝説",
         "power": 120,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "相手のセンターホロメンに、このターンに自分が能力でサイコロを振った回数1回につき、特殊ダメージ10を与える。"
       }
     ],
     "min_price": 380
@@ -19198,7 +19945,8 @@
         "name": "HOLOROの魂",
         "power": 80,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のステージのこのホロメン以外の#ID2期生を持つ2ndホロメン1人につき、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -19335,7 +20083,8 @@
         ],
         "name": "鉱石と採掘者",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のアーカイブに赤エールがある時、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -19379,7 +20128,8 @@
         "name": "この輝きが、伝わればいいな",
         "power": 80,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "相手のアーカイブのエール1枚につき、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -19416,8 +20166,18 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
+        "name": "あじまる！ あじまる！",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無",
+          "無"
+        ],
+        "name": "ちわーす！ ホロライブ2期生 大空スバルっス!!",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -19499,6 +20259,15 @@
         "name": "おはようスバル",
         "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "眠いんデスケド",
+        "power": 50,
+        "power_plus": false
       }
     ],
     "min_price": 30
@@ -19574,8 +20343,19 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
+        "name": "しゅばっ！",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を、このホロメンに送る。"
+      },
+      {
+        "cost": [
+          "黄",
+          "無",
+          "無"
+        ],
+        "name": "最強で楽しい毎日",
+        "power": 90,
         "power_plus": false
       }
     ],
@@ -19623,7 +20403,8 @@
         "name": "太陽少女",
         "power": 100,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "お互いのステージのエール1枚につき、このアーツ+10。ただし、数える枚数は8枚まで。"
       }
     ],
     "min_price": 880
@@ -19658,8 +20439,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おはよー！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -19739,6 +20520,15 @@
         ],
         "name": "悪魔の招待",
         "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "悪魔の囁き",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -19948,6 +20738,15 @@
         "name": "夏色応援団",
         "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "戦え！ 血を血で洗え！",
+        "power": 50,
+        "power_plus": false
       }
     ],
     "min_price": 30
@@ -20031,7 +20830,8 @@
         "name": "お気に入りみつけた",
         "power": 60,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンのエール1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -20068,9 +20868,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "こんねね～",
+        "power": 10,
+        "power_plus": false,
+        "text": "自分のステージのホロメンが5人以下の時、自分のデッキから、#5期生を持つDebutホロメン1枚を公開し、ステージに出せる。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -20110,6 +20911,15 @@
         ],
         "name": "はぁ～ん",
         "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "またねね",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -20193,6 +21003,17 @@
         "power": 50,
         "power_plus": false,
         "tokkou": "白+50"
+      },
+      {
+        "cost": [
+          "青",
+          "黄"
+        ],
+        "name": "ギラギラパワー",
+        "power": 50,
+        "power_plus": true,
+        "tokkou": "白+50",
+        "text": "自分のアーカイブのエール1枚につき、このアーツ+20。ただし、数える枚数は5枚まで。"
       }
     ],
     "min_price": 380
@@ -20268,8 +21089,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "怒らないでよ！",
+        "power": 10,
         "power_plus": false
       }
     ],
@@ -20714,7 +21535,8 @@
         "name": "みんなのスパダリ",
         "power": 100,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のステージの#サマーを持つホロメン1人につき、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -20758,7 +21580,8 @@
         "name": "きみの背中に追いつけるように",
         "power": 120,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "[ターンに1回]このアーツで相手のセンターホロメンをダウンさせた時、相手の2ndホロメン1人に特殊ダメージ40を与える。"
       }
     ],
     "min_price": 180
@@ -21011,7 +21834,20 @@
         "name": "3期生の絆",
         "power": 60,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分のステージに〈宝鐘マリン〉以外の#3期生を持つホロメンがいるなら、自分のデッキを1枚引く。"
+      },
+      {
+        "cost": [
+          "赤",
+          "赤",
+          "無"
+        ],
+        "name": "キミたちと水平線の向こう側へ",
+        "power": 120,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "相手のセンターホロメンとコラボホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。"
       }
     ],
     "min_price": 180
@@ -21479,7 +22315,8 @@
         ],
         "name": "生きる力",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンに自分が〈牛丼〉を使っていたなら、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -21521,7 +22358,8 @@
         ],
         "name": "団長幸せだよ",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージの異なるカード名の#3期生を持つホロメン1人につき、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -21562,7 +22400,20 @@
         "name": "騎士団の道",
         "power": 80,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "このホロメンのHPが減っているなら、このアーツ+40。"
+      },
+      {
+        "cost": [
+          "白",
+          "無",
+          "無"
+        ],
+        "name": "慈悲の一撃",
+        "power": 130,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "[センターポジション限定]自分の#3期生を持つコラボホロメンがいるなら、このアーツ+30。"
       }
     ],
     "min_price": 180
@@ -21641,9 +22492,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "かわいいぺこか？",
+        "power": 20,
+        "power_plus": false,
+        "text": "サイコロを1回振れる:偶数なら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 30
@@ -21678,9 +22530,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "にんじん…",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のステージに#3期生を持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚をこのホロメンに送る。"
+      },
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "いらないぺこ？",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分の推しホロメンの色が白なら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 30
@@ -21727,7 +22589,8 @@
         "name": "ウーサペコラを崇めるぺこ",
         "power": 120,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンに重なっているホロメン1枚につき、サイコロを1回振れる:出た目の合計数1につき、このアーツ+10。"
       }
     ],
     "min_price": 280
@@ -21782,7 +22645,20 @@
         "name": "海に行こう！",
         "power": 60,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のステージに#ID3期生を持つBuzzホロメンがいるなら、自分のデッキを1枚引く。"
+      },
+      {
+        "cost": [
+          "白",
+          "無",
+          "無"
+        ],
+        "name": "Summer Vibes",
+        "power": 140,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "このアーツで相手のホロメンをダウンさせた時、自分のデッキから、#ID3期生を持つ1stホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -21988,7 +22864,8 @@
         "name": "リレーションガーデン",
         "power": 130,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "[センターポジション限定]自分の推しホロメンが〈アイラニ・イオフィフティーン〉なら、自分のステージのエール3枚につき、このアーツ+20。"
       }
     ],
     "min_price": 120
@@ -22041,8 +22918,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "新たな旅を始めよう",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -22131,7 +23008,8 @@
         "name": "ワンフォーオール",
         "power": 130,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このアーツで相手のホロメンをダウンさせた時、自分のデッキを1枚引く。その後、自分の推しホロメンが〈アキ・ローゼンタール〉なら、自分のホロメン全員のHP20回復。"
       }
     ],
     "min_price": 120
@@ -22241,9 +23119,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "あゝ素晴らしきアイドル人生かな",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分が後攻で最初のターンなら、自分のデッキから、〈座員〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -22284,7 +23163,8 @@
         ],
         "name": "朝のポルカ ※若干のフィクション",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の手札1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -22317,11 +23197,24 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "すごいね、桜！",
+        "power": 40,
+        "power_plus": true,
+        "text": "サイコロを1回振れる:出た目の数1につき、自分のデッキの上から1枚をアーカイブする。その後、自分のアーカイブが10枚以上あるなら、このアーツ+10。"
+      },
+      {
+        "cost": [
+          "赤",
+          "無",
+          "無"
+        ],
+        "name": "来年も君と見に来たいな",
+        "power": 70,
+        "power_plus": true,
+        "text": "このホロメンに付いている〈座員〉1枚につき、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -22366,7 +23259,8 @@
         "name": "Are you ready？",
         "power": 110,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分の推しホロメンが〈尾丸ポルカ〉なら、自分のアーカイブのカード10枚につき、このアーツ+30。"
       }
     ],
     "min_price": 180
@@ -22409,7 +23303,8 @@
         "name": "あえんびえん",
         "power": 90,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分の手札2枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ50を与える。自分のステージに〈35P〉があるなら、さらに、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -22445,9 +23340,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "声出し最高！",
+        "power": 20,
+        "power_plus": true,
+        "text": "相手のバックホロメンのHPが減っているなら、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -22488,7 +23384,21 @@
         "name": "Non-Limit Boost",
         "power": 50,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに赤エールと青エールが付いているなら、自分のアーカイブのエール2枚をこのホロメンに送れる。どちらか1色しか付いていないなら、自分のアーカイブのエール1枚をこのホロメンに送れる。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "Shout in Crisis",
+        "power": 220,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "このホロメンのエールすべてをアーカイブする。"
       }
     ],
     "min_price": 180
@@ -22528,7 +23438,8 @@
         ],
         "name": "ノーーーーーーエ！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このアーツは、自分のセンターホロメンが〈フワワ・アビスガード〉なら、エール1枚を必要とせずに使える。"
       }
     ],
     "min_price": 50
@@ -22589,7 +23500,8 @@
         ],
         "name": "ビジネスパートナー",
         "power": 90,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を自分のバックホロメンに付け替えられる。"
       }
     ],
     "min_price": 30
@@ -22624,9 +23536,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ぐるぐる～",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のセンターホロメンに特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -22707,7 +23620,8 @@
         ],
         "name": "まだまだ遊べるよね～？",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンの青エール1枚をアーカイブできる:相手のセンターホロメンとバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 50
@@ -22749,7 +23663,8 @@
         ],
         "name": "ドンストップゲーミング！",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 80
@@ -22794,7 +23709,8 @@
         "name": "僕のコト、大好きになってみない？",
         "power": 120,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "相手のホロメン1人に特殊ダメージ20を与える。その後、自分のアーカイブのエール1枚を自分の#ゲーマーズを持つバックホロメンに送れる。"
       }
     ],
     "min_price": 180
@@ -22836,7 +23752,8 @@
         ],
         "name": "愛せな～い！",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のステージに#5期生を持つ2ndホロメンがいるなら、相手のホロメン1人に特殊ダメージ20を与える。"
       }
     ],
     "min_price": 50
@@ -22870,9 +23787,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "アットユアサービス！",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -22913,7 +23831,8 @@
         ],
         "name": "キミが元気になれるように",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のバックホロメン2人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -22952,7 +23871,21 @@
         "name": "雨跡をなぞる",
         "power": 60,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "相手のバックホロメン全員のHPが合計80以上減っているなら、自分のアーカイブの青エール1枚を自分の〈こぼ・かなえる〉に送れる。"
+      },
+      {
+        "cost": [
+          "青",
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "残響する雨音",
+        "power": 120,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "このホロメンのエール2枚をアーカイブできる:相手のバックホロメン全員に特殊ダメージ30を与える。ただし、ダウンしても相手のライフは減らない。"
       }
     ],
     "min_price": 80
@@ -23010,7 +23943,8 @@
         ],
         "name": "シャンパンシャンパン！",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のステージに#お酒を持つホロメンが3人以上いるなら、自分のアーカイブのエール1枚を自分の#お酒を持つバックホロメンに送れる。"
       }
     ],
     "min_price": 50
@@ -23125,9 +24059,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ガァチィ？",
+        "power": 30,
+        "power_plus": false,
+        "text": "このアーツは、このターンに自分が#食べ物を持つイベントカードを2枚以上使っていたなら、エール1枚を必要とせずに使える。"
       }
     ],
     "min_price": 30
@@ -23163,8 +24098,8 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "ｱﾞｱﾞｱﾞｱﾞｱﾞ",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -23199,11 +24134,26 @@
     "arts": [
       {
         "cost": [
-          "紫"
+          "紫",
+          "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "愛を込めて",
+        "power": 90,
+        "power_plus": true,
+        "tokkou": "青+50",
+        "text": "このターンに自分が使っていた#食べ物を持つイベント1枚につき、このアーツ+20。ただし、数える枚数は2枚まで。"
+      },
+      {
+        "cost": [
+          "紫",
+          "無",
+          "無"
+        ],
+        "name": "夜に寄り添う",
+        "power": 150,
+        "power_plus": false,
+        "tokkou": "青+50",
+        "text": "自分の手札2枚をアーカイブできる:自分のアーカイブの#料理を持つホロメン1枚を手札に戻す。"
       }
     ],
     "min_price": 120
@@ -23281,8 +24231,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "Bye-ya, darlings!",
+        "power": 10,
         "power_plus": false
       }
     ],
@@ -23319,8 +24269,18 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "ワンアンドオンリー",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分の推しホロメンが〈ネリッサ・レイヴンクロフト〉なら、自分のデッキを1枚引く。"
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "ツノに触らないで！",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -23363,7 +24323,8 @@
         ],
         "name": "艶なる宴",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の手札1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -23409,7 +24370,8 @@
         "name": "Unleashed Charm",
         "power": 120,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分の手札1～3枚をアーカイブできる:このターンの間、アーカイブしたカード1枚につき、自分のステージの#歌を持つホロメン1人のアーツ+20。"
       }
     ],
     "min_price": 80
@@ -23453,7 +24415,8 @@
         "name": "ありがとうみんな",
         "power": 70,
         "power_plus": false,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "相手のセンターホロメンかコラボホロメンどちらかに、自分のステージの#歌を持つ1stホロメン1人につき、特殊ダメージ20を与える。"
       }
     ],
     "min_price": 80
@@ -23615,7 +24578,8 @@
         ],
         "name": "氷姿雪魄",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージの異なるカード名の#3期生を持つホロメン1人につき、このアーツ+10。"
       }
     ],
     "min_price": 30
@@ -23660,7 +24624,8 @@
         "name": "みんなに笑っててほしいから",
         "power": 120,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "サイコロを1回振れる:出た目の数が自分のライフ以上なら、このアーツ+60。出た目の数が自分のライフ以下なら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 120
@@ -23747,7 +24712,8 @@
         ],
         "name": "満点じゃい！",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚をこのホロメンに送れる。"
       }
     ],
     "min_price": 30
@@ -23790,7 +24756,21 @@
         "name": "フブキカフェにようこそ",
         "power": 60,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のアーカイブの#白上'sキャラクターを持つ[マスコットとファン]を好きな枚数選び、自分のホロメンに割り振って付けられる。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "国王兼喫茶経営者",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "青+50",
+        "text": "自分の[推しホロメンが〈白上フブキ〉か推しホロメンの色が黄]で、自分のステージに[ツールとマスコットとファン]が合計4枚以上あるなら、このアーツ+100。"
       }
     ],
     "min_price": 220
@@ -23832,7 +24812,8 @@
         "name": "YB-2",
         "power": 50,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このターンの間、自分のステージの#ゲーマーズを持つホロメン1人のアーツ+30。"
       }
     ],
     "min_price": 80
@@ -23893,7 +24874,8 @@
         "name": "IT's Time to RE4GE !!!!!",
         "power": 50,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分の推しホロメンが〈アユンダ・リス〉なら、自分の#ID1期生を持つホロメン全員のエール1枚につき、このアーツ+10。ただし、数える枚数は10枚まで。"
       }
     ],
     "min_price": 30
@@ -24221,8 +25203,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "はじまりんど～～～！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -24256,8 +25238,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "エンジン全開 演じない自然体",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無",
+          "無"
+        ],
+        "name": "全身全霊 越えてく限界",
+        "power": 80,
         "power_plus": false
       }
     ],
@@ -24297,7 +25289,8 @@
         ],
         "name": "パワフルな運転手だよ！",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のステージに#FLOW GLOWを持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚を自分のバックホロメンに送れる。"
       }
     ],
     "min_price": 680
@@ -24335,7 +25328,8 @@
         ],
         "name": "行きます！！！！",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの〈輪堂千速〉1人のアーツ+20。"
       }
     ],
     "min_price": 580
@@ -24374,7 +25368,20 @@
         "name": "鼓動の操縦者",
         "power": 80,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このターンに自分のホロメンがBloomしていたなら、このアーツ+50。"
+      },
+      {
+        "cost": [
+          "緑",
+          "無",
+          "無"
+        ],
+        "name": "アクセラビートブレイズ",
+        "power": 140,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "このアーツで相手のセンターホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、オーバーしたダメージ30につき、自分のエールデッキの上から1枚を自分のバックホロメン1人に送る。"
       }
     ],
     "min_price": 120
@@ -24408,8 +25415,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ん〜〜〜〜〜ッヴィヴィ〜！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -24490,7 +25497,8 @@
         "name": "ヴィジランスヴィーナス",
         "power": 80,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "相手の手札1枚につき、このアーツ+10。"
       }
     ],
     "min_price": 480
@@ -24523,11 +25531,13 @@
     "arts": [
       {
         "cost": [
+          "無",
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "RIONA IN DA HOUSE～!",
+        "power": 50,
+        "power_plus": true,
+        "text": "自分のステージに#FLOW GLOWを持つ2nd以上のホロメンがいるなら、このアーツ+30。"
       }
     ],
     "min_price": 80
@@ -24629,8 +25639,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ニコたんが～来たァー！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -24668,6 +25678,16 @@
         ],
         "name": "にこと出会えたの何かのキセキ",
         "power": 50,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "期待せよ 牙で噛まれちゃうシゲキ",
+        "power": 80,
         "power_plus": false
       }
     ],
@@ -24707,7 +25727,8 @@
         ],
         "name": "自分の人生すらも捧げられる",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を自分の〈虎金妃笑虎〉に送れる。"
       }
     ],
     "min_price": 120
@@ -24745,7 +25766,8 @@
         ],
         "name": "百折不撓",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージにエールが5枚以上あるなら、このアーツ+20。"
       }
     ],
     "min_price": 280
@@ -24786,7 +25808,8 @@
         "name": "虎嘯風生",
         "power": 40,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンのエールを好きな枚数アーカイブできる:アーカイブしたエール1枚につき、このアーツ+40。"
       }
     ],
     "min_price": 120
@@ -24822,9 +25845,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "しゅぴしゅわー",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な無色+1。"
       }
     ],
     "min_price": 80
@@ -24863,7 +25887,8 @@
         ],
         "name": "愛は時間ですよ",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このアーツの対象が相手のバトンタッチに必要な無色が2つ以上のホロメンなら、自分のエールデッキの上から1枚を自分のバックホロメンに送る。"
       }
     ],
     "min_price": 480
@@ -24905,7 +25930,8 @@
         "name": "スゥイートオブセッション",
         "power": 100,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このアーツの対象のホロメンに、そのホロメンのバトンタッチに必要な無色1つにつき、特殊ダメージ10を与える。"
       }
     ],
     "min_price": 1480
@@ -25320,6 +26346,17 @@
         "name": "The REAL Queen is Here!",
         "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無",
+          "無"
+        ],
+        "name": "LA FINE",
+        "power": 70,
+        "power_plus": false,
+        "text": "自分のデッキを2枚引く。"
       }
     ],
     "min_price": 30
@@ -25381,7 +26418,8 @@
         "name": "色彩のリナシメント",
         "power": 100,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "[センターポジション限定]このターンの間、自分の#絵を持つコラボホロメンのアーツ+50し、そのホロメンのアーツに必要な無色-1。"
       }
     ],
     "min_price": 180
@@ -25416,8 +26454,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "おかえりおな～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -25491,8 +26529,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "夢はアリーナでするライブ",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "タイフーン起こすこのホロライブ",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -25533,7 +26580,8 @@
         ],
         "name": "Brr! Brr!",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキの上から1枚をアーカイブする。"
       }
     ],
     "min_price": 30
@@ -25572,7 +26620,8 @@
         ],
         "name": "意外と熱血タイプ？",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキの上から1枚をアーカイブする。"
       }
     ],
     "min_price": 80
@@ -25616,7 +26665,8 @@
         "name": "レゾナンスロア",
         "power": 150,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のデッキの上から1～3枚をアーカイブする。アーカイブしたカード1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 280
@@ -25659,7 +26709,8 @@
         "name": "青春の１ページ",
         "power": 90,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のアーカイブの#こよラボを持つサポートカード1枚をデッキの下に戻せる:このアーツ+40。"
       }
     ],
     "min_price": 80
@@ -25694,8 +26745,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "手作りのお守り",
+        "power": 10,
         "power_plus": false
       }
     ],
@@ -25876,7 +26927,8 @@
         "name": "一緒にすてっぷ",
         "power": 160,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分の推しホロメンが〈風真いろは〉で、自分のコラボホロメンがいるなら、このアーツ+40。さらに、このホロメンがBuzzホロメンからBloomしているなら、このアーツダメージは軽減されない。"
       }
     ],
     "min_price": 380
@@ -25911,8 +26963,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "んなあああああい",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -25948,8 +27000,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "祝祭",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のファンが付いているホロメンがいるなら、自分のエールデッキの上から1枚をこのホロメンに送れる。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "ロイヤル・フラワーブーケ",
+        "power": 80,
         "power_plus": false
       }
     ],
@@ -25990,7 +27053,8 @@
         ],
         "name": "届けたいのら！",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブの〈ルーナイト〉1枚を自分の〈姫森ルーナ〉に付けられる。"
       }
     ],
     "min_price": 50
@@ -26036,7 +27100,8 @@
         "name": "ずっと一緒なのらね",
         "power": 160,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このホロメンに〈ルーナイト〉が2枚以上付いているなら、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -26117,7 +27182,8 @@
         ],
         "name": "茸 （くさびら）",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分の#ReGLOSSを持つホロメンに送れる。"
       }
     ],
     "min_price": 80
@@ -26151,9 +27217,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "夏の海でドキドキデート",
+        "power": 10,
+        "power_plus": true,
+        "text": "自分の手札1枚をアーカイブできる:このターンの間、自分のセンターホロメンの〈百鬼あやめ〉のアーツ+30。"
       }
     ],
     "min_price": 50
@@ -26189,8 +27256,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "…二度寝する(:3_ヽ)_",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -26231,7 +27298,8 @@
         ],
         "name": "お風呂上がりの幸せな時間",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚をアーカイブできる:自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -26272,7 +27340,8 @@
         ],
         "name": "ずっと元気でいられますように…",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。"
       }
     ],
     "min_price": 80
@@ -26312,7 +27381,8 @@
         ],
         "name": "では参る！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 80
@@ -26348,11 +27418,14 @@
     "arts": [
       {
         "cost": [
+          "赤",
           "赤"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "百鬼乱舞 -朧月-",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "自分の推しホロメンが〈百鬼あやめ〉なら、自分のエールデッキの上から1～3枚をアーカイブできる:アーカイブしたエール1枚につき、このアーツ+40。このアーツは、自分のライフが2以下でなければコラボポジションでは使えない。"
       }
     ],
     "min_price": 280
@@ -26387,9 +27460,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "You can do it!",
+        "power": 30,
+        "power_plus": false,
+        "text": "サイコロを1回振る。奇数なら、相手のセンターホロメンとコラボホロメンに特殊ダメージ10を与える。"
       }
     ],
     "min_price": 50
@@ -26425,8 +27499,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "Brat Wellness",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -26467,7 +27541,8 @@
         ],
         "name": "イチゴで彩る誕生日",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分の手札2枚をアーカイブできる:このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -26543,8 +27618,18 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "ホイールオブフォーチュン",
+        "power": 30,
+        "power_plus": true,
+        "text": "このゲーム中に、自分のSP推しスキル「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」を使っていたなら、サイコロを1回振る。出た目の数1につき、このアーツ+10。"
+      },
+      {
+        "cost": [
+          "赤",
+          "赤"
+        ],
+        "name": "ありがチュー！",
+        "power": 70,
         "power_plus": false
       }
     ],
@@ -26586,7 +27671,20 @@
         "name": "カオスリローデッド",
         "power": 70,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のアーカイブのホロメン1～5枚を好きな順でデッキの下に戻す。戻したホロメン1枚につき、このアーツ+10。"
+      },
+      {
+        "cost": [
+          "赤",
+          "無",
+          "無"
+        ],
+        "name": "💥¡¡SSꓵHƆSꓶƎԀԀOꓷ💥",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "このゲーム中に、自分のSP推しスキル「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」を使っていたなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ100を与える。"
       }
     ],
     "min_price": 120
@@ -26631,7 +27729,8 @@
         "name": "永久不滅の絆",
         "power": 120,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分の推しホロメンが〈鷹嶺ルイ〉なら、自分の手札2枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ50を与える。"
       }
     ],
     "min_price": 50
@@ -26674,7 +27773,8 @@
         "name": "ガチでなんもない。タスケテ。",
         "power": 70,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "[コラボポジション限定]相手のコラボホロメンに特殊ダメージ50を与える。相手のコラボホロメンがいないなら、かわりに、相手のセンターホロメンに特殊ダメージ50を与える。"
       }
     ],
     "min_price": 50
@@ -26709,9 +27809,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ムーンペース",
+        "power": 20,
+        "power_plus": false,
+        "text": "このホロメンに青以外のエールが付いているなら、相手のバックホロメン1人に特殊ダメージ10を与える。ただし、ダウンしても相手のライフは減らない。"
       }
     ],
     "min_price": 50
@@ -26786,8 +27887,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "2 Sides of The Moon",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ10を与える。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "Lunar Duality",
+        "power": 80,
         "power_plus": false
       }
     ],
@@ -26823,9 +27935,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "スプリングパーティー",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "親愛の情",
+        "power": 50,
+        "power_plus": false,
+        "text": "自分の推しホロメンが〈ムーナ・ホシノヴァ〉なら、このホロメンのエール1枚をアーカイブできる:自分のデッキを1枚引く。"
       }
     ],
     "min_price": 50
@@ -26886,7 +28008,8 @@
         "name": "Tidal Eclipse",
         "power": 90,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンにエールが4枚以上付いているなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ90を与える。"
       }
     ],
     "min_price": 120
@@ -26931,7 +28054,8 @@
         "name": "暖かい誕生日とその先へ",
         "power": 140,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンに付いている〈雪民〉1枚につき、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -26974,7 +28098,8 @@
         "name": "二人で紡いだ魔法",
         "power": 100,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のデッキの上から4枚を公開する。公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。その中にイベントがあるなら、自分のデッキを2枚引く。"
       }
     ],
     "min_price": 120
@@ -27019,7 +28144,8 @@
         "name": "沙花叉と青春しよ？",
         "power": 120,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のデッキの上から6枚を公開する。公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。"
       }
     ],
     "min_price": 50
@@ -27055,9 +28181,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "Mori's Underground Live",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のデッキを1枚引いた後、手札1枚をアーカイブする。"
       }
     ],
     "min_price": 80
@@ -27098,7 +28225,8 @@
         ],
         "name": "a chef’s journey’s end.",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに紫エールが付いているなら、自分のデッキを1枚引く。その後、自分のデッキの上から2枚をアーカイブする。"
       }
     ],
     "min_price": 80
@@ -27180,7 +28308,21 @@
         "name": "Bull's-eye!!!!",
         "power": 60,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分の推しホロメンが〈森カリオペ〉なら、自分のデッキの上から2枚をアーカイブできる。アーカイブしたなら、自分のエールデッキの上から1枚を自分のホロメンに送る。"
+      },
+      {
+        "cost": [
+          "無",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "Memento Mori.",
+        "power": 200,
+        "power_plus": true,
+        "tokkou": "赤+50",
+        "text": "このターンの間、自分のステージの#Mythを持つホロメン1人のアーツ+20。その後、自分の推しホロメンが〈森カリオペ〉で、自分のアーカイブのホロメンが8枚以上あるなら、自分のデッキを1枚引ける。"
       }
     ],
     "min_price": 280
@@ -27215,9 +28357,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ボクと過ごす甘いひと時",
+        "power": 20,
+        "power_plus": false,
+        "text": "このホロメンに〈ろぼさー〉が付いているなら、相手のセンターホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -27297,7 +28440,8 @@
         ],
         "name": "んーーーおいしい[๑´ڡ`๑]♡",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の推しホロメンが〈ロボ子さん〉なら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 30
@@ -27399,7 +28543,8 @@
         "name": "＜封印＞ ダークブライダル",
         "power": 160,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "このホロメンに〈ろぼさー〉が3枚以上付いているなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ70を与える。"
       }
     ],
     "min_price": 80
@@ -27481,7 +28626,8 @@
         ],
         "name": "おめでとうをありがとう！",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のサポートカードが付いているホロメンがいるなら、自分のデッキを1枚引いた後、手札1枚をアーカイブする。"
       }
     ],
     "min_price": 50
@@ -27521,7 +28667,8 @@
         ],
         "name": "しばきあげパンチング",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンにこのホロメンが自分の推しスキル「無限の体力」でアクティブになっていたなら、このアーツ+50。"
       }
     ],
     "min_price": 80
@@ -27567,7 +28714,8 @@
         "name": "終焉のウォウウォウアックス",
         "power": 170,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "このターンに自分の推しスキル「無限の体力」を使っていたなら、このアーツ+40。"
       }
     ],
     "min_price": 180
@@ -27607,7 +28755,22 @@
         "name": "らぷらすといっしょ！",
         "power": 80,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "サイコロを3回振る。奇数が出た回数1回につき、このアーツ+20。"
+      },
+      {
+        "cost": [
+          "紫",
+          "紫",
+          "紫",
+          "紫",
+          "紫"
+        ],
+        "name": "みんなかつもくせよ！",
+        "power": 150,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "サイコロを5回振る。奇数が出た回数1回につき、自分のデッキを1枚引き、相手のセンターホロメンとコラボホロメンに特殊ダメージ30を与える。"
       }
     ],
     "min_price": 50
@@ -27767,6 +28930,17 @@
         "name": "今夜はdance the night!",
         "power": 50,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "黄",
+          "無"
+        ],
+        "name": "ダンスレッスン頑張るぞ！",
+        "power": 80,
+        "power_plus": true,
+        "text": "自分のステージの[マスコットとファン]1枚につき、サイコロを1回振る。4以上が出た回数1回につき、このアーツ+10。ただし、振れる回数は4回まで。"
       }
     ],
     "min_price": 30
@@ -27828,7 +29002,8 @@
         "name": "Never give up!! 夏色魂",
         "power": 140,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このターンに自分が使っていたLIMITEDのサポートカード1枚につき、このアーツ+30。"
       }
     ],
     "min_price": 80
@@ -27949,7 +29124,8 @@
         ],
         "name": "どこへだって行ける",
         "power": 60,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンに付いている〈スバ友〉1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -27993,7 +29169,8 @@
         "name": "GUILTY or INNOCENT",
         "power": 100,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のライフが3以下なら、このホロメンのエール1枚につき、自分のエールデッキの上から1枚を自分の黄ホロメン1人に送れる。"
       }
     ],
     "min_price": 120
@@ -28035,7 +29212,8 @@
         "name": "奇妙な来客",
         "power": 70,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このターンに自分の推しスキル「神秘の儀式」を使っていたなら、自分のアーカイブの〈アーニャ・メルフィッサ〉1～3枚を手札に戻せる。"
       }
     ],
     "min_price": 50
@@ -28081,7 +29259,8 @@
         ],
         "name": "I am スバル＆わため！ Yeah！！",
         "power": 80,
-        "power_plus": false
+        "power_plus": false,
+        "text": "[コラボポジション限定]自分の推しホロメンが〈角巻わため〉か〈大空スバル〉なら、このアーツに必要な黄-1。自分のセンターホロメンが2ndホロメンの〈角巻わため〉なら、かわりに、このアーツに必要な黄-3。"
       }
     ],
     "min_price": 180
@@ -28117,8 +29296,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "「ハッピーリーフ！」",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -28641,9 +29820,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "不穏な忠告",
+        "power": 20,
+        "power_plus": false,
+        "text": "このアーツは、相手のバックホロメンも対象にできる。"
+      },
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "Just a Humble, Kind Witch",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のアーカイブにサポートカードが4枚以上あるなら、自分のエールデッキの上から1枚を自分の#Adventを持つホロメンに送る。"
       }
     ],
     "min_price": 80
@@ -28740,7 +29929,8 @@
         "name": "私達を見くびらないで貰える？",
         "power": 110,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "相手のDebut以外のホロメン1人に、自分のステージの#Adventを持つホロメン1人につき、特殊ダメージ10を与える。"
       }
     ],
     "min_price": 120
@@ -28853,9 +30043,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "滲んでいく輝き",
+        "power": 30,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "Your Princess AWAKENS!",
+        "power": 50,
+        "power_plus": false,
+        "text": "このホロメンの紫以外のエール1枚をアーカイブできる:自分のアーカイブのホロメン1枚を手札に戻す。"
       }
     ],
     "min_price": 50
@@ -28900,7 +30100,8 @@
         "name": "キラキラぜーんぶ受け止めて！",
         "power": 110,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "お互いのアーカイブのエール1色につき、このアーツに必要な無色-1。"
       }
     ],
     "min_price": 120
@@ -28933,11 +30134,15 @@
     "arts": [
       {
         "cost": [
-          "紫"
+          "紫",
+          "無",
+          "無",
+          "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "綾なす想いは、儚きブルー",
+        "power": 80,
+        "power_plus": false,
+        "text": "自分のライフが3以下なら、このアーツに必要な無色-2。"
       }
     ],
     "min_price": 120
@@ -29013,8 +30218,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ほんまにほんまだよ！",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -29181,8 +30386,19 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "薔薇は赤い",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "私の心の炎は青い",
+        "power": 140,
         "power_plus": false
       }
     ],
@@ -29308,7 +30524,8 @@
         "name": "悪斬りのカデンツァ",
         "power": 100,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンのエール1枚につき、このアーツ+20。このアーツで相手のホロメンをダウンさせた時、自分のエールデッキの上から1枚をこのホロメンに送る。"
       }
     ],
     "min_price": 280
@@ -29419,8 +30636,17 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
+        "name": "周囲の頭痛の種",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "悪戯好きのグレムリン",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -29460,7 +30686,8 @@
         ],
         "name": "すべての意味を追い求めて",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンに重なっているホロメンが0枚なら、このアーツ+20。"
       }
     ],
     "min_price": 180
@@ -29543,7 +30770,8 @@
         "name": "殻破りのライオット",
         "power": 90,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンに重なっているホロメンが0枚なら、このアーツ+90。"
       }
     ],
     "min_price": 80
@@ -29583,7 +30811,8 @@
         ],
         "name": "紅茶をどうぞ！",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を自分の#Justiceを持つホロメンに送る。"
       }
     ],
     "min_price": 30
@@ -29623,7 +30852,8 @@
         ],
         "name": "コーヒーをどうぞ！",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分の#Justiceを持つ[センターホロメンとコラボホロメン]に異なる色のエールが付いているなら、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -29958,9 +31188,10 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ガブガブ！",
+        "power": 20,
+        "power_plus": true,
+        "text": "[センターポジション限定]このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -30044,7 +31275,8 @@
         ],
         "name": "これボタン弾けちゃうよぉ",
         "power": 70,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに白エールが2枚以上付いているなら、このアーツに必要な無色-1。"
       }
     ],
     "min_price": 30
@@ -30085,7 +31317,8 @@
         ],
         "name": "わたキャノンもだ！",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -30129,7 +31362,8 @@
         "name": "センキューオーバーシープ！",
         "power": 90,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに付いている〈わためいと〉1枚につき、このアーツ+50。"
       }
     ],
     "min_price": 30
@@ -30175,7 +31409,8 @@
         "name": "脳天直撃わためハンマー！",
         "power": 160,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "[センターポジション限定]このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、相手の2ndホロメン1人に、オーバーしたダメージと同じ数値の特殊ダメージを与える。"
       }
     ],
     "min_price": 380
@@ -30331,7 +31566,8 @@
         ],
         "name": "うまみ～うまみ～♪",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンに自分がイベントを使っていたなら、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -30435,7 +31671,8 @@
         "name": "最高のシークレットエージェント",
         "power": 160,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のステージに#ID3期生を持つBuzzホロメンがいるなら、このアーツ+40。"
       }
     ],
     "min_price": 80
@@ -30477,7 +31714,8 @@
         "name": "元気もりもりさんでーまっする",
         "power": 50,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分の#3期生を持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツに必要な無色-1。そのホロメンが2ndホロメンの〈白銀ノエル〉なら、かわりに、そのアーツに必要な無色-2。"
       }
     ],
     "min_price": 80
@@ -30559,7 +31797,8 @@
         ],
         "name": "今日もいっぱい笑っていこう",
         "power": 10,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがサポートカードなら、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -30600,7 +31839,8 @@
         ],
         "name": "ゲーマーズカフェへようこそ",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分の#ゲーマーズを持つホロメンに送る。"
       }
     ],
     "min_price": 30
@@ -30684,7 +31924,8 @@
         ],
         "name": "女王陛下と呼びなさい",
         "power": 70,
-        "power_plus": false
+        "power_plus": false,
+        "text": "[センターポジション限定]このアーツで相手のホロメンをダウンさせた時、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -30729,7 +31970,8 @@
         "name": "天まで届け、みんなの願い",
         "power": 90,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがサポートカードなら、このアーツ+50。"
       }
     ],
     "min_price": 30
@@ -30775,7 +32017,8 @@
         "name": "Upright Leading",
         "power": 130,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがホロメンなら、自分のエールデッキの上から1枚を自分のホロメンに送る。サポートカードなら、このアーツ+50。"
       }
     ],
     "min_price": 380
@@ -30817,7 +32060,8 @@
         "name": "たくさんの宝物",
         "power": 100,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "このホロメンのエール2枚をアーカイブできる:自分のデッキを2枚引く。"
       }
     ],
     "min_price": 80
@@ -30952,7 +32196,8 @@
         ],
         "name": "どっちが速いｶﾅ？！？！？！",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンに〈ふぐ太郎〉が付いているなら、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -30997,7 +32242,8 @@
         "name": "サージングエキゾースト",
         "power": 160,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このホロメンのエールを数えて、そのすべてを好きな順でエールデッキの下に戻す。その後、自分の手札がこの能力で戻したエールの枚数と同じになるまで、自分のデッキを引く。"
       }
     ],
     "min_price": 180
@@ -31033,8 +32279,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "どちらがお好き？♡",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -31115,7 +32361,8 @@
         ],
         "name": "hololiveEN0",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このターンの間、自分のステージの#ENを持つホロメン全員のアーツ+20。"
       }
     ],
     "min_price": 30
@@ -31156,7 +32403,8 @@
         ],
         "name": "俺の名は〝ちゃまお〟漢の中の漢だ！",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のセンターホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -31239,7 +32487,8 @@
         "name": "万物に愛されちゃま計画",
         "power": 80,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のステージのエールすべてが赤エールなら、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -31280,7 +32529,20 @@
         "name": "純心タランテラ",
         "power": 80,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "相手のセンターホロメンとコラボホロメンに特殊ダメージ40を与える。"
+      },
+      {
+        "cost": [
+          "赤",
+          "無",
+          "無"
+        ],
+        "name": "幸せへの旅路",
+        "power": 140,
+        "power_plus": true,
+        "tokkou": "紫+50",
+        "text": "このターンに自分のホロメンがステージからデッキに戻っていたなら、このアーツ+50。"
       }
     ],
     "min_price": 180
@@ -31327,7 +32589,8 @@
         "name": "桜は花に顕る",
         "power": 70,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに付いている〈35P〉1枚につき、このアーツ+70し、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 80
@@ -31370,7 +32633,8 @@
         "name": "スタッフファーストです！",
         "power": 120,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のデッキの上から2枚をアーカイブする。その後、自分のアーカイブのスタッフ1枚を手札に戻せる。"
       }
     ],
     "min_price": 120
@@ -31531,7 +32795,8 @@
         "name": "不撓のコンチェルタート",
         "power": 130,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分のライフが4以下なら、このアーツ+30。自分のライフが2以下なら、かわりに、このアーツ+60。"
       }
     ],
     "min_price": 180
@@ -31648,7 +32913,8 @@
         ],
         "name": "私の新キャッチフレーズ。どうだい？",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージに〈オーロ・クロニー〉以外の#Promiseを持つホロメンがいるなら、このアーツ+10。"
       }
     ],
     "min_price": 30
@@ -31688,7 +32954,8 @@
         ],
         "name": "Everlasting Flower",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を自分の#Promiseを持つホロメンに送る。"
       }
     ],
     "min_price": 50
@@ -31793,7 +33060,8 @@
         "name": "You're not ready for me.",
         "power": 80,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンのエール1枚を自分の他の#Promiseを持つホロメンに付け替えられる。その後、自分の推しホロメンが〈オーロ・クロニー〉なら、このアーツ+100。"
       }
     ],
     "min_price": 280
@@ -31837,7 +33105,8 @@
         "name": "おりゃー！！油断したでしょ～",
         "power": 100,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分の推しホロメンが〈猫又おかゆ〉で、相手のHPが100以上減っているバックホロメンがいるなら、相手のホロメン1人に特殊ダメージ50を与える。"
       }
     ],
     "min_price": 80
@@ -31878,7 +33147,8 @@
         ],
         "name": "MANTAP LEE!!",
         "power": 60,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のHPが減っているバックホロメンが3人以上いるなら、自分のデッキを2枚引く。"
       }
     ],
     "min_price": 50
@@ -31917,7 +33187,8 @@
         ],
         "name": "A Cozy, Spooky Night Together",
         "power": 10,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 30
@@ -31951,9 +33222,18 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "食料解剖",
+        "power": 10,
         "power_plus": false
+      },
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "Don't Let Her Cook!",
+        "power": 50,
+        "power_plus": false,
+        "text": "このアーツは、自分のアーカイブにサポートカードが4枚以上なければ使えない。"
       }
     ],
     "min_price": 30
@@ -31992,7 +33272,8 @@
         ],
         "name": "逃がす訳がないでしょう？",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ20を与える。"
       }
     ],
     "min_price": 50
@@ -32034,7 +33315,8 @@
         "name": "解き放たれた禁断の知識",
         "power": 60,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。その後、自分の推しホロメンが〈シオリ・ノヴェラ〉で、このホロメンにエールが4枚以上付いているなら、このアーツ+100。"
       }
     ],
     "min_price": 80
@@ -32109,9 +33391,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "ゆっくりしにおいで♡",
+        "power": 20,
+        "power_plus": false,
+        "text": "自分のデッキから、〈開拓者〉1枚を公開し、自分の〈AZKi〉に付ける。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 50
@@ -32146,8 +33429,20 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "盛り上がっていこう！",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のデッキを1枚引いた後、手札1枚をアーカイブする。"
+      },
+      {
+        "cost": [
+          "紫",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "みんなの声聞かせてええええええ！！！",
+        "power": 120,
         "power_plus": false
       }
     ],
@@ -32231,7 +33526,8 @@
         ],
         "name": "君と二人きりの夜",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の手札1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 120
@@ -32317,7 +33613,21 @@
         "name": "君と新たな開拓の地へ",
         "power": 140,
         "power_plus": false,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のデッキを2枚引く。"
+      },
+      {
+        "cost": [
+          "紫",
+          "紫",
+          "紫",
+          "無"
+        ],
+        "name": "紡いだ軌跡 すべてに捧ぐ歌",
+        "power": 200,
+        "power_plus": false,
+        "tokkou": "緑+50",
+        "text": "自分の推しホロメンが〈AZKi〉なら、自分のホロパワーの上から4枚をアーカイブできる:自分のアーカイブに〈フロンティアスピリット〉が4枚あるなら、相手のライフ-1。"
       }
     ],
     "min_price": 380
@@ -32357,7 +33667,8 @@
         ],
         "name": "がんばって美味しいの作るね♡",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の#料理を持つホロメンを1人選ぶ。このターンに自分が使っていた#食べ物を持つイベント1枚につき、このターンの間、選んだホロメンのアーツに必要な無色-1。"
       }
     ],
     "min_price": 50
@@ -32394,8 +33705,8 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "手作りの朝ごはんを要求する",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -32479,7 +33790,8 @@
         ],
         "name": "吾輩の歌聴いてくれる奴いるううう！？！？",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキから、〈ラプラス・ダークネス〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 120
@@ -32525,7 +33837,8 @@
         "name": "吾輩の歌を聴けえええええええ！！！！",
         "power": 110,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のセンターホロメンの色が紫なら、このアーツ+40。"
       }
     ],
     "min_price": 180
@@ -32567,7 +33880,8 @@
         "name": "CODE:81800",
         "power": 70,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このホロメンにエールが3枚以上付いているなら、お互いのアーカイブのエール1枚につき、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -32707,7 +34021,8 @@
         ],
         "name": "ご自由にお使いください！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキから、〈やめなー〉1枚を公開し、自分のホロメンに付ける。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -32790,7 +34105,8 @@
         ],
         "name": "君のハートをブルロック！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに〈ギラファノコギリクワガタ〉が付いているなら、このアーツダメージは、アーツの対象のホロメンのかわりに、相手のセンターホロメンとコラボホロメンに与える。"
       }
     ],
     "min_price": 50
@@ -32879,7 +34195,8 @@
         "name": "オーバーチアリーディング",
         "power": 100,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "相手の[センターホロメンかコラボホロメン]のエール1枚をエールデッキの下に戻す。"
       }
     ],
     "min_price": 280
@@ -32922,7 +34239,8 @@
         "name": "やっぱり、FPSとか？",
         "power": 90,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のアーカイブのエール1枚を自分のホロメンに送る。"
       }
     ],
     "min_price": 50
@@ -32963,7 +34281,8 @@
         ],
         "name": "元気いっぱいカラフルパフェ",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分の推しホロメンが〈不知火フレア〉なら、自分の〈不知火フレア〉1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。"
       }
     ],
     "min_price": 50
@@ -33006,7 +34325,8 @@
         "name": "追撃のライオット",
         "power": 160,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "このアーツの対象が、相手のHPが減っているホロメンなら、このアーツ+30。"
       }
     ],
     "min_price": 50
@@ -33085,7 +34405,8 @@
         ],
         "name": "みんなが居るから幸せだ！",
         "power": 50,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンに自分のステージのエールがアーカイブされていたなら、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -33167,7 +34488,8 @@
         "name": "ぶち上げる気合いだ！",
         "power": 80,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このホロメンのエール1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 180
@@ -33616,8 +34938,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "はじまんぼう！",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -33654,8 +34976,8 @@
         "cost": [
           "白"
         ],
-        "name": "",
-        "power": null,
+        "name": "今日もあなたのそばに -フブキ-",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -33774,8 +35096,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "ようやくキミに会えた！！！",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "キラキラなきーつね！",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -33858,7 +35189,8 @@
         ],
         "name": "一緒に行こう(๑•̀ㅂ•́)و✧",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "[コラボポジション限定]このホロメンにマスコットが付いているなら、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -34003,8 +35335,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "寄ってらっしゃい見てらっしゃい",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -34039,8 +35371,8 @@
         "cost": [
           "緑"
         ],
-        "name": "",
-        "power": null,
+        "name": "今日もあなたのそばに -らでん-",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -34151,10 +35483,21 @@
     "arts": [
       {
         "cost": [
-          "緑"
+          "緑",
+          "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "世界を彩る -らでん-",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "緑",
+          "無",
+          "無"
+        ],
+        "name": "ちょいと一席付き合ってみませんか？",
+        "power": 60,
         "power_plus": false
       }
     ],
@@ -34234,7 +35577,8 @@
         ],
         "name": "きのこ狩り",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このターンに自分が#きのこを持つイベントを使っていたなら、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -34358,8 +35702,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "さくらみこだよ～",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -34394,8 +35738,8 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
+        "name": "エリート巫女アイドル！ さくらみこだよ～",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -34469,9 +35813,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "桜風ランニング",
+        "power": 20,
+        "power_plus": false,
+        "text": "サイコロを1回振る。3か5なら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 50
@@ -34505,8 +35850,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "みんなみててにぇ",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "いっくぞぉおおおお",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -34546,7 +35900,8 @@
         ],
         "name": "みこの耳かきスキルに蕩けちゃえ",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "[センターポジション限定]サイコロを1回振る。3か5なら、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -34692,8 +36047,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "バーチャルアイドル・星街すいせい",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -34728,8 +36083,8 @@
         "cost": [
           "青"
         ],
-        "name": "",
-        "power": null,
+        "name": "今日もあなたのそばに -すいせい-",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -34803,9 +36158,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "よーし、レッスン開始だー！",
+        "power": 20,
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 50
@@ -34839,8 +36195,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "そろそろ始まるよ！",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "みんな準備はできてる？",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -34920,7 +36285,8 @@
         ],
         "name": "あなたの一番星",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手のバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
     "min_price": 50
@@ -35044,8 +36410,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "Nice to reap you",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -35080,8 +36446,8 @@
         "cost": [
           "紫"
         ],
-        "name": "",
-        "power": null,
+        "name": "今日もあなたのそばに -カリオペ-",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -35194,8 +36560,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "これから、頑張る。",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "負けない。諦めない。",
+        "power": 50,
         "power_plus": false
       }
     ],
@@ -35235,7 +36610,8 @@
         ],
         "name": "手伝ってもらって助かるよ",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンにツールが付いているなら、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -35275,7 +36651,8 @@
         ],
         "name": "OK、もう一曲行こう！",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。"
       }
     ],
     "min_price": 80
@@ -35381,8 +36758,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "あじまるあじまる～",
+        "power": 10,
         "power_plus": false
       }
     ],
@@ -35417,9 +36794,10 @@
         "cost": [
           "黄"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "今日もあなたのそばに -スバル-",
+        "power": 20,
+        "power_plus": true,
+        "text": "自分のライフが2以下なら、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -35531,8 +36909,17 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "いっぱい頑張る！",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "いっぱい楽しむ！",
+        "power": 40,
         "power_plus": false
       }
     ],
@@ -35572,7 +36959,8 @@
         ],
         "name": "忘れてなんかやるもんか",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンにエールが2枚以上付いているなら、このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -35606,9 +36994,10 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "萌え萌えギュン",
+        "power": 20,
+        "power_plus": true,
+        "text": "[コラボポジション限定]相手のステージに2ndホロメンがいるなら、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -35647,7 +37036,8 @@
         "name": "ダンシング・プレアデス",
         "power": 80,
         "power_plus": true,
-        "tokkou": "白+30"
+        "tokkou": "白+30",
+        "text": "自分のライフが2以下なら、このアーツ+10。"
       }
     ],
     "min_price": 80
@@ -36022,7 +37412,8 @@
         ],
         "name": "Hot Ending",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに紫エールが付いているなら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 30
@@ -36063,7 +37454,8 @@
         ],
         "name": "片や天使 片や悪魔",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに紫エールが付いているなら、相手のセンターホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 50
@@ -36106,7 +37498,8 @@
         "name": "萌え萌えキュンしちゃった？",
         "power": 70,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンに紫エールが付いているなら、このアーツ+50。"
       }
     ],
     "min_price": 50
@@ -36151,7 +37544,8 @@
         "name": "プリズマティック・アンセム",
         "power": 130,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このターンの間、このホロメンの紫エール1枚につき、自分のステージのホロメン全員のアーツ+20。"
       }
     ],
     "min_price": 280
@@ -36229,6 +37623,17 @@
         ],
         "name": "Stairway to the Stars",
         "power": 30,
+        "power_plus": false,
+        "text": "自分のステージに〈ときのそら〉が3人以上いるなら、自分のデッキを1枚引く。"
+      },
+      {
+        "cost": [
+          "白",
+          "無",
+          "無"
+        ],
+        "name": "あの時の空へ…",
+        "power": 90,
         "power_plus": false
       }
     ],
@@ -36270,7 +37675,8 @@
         ],
         "name": "みんな、ぬんぬん進んでいこーう",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージに#0期生を持つ2ndホロメンがいるなら、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -36316,7 +37722,8 @@
         "name": "盛り上がってくれたらうれしいな！",
         "power": 150,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "自分の推しホロメンが〈ときのそら〉なら、自分のステージの他の〈ときのそら〉1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手の2ndのバックホロメンも対象にできる。"
       }
     ],
     "min_price": 180
@@ -36357,7 +37764,8 @@
         ],
         "name": "この幸せをシェアしよう",
         "power": 10,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに〈Chattino〉が付いていないなら、自分のデッキから、〈Chattino〉1枚をこのホロメンに付ける。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -36399,7 +37807,8 @@
         "name": "挑戦のまなざし",
         "power": 110,
         "power_plus": true,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このターンに自分のデッキからカードを3枚以上アーカイブしていたなら、このアーツ+40。"
       }
     ],
     "min_price": 50
@@ -36434,8 +37843,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "祝祭を響かせよう",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -36472,8 +37881,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "エレガントに行くのです",
+        "power": 20,
         "power_plus": false
       }
     ],
@@ -36554,7 +37963,8 @@
         ],
         "name": "風の赴くままに",
         "power": 60,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンをお休みさせる。"
       }
     ],
     "min_price": 30
@@ -36683,7 +38093,8 @@
         "name": "翠嵐のシュトルム",
         "power": 200,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分のお休みしている#Justiceを持つホロメン1人につき、自分のデッキを1枚引く。その後、このホロメンをお休みさせる。"
       }
     ],
     "min_price": 180
@@ -36726,7 +38137,8 @@
         ],
         "name": "一口食べる？",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のツールが付いているホロメン1人のHP30回復。"
       }
     ],
     "min_price": 50
@@ -36867,7 +38279,8 @@
         "name": "ストラクチュラル・カラー",
         "power": 80,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分の〈パヴォリア・レイネ〉以外の#ID2期生を持つホロメンに紫エールか黄エールが付いているなら、このアーツ+70。"
       }
     ],
     "min_price": 30
@@ -36913,7 +38326,8 @@
         "name": "ノックアウト・ツイスト",
         "power": 140,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のアーカイブのエール1～2枚を自分の〈パヴォリア・レイネ〉1人に送る。"
       }
     ],
     "min_price": 80
@@ -36948,8 +38362,8 @@
         "cost": [
           "無"
         ],
-        "name": "",
-        "power": null,
+        "name": "あなたのもこもこなモココ",
+        "power": 30,
         "power_plus": false
       }
     ],
@@ -36985,9 +38399,10 @@
         "cost": [
           "赤"
         ],
-        "name": "",
-        "power": null,
-        "power_plus": false
+        "name": "やったぁ大勝ちだ！！",
+        "power": 10,
+        "power_plus": true,
+        "text": "このホロメンに青エールが付いているなら、このアーツ+30。"
       }
     ],
     "min_price": 30
@@ -37068,7 +38483,8 @@
         ],
         "name": "がんBAUるねー！",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに青エールが2枚以上付いているなら、自分のエールデッキの上から1枚を自分の〈フワワ・アビスガード〉に送る。"
       }
     ],
     "min_price": 120
@@ -37156,7 +38572,8 @@
         "name": "もこもこバウンティハンター",
         "power": 90,
         "power_plus": true,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "このホロメンの青エール1枚につき、このアーツ+20。その後、このホロメンの青エールを好きな枚数選び、自分の〈フワワ・アビスガード〉1人に付け替える。"
       }
     ],
     "min_price": 380
@@ -37213,7 +38630,8 @@
         ],
         "name": "\"熱狂的な夜\"は実在する!!!",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキの上から1枚をアーカイブする。"
       }
     ],
     "min_price": 30
@@ -37314,7 +38732,8 @@
         "name": "不敵なるファイヤーフォーゲル",
         "power": 100,
         "power_plus": false,
-        "tokkou": "紫+50"
+        "tokkou": "紫+50",
+        "text": "自分のデッキの上から1～3枚をアーカイブする。"
       }
     ],
     "min_price": 120
@@ -37356,7 +38775,8 @@
         "name": "ボクはボクらしく生きたい。",
         "power": 50,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分のステージのホロメン1人を選び、サイコロを1回振る。出た目の数1につき、このターンの間、選んだホロメンのアーツ+10。"
       }
     ],
     "min_price": 50
@@ -37552,7 +38972,8 @@
         ],
         "name": "雪だるまつくろっ",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分のホロメンに送る。"
       }
     ],
     "min_price": 30
@@ -37592,7 +39013,8 @@
         ],
         "name": "8時間35分",
         "power": 40,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のエールデッキの上から1枚を自分の〈水宮枢〉に送る。"
       }
     ],
     "min_price": 180
@@ -37629,6 +39051,19 @@
         ],
         "name": "元気の出るグミ",
         "power": 70,
+        "power_plus": false,
+        "tokkou": "赤+50",
+        "text": "相手のセンターホロメンのバトンタッチに必要な無色が5つ以上なら、自分のエールデッキの上から1枚を自分の〈水宮枢〉に送る。"
+      },
+      {
+        "cost": [
+          "青",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "グミうまい",
+        "power": 180,
         "power_plus": false,
         "tokkou": "赤+50"
       }
@@ -37674,7 +39109,8 @@
         "name": "届け、この愛",
         "power": 50,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "相手のセンターホロメンのバトンタッチに必要な無色が5つ以上なら、相手のDebut以外のホロメン1人に特殊ダメージ100を与える。"
       }
     ],
     "min_price": 580
@@ -37718,7 +39154,8 @@
         "name": "ひとりじゃない、今は共に",
         "power": 130,
         "power_plus": false,
-        "tokkou": "赤+50"
+        "tokkou": "赤+50",
+        "text": "このホロメンに付いているエール3枚をアーカイブできる:自分のデッキを3枚引く。"
       }
     ],
     "min_price": 30
@@ -37758,7 +39195,8 @@
         ],
         "name": "あなたのふわふわなフワワ",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "このホロメンに赤エールが付いているなら、自分のデッキを1枚引く。"
       }
     ],
     "min_price": 30
@@ -37838,7 +39276,8 @@
         ],
         "name": "寄り添うふたり",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "このホロメンに赤エールが付いているなら、このアーツ+20。"
       }
     ],
     "min_price": 80
@@ -37878,7 +39317,21 @@
         "name": "勝てるわけないでしょ！",
         "power": 100,
         "power_plus": false,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "自分のアーカイブの青エール1～2枚を選び、自分の#Adventを持つホロメンに割り振って送る。"
+      },
+      {
+        "cost": [
+          "青",
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "今度はこっちの番だよ！",
+        "power": 160,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "自分の推しホロメンが青の〈FUWAMOCO〉なら、このホロメンのエール2枚をアーカイブできる:相手のDebut以外のホロメン1人に特殊ダメージ50を与える。"
       }
     ],
     "min_price": 50
@@ -37923,7 +39376,8 @@
         "name": "ふわふわバウンダリースパナー",
         "power": 80,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "このターンに自分の〈モココ・アビスガード〉がアーツを使っていたなら、このアーツ+50。その後、このホロメンの赤エールを好きな枚数選び、自分の〈モココ・アビスガード〉1人に付け替える。"
       }
     ],
     "min_price": 280
@@ -37965,7 +39419,8 @@
         ],
         "name": "いっしょういっしょ♡",
         "power": 50,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分の推しホロメンが青の〈FUWAMOCO〉なら、自分のデッキの上から1枚をホロパワーにする。"
       }
     ],
     "min_price": 50
@@ -38128,7 +39583,8 @@
         ],
         "name": "眠らない街の仕事屋",
         "power": 20,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のデッキから、〈ルイ友〉1枚を自分のホロメンに付ける。そしてデッキをシャッフルする。"
       }
     ],
     "min_price": 30
@@ -38171,7 +39627,8 @@
         ],
         "name": "差していくよ！",
         "power": 50,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分の手札が2枚以下なら、このアーツ+30。"
       }
     ],
     "min_price": 50
@@ -38214,7 +39671,8 @@
         "name": "酔い、覚ましていこ？",
         "power": 60,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分の手札1～2枚をアーカイブできる:アーカイブしたカード1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 30
@@ -38260,7 +39718,8 @@
         "name": "逆転の一手",
         "power": 130,
         "power_plus": true,
-        "tokkou": "緑+50"
+        "tokkou": "緑+50",
+        "text": "自分の手札が2枚以下なら、このアーツ+50。自分の手札が0枚なら、かわりに、このアーツ+70。"
       }
     ],
     "min_price": 220
@@ -38300,7 +39759,8 @@
         ],
         "name": "引きこもり娘は外出の夢を見た",
         "power": 10,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手の推しホロメンと異なる色を持つ相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
     "min_price": 30
@@ -38383,7 +39843,8 @@
         ],
         "name": "私の生涯の友人",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、自分の#Mythを持つホロメン1人のHP10回復。"
       }
     ],
     "min_price": 30
@@ -38467,7 +39928,8 @@
         ],
         "name": "マルチカラー・スケッチ",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、このアーツ+10。"
       }
     ],
     "min_price": 50
@@ -38557,7 +40019,8 @@
         "name": "ネクロ・エリミネーション!!",
         "power": 110,
         "power_plus": false,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "自分の手札1～3枚をアーカイブできる:この能力でアーカイブしたカード1枚につき、相手のホロメン1人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。"
       }
     ],
     "min_price": 220
@@ -38600,7 +40063,8 @@
         "name": "一緒に外に行こうよ",
         "power": 110,
         "power_plus": true,
-        "tokkou": "黄+50"
+        "tokkou": "黄+50",
+        "text": "このホロメンに付いている〈ろぼさー〉1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 50
@@ -38644,7 +40108,8 @@
         "name": "ごはんをいっぱい食べたあとには……",
         "power": 120,
         "power_plus": false,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のアーカイブに#食べ物を持つイベントが3枚以上あるなら、このホロメンのHP100回復。"
       }
     ],
     "min_price": 50
@@ -38763,7 +40228,8 @@
         ],
         "name": "清廉なる歌声",
         "power": 10,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分の#ReGLOSSを持つセンターホロメンに送れる。"
       }
     ],
     "min_price": 30
@@ -38844,7 +40310,8 @@
         ],
         "name": "今年も伸び盛り",
         "power": 40,
-        "power_plus": true
+        "power_plus": true,
+        "text": "[センターポジション限定]自分のステージのエールの枚数が相手より1枚多いなら、このアーツ+20。エールが2枚以上多いなら、かわりに、このアーツ+40。"
       }
     ],
     "min_price": 50
@@ -38932,7 +40399,8 @@
         "name": "奏オンステージ",
         "power": 120,
         "power_plus": true,
-        "tokkou": "青+50"
+        "tokkou": "青+50",
+        "text": "自分のステージのエールの枚数が相手より多いなら、多い枚数1枚につき、このアーツ+20。"
       }
     ],
     "min_price": 180
@@ -38948,7 +40416,8 @@
     "release_date": "2026-06-19",
     "canonical_print": 2287,
     "prints": [
-      2287
+      2287,
+      2383
     ],
     "hp": 190,
     "bloom_level": "1st",
@@ -38972,7 +40441,8 @@
         ],
         "name": "まちゅだってお姫さま♡",
         "power": 30,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のステージに#1期生を持つ2ndホロメンがいるなら、このアーツ+30。"
       }
     ],
     "min_price": 50
@@ -39052,7 +40522,8 @@
         ],
         "name": "最高のともだち",
         "power": 20,
-        "power_plus": true
+        "power_plus": true,
+        "text": "自分のセンターホロメンが2ndホロメンなら、このアーツ+30。"
       }
     ],
     "min_price": 80
@@ -39068,7 +40539,8 @@
     "release_date": "2026-06-19",
     "canonical_print": 2290,
     "prints": [
-      2290
+      2290,
+      2384
     ],
     "hp": 200,
     "bloom_level": "2nd",
@@ -39139,7 +40611,8 @@
         "name": "リレーションファンタジー",
         "power": 140,
         "power_plus": true,
-        "tokkou": "白+50"
+        "tokkou": "白+50",
+        "text": "[コラボポジション限定]自分のセンターホロメンが#3期生を持つホロメンなら、このアーツ+30。"
       }
     ],
     "min_price": 120
@@ -39178,7 +40651,8 @@
         ],
         "name": "アイアムアゲーマー",
         "power": 30,
-        "power_plus": false
+        "power_plus": false,
+        "text": "自分のアーカイブのエール1枚を自分の#Justiceを持つホロメンに送る。"
       }
     ],
     "min_price": 50

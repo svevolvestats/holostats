@@ -38584,7 +38584,7 @@
     "expansion": "hBP06",
     "rarity": "P",
     "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP06/hBP06-034_P.png",
-    "illustrator": "なもり",
+    "illustrator": "ちひろ綺華",
     "expansion_product": "PRカード",
     "release_date": null,
     "mercard_id": 4600,
@@ -38603,7 +38603,7 @@
     "expansion": "hBP06",
     "rarity": "P",
     "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP06/hBP06-057_P.png",
-    "illustrator": "ちひろ綺華",
+    "illustrator": "Pawchie",
     "expansion_product": "PRカード",
     "release_date": null,
     "mercard_id": 4601,
@@ -38622,7 +38622,7 @@
     "expansion": "hBP07",
     "rarity": "P",
     "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP07/hBP07-068_P.png",
-    "illustrator": "Pawchie",
+    "illustrator": "カバー株式会社",
     "expansion_product": "PRカード",
     "release_date": null,
     "mercard_id": 4602,
@@ -38641,7 +38641,7 @@
     "expansion": "hBP07",
     "rarity": "P",
     "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP07/hBP07-071_P.png",
-    "illustrator": "カバー株式会社",
+    "illustrator": "みずあめ",
     "expansion_product": "PRカード",
     "release_date": null,
     "mercard_id": 4603,
@@ -38660,7 +38660,7 @@
     "expansion": "hBP07",
     "rarity": "P",
     "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP07/hBP07-100_P.png",
-    "illustrator": "みずあめ",
+    "illustrator": "古弥月",
     "expansion_product": "PRカード",
     "release_date": null,
     "mercard_id": 4612,
@@ -44543,6 +44543,28 @@
         "date": "2026-06-24"
       }
     }
+  },
+  {
+    "site_id": 2383,
+    "oracle_id": "hBP08-084",
+    "cardno": "hBP08-084",
+    "expansion": "hBP08",
+    "rarity": "SR",
+    "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP08/hBP08-084_SR.png",
+    "illustrator": "おもちもなか",
+    "expansion_product": "ブースターパック バウンサーバウンド",
+    "release_date": "2026-06-19"
+  },
+  {
+    "site_id": 2384,
+    "oracle_id": "hBP08-087",
+    "cardno": "hBP08-087",
+    "expansion": "hBP08",
+    "rarity": "SR",
+    "image_url": "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev/images/hBP08/hBP08-087_SR.png",
+    "illustrator": "ひょん",
+    "expansion_product": "ブースターパック バウンサーバウンド",
+    "release_date": "2026-06-19"
   },
   {
     "site_id": 2385,
