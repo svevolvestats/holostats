@@ -4,9 +4,16 @@
   "splits": [
     {
       "source": "ea736e",
-      "name": "ジジ・ムリン（ジジ型）",
       "rules": [
-        { "required": ["hBP04-055"], "name": "ジジ・ムリン（ラプラス型）" }
+        { "required": ["hBP04-055"], "name": "ジジ・ムリン（ラプラス）" },
+        {
+          "required": ["hBP04-083"],
+          "name": "ジジ・ムリン（桃鈴ねね）"
+        },
+        {
+          "required": [],
+          "name": "ジジ・ムリン"
+        }
       ]
     },
     {
@@ -14,11 +21,41 @@
       "rules": [
         {
           "required": ["hSD11-002"],
-          "name": "戌神ころね(虎金妃笑虎)"
+          "name": "戌神ころね（虎金妃笑虎）"
         },
         {
           "required": [],
           "name": "戌神ころね"
+        }
+      ]
+    },
+    {
+      "source": "905984",
+      "rules": [
+        {
+          "required": ["hBP04-054"],
+          "name": "AZKi（ラプラス）"
+        },
+        {
+          "required": [],
+          "name": "AZKi"
+        }
+      ]
+    },
+    {
+      "source": "04bcaf",
+      "rules": [
+        {
+          "required": ["hBP02-054"],
+          "name": "星街すいせい（森カリオペ）"
+        },
+        {
+          "required": ["hBP07-055"],
+          "name": "星街すいせい（クロニー）"
+        },
+        {
+          "required": [],
+          "name": "星街すいせい"
         }
       ]
     }

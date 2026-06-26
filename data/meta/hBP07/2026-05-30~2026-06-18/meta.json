@@ -63,7 +63,7 @@
         "hBP07-045",
         "hBP06-041"
       ],
-      "prev_id": "0c652c"
+      "prev_id": "1e85ec"
     },
     {
       "id": "490a74",
@@ -83,25 +83,6 @@
         "hBP02-040"
       ],
       "prev_id": "490a74"
-    },
-    {
-      "id": "04bcaf",
-      "name": "星街すいせい",
-      "class": "青",
-      "oshi_id": "hBP01-007",
-      "member": "星街すいせい",
-      "count": 18,
-      "winner": 2,
-      "finalist": 5,
-      "top8_share": 0.0239,
-      "win_share": 0.0213,
-      "deck_rank": 0.61,
-      "top_cards": [
-        "hBP02-054",
-        "hSD01-016",
-        "hBP06-057"
-      ],
-      "prev_id": "04bcaf"
     },
     {
       "id": "bcf7fc",
@@ -159,6 +140,25 @@
         "hBP07-078"
       ],
       "prev_id": "fc8c0f"
+    },
+    {
+      "id": "37b2c5",
+      "name": "星街すいせい（森カリオペ）",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 14,
+      "winner": 1,
+      "finalist": 4,
+      "top8_share": 0.0186,
+      "win_share": 0.0106,
+      "deck_rank": 0.64,
+      "top_cards": [
+        "hBP02-054",
+        "hBP06-057",
+        "hBP06-058"
+      ],
+      "prev_id": "20cb0d"
     },
     {
       "id": "cf9435",
@@ -237,25 +237,6 @@
       "prev_id": "339f73"
     },
     {
-      "id": "4a4153",
-      "name": "ジジ・ムリン（ジジ型）",
-      "class": "黄",
-      "oshi_id": "hSD13-002",
-      "member": "ジジ・ムリン",
-      "count": 5,
-      "winner": 1,
-      "finalist": 2,
-      "top8_share": 0.0066,
-      "win_share": 0.0106,
-      "deck_rank": 1.0,
-      "top_cards": [
-        "hSD13-008",
-        "hBP07-086",
-        "hSD13-013"
-      ],
-      "prev_id": "f5dde4"
-    },
-    {
       "id": "1e85ec",
       "name": "大神ミオ（大神ミオ・ビッグゴッドミオーンの占い）",
       "class": "緑",
@@ -272,26 +253,7 @@
         "hBP07-098",
         "hBP07-024"
       ],
-      "prev_id": "f33a6b"
-    },
-    {
-      "id": "905984",
-      "name": "AZKi",
-      "class": "緑",
-      "oshi_id": "hSD01-002",
-      "member": "AZKi",
-      "count": 4,
-      "winner": 0,
-      "finalist": 0,
-      "top8_share": 0.0053,
-      "win_share": 0.0,
-      "deck_rank": -2.25,
-      "top_cards": [
-        "hBP02-054",
-        "hBP06-059",
-        "hBP06-060"
-      ],
-      "prev_id": "905984"
+      "prev_id": "1e85ec"
     },
     {
       "id": "d50700",
@@ -311,6 +273,25 @@
         "hBP07-071"
       ],
       "prev_id": "d50700"
+    },
+    {
+      "id": "8e1d02",
+      "name": "ジジ・ムリン",
+      "class": "黄",
+      "oshi_id": "hSD13-002",
+      "member": "ジジ・ムリン",
+      "count": 4,
+      "winner": 1,
+      "finalist": 2,
+      "top8_share": 0.0053,
+      "win_share": 0.0106,
+      "deck_rank": 2.25,
+      "top_cards": [
+        "hSD13-008",
+        "hSD13-013",
+        "hSD13-009"
+      ],
+      "prev_id": "4a4153"
     },
     {
       "id": "ed00c3",
@@ -348,7 +329,26 @@
         "hBP06-067",
         "hBP06-099"
       ],
-      "prev_id": "c5175a"
+      "prev_id": "315829"
+    },
+    {
+      "id": "e9b252",
+      "name": "AZKi",
+      "class": "緑",
+      "oshi_id": "hSD01-002",
+      "member": "AZKi",
+      "count": 3,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.004,
+      "win_share": 0.0,
+      "deck_rank": -1.33,
+      "top_cards": [
+        "hBP02-054",
+        "hBP06-060",
+        "hBP07-100"
+      ],
+      "prev_id": "905984"
     },
     {
       "id": "6b36a6",
@@ -368,6 +368,43 @@
         "hBP07-011"
       ],
       "prev_id": "6b36a6"
+    },
+    {
+      "id": "de5b93",
+      "name": "星街すいせい（クロニー）",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 2,
+      "winner": 1,
+      "finalist": 1,
+      "top8_share": 0.0027,
+      "win_share": 0.0106,
+      "deck_rank": 5.0,
+      "top_cards": [
+        "hBP07-053",
+        "hBP01-094",
+        "hBP07-050"
+      ]
+    },
+    {
+      "id": "c629c6",
+      "name": "星街すいせい",
+      "class": "青",
+      "oshi_id": "hBP01-007",
+      "member": "星街すいせい",
+      "count": 2,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0027,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP01-077",
+        "hBP03-044",
+        "hBP01-081"
+      ],
+      "prev_id": "3c8818"
     },
     {
       "id": "989538",
@@ -446,8 +483,8 @@
       "prev_id": "57a239"
     },
     {
-      "id": "00ad8e",
-      "name": "ジジ・ムリン（ラプラス型）",
+      "id": "277c92",
+      "name": "ジジ・ムリン（ラプラス）",
       "class": "黄",
       "oshi_id": "hSD13-002",
       "member": "ジジ・ムリン",
@@ -462,11 +499,29 @@
         "hBP04-054",
         "hBP06-093"
       ],
-      "prev_id": "3b13eb"
+      "prev_id": "00ad8e"
     },
     {
-      "id": "67cd63",
-      "name": "戌神ころね(虎金妃笑虎)",
+      "id": "13fb99",
+      "name": "ジジ・ムリン（桃鈴ねね）",
+      "class": "黄",
+      "oshi_id": "hSD13-002",
+      "member": "ジジ・ムリン",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0013,
+      "win_share": 0.0,
+      "deck_rank": -4.0,
+      "top_cards": [
+        "hBP04-083",
+        "hBP04-085",
+        "hSD14-010"
+      ]
+    },
+    {
+      "id": "717090",
+      "name": "戌神ころね（虎金妃笑虎）",
       "class": "黄",
       "oshi_id": "hBP03-006",
       "member": "戌神ころね",
@@ -481,7 +536,25 @@
         "hSD11-004",
         "hSD11-006"
       ],
-      "prev_id": "67cd63"
+      "prev_id": "887457"
+    },
+    {
+      "id": "d1c406",
+      "name": "AZKi（ラプラス）",
+      "class": "緑",
+      "oshi_id": "hSD01-002",
+      "member": "AZKi",
+      "count": 1,
+      "winner": 0,
+      "finalist": 0,
+      "top8_share": 0.0013,
+      "win_share": 0.0,
+      "deck_rank": -5.0,
+      "top_cards": [
+        "hBP04-054",
+        "hSD01-020",
+        "hBP07-073"
+      ]
     }
   ]
 }

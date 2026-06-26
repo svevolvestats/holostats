@@ -75,94 +75,6 @@
         }
       ]
     },
-    "04bcaf": {
-      "name": "04bcaf",
-      "oshi_id": "hBP01-007",
-      "n": 18,
-      "pairs": [
-        {
-          "xs": [
-            {
-              "name": "hBP07-094",
-              "card_name": "ギリわるロボ",
-              "ratio": 28
-            }
-          ],
-          "drops": [
-            {
-              "y": "hBP07-026",
-              "y_name": "大神ミオ",
-              "y_ratio": 44,
-              "co_occur_pct": 0,
-              "diff_pct": -62
-            },
-            {
-              "y": "hBP02-084",
-              "y_name": "みっころね24",
-              "y_ratio": 39,
-              "co_occur_pct": 0,
-              "diff_pct": -54
-            }
-          ]
-        },
-        {
-          "xs": [
-            {
-              "name": "hBP02-084",
-              "card_name": "みっころね24",
-              "ratio": 39
-            }
-          ],
-          "drops": [
-            {
-              "y": "hBP06-090",
-              "y_name": "ブルームステージ",
-              "y_ratio": 50,
-              "co_occur_pct": 6,
-              "diff_pct": -58
-            }
-          ]
-        },
-        {
-          "xs": [
-            {
-              "name": "hBP02-024",
-              "card_name": "大神ミオ",
-              "ratio": 67
-            },
-            {
-              "name": "hBP02-026",
-              "card_name": "大神ミオ",
-              "ratio": 67
-            },
-            {
-              "name": "hBP07-023",
-              "card_name": "大神ミオ",
-              "ratio": 67
-            },
-            {
-              "name": "hBP07-028",
-              "card_name": "大神ミオ",
-              "ratio": 67
-            },
-            {
-              "name": "hBP07-106",
-              "card_name": "ハトタウロス",
-              "ratio": 67
-            }
-          ],
-          "drops": [
-            {
-              "y": "hSD01-017",
-              "y_name": "マネちゃん",
-              "y_ratio": 17,
-              "co_occur_pct": 0,
-              "diff_pct": -50
-            }
-          ]
-        }
-      ]
-    },
     "5ebce9": {
       "name": "5ebce9",
       "oshi_id": "hBP06-003",
@@ -244,6 +156,81 @@
             {
               "y": "hSD17-010",
               "y_name": "ステラ",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "37b2c5": {
+      "name": "37b2c5",
+      "oshi_id": "hBP01-007",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP06-090",
+              "card_name": "ブルームステージ",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 50,
+              "co_occur_pct": 7,
+              "diff_pct": -71
+            },
+            {
+              "y": "hBP07-026",
+              "y_name": "大神ミオ",
+              "y_ratio": 57,
+              "co_occur_pct": 14,
+              "diff_pct": -57
+            },
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 57,
+              "co_occur_pct": 14,
+              "diff_pct": -57
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-084",
+              "card_name": "みっころね24",
+              "ratio": 50
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-090",
+              "y_name": "ブルームステージ",
+              "y_ratio": 50,
+              "co_occur_pct": 7,
+              "diff_pct": -71
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-026",
+              "card_name": "大神ミオ",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-094",
+              "y_name": "ギリわるロボ",
               "y_ratio": 21,
               "co_occur_pct": 0,
               "diff_pct": -50
