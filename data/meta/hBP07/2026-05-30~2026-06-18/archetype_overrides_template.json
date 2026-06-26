@@ -1,0 +1,282 @@
+{
+  "_split_suggestions": {
+    "d9dc98": {
+      "name": "d9dc98",
+      "oshi_id": "hBP07-006",
+      "n": 224,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-045",
+              "card_name": "AZKi",
+              "ratio": 17
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 67,
+              "co_occur_pct": 4,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "490a74": {
+      "name": "490a74",
+      "oshi_id": "hBP07-006",
+      "n": 90,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP04-054",
+              "card_name": "ラプラス・ダークネス",
+              "ratio": 19
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 41,
+              "co_occur_pct": 0,
+              "diff_pct": -51
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 41,
+              "co_occur_pct": 0,
+              "diff_pct": -51
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-039",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 34
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-037",
+              "y_name": "沙花叉クロヱ",
+              "y_ratio": 36,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        }
+      ]
+    },
+    "04bcaf": {
+      "name": "04bcaf",
+      "oshi_id": "hBP01-007",
+      "n": 18,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP07-094",
+              "card_name": "ギリわるロボ",
+              "ratio": 28
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-026",
+              "y_name": "大神ミオ",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            },
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-084",
+              "card_name": "みっころね24",
+              "ratio": 39
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-090",
+              "y_name": "ブルームステージ",
+              "y_ratio": 50,
+              "co_occur_pct": 6,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-024",
+              "card_name": "大神ミオ",
+              "ratio": 67
+            },
+            {
+              "name": "hBP02-026",
+              "card_name": "大神ミオ",
+              "ratio": 67
+            },
+            {
+              "name": "hBP07-023",
+              "card_name": "大神ミオ",
+              "ratio": 67
+            },
+            {
+              "name": "hBP07-028",
+              "card_name": "大神ミオ",
+              "ratio": 67
+            },
+            {
+              "name": "hBP07-106",
+              "card_name": "ハトタウロス",
+              "ratio": 67
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 17,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "5ebce9": {
+      "name": "5ebce9",
+      "oshi_id": "hBP06-003",
+      "n": 15,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 67
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-056",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP02-079",
+              "y_name": "爆発の魔法",
+              "y_ratio": 27,
+              "co_occur_pct": 7,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP05-080",
+              "card_name": "SorAZセレブレーション",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "fc8c0f": {
+      "name": "fc8c0f",
+      "oshi_id": "hBP07-007",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP07-099",
+              "card_name": "ブヒー！",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD17-010",
+              "y_name": "ステラ",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
