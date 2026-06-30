@@ -2961,6 +2961,55 @@
       ]
     }
   ],
+  "GIRAFULLオタロード店": [
+    {
+      "date": "2026-06-30",
+      "event_id": "1633875",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "PVCDM",
+          "deck_id": "6RLB9",
+          "rank": 1
+        },
+        {
+          "friend_code": "QEWHJ",
+          "deck_id": "4WL2H",
+          "rank": 2
+        },
+        {
+          "friend_code": "VALYA",
+          "deck_id": "4CWFP",
+          "rank": 3
+        },
+        {
+          "friend_code": "TMTTR",
+          "deck_id": "48DJZ",
+          "rank": 4
+        },
+        {
+          "friend_code": "MPZRH",
+          "deck_id": "3WFTP",
+          "rank": 5
+        },
+        {
+          "friend_code": "IVYIG",
+          "deck_id": "5575M",
+          "rank": 6
+        },
+        {
+          "friend_code": "ECTGD",
+          "deck_id": "3TF2X",
+          "rank": 7
+        },
+        {
+          "friend_code": "GKAPS",
+          "deck_id": "6SXLD",
+          "rank": 8
+        }
+      ]
+    }
+  ],
   "JABUROⅡ": [
     {
       "date": "2026-06-07",
@@ -35876,6 +35925,53 @@
     }
   ],
   "ドラゴンスター秋葉原駅前店": [
+    {
+      "date": "2026-06-30",
+      "event_id": "1639129",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "NABHW",
+          "deck_id": "24V29",
+          "rank": 1
+        },
+        {
+          "friend_code": "NIKQD",
+          "deck_id": "2HN57",
+          "rank": 2
+        },
+        {
+          "friend_code": "NMSPH",
+          "deck_id": "6J3DB",
+          "rank": 3
+        },
+        {
+          "friend_code": "LEAEH",
+          "deck_id": "65BWV",
+          "rank": 4
+        },
+        {
+          "friend_code": "PYCHF",
+          "deck_id": "6DQQZ",
+          "rank": 5
+        },
+        {
+          "friend_code": "JETPV",
+          "deck_id": "29P3K",
+          "rank": 6
+        },
+        {
+          "friend_code": "ZJJZA",
+          "deck_id": "18UY5",
+          "rank": 7
+        },
+        {
+          "friend_code": "JXXHK",
+          "deck_id": "4P5W7",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-06-25",
       "event_id": "1617783",
