@@ -21848,6 +21848,18 @@
   ],
   "カードラボ札幌店": [
     {
+      "date": "2026-07-05",
+      "event_id": "1713597",
+      "participants": 8,
+      "top8": [
+        {
+          "friend_code": "",
+          "deck_id": "",
+          "rank": 1
+        }
+      ]
+    },
+    {
       "date": "2026-06-13",
       "event_id": "1602493",
       "participants": 31,
