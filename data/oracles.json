@@ -5756,7 +5756,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 1080
+    "min_price": 580
   },
   {
     "oracle_id": "hBP01-095",
@@ -7064,7 +7064,7 @@
       1145
     ],
     "ability_text": "自分のデッキを3枚引く。\n\r\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 50
+    "min_price": 180
   },
   {
     "oracle_id": "hSD01-017",
@@ -15546,7 +15546,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 680
+    "min_price": 3480
   },
   {
     "oracle_id": "hBP03-051",
@@ -29416,7 +29416,7 @@
       2133
     ],
     "ability_text": "自分のデッキを2枚引く。その後、自分のライフが4以下なら、自分のこのターンにDebutホロメンからBloomした1stホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 680
+    "min_price": 780
   },
   {
     "oracle_id": "hBP06-091",
@@ -32958,7 +32958,7 @@
         "text": "自分のエールデッキの上から1枚を自分の#Promiseを持つホロメンに送る。"
       }
     ],
-    "min_price": 80
+    "min_price": 120
   },
   {
     "oracle_id": "hBP07-054",
@@ -35257,7 +35257,7 @@
       2324
     ],
     "ability_text": "自分のデッキを３枚引く。\n\r\nLIMITED：ターンに1枚しか使えない。",
-    "min_price": 980
+    "min_price": 280
   },
   {
     "oracle_id": "hSD14-011",
@@ -39423,7 +39423,7 @@
         "text": "自分の推しホロメンが青の〈FUWAMOCO〉なら、自分のデッキの上から1枚をホロパワーにする。"
       }
     ],
-    "min_price": 50
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-061",
@@ -39932,7 +39932,7 @@
         "text": "相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、このアーツ+10。"
       }
     ],
-    "min_price": 80
+    "min_price": 120
   },
   {
     "oracle_id": "hBP08-073",
