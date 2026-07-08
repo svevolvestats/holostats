@@ -30606,7 +30606,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 220
+    "min_price": 380
   },
   {
     "oracle_id": "hSD13-010",
@@ -31081,7 +31081,7 @@
       "text": "直前の相手のターンに自分のホロメンがダウンしていたなら、自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
     },
     "sp_oshi_skill": null,
-    "min_price": 108000
+    "min_price": 1480
   },
   {
     "oracle_id": "hBP07-007",
