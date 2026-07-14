@@ -7416,7 +7416,7 @@
       "once_per_game": true,
       "text": "自分の白ホロメンが相手のホロメンをダウンさせた時、自分のステージのマスコット2枚につき、サイコロを1回振れる:奇数が1回以上出たなら、相手のライフ-1。"
     },
-    "min_price": 1280
+    "min_price": 27800
   },
   {
     "oracle_id": "hBP02-002",
@@ -11067,7 +11067,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 780
+    "min_price": 580
   },
   {
     "oracle_id": "hSD02-008",
@@ -13710,7 +13710,7 @@
       "once_per_game": true,
       "text": "自分のセンターホロメンが〈姫森ルーナ〉の時に使える:自分のデッキから、〈ルーナイト〉1～4枚を公開し、自分のホロメンに割り振って付ける。そしてデッキをシャッフルする。"
     },
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hBP03-002",
@@ -13805,7 +13805,7 @@
       "once_per_game": true,
       "text": "自分の#Adventを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手のバックホロメンも対象にできる。"
     },
-    "min_price": 980
+    "min_price": 780
   },
   {
     "oracle_id": "hBP03-005",
@@ -15096,7 +15096,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hBP03-039",
@@ -15546,7 +15546,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 580
+    "min_price": 480
   },
   {
     "oracle_id": "hBP03-051",
@@ -17688,7 +17688,7 @@
       "once_per_game": true,
       "text": "自分の#秘密結社holoXを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツは、エールを必要とせずに使える。"
     },
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP04-006",
@@ -30606,7 +30606,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hSD13-010",

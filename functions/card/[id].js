@@ -15,7 +15,7 @@ async function fetchJson(url) {
 }
 function cardImageUrl(print) {
   if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop();
+  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
   return `${R2_BASE}/images/${print.expansion}/${filename}`;
 }
 function escapeHtml(str) {
@@ -62,7 +62,7 @@ async function serveWithOG(context, ogProps) {
 // holo/card/[id].js
 function holoCardImageUrl(print) {
   if (!print?.image_url) return null;
-  if (/^https?:\/\//.test(print.image_url)) return print.image_url;
+  if (/^https?:\/\//.test(print.image_url)) return print.image_url.replace(/\.webp$/i, ".jpg");
   return cardImageUrl(print);
 }
 function holoDesc(oracle) {
