@@ -1,0 +1,115 @@
+{
+  "_split_suggestions": {
+    "8b90b8": {
+      "name": "8b90b8",
+      "oshi_id": "hBP08-001",
+      "n": 27,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP08-085",
+              "card_name": "不知火フレア",
+              "ratio": 19
+            },
+            {
+              "name": "hBP08-086",
+              "card_name": "不知火フレア",
+              "ratio": 19
+            },
+            {
+              "name": "hBP02-084",
+              "card_name": "みっころね24",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-097",
+              "y_name": "時の支配者 -Promise-",
+              "y_ratio": 81,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP08-105",
+              "y_name": "Bloom＆Gloom",
+              "y_ratio": 78,
+              "co_occur_pct": 4,
+              "diff_pct": -71
+            },
+            {
+              "y": "hBP08-094",
+              "y_name": "パパは仕事を辞める",
+              "y_ratio": 41,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-097",
+              "card_name": "時の支配者 -Promise-",
+              "ratio": 81
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP08-087",
+              "y_name": "不知火フレア",
+              "y_ratio": 11,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-092",
+              "card_name": "アーカイブパソコン",
+              "ratio": 22
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-091",
+              "y_name": "ライブスタッフ",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -57
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

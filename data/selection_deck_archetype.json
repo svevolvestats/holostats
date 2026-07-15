@@ -1,0 +1,2370 @@
+{
+  "5FLP7:2026-07-14": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "46857:2026-07-14": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1DPFP:2026-07-14": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6VQ1K:2026-07-14": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "48AU5:2026-07-14": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6NH81:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7HFW5:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4LQW9:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "78AZT:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4RM4R:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "61WEM:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "24E6Z:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "UYE5:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4WZJM:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "13FCH:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5UR45:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3U32Z:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6BPXB:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4HLJ1:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3M9NM:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4PZQ9:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "56YD3:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1N7S9:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1PAJD:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5PFU9:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "35BKB:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6BZW5:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "58613:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "39YK3:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "521EH:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7J509:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "43V1T:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "790WD:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3FKKK:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "Y9QB:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6N9HT:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "606TX:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5VB73:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5A3MP:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "53QA5:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2KZ0M:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2NNSD:2026-07-12": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "388YD:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5JLYZ:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "18A1X:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1LBV3:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7ECHT:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4U0E1:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4WZJM:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3MMW1:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2KR4H:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7E3QR:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3Y57X:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6PKC1:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "28Q25:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1QYUV:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "34YCM:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6SPMB:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "56HV9:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4Y0DB:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1FPFB:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4LQW9:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1TXC9:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6J96R:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2RWVB:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2FSRP:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6B6ZB:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "521EH:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4G3WH:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6DNU5:2026-07-11": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2TJZB:2026-07-10": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "46GG1:2026-07-10": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "56QKX:2026-07-10": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4VKQV:2026-07-09": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4Z0Y9:2026-07-09": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "69UKB:2026-07-09": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "738CV:2026-07-09": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "18S2Z:2026-07-09": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5GH77:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6GY7B:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3J4GD:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "773ZB:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "12FB7:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6PBJV:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6XDP3:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6ZLA5:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3HFAV:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1TEP3:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6N70D:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4SS8D:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "51RZX:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1ZQPT:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "48AU5:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1RSD7:2026-07-08": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "545NH:2026-07-07": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "34ELM:2026-07-07": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "473ZK:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6G2AV:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2RGR3:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1FC4V:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "62Z0V:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1YXMP:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "546AM:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "58TAD:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3SMWM:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1V82V:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3CDKB:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "105JM:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "63QC1:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2BZ21:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1V7ER:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "37PBP:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4DA29:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5VVDT:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6FW0D:2026-07-05": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3TL2M:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7UF37:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5Q31K:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "Z0FH:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "44LA1:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7A2RK:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6C821:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4XA4Z:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5RBDP:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "684SR:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "16RF7:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1L30M:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "40EP7:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6PDQH:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "1AGJH:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5XMED:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5AY9F:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "X1RX:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2FGC5:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3ZKDF:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2KR4H:2026-07-04": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "45BQ5:2026-07-02": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2KUZK:2026-07-02": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "5HMGV:2026-07-02": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "28BW5:2026-07-02": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "7R1MK:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "3898R:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4LGRB:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "6UTLH:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "4NDGH:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "16FDF:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "49Q49:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "2TH6Z:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "27DGV:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "27QM5:2026-07-01": {
+    "archetype_id": "a52741",
+    "archetype_name": "AZKi",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-006",
+    "member": "AZKi"
+  },
+  "42XPT:2026-07-14": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "3DPND:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4776M:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6GEM7:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6FB2M:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5Y03F:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6KKWD:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4Z9GH:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "3GVDT:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "3H4SV:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5USQM:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4VKZP:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1QRYM:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "2DD41:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1EWQZ:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1VKZX:2026-07-12": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5X37P:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "60913:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4KNPB:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "318LD:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6MFTK:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5ZKXX:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6PAWR:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4VF7P:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5NHC1:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "3VLXP:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "16MWD:2026-07-11": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5762R:2026-07-10": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4TXLV:2026-07-10": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1N0T3:2026-07-09": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "62YFP:2026-07-08": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "7V233:2026-07-08": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "7992V:2026-07-08": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6TXTK:2026-07-08": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6BKXT:2026-07-08": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "7006Z:2026-07-07": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1VN17:2026-07-07": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "7R2MF:2026-07-07": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4QCN5:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "2343X:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "31QTB:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1C74H:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "10L25:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "7GDL9:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1EWQZ:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4ESX3:2026-07-05": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4N7E9:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "39ZTT:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "673AV:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "2NFJD:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "46PYV:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1UYU5:2026-07-04": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "6XVFB:2026-07-02": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "5SPGH:2026-07-02": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "3VCYM:2026-07-02": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1EFPH:2026-07-02": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "16G4H:2026-07-01": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "1Q38R:2026-07-01": {
+    "archetype_id": "b65802",
+    "archetype_name": "赤井はあと",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-004",
+    "member": "赤井はあと"
+  },
+  "4G63P:2026-07-12": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "30EFF:2026-07-12": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "6KGTT:2026-07-12": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "5QE37:2026-07-12": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "1T2JM:2026-07-12": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "155WZ:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "7B7HF:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "74ANR:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "49SWH:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "7J82V:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "7EEVB:2026-07-11": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "1VMD3:2026-07-10": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "3UMQD:2026-07-08": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "18EN1:2026-07-08": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "1UY1P:2026-07-08": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "3HLN1:2026-07-08": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "35YXK:2026-07-07": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "447BK:2026-07-05": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "3CU2V:2026-07-05": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "62AW1:2026-07-04": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "7ADFF:2026-07-04": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "6H55X:2026-07-04": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "51GHB:2026-07-02": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "7GDED:2026-07-02": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "50RVP:2026-07-02": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "2M6F7:2026-07-02": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "10MGR:2026-07-01": {
+    "archetype_id": "8b90b8",
+    "archetype_name": "IRyS",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-001",
+    "member": "IRyS"
+  },
+  "1NPW9:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "6L86H:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "1T073:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "4HBD7:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "3S4EZ:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "2UGS1:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "7776D:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "4D13B:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "2PQ6V:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "3AJN1:2026-07-12": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "2PQ6V:2026-07-11": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "4K7AD:2026-07-11": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "542AT:2026-07-09": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "7P5Z7:2026-07-08": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "1EDVX:2026-07-05": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "1SL0H:2026-07-05": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "7K0XK:2026-07-04": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "6ZVC1:2026-07-04": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "2RBAZ:2026-07-02": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "2YRW5:2026-07-02": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "5654H:2026-07-02": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "4R33X:2026-07-01": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "1PUN5:2026-07-01": {
+    "archetype_id": "c4d6a4",
+    "archetype_name": "FUWAMOCO",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-003",
+    "member": "FUWAMOCO"
+  },
+  "6VA93:2026-07-14": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "2PZEM:2026-07-12": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "59RYH:2026-07-12": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "4HY1X:2026-07-11": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "78DZF:2026-07-10": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "4PSK7:2026-07-09": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "69HVF:2026-07-08": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "1D5LR:2026-07-08": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "49R73:2026-07-08": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "4S329:2026-07-05": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "62K8D:2026-07-04": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "71F9F:2026-07-04": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "6PEFK:2026-07-04": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "2T757:2026-07-01": {
+    "archetype_id": "bcc6e1",
+    "archetype_name": "一伊那尓栖",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-006",
+    "member": "一伊那尓栖"
+  },
+  "4UCCM:2026-07-12": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "7S2NR:2026-07-12": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "1E07X:2026-07-11": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "6Y4GM:2026-07-11": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "4FC7K:2026-07-07": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "481EH:2026-07-04": {
+    "archetype_id": "5fe42a",
+    "archetype_name": "角巻わため",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-001",
+    "member": "角巻わため"
+  },
+  "3D3QR:2026-07-11": {
+    "archetype_id": "6e01ce",
+    "archetype_name": "オーロ・クロニー",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-005",
+    "member": "オーロ・クロニー"
+  },
+  "41D41:2026-07-08": {
+    "archetype_id": "6e01ce",
+    "archetype_name": "オーロ・クロニー",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-005",
+    "member": "オーロ・クロニー"
+  },
+  "33957:2026-07-04": {
+    "archetype_id": "6e01ce",
+    "archetype_name": "オーロ・クロニー",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-005",
+    "member": "オーロ・クロニー"
+  },
+  "5V05F:2026-07-04": {
+    "archetype_id": "6e01ce",
+    "archetype_name": "オーロ・クロニー",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-005",
+    "member": "オーロ・クロニー"
+  },
+  "2KTG1:2026-07-04": {
+    "archetype_id": "6e01ce",
+    "archetype_name": "オーロ・クロニー",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-005",
+    "member": "オーロ・クロニー"
+  },
+  "XGB5:2026-07-11": {
+    "archetype_id": "bb9c2d",
+    "archetype_name": "セシリア・イマーグリーン",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-002",
+    "member": "セシリア・イマーグリーン"
+  },
+  "7K1NM:2026-07-11": {
+    "archetype_id": "bb9c2d",
+    "archetype_name": "セシリア・イマーグリーン",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-002",
+    "member": "セシリア・イマーグリーン"
+  },
+  "YBW7:2026-07-11": {
+    "archetype_id": "bb9c2d",
+    "archetype_name": "セシリア・イマーグリーン",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-002",
+    "member": "セシリア・イマーグリーン"
+  },
+  "21UTX:2026-07-02": {
+    "archetype_id": "bb9c2d",
+    "archetype_name": "セシリア・イマーグリーン",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-002",
+    "member": "セシリア・イマーグリーン"
+  },
+  "2N1B7:2026-07-12": {
+    "archetype_id": "9742b6",
+    "archetype_name": "大神ミオ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-003",
+    "member": "大神ミオ"
+  },
+  "2N47X:2026-07-10": {
+    "archetype_id": "9742b6",
+    "archetype_name": "大神ミオ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-003",
+    "member": "大神ミオ"
+  },
+  "5WUJ5:2026-07-08": {
+    "archetype_id": "9742b6",
+    "archetype_name": "大神ミオ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-003",
+    "member": "大神ミオ"
+  },
+  "7206M:2026-07-14": {
+    "archetype_id": "e1c98b",
+    "archetype_name": "鷹嶺ルイ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-005",
+    "member": "鷹嶺ルイ"
+  },
+  "427VK:2026-07-11": {
+    "archetype_id": "e1c98b",
+    "archetype_name": "鷹嶺ルイ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-005",
+    "member": "鷹嶺ルイ"
+  },
+  "3EHW9:2026-07-04": {
+    "archetype_id": "e1c98b",
+    "archetype_name": "鷹嶺ルイ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP08-005",
+    "member": "鷹嶺ルイ"
+  },
+  "6KPJ5:2026-07-08": {
+    "archetype_id": "f2686e",
+    "archetype_name": "桃鈴ねね",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-007",
+    "member": "桃鈴ねね"
+  },
+  "7W7CM:2026-07-07": {
+    "archetype_id": "f2686e",
+    "archetype_name": "桃鈴ねね",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-007",
+    "member": "桃鈴ねね"
+  },
+  "5CR6Z:2026-07-11": {
+    "archetype_id": "239bcc",
+    "archetype_name": "ベスティア・ゼータ",
+    "era": "hBP08",
+    "period": "2026-07-01~2026-07-14",
+    "oshi_id": "hBP07-002",
+    "member": "ベスティア・ゼータ"
+  }
+}

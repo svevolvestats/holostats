@@ -1,0 +1,405 @@
+{
+  "_split_suggestions": {
+    "bf36a8": {
+      "name": "bf36a8",
+      "oshi_id": "hBP06-003",
+      "n": 31,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP06-085",
+              "card_name": "フェイバリットパソコン",
+              "ratio": 48
+            },
+            {
+              "name": "hBP08-102",
+              "card_name": "クールなパーカー",
+              "ratio": 48
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-114",
+              "y_name": "石の斧",
+              "y_ratio": 55,
+              "co_occur_pct": 3,
+              "diff_pct": -93
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP08-029",
+              "card_name": "風真いろは",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 42,
+              "co_occur_pct": 3,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "6aa55d": {
+      "name": "6aa55d",
+      "oshi_id": "hBP07-003",
+      "n": 28,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-072",
+              "card_name": "ハコス・ベールズ",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP08-094",
+              "y_name": "パパは仕事を辞める",
+              "y_ratio": 39,
+              "co_occur_pct": 0,
+              "diff_pct": -52
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-009",
+              "card_name": "AZKi",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 57,
+              "co_occur_pct": 4,
+              "diff_pct": -52
+            }
+          ]
+        }
+      ]
+    },
+    "8b90b8": {
+      "name": "8b90b8",
+      "oshi_id": "hBP08-001",
+      "n": 24,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-084",
+              "card_name": "みっころね24",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 42,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            },
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 42,
+              "co_occur_pct": 0,
+              "diff_pct": -53
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP03-088",
+              "card_name": "凸待ち",
+              "ratio": 42
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 42,
+              "co_occur_pct": 4,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-017",
+              "card_name": "マネちゃん",
+              "ratio": 42
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 42,
+              "co_occur_pct": 4,
+              "diff_pct": -54
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-051",
+              "card_name": "オーロ・クロニー",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-091",
+              "y_name": "ライブスタッフ",
+              "y_ratio": 46,
+              "co_occur_pct": 4,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "5fe42a": {
+      "name": "5fe42a",
+      "oshi_id": "hBP07-001",
+      "n": 15,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP05-074",
+              "card_name": "フレンドリーパソコン",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 60,
+              "co_occur_pct": 7,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP05-079",
+              "card_name": "み俺恥",
+              "ratio": 33
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 73,
+              "co_occur_pct": 13,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "e1c98b": {
+      "name": "e1c98b",
+      "oshi_id": "hBP08-005",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-086",
+              "card_name": "ホロスパークリング",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD06-005",
+              "y_name": "風真いろは",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP01-050",
+              "y_name": "風真いろは",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP04-054",
+              "card_name": "ラプラス・ダークネス",
+              "ratio": 36
+            },
+            {
+              "name": "hBP07-073",
+              "card_name": "ラプラス・ダークネス",
+              "ratio": 36
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP08-063",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 57,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP08-063",
+              "card_name": "鷹嶺ルイ",
+              "ratio": 57
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-059",
+              "y_name": "ラプラス・ダークネス",
+              "y_ratio": 21,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-094",
+              "card_name": "ギリわるロボ",
+              "ratio": 43
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 29,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "e4401f": {
+      "name": "e4401f",
+      "oshi_id": "hBP06-004",
+      "n": 13,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD14-010",
+              "card_name": "holoAN",
+              "ratio": 54
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-079",
+              "y_name": "み俺恥",
+              "y_ratio": 31,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            }
+          ]
+        }
+      ]
+    },
+    "a52741": {
+      "name": "a52741",
+      "oshi_id": "hBP07-006",
+      "n": 11,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-037",
+              "card_name": "沙花叉クロヱ",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-061",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-060",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-056",
+              "y_name": "鷹嶺ルイ",
+              "y_ratio": 27,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
