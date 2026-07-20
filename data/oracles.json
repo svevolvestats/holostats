@@ -2826,7 +2826,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP01-022",
@@ -2867,7 +2867,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-023",
@@ -2912,7 +2912,7 @@
         "text": "サイコロを1回振れる:奇数の時、同じホロメンに、このアーツをもう1回使う（このアーツはそのホロメンがダウンするまで繰り返せる）。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-024",
@@ -2950,7 +2950,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-025",
@@ -3033,7 +3033,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-027",
@@ -3050,7 +3050,7 @@
       61
     ],
     "ability_text": "白◇◇アクセスコード:ID　70+\n自分のセンターホロメンが#IDを持つ時、このアーツ+50。",
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-028",
@@ -3166,7 +3166,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP01-031",
@@ -3797,7 +3797,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP01-046",
@@ -3837,7 +3837,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP01-047",
@@ -3882,7 +3882,7 @@
         "tokkou": "白+50"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-048",
@@ -4141,7 +4141,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-055",
@@ -4266,7 +4266,7 @@
         "text": "相手のコラボホロメンに特殊ダメージ10を与える。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-058",
@@ -4401,7 +4401,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hBP01-061",
@@ -4525,7 +4525,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hBP01-064",
@@ -4839,7 +4839,7 @@
       110
     ],
     "ability_text": "赤◇ポルカサーカス　50+\n自分のホロメン全員に付いているファン1枚につき、このアーツ+20。",
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-072",
@@ -4955,7 +4955,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hBP01-075",
@@ -4998,7 +4998,7 @@
         "tokkou": "緑+50"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-076",
@@ -5079,7 +5079,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-078",
@@ -5254,7 +5254,7 @@
         "text": "このホロメンの青エール2枚をアーカイブできる:このホロメンに重なっているホロメン1枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。"
       }
     ],
-    "min_price": 480
+    "min_price": 380
   },
   {
     "oracle_id": "hBP01-082",
@@ -5365,7 +5365,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hBP01-085",
@@ -5449,7 +5449,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hBP01-087",
@@ -5501,7 +5501,7 @@
         "text": "このホロメンのエール2枚をアーカイブできる:相手のセンターホロメンに、相手のバックホロメン全員が受けているダメージの合計数と同じ数値の特殊ダメージを与える。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-088",
@@ -5617,7 +5617,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 280
+    "min_price": 180
   },
   {
     "oracle_id": "hBP01-091",
@@ -5717,7 +5717,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP01-094",
@@ -6055,7 +6055,7 @@
       221
     ],
     "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\r\n自分のデッキの上から4枚を見る。その中から、#歌を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\r\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-103",
@@ -6397,7 +6397,7 @@
       162
     ],
     "ability_text": "このマスコットが付いているホロメンがセンターポジションかコラボポジションで受けるダメージ-10。\n\r\n◆〈小鳥遊キアラ〉に付いていたら能力追加\n\r\nこのマスコットが付いているホロメンのBloomレベルが上がった時、自分のデッキを1枚引く。\n\r\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hBP01-122",
@@ -6465,7 +6465,7 @@
       166
     ],
     "ability_text": "このファンをホロメンに手札から付けた時、自分の手札1枚をアーカイブできる:自分のデッキを1枚引く。\n\r\nこのファンは、自分の〈小鳥遊キアラ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-126",
@@ -6579,7 +6579,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD01-004",
@@ -6928,7 +6928,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD01-013",
@@ -7123,7 +7123,7 @@
       843
     ],
     "ability_text": "このカードは、自分のステージのエール1枚をアーカイブしなければ使えない。\n\r\n自分のデッキから、Buzz以外の[1stホロメンか2ndホロメン]1枚を公開し、手札に加える。そしてデッキをシャッフルする。\n\r\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD01-020",
@@ -7140,7 +7140,7 @@
       20
     ],
     "ability_text": "サイコロを1回振る:3以上の時、自分のアーカイブのエール1枚を自分のホロメンに送る。",
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD01-021",
@@ -7824,7 +7824,7 @@
         "text": "このターンの間、自分のマスコットが付いている[センターホロメンとコラボホロメン]のアーツ+20。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP02-013",
@@ -7960,7 +7960,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP02-016",
@@ -8002,7 +8002,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP02-017",
@@ -8226,7 +8226,7 @@
         "text": "自分のステージにエールが2色以上ある時、このアーツ+20。"
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP02-023",
@@ -8274,7 +8274,7 @@
         "text": "自分のステージのエール1色につき、このアーツ+20。"
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP02-024",
@@ -8406,7 +8406,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP02-027",
@@ -9001,7 +9001,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP02-043",
@@ -11846,7 +11846,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 50
   },
   {
     "oracle_id": "hSD04-004",
@@ -11885,7 +11885,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD04-005",
@@ -12007,7 +12007,7 @@
         "text": "自分のバックホロメン1人のHP20回復。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD04-008",
@@ -12114,7 +12114,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD04-011",
@@ -12391,7 +12391,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD05-005",
@@ -12436,7 +12436,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD05-006",
@@ -12950,7 +12950,7 @@
       1452
     ],
     "ability_text": "緑◇刀の錆になるでござる！　50",
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hSD06-007",
@@ -13072,7 +13072,7 @@
         "text": "自分のアーカイブの#秘密結社holoXを持つDebutホロメン1枚を手札に戻せる。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD06-010",
@@ -13109,7 +13109,7 @@
         "text": "[コラボポジション限定]このターンの自分のメインステップに自分のSP推しスキルを使っていた時、このアーツ+50。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD06-011",
@@ -13144,7 +13144,7 @@
       545
     ],
     "ability_text": "このマスコットが付いているホロメンのHP+10。\n◆〈風真いろは〉に付いていたら能力追加\nこのマスコットが付いているホロメンのHP+20。\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hSD07-001",
@@ -13299,7 +13299,7 @@
         "text": "自分の手札の枚数が相手より少ない時、このアーツ+10。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD07-005",
@@ -13428,7 +13428,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD07-008",
@@ -13444,7 +13444,7 @@
       553
     ],
     "ability_text": "黄◇エルフレパーティー　50\n自分のアーカイブの〈エルフレンド〉1枚をこのホロメンに付けられる。",
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD07-009",
@@ -13489,7 +13489,7 @@
         "text": "自分のライフが3以下の時、このアーツ+70。"
       }
     ],
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hSD07-010",
@@ -13528,7 +13528,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hSD07-011",
@@ -13567,7 +13567,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD07-012",
@@ -13604,7 +13604,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hSD07-013",
@@ -13662,7 +13662,7 @@
       860
     ],
     "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n自分のデッキの上から4枚を見る。その中から、〈不知火フレア〉と〈尾丸ポルカ〉と〈さくらみこ〉と〈星街すいせい〉と〈白銀ノエル〉を好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD07-015",
@@ -14510,7 +14510,7 @@
       704
     ],
     "ability_text": "緑緑情熱のベリーダンサー　50\n自分の推しホロメンが〈アキ・ローゼンタール〉の時、自分のツールが付いているホロメン全員のHP10回復。",
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hBP03-023",
@@ -21932,7 +21932,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 380
+    "min_price": 280
   },
   {
     "oracle_id": "hSD09-007",
@@ -27302,7 +27302,7 @@
         "text": "自分のエールデッキの上から1枚をアーカイブできる:自分のデッキを1枚引く。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP06-037",
@@ -31081,7 +31081,7 @@
       "text": "直前の相手のターンに自分のホロメンがダウンしていたなら、自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
     },
     "sp_oshi_skill": null,
-    "min_price": 1480
+    "min_price": 99800
   },
   {
     "oracle_id": "hBP07-007",
@@ -34448,7 +34448,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hBP07-090",
@@ -34492,7 +34492,7 @@
         "text": "このホロメンのエール1枚につき、このアーツ+20。"
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hBP07-091",
@@ -34622,7 +34622,7 @@
       2201
     ],
     "ability_text": "このカードは、自分のステージのホロメン全員が#Promiseを持つホロメンでなければ使えない。\n自分のデッキから、#Promiseを持つホロメン2枚を公開し、手札に加える。そしてデッキをシャッフルする。その後、自分のライフが相手より少ないなら、自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 280
+    "min_price": 380
   },
   {
     "oracle_id": "hBP07-098",
@@ -37139,7 +37139,7 @@
       "text": "自分のステージに赤エールがあるなら、自分のアーカイブの#Adventを持つホロメン1枚を手札に戻す。青エールがあるなら、自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。"
     },
     "sp_oshi_skill": null,
-    "min_price": 1780
+    "min_price": 1980
   },
   {
     "oracle_id": "hBP08-004",
