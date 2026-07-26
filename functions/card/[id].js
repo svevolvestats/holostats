@@ -13,6 +13,14 @@ async function fetchJson(url) {
   }));
   return JSON.parse(text);
 }
+var CRAWLER_RE = /bot|crawler|spider|discord|slack|twitter|facebook|kakao|telegram|whatsapp|line\/|skype|embed|preview|curl|wget|python-requests|pinterest/i;
+function isCrawler(request) {
+  return CRAWLER_RE.test(request.headers.get("user-agent") || "");
+}
+function serveIndex(context) {
+  const origin = new URL(context.request.url).origin;
+  return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+}
 function cardImageUrl(print) {
   if (!print?.image_url) return null;
   const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
@@ -79,6 +87,7 @@ async function onRequest(context) {
   const { params, request } = context;
   const cardId = decodeURIComponent(params.id);
   const origin = new URL(request.url).origin;
+  if (!isCrawler(context.request)) return serveIndex(context);
   try {
     const [oracles, prints] = await Promise.all([
       fetchJson(`${origin}/data/oracles.json`),

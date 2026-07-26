@@ -13,6 +13,14 @@ async function fetchJson(url) {
   }));
   return JSON.parse(text);
 }
+var CRAWLER_RE = /bot|crawler|spider|discord|slack|twitter|facebook|kakao|telegram|whatsapp|line\/|skype|embed|preview|curl|wget|python-requests|pinterest/i;
+function isCrawler(request) {
+  return CRAWLER_RE.test(request.headers.get("user-agent") || "");
+}
+function serveIndex(context) {
+  const origin = new URL(context.request.url).origin;
+  return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+}
 function cardImageUrl(print) {
   if (!print?.image_url) return null;
   const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
@@ -67,12 +75,7 @@ function holoCardImageUrl(print) {
 }
 async function onRequest(context) {
   const { params, request } = context;
-  const ua = request.headers.get("user-agent") || "";
-  const isBot = /discord|slack|twitter|facebook|kakao|bot/i.test(ua);
-  if (!isBot) {
-    const origin2 = new URL(request.url).origin;
-    return context.env.ASSETS.fetch(new Request(`${origin2}/index.html`));
-  }
+  if (!isCrawler(request)) return serveIndex(context);
   const archId = decodeURIComponent(params.id);
   const url = new URL(request.url);
   const origin = url.origin;

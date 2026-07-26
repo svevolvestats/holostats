@@ -12,6 +12,14 @@ async function fetchJson(url) {
   }));
   return JSON.parse(text);
 }
+var CRAWLER_RE = /bot|crawler|spider|discord|slack|twitter|facebook|kakao|telegram|whatsapp|line\/|skype|embed|preview|curl|wget|python-requests|pinterest/i;
+function isCrawler(request) {
+  return CRAWLER_RE.test(request.headers.get("user-agent") || "");
+}
+function serveIndex(context) {
+  const origin = new URL(context.request.url).origin;
+  return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
+}
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
@@ -69,6 +77,7 @@ async function onRequest(context) {
   const url = new URL(request.url);
   const origin = url.origin;
   const gtid = url.searchParams.get("gtid") || "";
+  if (!isCrawler(context.request)) return serveIndex(context);
   try {
     const venueInfo = await fetchJson(`${origin}/data/venue_info_global.json`);
     const venueName = Object.keys(venueInfo).find((name) => venueId(name) === id);
