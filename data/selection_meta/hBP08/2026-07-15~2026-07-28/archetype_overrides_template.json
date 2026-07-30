@@ -1,0 +1,80 @@
+{
+  "_split_suggestions": {
+    "b65802": {
+      "name": "b65802",
+      "oshi_id": "hBP07-004",
+      "n": 85,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-077",
+              "card_name": "レトロパソコン",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-092",
+              "y_name": "アーカイブパソコン",
+              "y_ratio": 52,
+              "co_occur_pct": 8,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "c4d6a4": {
+      "name": "c4d6a4",
+      "oshi_id": "hBP08-003",
+      "n": 22,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP07-099",
+              "card_name": "ブヒー！",
+              "ratio": 55
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 59,
+              "co_occur_pct": 14,
+              "diff_pct": -75
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
