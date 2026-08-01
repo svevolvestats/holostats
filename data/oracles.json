@@ -7104,7 +7104,7 @@
       842
     ],
     "ability_text": "自分のデッキの上から5枚を見る。その中から、LIMITEDのサポートカード1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。",
-    "min_price": 580
+    "min_price": 480
   },
   {
     "oracle_id": "hSD01-019",
@@ -25420,7 +25420,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 280
   },
   {
     "oracle_id": "hSD10-008",
@@ -25501,7 +25501,7 @@
         "text": "相手の手札1枚につき、このアーツ+10。"
       }
     ],
-    "min_price": 480
+    "min_price": 680
   },
   {
     "oracle_id": "hSD10-010",
