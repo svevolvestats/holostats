@@ -35,7 +35,13 @@ async function serveWithOG(context, ogProps) {
   return new Response(injectOG(html, ogProps), {
     headers: {
       "Content-Type": "text/html;charset=UTF-8",
-      "Cache-Control": "public, max-age=300"
+      // Keep this short. The HTML names hashed asset files, so a stale copy asks
+      // for chunks a deploy already replaced -> 404 -> the error screen, and the
+      // screen's recovery button hits the very same cached HTML. 300s meant the
+      // site could look broken for five minutes after every deploy; main.jsx only
+      // budgets ~4s of automatic retries. The _headers rule for /index.html does
+      // not help here — real entry points are /prices, /cards, … not /index.html.
+      "Cache-Control": "public, max-age=30"
     }
   });
 }
