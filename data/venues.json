@@ -42419,6 +42419,53 @@
   ],
   "ホビーステーション仙台駅前店": [
     {
+      "date": "2026-08-04",
+      "event_id": "1674373",
+      "participants": 25,
+      "top8": [
+        {
+          "friend_code": "NCWIQ",
+          "deck_id": "6EAN1",
+          "rank": 1
+        },
+        {
+          "friend_code": "QVIBC",
+          "deck_id": "55QTR",
+          "rank": 2
+        },
+        {
+          "friend_code": "CFEJG",
+          "deck_id": "WWH7",
+          "rank": 3
+        },
+        {
+          "friend_code": "LWLPK",
+          "deck_id": "4P1KH",
+          "rank": 4
+        },
+        {
+          "friend_code": "VWHJV",
+          "deck_id": "4C2UP",
+          "rank": 5
+        },
+        {
+          "friend_code": "OIBXE",
+          "deck_id": "58LP9",
+          "rank": 6
+        },
+        {
+          "friend_code": "IMIOW",
+          "deck_id": "4R0DD",
+          "rank": 7
+        },
+        {
+          "friend_code": "RTBIP",
+          "deck_id": "5Q1XH",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-23",
       "event_id": "1600216",
       "participants": 27,
