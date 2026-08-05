@@ -23743,6 +23743,53 @@
   ],
   "カードラボ浜松店": [
     {
+      "date": "2026-08-05",
+      "event_id": "1686181",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "BLHLV",
+          "deck_id": "4VPWK",
+          "rank": 1
+        },
+        {
+          "friend_code": "FMEED",
+          "deck_id": "WH79",
+          "rank": 2
+        },
+        {
+          "friend_code": "POXMC",
+          "deck_id": "1U7XD",
+          "rank": 3
+        },
+        {
+          "friend_code": "EWLKQ",
+          "deck_id": "1G01Z",
+          "rank": 4
+        },
+        {
+          "friend_code": "ODSJK",
+          "deck_id": "4014F",
+          "rank": 5
+        },
+        {
+          "friend_code": "VCCOW",
+          "deck_id": "4BLNB",
+          "rank": 6
+        },
+        {
+          "friend_code": "YJGHN",
+          "deck_id": "6RJF1",
+          "rank": 7
+        },
+        {
+          "friend_code": "JCXSA",
+          "deck_id": "590PZ",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-11",
       "event_id": "1610390",
       "participants": 32,
@@ -35144,6 +35191,53 @@
   ],
   "トーナメントセンターバトロコ高田馬場": [
     {
+      "date": "2026-08-05",
+      "event_id": "1685789",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "LJBSA",
+          "deck_id": "4B4JB",
+          "rank": 1
+        },
+        {
+          "friend_code": "AXMJO",
+          "deck_id": "606X5",
+          "rank": 2
+        },
+        {
+          "friend_code": "WSGYA",
+          "deck_id": "2X77R",
+          "rank": 3
+        },
+        {
+          "friend_code": "NYZTV",
+          "deck_id": "5VWGX",
+          "rank": 4
+        },
+        {
+          "friend_code": "IEFMX",
+          "deck_id": "22303",
+          "rank": 5
+        },
+        {
+          "friend_code": "SUKIU",
+          "deck_id": "5D4UP",
+          "rank": 6
+        },
+        {
+          "friend_code": "OPQAF",
+          "deck_id": "5Y2T1",
+          "rank": 7
+        },
+        {
+          "friend_code": "ANSOV",
+          "deck_id": "4W8D1",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-10",
       "event_id": "1606041",
       "participants": 32,
@@ -40708,6 +40802,53 @@
     }
   ],
   "ブックマーケット高岡店": [
+    {
+      "date": "2026-08-05",
+      "event_id": "1696151",
+      "participants": 30,
+      "top8": [
+        {
+          "friend_code": "GNBBZ",
+          "deck_id": "53RTZ",
+          "rank": 1
+        },
+        {
+          "friend_code": "YYCHW",
+          "deck_id": "4BYYP",
+          "rank": 2
+        },
+        {
+          "friend_code": "FCTVH",
+          "deck_id": "38UTD",
+          "rank": 3
+        },
+        {
+          "friend_code": "AGBEC",
+          "deck_id": "1S9X7",
+          "rank": 4
+        },
+        {
+          "friend_code": "TJJDJ",
+          "deck_id": "6BAYV",
+          "rank": 5
+        },
+        {
+          "friend_code": "GCXFQ",
+          "deck_id": "1GCCB",
+          "rank": 6
+        },
+        {
+          "friend_code": "OSXNF",
+          "deck_id": "7P9W3",
+          "rank": 7
+        },
+        {
+          "friend_code": "JHEDN",
+          "deck_id": "1QTHZ",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "event_id": "1696150",
