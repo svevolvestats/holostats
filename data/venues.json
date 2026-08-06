@@ -14469,6 +14469,53 @@
   ],
   "カードボックス京都店": [
     {
+      "date": "2026-08-06",
+      "event_id": "1705688",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "IYVWT",
+          "deck_id": "2608K",
+          "rank": 1
+        },
+        {
+          "friend_code": "RKRDA",
+          "deck_id": "5QCT9",
+          "rank": 2
+        },
+        {
+          "friend_code": "EDIOQ",
+          "deck_id": "1WKYK",
+          "rank": 3
+        },
+        {
+          "friend_code": "XEIJA",
+          "deck_id": "3QG5D",
+          "rank": 4
+        },
+        {
+          "friend_code": "RKCYQ",
+          "deck_id": "484V5",
+          "rank": 5
+        },
+        {
+          "friend_code": "MQNDG",
+          "deck_id": "29PQF",
+          "rank": 6
+        },
+        {
+          "friend_code": "XZKWB",
+          "deck_id": "7G275",
+          "rank": 7
+        },
+        {
+          "friend_code": "AUIKO",
+          "deck_id": "1HM9M",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-09",
       "event_id": "1639120",
       "participants": 27,
