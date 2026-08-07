@@ -17256,6 +17256,53 @@
   ],
   "カードラボ　オタロード本店": [
     {
+      "date": "2026-08-07",
+      "event_id": "1721940",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "ECTGD",
+          "deck_id": "477CT",
+          "rank": 1
+        },
+        {
+          "friend_code": "NSRHD",
+          "deck_id": "3KJGB",
+          "rank": 2
+        },
+        {
+          "friend_code": "ADATU",
+          "deck_id": "3U5YF",
+          "rank": 3
+        },
+        {
+          "friend_code": "EVGTJ",
+          "deck_id": "1HY5D",
+          "rank": 4
+        },
+        {
+          "friend_code": "RWCAX",
+          "deck_id": "75619",
+          "rank": 5
+        },
+        {
+          "friend_code": "NSRXY",
+          "deck_id": "47NRR",
+          "rank": 6
+        },
+        {
+          "friend_code": "LPASG",
+          "deck_id": "2VB1R",
+          "rank": 7
+        },
+        {
+          "friend_code": "QIOKH",
+          "deck_id": "5HTAK",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-06",
       "event_id": "1611562",
       "participants": 32,
