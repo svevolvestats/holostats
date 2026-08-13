@@ -25770,6 +25770,53 @@
   ],
   "カードラボ豊橋店": [
     {
+      "date": "2026-08-13",
+      "event_id": "1712067",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "DJJYT",
+          "deck_id": "1SHFMJ",
+          "rank": 1
+        },
+        {
+          "friend_code": "ZWLSB",
+          "deck_id": "12U97W",
+          "rank": 2
+        },
+        {
+          "friend_code": "RKRDA",
+          "deck_id": "13DWME",
+          "rank": 3
+        },
+        {
+          "friend_code": "YYCHW",
+          "deck_id": "1PSSSL",
+          "rank": 4
+        },
+        {
+          "friend_code": "XKVJT",
+          "deck_id": "1YT8JU",
+          "rank": 5
+        },
+        {
+          "friend_code": "YJGHN",
+          "deck_id": "1LPXWQ",
+          "rank": 6
+        },
+        {
+          "friend_code": "MWHMA",
+          "deck_id": "1JULL8",
+          "rank": 7
+        },
+        {
+          "friend_code": "NUPZH",
+          "deck_id": "2Z3Z28",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-19",
       "event_id": "1633191",
       "participants": 19,
@@ -31946,6 +31993,53 @@
     }
   ],
   "トレカチャンス日本橋店": [
+    {
+      "date": "2026-08-13",
+      "event_id": "1697508",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "ADATU",
+          "deck_id": "1U0FQL",
+          "rank": 1
+        },
+        {
+          "friend_code": "OHLRA",
+          "deck_id": "1CGP28",
+          "rank": 2
+        },
+        {
+          "friend_code": "EKPLE",
+          "deck_id": "2H33J8",
+          "rank": 3
+        },
+        {
+          "friend_code": "ZXLXZ",
+          "deck_id": "1QL8CG",
+          "rank": 4
+        },
+        {
+          "friend_code": "FVRHD",
+          "deck_id": "2654ZE",
+          "rank": 5
+        },
+        {
+          "friend_code": "NSRHD",
+          "deck_id": "3KJGB",
+          "rank": 6
+        },
+        {
+          "friend_code": "LKRZM",
+          "deck_id": "1XETA8",
+          "rank": 7
+        },
+        {
+          "friend_code": "PKNLW",
+          "deck_id": "1BQAB",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-02",
       "event_id": "1697506",
