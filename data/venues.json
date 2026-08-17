@@ -41449,6 +41449,53 @@
   ],
   "ビデオ100徳島藍住店": [
     {
+      "date": "2026-08-17",
+      "event_id": "1703077",
+      "participants": 26,
+      "top8": [
+        {
+          "friend_code": "KSSML",
+          "deck_id": "13XD9S",
+          "rank": 1
+        },
+        {
+          "friend_code": "ZGBVY",
+          "deck_id": "170XMA",
+          "rank": 2
+        },
+        {
+          "friend_code": "MKKXL",
+          "deck_id": "1P06NC",
+          "rank": 3
+        },
+        {
+          "friend_code": "EGTWV",
+          "deck_id": "1DVEPS",
+          "rank": 4
+        },
+        {
+          "friend_code": "WQLOZ",
+          "deck_id": "1Y9PA8",
+          "rank": 5
+        },
+        {
+          "friend_code": "ENKXM",
+          "deck_id": "2QYM1",
+          "rank": 6
+        },
+        {
+          "friend_code": "YYPIX",
+          "deck_id": "1LVH68",
+          "rank": 7
+        },
+        {
+          "friend_code": "VBUCJ",
+          "deck_id": "6ABRV",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-16",
       "event_id": "1703076",
       "participants": 21,
