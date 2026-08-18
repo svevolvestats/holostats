@@ -6346,7 +6346,7 @@
       159
     ],
     "ability_text": "このマスコットが付いているホロメンのHP+10。\n\r\n◆〈ときのそら〉に付いていたら能力追加\n\r\nこのマスコットが付いているホロメンがアーツを使う時、このマスコットを白エールとしても扱う。\n\r\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。",
-    "min_price": 30
+    "min_price": 80
   },
   {
     "oracle_id": "hBP01-119",
@@ -6619,7 +6619,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 30
+    "min_price": 120
   },
   {
     "oracle_id": "hSD01-005",
@@ -15764,7 +15764,7 @@
         "text": "自分の#歌を持つバックホロメンがいる時、相手のコラボホロメンに特殊ダメージ20を与える。"
       }
     ],
-    "min_price": 50
+    "min_price": 80
   },
   {
     "oracle_id": "hBP03-056",
@@ -15818,7 +15818,7 @@
         "text": "相手のセンターホロメンかコラボホロメンどちらかに、自分の#歌を持つバックホロメン1人につき、特殊ダメージ20を与える。ただし、数える人数は4人まで。"
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hBP03-057",
@@ -33630,7 +33630,7 @@
         "text": "自分の推しホロメンが〈AZKi〉なら、自分のホロパワーの上から4枚をアーカイブできる:自分のアーカイブに〈フロンティアスピリット〉が4枚あるなら、相手のライフ-1。"
       }
     ],
-    "min_price": 580
+    "min_price": 480
   },
   {
     "oracle_id": "hBP07-070",
@@ -34943,7 +34943,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD14-003",
@@ -34981,7 +34981,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD14-004",
@@ -35022,7 +35022,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 80
   },
   {
     "oracle_id": "hSD14-005",
@@ -35063,7 +35063,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD14-006",
@@ -35110,7 +35110,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD14-007",
@@ -35151,7 +35151,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD14-008",
@@ -35237,7 +35237,7 @@
         "tokkou": "赤+30"
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hSD14-010",
@@ -35340,7 +35340,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD15-003",
@@ -35376,7 +35376,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD15-004",
@@ -35415,7 +35415,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hSD15-005",
@@ -35454,7 +35454,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD15-006",
@@ -35501,7 +35501,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD15-007",
@@ -35540,7 +35540,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD15-008",
@@ -35624,7 +35624,7 @@
         "tokkou": "青+30"
       }
     ],
-    "min_price": 120
+    "min_price": 80
   },
   {
     "oracle_id": "hSD15-010",
@@ -35641,7 +35641,7 @@
       2086
     ],
     "ability_text": "自分のステージの〈儒烏風亭らでん〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。そのホロメンに、エールが3枚以上付いているなら、かわりに、そのホロメンのアーツ+20。",
-    "min_price": 180
+    "min_price": 120
   },
   {
     "oracle_id": "hSD16-001",
@@ -35707,7 +35707,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-003",
@@ -35743,7 +35743,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-004",
@@ -35782,7 +35782,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-005",
@@ -35819,7 +35819,7 @@
         "text": "サイコロを1回振る。3か5なら、自分のデッキを1枚引く。"
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-006",
@@ -35864,7 +35864,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-007",
@@ -35904,7 +35904,7 @@
         "text": "[センターポジション限定]サイコロを1回振る。3か5なら、このアーツ+10。"
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD16-008",
@@ -36052,7 +36052,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-003",
@@ -36088,7 +36088,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-004",
@@ -36127,7 +36127,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-005",
@@ -36164,7 +36164,7 @@
         "text": "相手のバックホロメン1人に特殊ダメージ10を与える。"
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-006",
@@ -36209,7 +36209,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-007",
@@ -36248,7 +36248,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD17-008",
@@ -36415,7 +36415,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-003",
@@ -36451,7 +36451,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-004",
@@ -36490,7 +36490,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-005",
@@ -36529,7 +36529,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-006",
@@ -36574,7 +36574,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-007",
@@ -36614,7 +36614,7 @@
         "text": "このホロメンにツールが付いているなら、このアーツ+10。"
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD18-008",
@@ -36655,7 +36655,7 @@
         "text": "[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。"
       }
     ],
-    "min_price": 80
+    "min_price": 50
   },
   {
     "oracle_id": "hSD18-009",
@@ -36763,7 +36763,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-003",
@@ -36800,7 +36800,7 @@
         "text": "自分のライフが2以下なら、このアーツ+10。"
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-004",
@@ -36839,7 +36839,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-005",
@@ -36878,7 +36878,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-006",
@@ -36923,7 +36923,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-007",
@@ -36963,7 +36963,7 @@
         "text": "このホロメンにエールが2枚以上付いているなら、このアーツ+20。"
       }
     ],
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hSD19-008",
@@ -37057,7 +37057,7 @@
       2128
     ],
     "ability_text": "自分のホロメンのHP30回復。",
-    "min_price": 80
+    "min_price": 30
   },
   {
     "oracle_id": "hBP08-001",
@@ -37679,7 +37679,7 @@
         "text": "自分のステージに#0期生を持つ2ndホロメンがいるなら、このアーツ+20。"
       }
     ],
-    "min_price": 50
+    "min_price": 80
   },
   {
     "oracle_id": "hBP08-018",

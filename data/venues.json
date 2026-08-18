@@ -18858,6 +18858,53 @@
   ],
   "カードラボ　マルイ海老名店": [
     {
+      "date": "2026-08-18",
+      "event_id": "1685478",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "NPKZZ",
+          "deck_id": "126D12",
+          "rank": 1
+        },
+        {
+          "friend_code": "DFGHF",
+          "deck_id": "S2V7A",
+          "rank": 2
+        },
+        {
+          "friend_code": "WVENP",
+          "deck_id": "1AKQFA",
+          "rank": 3
+        },
+        {
+          "friend_code": "HUXEP",
+          "deck_id": "1MTBF6",
+          "rank": 4
+        },
+        {
+          "friend_code": "NSYJE",
+          "deck_id": "1MNEME",
+          "rank": 5
+        },
+        {
+          "friend_code": "YAXKU",
+          "deck_id": "2QCJ3",
+          "rank": 6
+        },
+        {
+          "friend_code": "NHIYF",
+          "deck_id": "XQBHW",
+          "rank": 7
+        },
+        {
+          "friend_code": "GQQVF",
+          "deck_id": "BPXBW",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-23",
       "event_id": "1598164",
       "participants": 28,
@@ -45804,6 +45851,53 @@
     }
   ],
   "ホビーステーション仙台駅前店": [
+    {
+      "date": "2026-08-18",
+      "event_id": "1674374",
+      "participants": 28,
+      "top8": [
+        {
+          "friend_code": "KLKSS",
+          "deck_id": "HYSEU",
+          "rank": 1
+        },
+        {
+          "friend_code": "OWYFO",
+          "deck_id": "1H62K",
+          "rank": 2
+        },
+        {
+          "friend_code": "TEAFH",
+          "deck_id": "SEMPS",
+          "rank": 3
+        },
+        {
+          "friend_code": "KBLNL",
+          "deck_id": "8AQGQ",
+          "rank": 4
+        },
+        {
+          "friend_code": "YXOWA",
+          "deck_id": "GHL04",
+          "rank": 5
+        },
+        {
+          "friend_code": "LFVIQ",
+          "deck_id": "4ER7D",
+          "rank": 6
+        },
+        {
+          "friend_code": "RTBIP",
+          "deck_id": "H4N2L",
+          "rank": 7
+        },
+        {
+          "friend_code": "BJYDK",
+          "deck_id": "2P154L",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "event_id": "1674373",
