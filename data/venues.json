@@ -7130,6 +7130,53 @@
   ],
   "アメニティードリーム横浜店": [
     {
+      "date": "2026-08-19",
+      "event_id": "1688965",
+      "participants": 28,
+      "top8": [
+        {
+          "friend_code": "DFPYR",
+          "deck_id": "YDXSQ",
+          "rank": 1
+        },
+        {
+          "friend_code": "IOALK",
+          "deck_id": "1E1UME",
+          "rank": 2
+        },
+        {
+          "friend_code": "YIJYK",
+          "deck_id": "18NP84",
+          "rank": 3
+        },
+        {
+          "friend_code": "YLMGD",
+          "deck_id": "1UCJ9W",
+          "rank": 4
+        },
+        {
+          "friend_code": "TJVDP",
+          "deck_id": "FHT68",
+          "rank": 5
+        },
+        {
+          "friend_code": "KIUKE",
+          "deck_id": "183QEU",
+          "rank": 6
+        },
+        {
+          "friend_code": "KIUXJ",
+          "deck_id": "1W64TA",
+          "rank": 7
+        },
+        {
+          "friend_code": "FLTZA",
+          "deck_id": "ANP9N",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-12",
       "event_id": "1688964",
       "participants": 32,
@@ -38612,6 +38659,53 @@
     }
   ],
   "ドラゴンスター日本橋2号店": [
+    {
+      "date": "2026-08-19",
+      "event_id": "1690099",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "ADATU",
+          "deck_id": "1EHCQY",
+          "rank": 1
+        },
+        {
+          "friend_code": "ODVMY",
+          "deck_id": "1S1M52",
+          "rank": 2
+        },
+        {
+          "friend_code": "ANHPE",
+          "deck_id": "12H5HA",
+          "rank": 3
+        },
+        {
+          "friend_code": "CSBSQ",
+          "deck_id": "1VFFEG",
+          "rank": 4
+        },
+        {
+          "friend_code": "AMILE",
+          "deck_id": "1158DE",
+          "rank": 5
+        },
+        {
+          "friend_code": "PMTIZ",
+          "deck_id": "1QPBTW",
+          "rank": 6
+        },
+        {
+          "friend_code": "TAVHX",
+          "deck_id": "2727AY",
+          "rank": 7
+        },
+        {
+          "friend_code": "TMTTR",
+          "deck_id": "11E1FE",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "event_id": "1612901",
