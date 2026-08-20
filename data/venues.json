@@ -3339,6 +3339,53 @@
   ],
   "GIRAFULLオタロード店": [
     {
+      "date": "2026-08-20",
+      "event_id": "1713391",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "TUXCR",
+          "deck_id": "J4XVW",
+          "rank": 1
+        },
+        {
+          "friend_code": "PRJDD",
+          "deck_id": "18X1L4",
+          "rank": 2
+        },
+        {
+          "friend_code": "MZQTQ",
+          "deck_id": "1SY57E",
+          "rank": 3
+        },
+        {
+          "friend_code": "DSGSB",
+          "deck_id": "YBEBE",
+          "rank": 4
+        },
+        {
+          "friend_code": "QYQWT",
+          "deck_id": "VUG40",
+          "rank": 5
+        },
+        {
+          "friend_code": "XZKWB",
+          "deck_id": "7G275",
+          "rank": 6
+        },
+        {
+          "friend_code": "GKAPS",
+          "deck_id": "5TGTR",
+          "rank": 7
+        },
+        {
+          "friend_code": "BSARR",
+          "deck_id": "1DUGQG",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "event_id": "1633875",
       "participants": 32,
