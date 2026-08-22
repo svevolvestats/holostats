@@ -2,13 +2,18 @@
 <html lang="ja" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
-  <!-- Domain migration: carry localStorage from svestats.pages.dev → svestats.cc. See MIGRATION_PLAN.md. Runs before gtag so throwaway redirect hops don't fire page_view. -->
+  <!-- Domain migration: carry localStorage from svestats.pages.dev → svestats.cc, and send holostats.pages.dev → hocg.svestats.cc. Shared by both builds; hostnames are matched exactly, so each branch is a no-op on the other site. See MIGRATION_PLAN.md. Runs before gtag so throwaway redirect hops don't fire page_view. -->
   <script>(function(){
     var H=location.hostname;
     var CC='https://svestats.cc', OLD='https://svestats.pages.dev';
     var KEYS=['sve-theme','sve-favorites','sve-decks','sve-decks-autosave','sve-sort','sve-order','holo-theme'];
     var BOT=/bot|crawl|spider|slurp|googlebot|bingpreview|yandex|baidu|duckduck|facebookexternalhit|twitterbot|linkedin|line\/|discord|telegram|whatsapp|embedly|pinterest/i.test(navigator.userAgent);
     function canon(){var h=location.hash;return h.indexOf('#/')===0?h.slice(1):location.pathname+location.search;}
+
+    // Holo: plain redirect, no payload. The only holo-origin localStorage is holo-theme
+    // and up to 5 venue favourites (shared VenuePage), so the /migrate round-trip the SVE
+    // move needed is not worth it here. Bots redirect too, to consolidate indexing.
+    if(H==='holostats.pages.dev'){location.replace('https://hocg.svestats.cc'+canon());return;}
 
     if(H==='svestats.pages.dev'){
       var qs=new URLSearchParams(location.search), isExport=qs.get('export')==='1', path;
@@ -71,7 +76,7 @@
     gtag('js', new Date());
     gtag('config', 'G-0QBNR5JS39');
   </script>
-  <script type="module" crossorigin src="/assets/index-lMlnn-t-.js"></script>
+  <script type="module" crossorigin src="/assets/index-DiR0RPmo.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-BphgeNNy.css">
 </head>
 <body>
