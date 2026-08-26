@@ -25621,6 +25621,53 @@
   ],
   "カードラボ池袋店": [
     {
+      "date": "2026-08-26",
+      "event_id": "1721938",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "UREUN",
+          "deck_id": "1TUGKW",
+          "rank": 1
+        },
+        {
+          "friend_code": "AUVVX",
+          "deck_id": "1M4ERS",
+          "rank": 2
+        },
+        {
+          "friend_code": "QSRFF",
+          "deck_id": "1PMSL4",
+          "rank": 3
+        },
+        {
+          "friend_code": "KHIUX",
+          "deck_id": "1XME3N",
+          "rank": 4
+        },
+        {
+          "friend_code": "MXRSC",
+          "deck_id": "1F2WRS",
+          "rank": 5
+        },
+        {
+          "friend_code": "HUXEP",
+          "deck_id": "YSVHA",
+          "rank": 6
+        },
+        {
+          "friend_code": "WVKEQ",
+          "deck_id": "8HBFJ",
+          "rank": 7
+        },
+        {
+          "friend_code": "JSSTO",
+          "deck_id": "TAYR2",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-16",
       "event_id": "1682574",
       "participants": 32,
@@ -42003,6 +42050,53 @@
     }
   ],
   "パピー弥富店": [
+    {
+      "date": "2026-08-26",
+      "event_id": "1704539",
+      "participants": 22,
+      "top8": [
+        {
+          "friend_code": "MTUCR",
+          "deck_id": "1XVWTN",
+          "rank": 1
+        },
+        {
+          "friend_code": "PTGKX",
+          "deck_id": "7M4R5",
+          "rank": 2
+        },
+        {
+          "friend_code": "QEFDM",
+          "deck_id": "ESPDJ",
+          "rank": 3
+        },
+        {
+          "friend_code": "AGTWQ",
+          "deck_id": "BXJ64",
+          "rank": 4
+        },
+        {
+          "friend_code": "BLHLV",
+          "deck_id": "1MFYAY",
+          "rank": 5
+        },
+        {
+          "friend_code": "ZCNRD",
+          "deck_id": "1S71B2",
+          "rank": 6
+        },
+        {
+          "friend_code": "ODXTB",
+          "deck_id": "2L53ZE",
+          "rank": 7
+        },
+        {
+          "friend_code": "BYHBT",
+          "deck_id": "1DA6CY",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "event_id": "1632992",
