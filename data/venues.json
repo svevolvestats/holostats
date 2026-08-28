@@ -1088,6 +1088,53 @@
   ],
   "CREATIVE STYLE": [
     {
+      "date": "2026-08-27",
+      "event_id": "1703457",
+      "participants": 26,
+      "top8": [
+        {
+          "friend_code": "AQINC",
+          "deck_id": "1BRWAQ",
+          "rank": 1
+        },
+        {
+          "friend_code": "EDIOQ",
+          "deck_id": "1GY4G4",
+          "rank": 2
+        },
+        {
+          "friend_code": "GQFME",
+          "deck_id": "2A2P1W",
+          "rank": 3
+        },
+        {
+          "friend_code": "PDCWC",
+          "deck_id": "1B8ME4",
+          "rank": 4
+        },
+        {
+          "friend_code": "CILSW",
+          "deck_id": "2E5QL4",
+          "rank": 5
+        },
+        {
+          "friend_code": "HKJXK",
+          "deck_id": "MPLBE",
+          "rank": 6
+        },
+        {
+          "friend_code": "QUZHP",
+          "deck_id": "213LTE",
+          "rank": 7
+        },
+        {
+          "friend_code": "CABDA",
+          "deck_id": "15L3XS",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "event_id": "1703456",
       "participants": 24,
