@@ -11894,6 +11894,558 @@
       "#FLOW GLOW"
     ]
   },
+  "hSD12-001": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-001_OSR.webp",
+    "release_date": "2026-07-24",
+    "oshi_skill": {
+      "name": "The Archiver",
+      "text": "Look at the top 3 cards of your deck. Reveal 1 support card from among them, and add it to hand. Then, return the remaining cards to the bottom of the deck in any order."
+    },
+    "sp_oshi_skill": {
+      "name": "Rebellion",
+      "text": "Deal 10 special damage to 1 of your opponent's back holomem other than Debut for each support card in your archive."
+    }
+  },
+  "hSD12-002": {
+    "name": "Koseki Bijou",
+    "img": "hSD12/EN_hSD12-002_OSR.webp",
+    "release_date": "2026-07-24",
+    "oshi_skill": {
+      "name": "Biboo Tax",
+      "text": "Archive the top card of both players' cheer decks. Draw 1 card for each color among cheers archived this way."
+    },
+    "sp_oshi_skill": {
+      "name": "Ancient, Mystic Brilliance",
+      "text": "Deal 10 special damage to your opponent's center holomem for each [holomem with #Advent and cheer] in your archive."
+    }
+  },
+  "hSD12-003": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-003_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nDeal 10 special damage to 1 of your opponent's back holomem."
+    },
+    "arts": [
+      {
+        "name": "Adieu, Dear Listener",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent"
+    ]
+  },
+  "hSD12-004": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-004_C.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "Unsettling Warning",
+        "text": "This Arts can target your opponent's back holomem too."
+      },
+      {
+        "name": "Just a Humble, Kind Witch",
+        "text": "If you have 4 or more support cards in your archive, send the top card of your cheer deck to your holomem with #Advent."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent"
+    ]
+  },
+  "hSD12-005": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-005_U.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nSend 1 cheer from your archive to your holomem with #Advent."
+    },
+    "arts": [
+      {
+        "name": "Look Out the Window, the Stars Are Beautiful",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent"
+    ]
+  },
+  "hSD12-006": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-006_R.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "青◇Elementary　40\nDeal 20 special damage to 1 of your opponent's holomem."
+  },
+  "hSD12-007": {
+    "name": "Shiori Novella",
+    "img": "hSD12/EN_hSD12-007_RR.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "GiftWhat Knowledge Can Be Obtained\n[1/Turn] If this holomem downed your opponent's holomem, return 1 support card other than LIMITED from your archive to hand."
+    },
+    "arts": [
+      {
+        "name": "Could You Refrain from Underestimating Us?",
+        "text": "Deal 10 special damage to 1 of your opponent's holomem other than Debut for each holomem with #Advent on your stage."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent"
+    ]
+  },
+  "hSD12-008": {
+    "name": "Koseki Bijou",
+    "img": "hSD12/EN_hSD12-008_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf you went second and it is your first turn, draw 1 card for each cheer on both players' stage."
+    },
+    "arts": [
+      {
+        "name": "I've... Been Dreaming a Lot Lately.",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Baby"
+    ]
+  },
+  "hSD12-009": {
+    "name": "Koseki Bijou",
+    "img": "hSD12/EN_hSD12-009_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nLook at the top 3 cards of your deck. Reveal 1 holomem with #Advent from among them, and add it to hand. Then, return the remaining cards to the bottom of the deck in any order."
+    },
+    "arts": [
+      {
+        "name": "That Is What I Am Grateful For",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Baby"
+    ]
+  },
+  "hSD12-010": {
+    "name": "Koseki Bijou",
+    "img": "hSD12/EN_hSD12-010_U.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "The Fading Radiance",
+        "text": ""
+      },
+      {
+        "name": "Your Princess AWAKENS!",
+        "text": "You may archive 1 cheer other than purple from this holomem: Return 1 holomem from your archive to hand."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Baby"
+    ]
+  },
+  "hSD12-011": {
+    "name": "Koseki Bijou",
+    "img": "hSD12/EN_hSD12-011_RR.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom EffectJoin Biboo in the Game?\nDraw 1 card. Then, you may archive 1 cheer from your stage. If archived, choose 1 holomem from your stage. During this turn, the chosen holomem gets Arts+40."
+    },
+    "arts": [
+      {
+        "name": "Behold the Sparkle!",
+        "text": "This Arts requires -1 colorless for each different color among cheers in both players' archives."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Baby"
+    ]
+  },
+  "hSD12-012": {
+    "name": "Nerissa Ravencroft",
+    "img": "hSD12/EN_hSD12-012_C.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "The Transient Blues",
+        "text": "If your life is 3 or less, this Arts requires -2 colorless."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Singing",
+      "#Bird"
+    ]
+  },
+  "hSD12-013": {
+    "name": "Mococo Abyssgard",
+    "img": "hSD12/EN_hSD12-013_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf all holomem on your stage are holomem with #Advent, you may return 1 of your back Debut holomem to the bottom of the deck: Draw 2 cards."
+    },
+    "arts": [
+      {
+        "name": "I Totally Totally Mean It!!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Kemomimi"
+    ]
+  },
+  "hSD12-014": {
+    "name": "Fuwawa Abyssgard",
+    "img": "hSD12/EN_hSD12-014_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf all holomem on your stage are holomem with #Advent, you may return 1 of your back Debut holomem to the bottom of the deck: Send the top card of your cheer deck to your holomem."
+    },
+    "arts": [
+      {
+        "name": "I Totally Totally Mean It!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#Kemomimi"
+    ]
+  },
+  "hSD12-015": {
+    "name": "A Group of Criminals That Escaped from The Cell",
+    "img": "hSD12/EN_hSD12-015_U.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "This card can only be used if all holomem on your stage are holomem with #Advent.\n\n\n\nDeal 20 special damage to your opponent's center holomem. Then, send 1 cheer from your archive to your holomem.\n\nYou may only use 〈A Group of Criminals That Escaped from The Cell〉 once per turn."
+  },
+  "hSD12-016": {
+    "name": "GEOW",
+    "img": "hSD12/EN_hSD12-016_C.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "The holomem this mascot is attached to gets +20 HP.\n\n\n\nWhen this mascot is attached from hand to 1st or greater 〈Koseki Bijou〉, you may archive 1 cheer from your stage: Reveal 1 cheer from your cheer deck, and send it to your holomem. Then, shuffle the cheer deck.\n\n\n\nOnly 1 mascot can be attached to each of your holomem."
+  },
+  "hSD13-001": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-001_OSR.webp",
+    "release_date": "2026-07-24",
+    "oshi_skill": {
+      "name": "Harbinger of Order",
+      "text": "If 1 of your holomem would take Arts damage from your opponent, you may choose 1 red [Buzz or 2nd] holomem from your stage: The chosen holomem takes that damage instead."
+    },
+    "sp_oshi_skill": {
+      "name": "JUST LIKE THAT",
+      "text": "Place 1 holomem with #Justice from your archive on stage. Then, send 1~5 cheers from your archive to that holomem."
+    }
+  },
+  "hSD13-002": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-002_OSR.webp",
+    "release_date": "2026-07-24",
+    "oshi_skill": {
+      "name": "Boat Goes Binted",
+      "text": "Swap your opponent's center holomem and collab holomem."
+    },
+    "sp_oshi_skill": {
+      "name": "Free-Spirited Chaser",
+      "text": "Reveal 2 2nd holomem 〈Gigi Murin〉 from your deck, and place them on stage. Then, shuffle the deck. Send 1 cheer from your archive to each of your holomem."
+    }
+  },
+  "hSD13-003": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-003_C.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "Oh! Ho-ho-ho!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Singing"
+    ]
+  },
+  "hSD13-004": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-004_C.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "Roses Are Red",
+        "text": ""
+      },
+      {
+        "name": "The Fire of My Heart Is Blue",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Singing"
+    ]
+  },
+  "hSD13-005": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-005_U.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "GiftFor Justice! -ERB-\nDuring your opponent's turn, if your holomem with #Justice is downed, send the top card of your cheer deck to this holomem. You may only use Gift \"For Justice! -ERB-\" once per turn."
+    },
+    "arts": [
+      {
+        "name": "Lovely to See You, to See You, Lovely~♡",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Singing"
+    ]
+  },
+  "hSD13-006": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-006_U.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nChoose 1 holomem with #Justice on your stage. During this turn, the chosen holomem gets Arts+20."
+    },
+    "arts": [
+      {
+        "name": "Things Worth Protecting",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Singing"
+    ]
+  },
+  "hSD13-007": {
+    "name": "Elizabeth Rose Bloodflame",
+    "img": "hSD13/EN_hSD13-007_RR.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "GiftBlazing Warcry\nThis holomem gets +10 HP for each of this holomem's cheers."
+    },
+    "arts": [
+      {
+        "name": "Baneslayer Cadenza",
+        "text": "This Arts gets +20 for each cheer attached to this holomem. If this Arts downed your opponent's holomem, send the top card of your cheer deck to this holomem."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Singing"
+    ]
+  },
+  "hSD13-008": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-008_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nSend 1 cheer from your archive to your holomem with #Justice."
+    },
+    "arts": [
+      {
+        "name": "GI MURIN!!!!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-009": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-009_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf you went second and it is your first turn, reveal 1 1st holomem with #Justice from your deck, and place it on stage. Then, shuffle the deck."
+    },
+    "arts": [
+      {
+        "name": "YIPPEEE",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-010": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-010_C.webp",
+    "release_date": "2026-07-24",
+    "arts": [
+      {
+        "name": "Source of Headaches for Those Around Her",
+        "text": ""
+      },
+      {
+        "name": "Mischievous Gremlin",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-011": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-011_U.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nYou may archive 1 Debut holomem stacked to this holomem: Deal 20 special damage to your opponent's collab holomem."
+    },
+    "arts": [
+      {
+        "name": "In Search of What It All Means",
+        "text": "This Arts gets +20 if there are no holomem stacked to this holomem."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-012": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-012_U.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "Gift\nDuring your opponent's turn, if your back holomem would take special damage from your opponent, you may archive 1 holomem stacked to this holomem: Instead during this turn, all of your back holomem do not take special damage."
+    },
+    "arts": [
+      {
+        "name": "Losing's Not an Option",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-013": {
+    "name": "Gigi Murin",
+    "img": "hSD13/EN_hSD13-013_RR.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "GiftResurgent Strength\n[1/Turn] During your main phase, you may archive 1 holomem stacked to your 〈Gigi Murin〉: Send the top card of your cheer deck to this holomem."
+    },
+    "arts": [
+      {
+        "name": "Shatter Riot",
+        "text": "This Arts gets +90 if there are no holomem stacked to this holomem."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  "hSD13-014": {
+    "name": "Cecilia Immergreen",
+    "img": "hSD13/EN_hSD13-014_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Gift",
+      "text": "Gift\n[Center Position・Collab Position Only] [1/Turn] When your [Debut holomem or Spot holomem] with #Justice is placed on stage, draw 1 card."
+    },
+    "arts": [
+      {
+        "name": "Have Some Tea!",
+        "text": "Send the top card of your cheer deck to 1 of your holomem with #Justice."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Language"
+    ]
+  },
+  "hSD13-015": {
+    "name": "Raora Panthera",
+    "img": "hSD13/EN_hSD13-015_C.webp",
+    "release_date": "2026-07-24",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nYou may return 1 cheer from your stage to the bottom of the cheer deck. If returned, reveal 1 cheer from your cheer deck, and send it to your holomem. Then, shuffle the cheer deck."
+    },
+    "arts": [
+      {
+        "name": "Have Some Coffee!",
+        "text": "If your [center holomem and collab holomem] with #Justice each have cheers of different colors attached, this Arts gets +20."
+      }
+    ],
+    "tags": [
+      "#EN",
+      "#Justice",
+      "#Kemomimi",
+      "#Painting"
+    ]
+  },
+  "hSD13-016": {
+    "name": "Justice",
+    "img": "hSD13/EN_hSD13-016_U.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\n\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Justice from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hSD13-017": {
+    "name": "JUSTICE, JUST LIKE THAT!!!!",
+    "img": "hSD13/EN_hSD13-017_U.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "This card can only be used if all holomem on your stage are holomem with #Justice.\n\n\n\nChoose 1 holomem on your stage. Return 1~2 stacked holomem from the chosen holomem to hand. During this turn, the chosen holomem gets Arts+20 for each holomem returned by this ability.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hSD13-018": {
+    "name": "Popo",
+    "img": "hSD13/EN_hSD13-018_C.webp",
+    "release_date": "2026-07-24",
+    "ability_text": "The holomem this mascot is attached to gets +20 HP.\n\n\n\n◆Additional ability if attached to 〈Gigi Murin〉\n\nIf there are no holomem stacked to this holomem, this holomem gets Arts+20.\n\n\n\nOnly 1 mascot can be attached to each of your holomem."
+  },
   "hY01-001": {
     "name": "White Cheer",
     "img": "EN_hY01-001_C.webp",

@@ -30703,6 +30703,53 @@
   ],
   "スポーツカード＆カードゲームショップ MINT三宮店": [
     {
+      "date": "2026-08-28",
+      "event_id": "1710890",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "NICMV",
+          "deck_id": "2N3A08",
+          "rank": 1
+        },
+        {
+          "friend_code": "ECTGD",
+          "deck_id": "1HKS5A",
+          "rank": 2
+        },
+        {
+          "friend_code": "QKUFL",
+          "deck_id": "HWC52",
+          "rank": 3
+        },
+        {
+          "friend_code": "ODVMY",
+          "deck_id": "1S1M52",
+          "rank": 4
+        },
+        {
+          "friend_code": "BOEDG",
+          "deck_id": "1KHCCL",
+          "rank": 5
+        },
+        {
+          "friend_code": "YXPAE",
+          "deck_id": "1AJTEC",
+          "rank": 6
+        },
+        {
+          "friend_code": "QPDYG",
+          "deck_id": "19VD5A",
+          "rank": 7
+        },
+        {
+          "friend_code": "PFTZP",
+          "deck_id": "9H5VW",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "event_id": "1710889",
       "participants": 32,
