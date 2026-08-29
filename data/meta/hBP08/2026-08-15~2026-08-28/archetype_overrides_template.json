@@ -1,0 +1,279 @@
+{
+  "_split_suggestions": {
+    "6aa55d": {
+      "name": "6aa55d",
+      "oshi_id": "hBP07-003",
+      "n": 43,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP03-087",
+              "card_name": "コールアンドレスポンス",
+              "ratio": 14
+            },
+            {
+              "name": "hBP07-015",
+              "card_name": "ベスティア・ゼータ",
+              "ratio": 19
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-059",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 79,
+              "co_occur_pct": 0,
+              "diff_pct": -92
+            },
+            {
+              "y": "hBP04-053",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 79,
+              "co_occur_pct": 0,
+              "diff_pct": -92
+            },
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP04-050",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP01-072",
+              "y_name": "ハコス・ベールズ",
+              "y_ratio": 72,
+              "co_occur_pct": 5,
+              "diff_pct": -58
+            },
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 56,
+              "co_occur_pct": 2,
+              "diff_pct": -53
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-104",
+              "card_name": "ふつうのパソコン",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP04-050",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 63,
+              "co_occur_pct": 0,
+              "diff_pct": -73
+            },
+            {
+              "y": "hBP01-072",
+              "y_name": "ハコス・ベールズ",
+              "y_ratio": 72,
+              "co_occur_pct": 2,
+              "diff_pct": -64
+            },
+            {
+              "y": "hBP08-094",
+              "y_name": "パパは仕事を辞める",
+              "y_ratio": 51,
+              "co_occur_pct": 0,
+              "diff_pct": -59
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-049",
+              "card_name": "エリザベス・ローズ・ブラッドフレイム",
+              "ratio": 14
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 56,
+              "co_occur_pct": 0,
+              "diff_pct": -65
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP01-027",
+              "card_name": "ベスティア・ゼータ",
+              "ratio": 21
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP08-094",
+              "y_name": "パパは仕事を辞める",
+              "y_ratio": 51,
+              "co_occur_pct": 2,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "bf36a8": {
+      "name": "bf36a8",
+      "oshi_id": "hBP06-003",
+      "n": 37,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-017",
+              "card_name": "マネちゃん",
+              "ratio": 32
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -63
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP06-085",
+              "card_name": "フェイバリットパソコン",
+              "ratio": 30
+            },
+            {
+              "name": "hBP08-102",
+              "card_name": "クールなパーカー",
+              "ratio": 32
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 59,
+              "co_occur_pct": 5,
+              "diff_pct": -59
+            }
+          ]
+        }
+      ]
+    },
+    "c4d6a4": {
+      "name": "c4d6a4",
+      "oshi_id": "hBP08-003",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-016",
+              "card_name": "春先のどか",
+              "ratio": 30
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 45,
+              "co_occur_pct": 0,
+              "diff_pct": -64
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD12-015",
+              "card_name": "脱獄を果たした共犯者たち",
+              "ratio": 75
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-084",
+              "y_name": "みっころね24",
+              "y_ratio": 15,
+              "co_occur_pct": 0,
+              "diff_pct": -60
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP08-060",
+              "card_name": "FUWAMOCO",
+              "ratio": 45
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-017",
+              "y_name": "マネちゃん",
+              "y_ratio": 50,
+              "co_occur_pct": 10,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
