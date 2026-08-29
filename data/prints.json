@@ -7255,7 +7255,7 @@
     "prices": {
       "mercard": {
         "price": 5980,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -8034,7 +8034,7 @@
     "prices": {
       "mercard": {
         "price": 180,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -9986,7 +9986,7 @@
     "prices": {
       "mercard": {
         "price": 50,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -18982,7 +18982,7 @@
     "prices": {
       "mercard": {
         "price": 180,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -19039,7 +19039,7 @@
     "prices": {
       "mercard": {
         "price": 1480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -31560,7 +31560,7 @@
     "prices": {
       "mercard": {
         "price": 1780,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -36026,7 +36026,7 @@
     "prices": {
       "mercard": {
         "price": 580,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -41370,7 +41370,7 @@
     "prices": {
       "mercard": {
         "price": 480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -44192,7 +44192,7 @@
     "prices": {
       "mercard": {
         "price": 1080,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -44553,7 +44553,7 @@
     "prices": {
       "mercard": {
         "price": 580,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -45259,7 +45259,7 @@
     "prices": {
       "mercard": {
         "price": 180,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
@@ -45734,7 +45734,7 @@
     "prices": {
       "mercard": {
         "price": 2480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-08-29"
       }
     }
