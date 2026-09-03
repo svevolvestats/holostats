@@ -28032,6 +28032,53 @@
   ],
   "カードラボ静岡店": [
     {
+      "date": "2026-09-03",
+      "event_id": "1726309",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "PZESW",
+          "deck_id": "JQ8V2",
+          "rank": 1
+        },
+        {
+          "friend_code": "JCXSA",
+          "deck_id": "L2H0C",
+          "rank": 2
+        },
+        {
+          "friend_code": "DBKWF",
+          "deck_id": "KQ2E0",
+          "rank": 3
+        },
+        {
+          "friend_code": "RKCYQ",
+          "deck_id": "2R16EG",
+          "rank": 4
+        },
+        {
+          "friend_code": "TEVNJ",
+          "deck_id": "2F1YB2",
+          "rank": 5
+        },
+        {
+          "friend_code": "NJMDY",
+          "deck_id": "1K2KB2",
+          "rank": 6
+        },
+        {
+          "friend_code": "QPJCQ",
+          "deck_id": "1BY4XE",
+          "rank": 7
+        },
+        {
+          "friend_code": "LFLPO",
+          "deck_id": "2K6JNG",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-03",
       "event_id": "1684710",
       "participants": 27,
