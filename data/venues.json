@@ -7506,6 +7506,53 @@
   ],
   "アメニティードリーム横浜店": [
     {
+      "date": "2026-09-09",
+      "event_id": "1729426",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "IVKEI",
+          "deck_id": "1KGTCG",
+          "rank": 1
+        },
+        {
+          "friend_code": "CKILH",
+          "deck_id": "18GS0Q",
+          "rank": 2
+        },
+        {
+          "friend_code": "YVOYN",
+          "deck_id": "1G2LZA",
+          "rank": 3
+        },
+        {
+          "friend_code": "QPCYJ",
+          "deck_id": "190K5J",
+          "rank": 4
+        },
+        {
+          "friend_code": "ODSJK",
+          "deck_id": "XZAHW",
+          "rank": 5
+        },
+        {
+          "friend_code": "NHUKX",
+          "deck_id": "D6952",
+          "rank": 6
+        },
+        {
+          "friend_code": "FLTZA",
+          "deck_id": "ANP9N",
+          "rank": 7
+        },
+        {
+          "friend_code": "GBFUH",
+          "deck_id": "S65W0",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-19",
       "event_id": "1688965",
       "participants": 28,
@@ -34863,6 +34910,53 @@
   ],
   "トレカチャンス日本橋店": [
     {
+      "date": "2026-09-09",
+      "event_id": "1730021",
+      "participants": 30,
+      "top8": [
+        {
+          "friend_code": "JRCPD",
+          "deck_id": "2L2JSL",
+          "rank": 1
+        },
+        {
+          "friend_code": "ZGOHR",
+          "deck_id": "KPQWQ",
+          "rank": 2
+        },
+        {
+          "friend_code": "CMJEP",
+          "deck_id": "1Z5J7W",
+          "rank": 3
+        },
+        {
+          "friend_code": "HBRDF",
+          "deck_id": "9LJHJ",
+          "rank": 4
+        },
+        {
+          "friend_code": "PMPSQ",
+          "deck_id": "Y7FSQ",
+          "rank": 5
+        },
+        {
+          "friend_code": "QYQWT",
+          "deck_id": "2B6DUQ",
+          "rank": 6
+        },
+        {
+          "friend_code": "ZYLKK",
+          "deck_id": "16CR0Y",
+          "rank": 7
+        },
+        {
+          "friend_code": "KXKPN",
+          "deck_id": "Q02JU",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-13",
       "event_id": "1697508",
       "participants": 32,
@@ -40033,6 +40127,53 @@
     }
   ],
   "トーナメントセンターバトロコ高田馬場": [
+    {
+      "date": "2026-09-09",
+      "event_id": "1714380",
+      "participants": 24,
+      "top8": [
+        {
+          "friend_code": "SUKIU",
+          "deck_id": "2L5KMS",
+          "rank": 1
+        },
+        {
+          "friend_code": "UREUN",
+          "deck_id": "1TUGKW",
+          "rank": 2
+        },
+        {
+          "friend_code": "RHNDT",
+          "deck_id": "1NFDZA",
+          "rank": 3
+        },
+        {
+          "friend_code": "DVXRU",
+          "deck_id": "VHANU",
+          "rank": 4
+        },
+        {
+          "friend_code": "JXFXR",
+          "deck_id": "2W58C8",
+          "rank": 5
+        },
+        {
+          "friend_code": "QPJCQ",
+          "deck_id": "1BY4XE",
+          "rank": 6
+        },
+        {
+          "friend_code": "ZOGSO",
+          "deck_id": "108WFA",
+          "rank": 7
+        },
+        {
+          "friend_code": "GJTMG",
+          "deck_id": "1CRX04",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "event_id": "1685789",
