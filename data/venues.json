@@ -4278,6 +4278,53 @@
   ],
   "Japan TCG Center吉祥寺駅北口店": [
     {
+      "date": "2026-09-10",
+      "event_id": "1738503",
+      "participants": 33,
+      "top8": [
+        {
+          "friend_code": "SUKIU",
+          "deck_id": "2L5KMS",
+          "rank": 1
+        },
+        {
+          "friend_code": "FQQWS",
+          "deck_id": "BT0BW",
+          "rank": 2
+        },
+        {
+          "friend_code": "NZKTN",
+          "deck_id": "9MGZS",
+          "rank": 3
+        },
+        {
+          "friend_code": "VOBPR",
+          "deck_id": "ED4AQ",
+          "rank": 4
+        },
+        {
+          "friend_code": "EKWEV",
+          "deck_id": "HLVKJ",
+          "rank": 5
+        },
+        {
+          "friend_code": "QPJCQ",
+          "deck_id": "1BY4XE",
+          "rank": 6
+        },
+        {
+          "friend_code": "RWXSV",
+          "deck_id": "18R2MW",
+          "rank": 7
+        },
+        {
+          "friend_code": "RHNDT",
+          "deck_id": "1NFDZA",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "event_id": "1711553",
       "participants": 48,
@@ -43366,6 +43413,53 @@
     }
   ],
   "パピー弥富店": [
+    {
+      "date": "2026-09-10",
+      "event_id": "1751342",
+      "participants": 16,
+      "top8": [
+        {
+          "friend_code": "DISBP",
+          "deck_id": "JXTYY",
+          "rank": 1
+        },
+        {
+          "friend_code": "CEJZZ",
+          "deck_id": "ZW49N",
+          "rank": 2
+        },
+        {
+          "friend_code": "VYAOW",
+          "deck_id": "1ZXARW",
+          "rank": 3
+        },
+        {
+          "friend_code": "KOFJC",
+          "deck_id": "1QFHPJ",
+          "rank": 4
+        },
+        {
+          "friend_code": "EZMDR",
+          "deck_id": "ND8AL",
+          "rank": 5
+        },
+        {
+          "friend_code": "VSUXH",
+          "deck_id": "QEGYC",
+          "rank": 6
+        },
+        {
+          "friend_code": "SCGQL",
+          "deck_id": "1UW4KS",
+          "rank": 7
+        },
+        {
+          "friend_code": "FQRQE",
+          "deck_id": "1XFPJQ",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "event_id": "1704539",
