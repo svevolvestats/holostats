@@ -34745,6 +34745,53 @@
   ],
   "トレカショップ竜のしっぽ梅田NU茶屋町店": [
     {
+      "date": "2026-09-14",
+      "event_id": "1738927",
+      "participants": 29,
+      "top8": [
+        {
+          "friend_code": "OKIES",
+          "deck_id": "1QGUQY",
+          "rank": 1
+        },
+        {
+          "friend_code": "QEWHJ",
+          "deck_id": "JM8GC",
+          "rank": 2
+        },
+        {
+          "friend_code": "ELAIX",
+          "deck_id": "1HMEE4",
+          "rank": 3
+        },
+        {
+          "friend_code": "KUGQU",
+          "deck_id": "ENXN4",
+          "rank": 4
+        },
+        {
+          "friend_code": "QPDYG",
+          "deck_id": "C6E2L",
+          "rank": 5
+        },
+        {
+          "friend_code": "QIOKH",
+          "deck_id": "G25YG",
+          "rank": 6
+        },
+        {
+          "friend_code": "NHIYF",
+          "deck_id": "CTML4",
+          "rank": 7
+        },
+        {
+          "friend_code": "PMPSQ",
+          "deck_id": "1GMEL4",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "event_id": "1705449",
       "participants": 32,

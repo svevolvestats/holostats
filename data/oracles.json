@@ -30763,7 +30763,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 180
+    "min_price": 280
   },
   {
     "oracle_id": "hSD13-010",
@@ -34486,7 +34486,7 @@
         "text": "このアーツの対象が、相手のHPが減っているホロメンなら、このアーツ+30。"
       }
     ],
-    "min_price": 80
+    "min_price": 580
   },
   {
     "oracle_id": "hBP07-087",
