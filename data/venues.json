@@ -4325,6 +4325,53 @@
   ],
   "Japan TCG Center吉祥寺駅北口店": [
     {
+      "date": "2026-09-17",
+      "event_id": "1738504",
+      "participants": 43,
+      "top8": [
+        {
+          "friend_code": "KHIUX",
+          "deck_id": "1XME3N",
+          "rank": 1
+        },
+        {
+          "friend_code": "UHRVE",
+          "deck_id": "2K6EEC",
+          "rank": 2
+        },
+        {
+          "friend_code": "SUKIU",
+          "deck_id": "1ZWB1S",
+          "rank": 3
+        },
+        {
+          "friend_code": "VZQNC",
+          "deck_id": "1008JU",
+          "rank": 4
+        },
+        {
+          "friend_code": "HKJXK",
+          "deck_id": "1G1N4L",
+          "rank": 5
+        },
+        {
+          "friend_code": "RHNDT",
+          "deck_id": "1NFDZA",
+          "rank": 6
+        },
+        {
+          "friend_code": "EBANI",
+          "deck_id": "196HBA",
+          "rank": 7
+        },
+        {
+          "friend_code": "HUXEP",
+          "deck_id": "2T5TAQ",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "event_id": "1738503",
       "participants": 33,
