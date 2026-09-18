@@ -23102,6 +23102,53 @@
   ],
   "カードラボ宇都宮店": [
     {
+      "date": "2026-09-18",
+      "event_id": "1714931",
+      "participants": 18,
+      "top8": [
+        {
+          "friend_code": "KGVVD",
+          "deck_id": "1DVWF2",
+          "rank": 1
+        },
+        {
+          "friend_code": "VYKGC",
+          "deck_id": "V8GDE",
+          "rank": 2
+        },
+        {
+          "friend_code": "SZNOD",
+          "deck_id": "KN2P6",
+          "rank": 3
+        },
+        {
+          "friend_code": "DRSNE",
+          "deck_id": "K4FMW",
+          "rank": 4
+        },
+        {
+          "friend_code": "YXPAE",
+          "deck_id": "1YVZ7W",
+          "rank": 5
+        },
+        {
+          "friend_code": "BULVT",
+          "deck_id": "8KCVS",
+          "rank": 6
+        },
+        {
+          "friend_code": "RFYWQ",
+          "deck_id": "1VR332",
+          "rank": 7
+        },
+        {
+          "friend_code": "IGTGO",
+          "deck_id": "AP76Y",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "event_id": "1678433",
       "participants": 32,
