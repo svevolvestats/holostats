@@ -347,7 +347,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2542
+        "organizer_id": 2542,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -613,7 +614,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 261
+        "organizer_id": 261,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -622,7 +624,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 261
+        "organizer_id": 261,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -1998,7 +2001,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 53
+        "organizer_id": 53,
+        "participants": 10
       },
       {
         "date": "2026-09-19",
@@ -2007,7 +2011,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 53
+        "organizer_id": 53,
+        "participants": 8
       },
       {
         "date": "2026-09-23",
@@ -3274,11 +3279,29 @@
         "organizer_id": 1584
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1584
+      },
+      {
         "date": "2026-10-12",
         "type": "ショップ大会",
         "time": "13:30",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1584
+      },
+      {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1584
       },
@@ -3292,11 +3315,29 @@
         "organizer_id": 1584
       },
       {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1584
+      },
+      {
         "date": "2026-10-26",
         "type": "ショップ大会",
         "time": "13:30",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1584
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1584
       }
@@ -4211,7 +4252,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1635
+        "organizer_id": 1635,
+        "participants": 2
       },
       {
         "date": "2026-09-20",
@@ -4788,7 +4830,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2
+        "organizer_id": 2,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -4797,7 +4840,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2
+        "organizer_id": 2,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -4806,7 +4850,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2
+        "organizer_id": 2,
+        "participants": 9
       },
       {
         "date": "2026-09-26",
@@ -5160,7 +5205,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 122
+        "organizer_id": 122,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -5169,7 +5215,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 122
+        "organizer_id": 122,
+        "participants": 12
       },
       {
         "date": "2026-09-26",
@@ -6500,7 +6547,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 783
+        "organizer_id": 783,
+        "participants": 11
       },
       {
         "date": "2026-09-23",
@@ -7005,7 +7053,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 21
+        "organizer_id": 21,
+        "participants": 9
       },
       {
         "date": "2026-09-19",
@@ -7014,7 +7063,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 21
+        "organizer_id": 21,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -7023,7 +7073,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 21
+        "organizer_id": 21,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -7358,7 +7409,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2351
+        "organizer_id": 2351,
+        "participants": 0
       },
       {
         "date": "2026-10-03",
@@ -7938,7 +7990,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 840
+        "organizer_id": 840,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -7947,7 +8000,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 840
+        "organizer_id": 840,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -8240,7 +8294,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1839
+        "organizer_id": 1839,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -8817,7 +8872,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 613
+        "organizer_id": 613,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -13035,7 +13091,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 770
+        "organizer_id": 770,
+        "participants": 19
       },
       {
         "date": "2026-09-26",
@@ -13237,7 +13294,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2430
+        "organizer_id": 2430,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -15038,7 +15096,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1678
+        "organizer_id": 1678,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -15047,7 +15106,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1678
+        "organizer_id": 1678,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -15056,7 +15116,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1678
+        "organizer_id": 1678,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -15489,6 +15550,16 @@
         "game_title_id": 8
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "02:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1609,
+        "participants": 6,
+        "game_title_id": 8
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "02:00",
@@ -15825,7 +15896,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 838
+        "organizer_id": 838,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -16833,7 +16905,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1024
+        "organizer_id": 1024,
+        "participants": 4
       },
       {
         "date": "2026-09-21",
@@ -17172,7 +17245,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 983
+        "organizer_id": 983,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -17181,7 +17255,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 983
+        "organizer_id": 983,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -17415,7 +17490,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 242
+        "organizer_id": 242,
+        "participants": 9
       },
       {
         "date": "2026-10-03",
@@ -19502,7 +19578,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 482
+        "organizer_id": 482,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -19511,7 +19588,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 482
+        "organizer_id": 482,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -19520,7 +19598,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 482
+        "organizer_id": 482,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -20296,7 +20375,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 183
+        "organizer_id": 183,
+        "participants": 8
       },
       {
         "date": "2026-09-25",
@@ -22308,7 +22388,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 22
+        "organizer_id": 22,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -22317,7 +22398,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 22
+        "organizer_id": 22,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -22326,7 +22408,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 22
+        "organizer_id": 22,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -23838,7 +23921,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1731
+        "organizer_id": 1731,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -23847,7 +23931,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1731
+        "organizer_id": 1731,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -24253,7 +24338,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1734
+        "organizer_id": 1734,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -24262,7 +24348,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1734
+        "organizer_id": 1734,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -26506,7 +26593,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 62
+        "organizer_id": 62,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -26515,7 +26603,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 62
+        "organizer_id": 62,
+        "participants": 6
       },
       {
         "date": "2026-09-20",
@@ -26789,7 +26878,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1196
+        "organizer_id": 1196,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -27339,7 +27429,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2011
+        "organizer_id": 2011,
+        "participants": 4
       },
       {
         "date": "2026-10-02",
@@ -28394,7 +28485,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1402
+        "organizer_id": 1402,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -28403,7 +28495,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1402
+        "organizer_id": 1402,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -35010,6 +35103,16 @@
         "game_title_id": 8
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 2367,
+        "participants": 4,
+        "game_title_id": 8
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "01:00",
@@ -35566,7 +35669,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1476
+        "organizer_id": 1476,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -35690,6 +35794,16 @@
         "game_title_id": 8
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "00:30",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1040,
+        "participants": 6,
+        "game_title_id": 8
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "00:30",
@@ -35774,7 +35888,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2038
+        "organizer_id": 2038,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -35783,7 +35898,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2038
+        "organizer_id": 2038,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -37923,7 +38039,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 759
+        "organizer_id": 759,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -38996,7 +39113,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 486
+        "organizer_id": 486,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -39005,7 +39123,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 486
+        "organizer_id": 486,
+        "participants": 15
       },
       {
         "date": "2026-09-19",
@@ -39014,7 +39133,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 486
+        "organizer_id": 486,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -39023,7 +39143,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 486
+        "organizer_id": 486,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -39798,7 +39919,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 674
+        "organizer_id": 674,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -40013,7 +40135,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1713
+        "organizer_id": 1713,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -41092,7 +41215,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1315
+        "organizer_id": 1315,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -42296,7 +42420,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 684
+        "organizer_id": 684,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -42680,7 +42805,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 570
+        "organizer_id": 570,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -43468,7 +43594,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 438
+        "organizer_id": 438,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -43477,7 +43604,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 438
+        "organizer_id": 438,
+        "participants": 13
       },
       {
         "date": "2026-09-26",
@@ -45865,7 +45993,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 2012
+        "organizer_id": 2012,
+        "participants": 13
       },
       {
         "date": "2026-09-19",
@@ -45874,7 +46003,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2012
+        "organizer_id": 2012,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -47172,7 +47302,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 787
+        "organizer_id": 787,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -49414,7 +49545,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1972
+        "organizer_id": 1972,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -49423,7 +49555,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1972
+        "organizer_id": 1972,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -49945,7 +50078,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1740
+        "organizer_id": 1740,
+        "participants": 6
       },
       {
         "date": "2026-09-20",
@@ -50804,7 +50938,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1010
+        "organizer_id": 1010,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -51641,7 +51776,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 2450
+        "organizer_id": 2450,
+        "participants": 10
       },
       {
         "date": "2026-09-19",
@@ -51650,7 +51786,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2450
+        "organizer_id": 2450,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -52528,7 +52665,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1174
+        "organizer_id": 1174,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -52537,7 +52675,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1174
+        "organizer_id": 1174,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -53009,7 +53148,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1182
+        "organizer_id": 1182,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -54343,7 +54483,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1032
+        "organizer_id": 1032,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -54352,7 +54493,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1032
+        "organizer_id": 1032,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -55313,7 +55455,8 @@
         "name": "[EN]  hOCGEN Shop Demo Sessions September - October 2026",
         "series_id": 12427,
         "game_title_id": 8,
-        "organizer_id": 1796
+        "organizer_id": 1796,
+        "participants": 2
       },
       {
         "date": "2026-09-24",
@@ -55730,7 +55873,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1514
+        "organizer_id": 1514,
+        "participants": 0
       },
       {
         "date": "2026-09-21",
@@ -55796,6 +55940,15 @@
         "organizer_id": 1514
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1514
+      },
+      {
         "date": "2026-10-10",
         "type": "ショップ大会",
         "time": "10:30",
@@ -55805,12 +55958,30 @@
         "organizer_id": 1514
       },
       {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1514
+      },
+      {
         "date": "2026-10-17",
         "type": "ショップ大会",
         "time": "10:30",
         "name": "[EN][Monthly] hOCGE - October 2026 Shop Tournament",
         "series_id": 12944,
         "game_title_id": 8,
+        "organizer_id": 1514
+      },
+      {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
         "organizer_id": 1514
       },
       {
@@ -55837,6 +56008,15 @@
         "time": "12:00",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1514
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "12:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1514
       },
@@ -56907,7 +57087,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 774
+        "organizer_id": 774,
+        "participants": 9
       },
       {
         "date": "2026-09-26",
@@ -57565,7 +57746,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1
+        "organizer_id": 1,
+        "participants": 0
       },
       {
         "date": "2026-09-23",
@@ -59203,7 +59385,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1515
+        "organizer_id": 1515,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -59889,7 +60072,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1689
+        "organizer_id": 1689,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -63415,7 +63599,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 254
+        "organizer_id": 254,
+        "participants": 7
       },
       {
         "date": "2026-09-19",
@@ -63424,7 +63609,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 254
+        "organizer_id": 254,
+        "participants": 9
       },
       {
         "date": "2026-09-26",
@@ -64418,7 +64604,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 602
+        "organizer_id": 602,
+        "participants": 4
       },
       {
         "date": "2026-09-25",
@@ -68271,7 +68458,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 582
+        "organizer_id": 582,
+        "participants": 13
       },
       {
         "date": "2026-09-19",
@@ -68280,7 +68468,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 582
+        "organizer_id": 582,
+        "participants": 9
       },
       {
         "date": "2026-09-20",
@@ -68567,7 +68756,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2312
+        "organizer_id": 2312,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -68576,7 +68766,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2312
+        "organizer_id": 2312,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -68987,7 +69178,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1506
+        "organizer_id": 1506,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -69536,7 +69728,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1956
+        "organizer_id": 1956,
+        "participants": 0
       },
       {
         "date": "2026-10-10",
@@ -69890,7 +70083,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1308
+        "organizer_id": 1308,
+        "participants": 1
       },
       {
         "date": "2026-09-20",
@@ -75079,7 +75273,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 634
+        "organizer_id": 634,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -75088,7 +75283,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 634
+        "organizer_id": 634,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -75405,7 +75601,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1746
+        "organizer_id": 1746,
+        "participants": 4
       },
       {
         "date": "2026-09-25",
@@ -76382,7 +76579,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1752
+        "organizer_id": 1752,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -76391,7 +76589,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1752
+        "organizer_id": 1752,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -77263,7 +77462,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1699
+        "organizer_id": 1699,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -77272,7 +77472,8 @@
         "name": "[EN]  hOCGEN Shop Demo Sessions September - October 2026",
         "series_id": 12427,
         "game_title_id": 8,
-        "organizer_id": 1699
+        "organizer_id": 1699,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -77941,7 +78142,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 698
+        "organizer_id": 698,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -78025,7 +78227,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 693
+        "organizer_id": 693,
+        "participants": 7
       },
       {
         "date": "2026-10-31",
@@ -78727,7 +78930,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1679
+        "organizer_id": 1679,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -78736,7 +78940,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1679
+        "organizer_id": 1679,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -80120,7 +80325,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 793
+        "organizer_id": 793,
+        "participants": 28
       },
       {
         "date": "2026-09-20",
@@ -81150,7 +81356,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 636
+        "organizer_id": 636,
+        "participants": 5
       },
       {
         "date": "2026-09-21",
@@ -81171,11 +81378,47 @@
         "organizer_id": 636
       },
       {
+        "date": "2026-10-05",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "[EN][Monthly] hOCGE - October 2026 Shop Tournament",
+        "series_id": 12944,
+        "game_title_id": 8,
+        "organizer_id": 636
+      },
+      {
+        "date": "2026-10-12",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "[EN][Monthly] hOCGE - October 2026 Shop Tournament",
+        "series_id": 12944,
+        "game_title_id": 8,
+        "organizer_id": 636
+      },
+      {
+        "date": "2026-10-19",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "[EN][Monthly] hOCGE - October 2026 Shop Tournament",
+        "series_id": 12944,
+        "game_title_id": 8,
+        "organizer_id": 636
+      },
+      {
         "date": "2026-10-26",
         "type": "その他",
         "time": "12:00",
         "name": "[EN] hOCGEN - hSD14-19 Live Start Battle",
         "series_id": 11534,
+        "game_title_id": 8,
+        "organizer_id": 636
+      },
+      {
+        "date": "2026-10-26",
+        "type": "ショップ大会",
+        "time": "12:00",
+        "name": "[EN][Monthly] hOCGE - October 2026 Shop Tournament",
+        "series_id": 12944,
         "game_title_id": 8,
         "organizer_id": 636
       },
@@ -82040,7 +82283,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1848
+        "organizer_id": 1848,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -82365,7 +82609,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 609
+        "organizer_id": 609,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -82626,7 +82871,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 611
+        "organizer_id": 611,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -82635,7 +82881,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 611
+        "organizer_id": 611,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -84632,7 +84879,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 644
+        "organizer_id": 644,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -84641,7 +84889,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 644
+        "organizer_id": 644,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -85255,6 +85504,15 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
         "game_title_id": 108,
+        "organizer_id": 1356
+      },
+      {
+        "date": "2026-10-05",
+        "type": "その他",
+        "time": "11:00",
+        "name": "[EN] hOCGEN - Halloween Special Tournament 2026",
+        "series_id": 13279,
+        "game_title_id": 8,
         "organizer_id": 1356
       },
       {
@@ -86266,7 +86524,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 452
+        "organizer_id": 452,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -86275,7 +86534,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 452
+        "organizer_id": 452,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -86284,7 +86544,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 452
+        "organizer_id": 452,
+        "participants": 12
       },
       {
         "date": "2026-09-26",
@@ -86843,7 +87104,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -86852,7 +87114,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 595
+        "organizer_id": 595,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -87972,7 +88235,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1592
+        "organizer_id": 1592,
+        "participants": 3
       },
       {
         "date": "2026-09-23",
@@ -88282,7 +88546,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 354
+        "organizer_id": 354,
+        "participants": 5
       },
       {
         "date": "2026-09-19",
@@ -88291,7 +88556,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 354
+        "organizer_id": 354,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -89012,7 +89278,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1297
+        "organizer_id": 1297,
+        "participants": 11
       },
       {
         "date": "2026-09-23",
@@ -89163,7 +89430,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 866
+        "organizer_id": 866,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -89455,7 +89723,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 453
+        "organizer_id": 453,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -90194,7 +90463,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 543
+        "organizer_id": 543,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -90353,6 +90623,16 @@
         "series_id": 11979,
         "organizer_id": 1931,
         "participants": 2,
+        "game_title_id": 8
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "07:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1931,
+        "participants": 1,
         "game_title_id": 8
       },
       {
@@ -90516,7 +90796,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 603
+        "organizer_id": 603,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -91183,7 +91464,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1969
+        "organizer_id": 1969,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -91192,7 +91474,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1969
+        "organizer_id": 1969,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -91764,7 +92047,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 807
+        "organizer_id": 807,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -92207,7 +92491,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1759
+        "organizer_id": 1759,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -93230,7 +93515,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1908
+        "organizer_id": 1908,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -94366,7 +94652,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1034
+        "organizer_id": 1034,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -95732,7 +96019,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 2061
+        "organizer_id": 2061,
+        "participants": 11
       },
       {
         "date": "2026-09-19",
@@ -95741,7 +96029,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2061
+        "organizer_id": 2061,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -96860,7 +97149,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2501
+        "organizer_id": 2501,
+        "participants": 11
       },
       {
         "date": "2026-09-26",
@@ -97492,7 +97782,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1691
+        "organizer_id": 1691,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -97501,7 +97792,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1691
+        "organizer_id": 1691,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -97510,7 +97802,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1691
+        "organizer_id": 1691,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -98701,7 +98994,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1724
+        "organizer_id": 1724,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -98710,7 +99004,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1724
+        "organizer_id": 1724,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -98937,7 +99232,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2046
+        "organizer_id": 2046,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -99394,7 +99690,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1771
+        "organizer_id": 1771,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -99644,7 +99941,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1682
+        "organizer_id": 1682,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -99917,7 +100215,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1947
+        "organizer_id": 1947,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -100187,7 +100486,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1263
+        "organizer_id": 1263,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -100243,6 +100543,16 @@
         "time": "12:30",
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
+        "game_title_id": 8,
+        "organizer_id": 711,
+        "participants": 0
+      },
+      {
+        "date": "2026-10-03",
+        "type": "CS",
+        "time": "12:30",
+        "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
+        "series_id": 12401,
         "game_title_id": 8,
         "organizer_id": 711
       },
@@ -100428,7 +100738,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1837
+        "organizer_id": 1837,
+        "participants": 17
       },
       {
         "date": "2026-09-26",
@@ -100549,7 +100860,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 572
+        "organizer_id": 572,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -100652,7 +100964,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2395
+        "organizer_id": 2395,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -101399,7 +101712,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 729
+        "organizer_id": 729,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -101408,7 +101722,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 729
+        "organizer_id": 729,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -102205,7 +102520,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2427
+        "organizer_id": 2427,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -102682,7 +102998,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 255
+        "organizer_id": 255,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -103486,7 +103803,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1658
+        "organizer_id": 1658,
+        "participants": 10
       },
       {
         "date": "2026-09-19",
@@ -103495,7 +103813,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1658
+        "organizer_id": 1658,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -104550,7 +104869,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1721
+        "organizer_id": 1721,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -104559,7 +104879,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1721
+        "organizer_id": 1721,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -104568,7 +104889,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1721
+        "organizer_id": 1721,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -104894,7 +105216,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 738
+        "organizer_id": 738,
+        "participants": 2
       },
       {
         "date": "2026-10-06",
@@ -105763,7 +106086,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1861
+        "organizer_id": 1861,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -106317,7 +106641,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1625
+        "organizer_id": 1625,
+        "participants": 14
       },
       {
         "date": "2026-09-24",
@@ -106982,7 +107307,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1171
+        "organizer_id": 1171,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -107241,7 +107567,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2444
+        "organizer_id": 2444,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -108205,7 +108532,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1571
+        "organizer_id": 1571,
+        "participants": 7
       },
       {
         "date": "2026-09-23",
@@ -110674,7 +111002,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1696
+        "organizer_id": 1696,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -110973,7 +111302,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 856
+        "organizer_id": 856,
+        "participants": 10
       },
       {
         "date": "2026-09-19",
@@ -110982,7 +111312,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 856
+        "organizer_id": 856,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -111566,7 +111897,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1655
+        "organizer_id": 1655,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -112073,7 +112405,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 637
+        "organizer_id": 637,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -112427,7 +112760,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2033
+        "organizer_id": 2033,
+        "participants": 7
       },
       {
         "date": "2026-09-27",
@@ -112715,7 +113049,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 695
+        "organizer_id": 695,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -113911,7 +114246,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2488
+        "organizer_id": 2488,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -114668,7 +115004,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1892
+        "organizer_id": 1892,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -114924,7 +115261,18 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1984
+        "organizer_id": 1984,
+        "participants": 6
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "00:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1984,
+        "participants": 4,
+        "game_title_id": 8
       },
       {
         "date": "2026-09-26",
@@ -115180,7 +115528,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1963
+        "organizer_id": 1963,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -115747,7 +116096,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 908
+        "organizer_id": 908,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -116171,7 +116521,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1971
+        "organizer_id": 1971,
+        "participants": 0
       },
       {
         "date": "2026-10-10",
@@ -117172,7 +117523,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1774
+        "organizer_id": 1774,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -117181,7 +117533,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1774
+        "organizer_id": 1774,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -118401,7 +118754,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 101
+        "organizer_id": 101,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -118410,7 +118764,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 101
+        "organizer_id": 101,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -119785,6 +120140,15 @@
         "participants": 0
       },
       {
+        "date": "2026-10-05",
+        "type": "その他",
+        "time": "12:00",
+        "name": "[EN] hOCGEN - Halloween Special Tournament 2026",
+        "series_id": 13279,
+        "game_title_id": 8,
+        "organizer_id": 857
+      },
+      {
         "date": "2026-10-12",
         "type": "交流会",
         "time": "12:00",
@@ -120607,7 +120971,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 589
+        "organizer_id": 589,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -120616,7 +120981,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 589
+        "organizer_id": 589,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -121483,6 +121849,15 @@
         "organizer_id": 592
       },
       {
+        "date": "2026-10-05",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 592
+      },
+      {
         "date": "2026-10-08",
         "type": "ショップ大会",
         "time": "11:30",
@@ -121498,6 +121873,15 @@
         "name": "[EN] hOCGEN - Halloween Special Tournament 2026",
         "series_id": 13279,
         "game_title_id": 8,
+        "organizer_id": 592
+      },
+      {
+        "date": "2026-10-12",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
         "organizer_id": 592
       },
       {
@@ -121519,6 +121903,15 @@
         "organizer_id": 592
       },
       {
+        "date": "2026-10-19",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 592
+      },
+      {
         "date": "2026-10-22",
         "type": "ショップ大会",
         "time": "11:30",
@@ -121533,6 +121926,15 @@
         "time": "11:30",
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 592
+      },
+      {
+        "date": "2026-10-26",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 592
       },
@@ -121592,7 +121994,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 376
+        "organizer_id": 376,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -122375,7 +122778,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 775
+        "organizer_id": 775,
+        "participants": 29
       },
       {
         "date": "2026-09-23",
@@ -122667,7 +123071,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 795
+        "organizer_id": 795,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -123074,7 +123479,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 834
+        "organizer_id": 834,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -124780,7 +125186,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 368
+        "organizer_id": 368,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -126251,7 +126658,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 458
+        "organizer_id": 458,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -126711,7 +127119,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1295
+        "organizer_id": 1295,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -128590,7 +128999,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 776
+        "organizer_id": 776,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -128875,7 +129285,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 722
+        "organizer_id": 722,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -130708,7 +131119,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1952
+        "organizer_id": 1952,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -132104,7 +132516,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 173
+        "organizer_id": 173,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -133023,9 +133436,81 @@
         "series_id": 12381,
         "game_title_id": 108,
         "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-05",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-12",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-19",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1260
+      },
+      {
+        "date": "2026-10-26",
+        "type": "ショップ大会",
+        "time": "11:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1260
       }
     ],
-    "_last_seen": "2026-09-28",
+    "_last_seen": "2026-10-26",
     "organizer_id": 1260
   },
   "RWT Collective": {
@@ -134576,6 +135061,16 @@
         "game_title_id": 8
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1797,
+        "participants": 11,
+        "game_title_id": 8
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "01:00",
@@ -134979,7 +135474,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 647
+        "organizer_id": 647,
+        "participants": 4
       },
       {
         "date": "2026-09-25",
@@ -135037,7 +135533,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1201
+        "organizer_id": 1201,
+        "participants": 0
       }
     ],
     "_last_seen": "2026-09-19",
@@ -136166,7 +136663,18 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1695
+        "organizer_id": 1695,
+        "participants": 39
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "01:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 1695,
+        "participants": 17,
+        "game_title_id": 8
       },
       {
         "date": "2026-09-24",
@@ -139103,7 +139611,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1680
+        "organizer_id": 1680,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -139112,7 +139621,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1680
+        "organizer_id": 1680,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -139121,7 +139631,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1680
+        "organizer_id": 1680,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -139608,7 +140119,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1070
+        "organizer_id": 1070,
+        "participants": 8
       },
       {
         "date": "2026-09-25",
@@ -140566,7 +141078,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1778
+        "organizer_id": 1778,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -141165,7 +141678,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1779
+        "organizer_id": 1779,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -141174,7 +141688,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1779
+        "organizer_id": 1779,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -142297,7 +142812,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 16
+        "organizer_id": 16,
+        "participants": 20
       },
       {
         "date": "2026-09-19",
@@ -142306,7 +142822,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 16
+        "organizer_id": 16,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -142315,7 +142832,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 16
+        "organizer_id": 16,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -142818,7 +143336,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 462
+        "organizer_id": 462,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -143489,7 +144008,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1922
+        "organizer_id": 1922,
+        "participants": 3
       },
       {
         "date": "2026-09-25",
@@ -144137,7 +144657,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1716
+        "organizer_id": 1716,
+        "participants": 6
       },
       {
         "date": "2026-09-24",
@@ -144461,7 +144982,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1199
+        "organizer_id": 1199,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -144855,7 +145377,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 333
+        "organizer_id": 333,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -145486,7 +146009,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2446
+        "organizer_id": 2446,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -145959,7 +146483,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1886
+        "organizer_id": 1886,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -146657,7 +147182,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1782
+        "organizer_id": 1782,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -147012,7 +147538,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1198
+        "organizer_id": 1198,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -148386,7 +148913,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 648
+        "organizer_id": 648,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -151626,7 +152154,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 631
+        "organizer_id": 631,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -152480,7 +153009,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1364
+        "organizer_id": 1364,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -152850,7 +153380,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 699
+        "organizer_id": 699,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -155212,7 +155743,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 116
+        "organizer_id": 116,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -156289,7 +156821,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1845
+        "organizer_id": 1845,
+        "participants": 14
       },
       {
         "date": "2026-09-26",
@@ -156599,7 +157132,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1669
+        "organizer_id": 1669,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -157102,7 +157636,8 @@
         "name": "[EN]  hOCGEN Shop Demo Sessions September - October 2026",
         "series_id": 12427,
         "game_title_id": 8,
-        "organizer_id": 1195
+        "organizer_id": 1195,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -157111,7 +157646,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1195
+        "organizer_id": 1195,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -158605,7 +159141,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1601
+        "organizer_id": 1601,
+        "participants": 0
       },
       {
         "date": "2026-10-01",
@@ -159362,7 +159899,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 108
+        "organizer_id": 108,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -159534,7 +160072,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2547
+        "organizer_id": 2547,
+        "participants": 4
       },
       {
         "date": "2026-09-25",
@@ -160228,7 +160767,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2048
+        "organizer_id": 2048,
+        "participants": 5
       },
       {
         "date": "2026-09-19",
@@ -160237,7 +160777,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2048
+        "organizer_id": 2048,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -160640,7 +161181,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 480
+        "organizer_id": 480,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -162734,7 +163276,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 469
+        "organizer_id": 469,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -162987,7 +163530,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2352
+        "organizer_id": 2352,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -166726,7 +167270,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2289
+        "organizer_id": 2289,
+        "participants": 5
       },
       {
         "date": "2026-09-26",
@@ -167009,7 +167554,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 778
+        "organizer_id": 778,
+        "participants": 14
       },
       {
         "date": "2026-09-19",
@@ -167018,7 +167564,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 778
+        "organizer_id": 778,
+        "participants": 1
       },
       {
         "date": "2026-09-26",
@@ -169447,7 +169994,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 113
+        "organizer_id": 113,
+        "participants": 9
       },
       {
         "date": "2026-09-19",
@@ -169456,7 +170004,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 113
+        "organizer_id": 113,
+        "participants": 8
       },
       {
         "date": "2026-09-22",
@@ -170634,6 +171183,16 @@
         "game_title_id": 8
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "04:00",
+        "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
+        "series_id": 11979,
+        "organizer_id": 180,
+        "participants": 4,
+        "game_title_id": 8
+      },
+      {
         "date": "2026-09-26",
         "type": "ショップ大会",
         "time": "04:00",
@@ -171774,7 +172333,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1912
+        "organizer_id": 1912,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -173822,7 +174382,8 @@
         "name": "[EN] hOCGEN - Bloom Cup \"Isaki Riona\"",
         "series_id": 12401,
         "game_title_id": 8,
-        "organizer_id": 1161
+        "organizer_id": 1161,
+        "participants": 19
       },
       {
         "date": "2026-09-24",
@@ -174173,7 +174734,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1553
+        "organizer_id": 1553,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -174182,7 +174744,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1553
+        "organizer_id": 1553,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -174699,7 +175262,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2022
+        "organizer_id": 2022,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -176467,7 +177031,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1277
+        "organizer_id": 1277,
+        "participants": 9
       },
       {
         "date": "2026-09-19",
@@ -176476,7 +177041,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1277
+        "organizer_id": 1277,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -177581,7 +178147,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1140
+        "organizer_id": 1140,
+        "participants": 3
       },
       {
         "date": "2026-09-20",
@@ -177922,11 +178489,29 @@
         "participants": 1
       },
       {
+        "date": "2026-10-05",
+        "type": "ショップ大会",
+        "time": "11:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 19
+      },
+      {
         "date": "2026-10-07",
         "type": "交流会",
         "time": "10:30",
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 19
+      },
+      {
+        "date": "2026-10-12",
+        "type": "ショップ大会",
+        "time": "11:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 19
       },
@@ -177940,11 +178525,29 @@
         "organizer_id": 19
       },
       {
+        "date": "2026-10-19",
+        "type": "ショップ大会",
+        "time": "11:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 19
+      },
+      {
         "date": "2026-10-21",
         "type": "交流会",
         "time": "10:30",
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 19
+      },
+      {
+        "date": "2026-10-26",
+        "type": "ショップ大会",
+        "time": "11:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 19
       },
@@ -178103,7 +178706,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 1641
+        "organizer_id": 1641,
+        "participants": 11
       },
       {
         "date": "2026-09-26",
@@ -178770,7 +179374,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2000
+        "organizer_id": 2000,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -180741,7 +181346,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 649
+        "organizer_id": 649,
+        "participants": 7
       },
       {
         "date": "2026-09-20",
@@ -181489,7 +182095,8 @@
         "name": "[EN][Monthly] hOCGE - September 2026 Shop Tournament",
         "series_id": 11979,
         "game_title_id": 8,
-        "organizer_id": 2517
+        "organizer_id": 2517,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -183918,7 +184525,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1770
+        "organizer_id": 1770,
+        "participants": 0
       },
       {
         "date": "2026-09-20",
@@ -184590,7 +185198,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 654
+        "organizer_id": 654,
+        "participants": 2
       },
       {
         "date": "2026-09-24",
@@ -185770,7 +186379,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1560
+        "organizer_id": 1560,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -186538,7 +187148,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1051
+        "organizer_id": 1051,
+        "participants": 2
       },
       {
         "date": "2026-09-24",
@@ -187506,7 +188117,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1914
+        "organizer_id": 1914,
+        "participants": 7
       },
       {
         "date": "2026-09-20",
@@ -187902,7 +188514,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1094
+        "organizer_id": 1094,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -187911,7 +188524,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1094
+        "organizer_id": 1094,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -189461,11 +190075,29 @@
         "organizer_id": 1317
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1317
+      },
+      {
         "date": "2026-10-11",
         "type": "ショップ大会",
         "time": "06:30",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1317
+      },
+      {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1317
       },
@@ -189479,6 +190111,15 @@
         "organizer_id": 1317
       },
       {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1317
+      },
+      {
         "date": "2026-10-25",
         "type": "ショップ大会",
         "time": "06:30",
@@ -189486,9 +190127,18 @@
         "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 1317
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1317
       }
     ],
-    "_last_seen": "2026-10-25",
+    "_last_seen": "2026-10-26",
     "organizer_id": 1317
   },
   "夜貓巷": {
@@ -190956,7 +191606,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1073
+        "organizer_id": 1073,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -190965,7 +191616,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1073
+        "organizer_id": 1073,
+        "participants": 6
       },
       {
         "date": "2026-09-27",
@@ -192155,7 +192807,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1053
+        "organizer_id": 1053,
+        "participants": 1
       },
       {
         "date": "2026-09-19",
@@ -192164,7 +192817,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1053
+        "organizer_id": 1053,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -193901,7 +194555,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1055
+        "organizer_id": 1055,
+        "participants": 7
       },
       {
         "date": "2026-09-19",
@@ -193910,7 +194565,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1055
+        "organizer_id": 1055,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -194297,7 +194953,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1804
+        "organizer_id": 1804,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -194306,7 +194963,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1804
+        "organizer_id": 1804,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -194537,7 +195195,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1064
+        "organizer_id": 1064,
+        "participants": 7
       },
       {
         "date": "2026-09-19",
@@ -194546,7 +195205,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1064
+        "organizer_id": 1064,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -195192,7 +195852,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1563
+        "organizer_id": 1563,
+        "participants": 8
       },
       {
         "date": "2026-09-19",
@@ -195201,7 +195862,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1563
+        "organizer_id": 1563,
+        "participants": 8
       },
       {
         "date": "2026-09-26",
@@ -197798,7 +198460,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1577
+        "organizer_id": 1577,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -197807,7 +198470,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1577
+        "organizer_id": 1577,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -199249,7 +199913,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1097
+        "organizer_id": 1097,
+        "participants": 8
       },
       {
         "date": "2026-09-25",
@@ -199675,6 +200340,15 @@
         "organizer_id": 651
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 651
+      },
+      {
         "date": "2026-10-08",
         "type": "ショップ大会",
         "time": "11:30",
@@ -199693,11 +200367,29 @@
         "organizer_id": 651
       },
       {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 651
+      },
+      {
         "date": "2026-10-15",
         "type": "ショップ大会",
         "time": "11:30",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 651
+      },
+      {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 651
       },
@@ -199709,9 +200401,18 @@
         "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 651
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 651
       }
     ],
-    "_last_seen": "2026-10-22",
+    "_last_seen": "2026-10-26",
     "organizer_id": 651
   },
   "脈動卡牌屋": {
@@ -200773,7 +201474,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1080
+        "organizer_id": 1080,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -200782,7 +201484,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1080
+        "organizer_id": 1080,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -201100,7 +201803,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1409
+        "organizer_id": 1409,
+        "participants": 7
       },
       {
         "date": "2026-09-19",
@@ -201109,7 +201813,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1409
+        "organizer_id": 1409,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -202805,7 +203510,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1074
+        "organizer_id": 1074,
+        "participants": 5
       },
       {
         "date": "2026-09-25",
@@ -203555,7 +204261,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1086
+        "organizer_id": 1086,
+        "participants": 8
       },
       {
         "date": "2026-09-21",
@@ -203585,11 +204292,29 @@
         "organizer_id": 1086
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1086
+      },
+      {
         "date": "2026-10-10",
         "type": "ショップ大会",
         "time": "11:00",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1086
+      },
+      {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1086
       },
@@ -203603,11 +204328,29 @@
         "organizer_id": 1086
       },
       {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1086
+      },
+      {
         "date": "2026-10-24",
         "type": "ショップ大会",
         "time": "11:00",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1086
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "11:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1086
       },
@@ -204140,7 +204883,8 @@
         "name": "[JP] hOCG Bloom Cup 「響咲リオナ」 - September（2026）",
         "series_id": 12761,
         "game_title_id": 108,
-        "organizer_id": 1081
+        "organizer_id": 1081,
+        "participants": 21
       },
       {
         "date": "2026-09-21",
@@ -204170,11 +204914,29 @@
         "organizer_id": 1081
       },
       {
+        "date": "2026-10-05",
+        "type": "交流会",
+        "time": "11:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1081
+      },
+      {
         "date": "2026-10-09",
         "type": "ショップ大会",
         "time": "11:00",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1081
+      },
+      {
+        "date": "2026-10-12",
+        "type": "交流会",
+        "time": "11:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1081
       },
@@ -204197,11 +204959,29 @@
         "organizer_id": 1081
       },
       {
+        "date": "2026-10-19",
+        "type": "交流会",
+        "time": "11:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1081
+      },
+      {
         "date": "2026-10-23",
         "type": "ショップ大会",
         "time": "11:00",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1081
+      },
+      {
+        "date": "2026-10-26",
+        "type": "交流会",
+        "time": "11:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13270,
         "game_title_id": 108,
         "organizer_id": 1081
       },
@@ -204500,7 +205280,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1089
+        "organizer_id": 1089,
+        "participants": 4
       },
       {
         "date": "2026-09-23",
@@ -205721,7 +206502,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1805
+        "organizer_id": 1805,
+        "participants": 9
       },
       {
         "date": "2026-09-25",
@@ -208405,7 +209187,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1046
+        "organizer_id": 1046,
+        "participants": 6
       },
       {
         "date": "2026-09-22",
@@ -208812,7 +209595,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1808
+        "organizer_id": 1808,
+        "participants": 0
       },
       {
         "date": "2026-09-23",
@@ -209174,7 +209958,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1103
+        "organizer_id": 1103,
+        "participants": 0
       },
       {
         "date": "2026-09-23",
@@ -209923,7 +210708,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1589
+        "organizer_id": 1589,
+        "participants": 11
       },
       {
         "date": "2026-09-19",
@@ -209932,7 +210718,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1589
+        "organizer_id": 1589,
+        "participants": 12
       },
       {
         "date": "2026-09-26",
@@ -211150,7 +211937,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1177
+        "organizer_id": 1177,
+        "participants": 12
       },
       {
         "date": "2026-09-25",
@@ -211617,6 +212405,26 @@
         "series_id": 12380,
         "organizer_id": 1483,
         "participants": 5,
+        "game_title_id": 108
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "03:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12381,
+        "organizer_id": 1483,
+        "participants": 4,
+        "game_title_id": 108
+      },
+      {
+        "date": "2026-09-19",
+        "type": "交流会",
+        "time": "05:00",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12380,
+        "organizer_id": 1483,
+        "participants": 4,
         "game_title_id": 108
       },
       {
@@ -212745,6 +213553,16 @@
         "game_title_id": 108
       },
       {
+        "date": "2026-09-19",
+        "type": "交流会",
+        "time": "02:30",
+        "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12380,
+        "organizer_id": 1127,
+        "participants": 1,
+        "game_title_id": 108
+      },
+      {
         "date": "2026-09-20",
         "type": "ショップ大会",
         "time": "02:30",
@@ -213514,6 +214332,16 @@
         "game_title_id": 108
       },
       {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "03:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12381,
+        "organizer_id": 1126,
+        "participants": 1,
+        "game_title_id": 108
+      },
+      {
         "date": "2026-09-25",
         "type": "交流会",
         "time": "11:00",
@@ -213908,7 +214736,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1497
+        "organizer_id": 1497,
+        "participants": 7
       },
       {
         "date": "2026-09-25",
@@ -214268,7 +215097,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1537
+        "organizer_id": 1537,
+        "participants": 2
       },
       {
         "date": "2026-09-20",
@@ -214664,7 +215494,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1146
+        "organizer_id": 1146,
+        "participants": 3
       },
       {
         "date": "2026-09-20",
@@ -214911,6 +215742,16 @@
       },
       {
         "date": "2026-09-12",
+        "type": "ショップ大会",
+        "time": "05:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12381,
+        "organizer_id": 1143,
+        "participants": 1,
+        "game_title_id": 108
+      },
+      {
+        "date": "2026-09-19",
         "type": "ショップ大会",
         "time": "05:30",
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
@@ -215279,7 +216120,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1503
+        "organizer_id": 1503,
+        "participants": 24
       },
       {
         "date": "2026-09-20",
@@ -216730,7 +217572,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1132
+        "organizer_id": 1132,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -216739,7 +217582,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1132
+        "organizer_id": 1132,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -217099,7 +217943,18 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1142
+        "organizer_id": 1142,
+        "participants": 6
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "04:00",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12381,
+        "organizer_id": 1142,
+        "participants": 6,
+        "game_title_id": 108
       },
       {
         "date": "2026-09-26",
@@ -218879,7 +219734,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1532
+        "organizer_id": 1532,
+        "participants": 5
       },
       {
         "date": "2026-09-19",
@@ -218888,7 +219744,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1532
+        "organizer_id": 1532,
+        "participants": 6
       },
       {
         "date": "2026-09-26",
@@ -219230,7 +220087,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1205
+        "organizer_id": 1205,
+        "participants": 5
       },
       {
         "date": "2026-09-20",
@@ -220442,11 +221300,29 @@
         "organizer_id": 1495
       },
       {
+        "date": "2026-10-05",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1495
+      },
+      {
         "date": "2026-10-12",
         "type": "交流会",
         "time": "12:30",
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1495
+      },
+      {
+        "date": "2026-10-12",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 1495
       },
@@ -220460,11 +221336,29 @@
         "organizer_id": 1495
       },
       {
+        "date": "2026-10-19",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
+        "game_title_id": 108,
+        "organizer_id": 1495
+      },
+      {
         "date": "2026-10-26",
         "type": "交流会",
         "time": "12:30",
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
         "series_id": 13270,
+        "game_title_id": 108,
+        "organizer_id": 1495
+      },
+      {
+        "date": "2026-10-26",
+        "type": "ショップ大会",
+        "time": "10:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - October 2026",
+        "series_id": 13269,
         "game_title_id": 108,
         "organizer_id": 1495
       }
@@ -220773,7 +221667,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1128
+        "organizer_id": 1128,
+        "participants": 0
       },
       {
         "date": "2026-09-23",
@@ -222350,7 +223245,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2559
+        "organizer_id": 2559,
+        "participants": 0
       },
       {
         "date": "2026-09-25",
@@ -223133,7 +224029,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1534
+        "organizer_id": 1534,
+        "participants": 6
       },
       {
         "date": "2026-09-19",
@@ -223142,7 +224039,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1534
+        "organizer_id": 1534,
+        "participants": 7
       },
       {
         "date": "2026-09-26",
@@ -223844,7 +224742,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1516
+        "organizer_id": 1516,
+        "participants": 16
       },
       {
         "date": "2026-09-19",
@@ -223853,7 +224752,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1516
+        "organizer_id": 1516,
+        "participants": 16
       },
       {
         "date": "2026-09-26",
@@ -225829,7 +226729,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1711
+        "organizer_id": 1711,
+        "participants": 4
       },
       {
         "date": "2026-09-19",
@@ -225838,7 +226739,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1711
+        "organizer_id": 1711,
+        "participants": 4
       },
       {
         "date": "2026-09-26",
@@ -227028,7 +227930,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1124
+        "organizer_id": 1124,
+        "participants": 0
       },
       {
         "date": "2026-09-19",
@@ -227037,7 +227940,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1124
+        "organizer_id": 1124,
+        "participants": 0
       },
       {
         "date": "2026-09-26",
@@ -227398,7 +228302,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1535
+        "organizer_id": 1535,
+        "participants": 10
       },
       {
         "date": "2026-09-25",
@@ -228199,7 +229104,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 2068
+        "organizer_id": 2068,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -228208,7 +229114,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 2068
+        "organizer_id": 2068,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -228614,7 +229521,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1122
+        "organizer_id": 1122,
+        "participants": 2
       },
       {
         "date": "2026-09-22",
@@ -229748,7 +230656,18 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1484
+        "organizer_id": 1484,
+        "participants": 1
+      },
+      {
+        "date": "2026-09-19",
+        "type": "ショップ大会",
+        "time": "04:30",
+        "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
+        "series_id": 12381,
+        "organizer_id": 1484,
+        "participants": 1,
+        "game_title_id": 108
       },
       {
         "date": "2026-09-26",
@@ -230126,7 +231045,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1489
+        "organizer_id": 1489,
+        "participants": 3
       },
       {
         "date": "2026-09-19",
@@ -230135,7 +231055,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1489
+        "organizer_id": 1489,
+        "participants": 3
       },
       {
         "date": "2026-09-26",
@@ -230632,7 +231553,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1968
+        "organizer_id": 1968,
+        "participants": 2
       },
       {
         "date": "2026-09-19",
@@ -230641,7 +231563,8 @@
         "name": "[JP][Casual] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12380,
         "game_title_id": 108,
-        "organizer_id": 1968
+        "organizer_id": 1968,
+        "participants": 2
       },
       {
         "date": "2026-09-26",
@@ -231038,7 +231961,8 @@
         "name": "[JP][Monthly] hololive OFFICIAL CARD GAME Shop Tournament - September 2026",
         "series_id": 12381,
         "game_title_id": 108,
-        "organizer_id": 1536
+        "organizer_id": 1536,
+        "participants": 2
       },
       {
         "date": "2026-09-23",
