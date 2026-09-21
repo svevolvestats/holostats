@@ -4884,7 +4884,9 @@
     "prints": [
       111,
       181,
-      1586
+      1586,
+      2829,
+      2965
     ],
     "hp": 80,
     "bloom_level": "Debut",
@@ -5551,7 +5553,9 @@
     "prints": [
       128,
       195,
-      1588
+      1588,
+      2830,
+      2966
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -5628,7 +5632,8 @@
       130,
       219,
       2526,
-      2627
+      2627,
+      2698
     ],
     "hp": 110,
     "bloom_level": "1st",
@@ -6192,7 +6197,8 @@
     "release_date": "2024-09-20",
     "canonical_print": 148,
     "prints": [
-      148
+      148,
+      2990
     ],
     "ability_text": "自分のアーカイブのエール1～3枚をエールデッキに戻す。そしてエールデッキをシャッフルする。",
     "min_price": 30
@@ -7229,7 +7235,8 @@
       2026,
       2450,
       2670,
-      2676
+      2676,
+      2971
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -7256,7 +7263,8 @@
       2027,
       2451,
       2671,
-      2677
+      2677,
+      2972
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -7288,7 +7296,8 @@
       2452,
       2672,
       2678,
-      2684
+      2684,
+      2973
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -7317,7 +7326,8 @@
       2453,
       2673,
       2679,
-      2685
+      2685,
+      2974
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -7810,7 +7820,8 @@
       1100,
       2159,
       2528,
-      2629
+      2629,
+      2699
     ],
     "hp": 120,
     "bloom_level": "1st",
@@ -7947,7 +7958,8 @@
       281,
       511,
       1253,
-      1369
+      1369,
+      2831
     ],
     "hp": 130,
     "bloom_level": "Debut",
@@ -8358,7 +8370,9 @@
       291,
       501,
       1101,
-      1899
+      1899,
+      2832,
+      2967
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -9965,7 +9979,8 @@
       332,
       1106,
       1262,
-      1373
+      1373,
+      2833
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -11004,7 +11019,8 @@
     "release_date": "2024-12-20",
     "canonical_print": 228,
     "prints": [
-      228
+      228,
+      2986
     ],
     "hp": 60,
     "bloom_level": "Debut",
@@ -12320,7 +12336,8 @@
       2030,
       2454,
       2674,
-      2680
+      2680,
+      2975
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n\r\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -12387,7 +12404,9 @@
     "canonical_print": 518,
     "prints": [
       518,
-      858
+      858,
+      2839,
+      2970
     ],
     "hp": 100,
     "bloom_level": "Debut",
@@ -15180,7 +15199,8 @@
     "canonical_print": 602,
     "prints": [
       602,
-      720
+      720,
+      2700
     ],
     "hp": 130,
     "bloom_level": "1st",
@@ -15674,7 +15694,9 @@
     "prints": [
       615,
       814,
-      1396
+      1396,
+      2834,
+      2968
     ],
     "hp": 110,
     "bloom_level": "Debut",
@@ -16033,7 +16055,8 @@
       739,
       2131,
       2546,
-      2646
+      2646,
+      2701
     ],
     "hp": 130,
     "bloom_level": "1st",
@@ -17648,7 +17671,8 @@
       2031,
       2455,
       2675,
-      2681
+      2681,
+      2976
     ],
     "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。\n■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
     "min_price": 80
@@ -18053,7 +18077,8 @@
       874,
       981,
       2551,
-      2650
+      2650,
+      2702
     ],
     "hp": 140,
     "bloom_level": "1st",
@@ -19190,7 +19215,8 @@
     "canonical_print": 901,
     "prints": [
       901,
-      1404
+      1404,
+      2835
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -19330,7 +19356,8 @@
       905,
       1405,
       1587,
-      1709
+      1709,
+      2836
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -20277,7 +20304,8 @@
       929,
       1118,
       1593,
-      1711
+      1711,
+      2837
     ],
     "hp": 130,
     "bloom_level": "Debut",
@@ -20593,7 +20621,8 @@
     "prints": [
       936,
       1042,
-      1120
+      1120,
+      2703
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -20809,7 +20838,9 @@
     "prints": [
       941,
       1408,
-      1592
+      1592,
+      2838,
+      2969
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -25551,7 +25582,8 @@
     "canonical_print": 1462,
     "prints": [
       1462,
-      1725
+      1725,
+      2840
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -31365,7 +31397,8 @@
     "canonical_print": 1796,
     "prints": [
       1796,
-      1920
+      1920,
+      2704
     ],
     "hp": 170,
     "bloom_level": "1st",
@@ -31741,7 +31774,8 @@
     "canonical_print": 1805,
     "prints": [
       1805,
-      1929
+      1929,
+      2705
     ],
     "ability_text": "白◇ホロライブID初代ダンスクイーン　50\nこのホロメンにマスコットかファンが付いているなら、自分のデッキを1枚引く。",
     "min_price": 80
@@ -31889,7 +31923,8 @@
     "canonical_print": 1809,
     "prints": [
       1809,
-      2189
+      2189,
+      2706
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -32455,7 +32490,8 @@
     "canonical_print": 1823,
     "prints": [
       1823,
-      1947
+      1947,
+      2707
     ],
     "hp": 100,
     "bloom_level": "Debut",
@@ -33659,7 +33695,8 @@
     "prints": [
       1853,
       1977,
-      2457
+      2457,
+      2708
     ],
     "hp": 150,
     "bloom_level": "1st",
@@ -33801,7 +33838,8 @@
     "canonical_print": 1856,
     "prints": [
       1856,
-      1981
+      1981,
+      2709
     ],
     "hp": 150,
     "bloom_level": "1st",
@@ -34237,7 +34275,8 @@
     "canonical_print": 1867,
     "prints": [
       1867,
-      1992
+      1992,
+      2710
     ],
     "hp": 180,
     "bloom_level": "1st",
@@ -35151,7 +35190,8 @@
     "release_date": "2026-04-24",
     "canonical_print": 2068,
     "prints": [
-      2068
+      2068,
+      2987
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -35548,7 +35588,8 @@
     "release_date": "2026-04-24",
     "canonical_print": 2080,
     "prints": [
-      2080
+      2080,
+      2988
     ],
     "hp": 90,
     "bloom_level": "Debut",
@@ -35915,7 +35956,8 @@
     "release_date": "2026-04-24",
     "canonical_print": 2091,
     "prints": [
-      2091
+      2091,
+      2989
     ],
     "hp": 80,
     "bloom_level": "Debut",
@@ -37594,7 +37636,8 @@
     "canonical_print": 2215,
     "prints": [
       2215,
-      2350
+      2350,
+      2711
     ],
     "hp": 160,
     "bloom_level": "1st",
@@ -37988,7 +38031,8 @@
     "release_date": "2026-06-19",
     "canonical_print": 2224,
     "prints": [
-      2224
+      2224,
+      2977
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -38998,7 +39042,8 @@
     "release_date": "2026-06-19",
     "canonical_print": 2250,
     "prints": [
-      2250
+      2250,
+      2978
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -39421,7 +39466,8 @@
     "canonical_print": 2260,
     "prints": [
       2260,
-      2371
+      2371,
+      2712
     ],
     "hp": 180,
     "bloom_level": "1st",
@@ -39687,7 +39733,8 @@
     "canonical_print": 2266,
     "prints": [
       2266,
-      2412
+      2412,
+      2713
     ],
     "hp": 150,
     "bloom_level": "1st",
@@ -39988,7 +40035,8 @@
     "canonical_print": 2273,
     "prints": [
       2273,
-      2416
+      2416,
+      2714
     ],
     "hp": 180,
     "bloom_level": "1st",
@@ -40376,7 +40424,8 @@
     "canonical_print": 2282,
     "prints": [
       2282,
-      2420
+      2420,
+      2715
     ],
     "hp": 170,
     "bloom_level": "1st",
@@ -40630,7 +40679,8 @@
     "canonical_print": 2288,
     "prints": [
       2288,
-      2423
+      2423,
+      2716
     ],
     "hp": 120,
     "bloom_level": "Debut",
@@ -41685,7 +41735,8 @@
     "canonical_print": 2488,
     "prints": [
       2488,
-      2588
+      2588,
+      2717
     ],
     "hp": 160,
     "bloom_level": "1st",
@@ -42347,5 +42398,3970 @@
     ],
     "ability_text": "このツールが付いているホロメンのアーツ+10。\n◆2nd〈博衣こより〉に付いていたら能力追加\n [センターポジション・コラボポジション限定]自分のパフォーマンスステップが終了する時、このホロメンに付いている〈なんでも爆解！〉1枚をアーカイブできる：相手のセンターホロメンに特殊ダメージ30を与える。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
     "min_price": 50
+  },
+  {
+    "oracle_id": "hBP09-001",
+    "name": "大空スバル",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2718,
+    "prints": [
+      2718,
+      2841,
+      2851
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "大空警察出動！",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "相手のステージのホロメン1人を選ぶ。自分のデッキから、選んだホロメンと同じBloomレベルの〈大空スバル〉1枚をステージに出す。そしてデッキをシャッフルする。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-002",
+    "name": "轟はじめ",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2719,
+    "prints": [
+      2719,
+      2847,
+      2852
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "",
+      "holo_power": null,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "[ホロパワー:-X]ウケたらなお好し、スベるも好し自分のセンターの〈轟はじめ〉を選ぶ。このターンの間、この能力でアーカイブしたホロパワー1枚につき、選んだホロメンのアーツ+10。さらに、7枚以上なら、このターンの間、自分のステージの〈轟はじめ〉全員のアーツ+100。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-003",
+    "name": "白銀ノエル",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2720,
+    "prints": [
+      2720,
+      2842,
+      2848,
+      2853
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "あふれる牛丼愛",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のアーカイブのエール1枚を自分の〈白銀ノエル〉に送る。自分のアーカイブに〈牛丼〉が3枚以上あるなら、かわりに、自分のアーカイブのエール1～2枚を自分の〈白銀ノエル〉に割り振って送る。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-004",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2721,
+    "prints": [
+      2721,
+      2849,
+      2854
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "レアアイテムを発見せよ！",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のステージの#カエラ'sアームズを持つツール2枚をアーカイブする。この能力で2枚アーカイブしたなら、相手のDebut以外の[センターホロメンかコラボホロメン]に、特殊ダメージ100を与える。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-005",
+    "name": "常闇トワ",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2722,
+    "prints": [
+      2722,
+      2855
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "とびっきりオーバーなショット",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のパフォーマンスステップが終了する時に使える:このターンに自分の#歌を持つホロメンがアーツを使った回数1回につき、自分のデッキを1枚引く。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-006",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2723,
+    "prints": [
+      2723,
+      2850,
+      2856
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "伝説の美（ヴィ）",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のデッキを3枚引き、相手は、自身のデッキを2枚引く。"
+    },
+    "sp_oshi_skill": {
+      "name": "ナイヴィヴィ！イケヴィヴィ！カッコヴィヴィ！",
+      "holo_power": -3,
+      "once_per_turn": false,
+      "once_per_game": true,
+      "text": "自分のセンターが2nd〈綺々羅々ヴィヴィ〉なら、お互いの[手札すべてとアーカイブのホロメンとサポートすべて]をデッキに戻してシャッフルする。そしてそれぞれのデッキを7枚引く。"
+    },
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-007",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2724,
+    "prints": [
+      2724,
+      2843,
+      2857
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "愛するものに囲まれて",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のデッキから、#ラミィのお酒を持つサポート1～2枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-008",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2725,
+    "prints": [
+      2725,
+      2907,
+      2979
+    ],
+    "hp": 110,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n[ターンに1回]相手のターンで、このホロメンが1回に40以上のアーツダメージを受けた時、相手のセンターホロメンに特殊ダメージ30を与える。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白"
+        ],
+        "name": "ロング、似合うっスか？",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-009",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2726,
+    "prints": [
+      2726
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、次の相手のターンの間、自分の〈大空スバル〉全員が1stホロメンから受けるアーツダメージ-100。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "柔らかな日差し",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-010",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2727,
+    "prints": [
+      2727,
+      2844,
+      2908
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分のデッキを2枚引き、手札2枚を好きな順でデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "ここから盛り上がるっスよ！",
+        "power": 30,
+        "power_plus": false,
+        "text": "相手のステージのツール1枚をアーカイブする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-011",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2728,
+    "prints": [
+      2728,
+      2909
+    ],
+    "hp": 180,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト雨中のお日様\n[ターンに1回]相手のターンで、このホロメンが1回に100以上のアーツダメージを受けた時、自分のデッキを2枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "雨にも負けず風にも負けず",
+        "power": 40,
+        "power_plus": false,
+        "text": "自分のデッキを1枚引く。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-012",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2729,
+    "prints": [
+      2729,
+      2870
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈大空スバル〉で、相手のホロパワーが2枚以上あるなら、自分のデッキの上から1枚をホロパワーにする。自分のブルームエフェクト「BIG3懇親会 side S」はターンに1回しか使えない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "白",
+          "無"
+        ],
+        "name": "もつのおかわりください",
+        "power": 80,
+        "power_plus": true,
+        "text": "前の相手のターンに自分のホロメンがダウンしていたなら、このアーツ+50。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-013",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2730,
+    "prints": [
+      2730,
+      2910
+    ],
+    "hp": 190,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトひよこお部屋着\n自分のデッキから、[〈大空警察〉か〈スピード違反〉]1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "無"
+        ],
+        "name": "リラックスホリデー",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "赤+50"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-014",
+    "name": "大空スバル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2731,
+    "prints": [
+      2731,
+      2858,
+      2871
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトそれ、没収っスよ！\n[ターンに1回]相手のターンで、このホロメンが1回に200以上のアーツダメージを受けた時、相手は、自身のセンターホロメンのエールすべてを好きな順でエールデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "白",
+          "白"
+        ],
+        "name": "沈まない太陽",
+        "power": 160,
+        "power_plus": true,
+        "tokkou": "紫+50",
+        "text": "前の相手のターンに、ダウンしていた自分のホロメン1人につき、このアーツ+40。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-015",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2732,
+    "prints": [
+      2732,
+      2911
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n自分のステージにホロメンが3人以上いるなら、このホロメンのバトンタッチに必要な無色-1。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白"
+        ],
+        "name": "軽やかなステップ",
+        "power": 20,
+        "power_plus": true,
+        "text": "このターンに自分のホロメンがバトンタッチしていたなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-016",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2733,
+    "prints": [
+      2733
+    ],
+    "hp": 110,
+    "bloom_level": "Debut",
+    "baton_touch": [],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のデッキから、バトンタッチに必要な無色が１つの〈轟はじめ〉2枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "先陣を切る！",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-017",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2734,
+    "prints": [
+      2734,
+      2912
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\nこのホロメンが受けるアーツダメージ-30。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "待ち合わせの角で",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-018",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2735,
+    "prints": [
+      2735,
+      2913
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n[センターポジション限定]自分のデッキを2枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "おちょなびたふくそー",
+        "power": 30,
+        "power_plus": true,
+        "text": "[コラボポジション限定]このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-019",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2736,
+    "prints": [
+      2736,
+      2872
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n[バックポジション限定]自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのバトンタッチに必要な無色-2。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白"
+        ],
+        "name": "ぶんぶんばんちょー",
+        "power": 40,
+        "power_plus": true,
+        "text": "[センターポジション限定]このターンに自分のホロメンがバトンタッチしていたなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-020",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2737,
+    "prints": [
+      2737,
+      2914
+    ],
+    "hp": 190,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト奇想天外な盤面\nこのホロメンはリセットステップでお休みしない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白"
+        ],
+        "name": "悟ればいいんだ！",
+        "power": 60,
+        "power_plus": false,
+        "tokkou": "紫+50",
+        "text": "[コラボポジション限定]このターンの間、自分のセンターホロメンのアーツに必要な白-1。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-021",
+    "name": "轟はじめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2738,
+    "prints": [
+      2738,
+      2859,
+      2873
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトストイックダンサー\nこのホロメンが相手のホロメンをダウンさせた時、自分のデッキの上から1枚をホロパワーにする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "白"
+        ],
+        "name": "尽きることなき情熱",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "赤+50",
+        "text": "このターンに自分のホロメンがバトンタッチしていたなら、このアーツ+80。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-022",
+    "name": "角巻わため",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2739,
+    "prints": [
+      2739,
+      2874
+    ],
+    "hp": 210,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクトわためいとの楽園\n相手のステージのホロメン1人を選ぶ。自分のホロパワーが10枚以上あるなら、このターンの間、選んだホロメンは2ndホロメンとしても扱う。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "白",
+          "白"
+        ],
+        "name": "花がきれいだねぇ",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "紫+50",
+        "text": "自分のホロパワーが4枚以上あるなら、このアーツ+50。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-023",
+    "name": "ベスティア・ゼータ",
+    "card_type": [
+      "Buzzホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2740,
+    "prints": [
+      2740,
+      2875
+    ],
+    "ability_text": "白白◇漆黒の諜報　120+\n[センターポジション限定]このターンに自分の推しスキル「Good Luck, holoh3ro!」を使っていたなら、このアーツ+80。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-024",
+    "name": "響咲リオナ",
+    "card_type": [
+      "Buzzホロメン"
+    ],
+    "color": "白",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2741,
+    "prints": [
+      2741,
+      2876
+    ],
+    "ability_text": "白白リーダーへのお返し　70+\n[センターポジション限定]自分のステージに〈虎金妃笑虎〉と〈水宮枢〉と〈輪堂千速〉と〈綺々羅々ヴィヴィ〉がいるなら、このアーツ+100。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-025",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2742,
+    "prints": [
+      2742,
+      2915,
+      2980
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n自分の推しホロメンが推しステージスキルを持つなら、このホロメンのHP+20。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "今日はプライベート！",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-026",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2743,
+    "prints": [
+      2743
+    ],
+    "hp": 140,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のデッキから、[Debut〈白銀ノエル〉と〈牛丼〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑"
+        ],
+        "name": "慈愛の鉄槌",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-027",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2744,
+    "prints": [
+      2744,
+      2916
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト団長出陣！\nこのホロメンのHPが減っていないなら、このホロメンが1stホロメンから受けるアーツダメージ-50。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "優しくて力持ち！",
+        "power": 40,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-028",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2745,
+    "prints": [
+      2745,
+      2917
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のデッキから、〈牛丼〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "白銀聖騎士団集合！",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-029",
+    "name": "白銀ノエル",
+    "card_type": [
+      "Buzzホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2746,
+    "prints": [
+      2746,
+      2877
+    ],
+    "ability_text": "緑緑◇BIG3懇親会 side N　100\n自分のデッキから、2nd〈白銀ノエル〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-030",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2747,
+    "prints": [
+      2747,
+      2918
+    ],
+    "hp": 220,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト白銀聖騎士団を背負う者\n自分のアーカイブの〈牛丼〉1枚につき、自分のホロメン1人のHP10回復。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "頼もしき筋力",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "黄+50",
+        "text": "自分のアーカイブの〈牛丼〉1枚につき、このアーツ+10。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-031",
+    "name": "白銀ノエル",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2748,
+    "prints": [
+      2748,
+      2860,
+      2878
+    ],
+    "hp": 220,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト究極の牛丼道\n[ターンに1回]このホロメンが〈牛丼〉の能力で回復するHP+100。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "緑",
+          "緑",
+          "無"
+        ],
+        "name": "牛丼は～飲み物！",
+        "power": 10,
+        "power_plus": true,
+        "tokkou": "青+50",
+        "text": "自分の推しホロメンが〈白銀ノエル〉で、このホロメンの残りHPが200以上なら、このアーツ+200。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-032",
+    "name": "大神ミオ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2749,
+    "prints": [
+      2749,
+      2919
+    ],
+    "hp": 100,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分の手札の[マスコットかファン]1枚を公開し、デッキの上に戻せる:自分のエールデッキの上から1枚を自分の#ゲーマーズを持つホロメンに送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑"
+        ],
+        "name": "いってみぉーん",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-033",
+    "name": "大神ミオ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2750,
+    "prints": [
+      2750,
+      2920
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のデッキの上から1枚をアーカイブできる:アーカイブしたカードがサポートなら、自分のエールデッキの上から1枚を自分のホロメンに送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "無"
+        ],
+        "name": "火照る湯あみ",
+        "power": 50,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-034",
+    "name": "大神ミオ",
+    "card_type": [
+      "Buzzホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2751,
+    "prints": [
+      2751,
+      2879
+    ],
+    "ability_text": "緑緑◇うちと一緒にいこう！　110",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-035",
+    "name": "大神ミオ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2752,
+    "prints": [
+      2752,
+      2861,
+      2880
+    ],
+    "hp": 210,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト癒しの空間\n自分の推しホロメンが〈大神ミオ〉なら、自分のデッキを3枚引き、手札2枚を好きな順でデッキの上に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "料理は愛情",
+        "power": 180,
+        "power_plus": true,
+        "tokkou": "青+50",
+        "text": "自分のデッキの上から2枚をアーカイブできる:自分のステージのホロメン1人を選ぶ。この能力でアーカイブしたサポート1枚につき、このターンの間、選んだホロメンのアーツ+30。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-036",
+    "name": "風真いろは",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2753,
+    "prints": [
+      2753,
+      2881
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分のステージの〈AZKi〉1人を選ぶ。自分のエールデッキから、選んだホロメンと同色のエール1枚を選んだホロメンに送る。そしてエールデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "助太刀、感謝でござる！",
+        "power": 20,
+        "power_plus": true,
+        "text": "自分のセンターの〈AZKi〉のエール1枚につき、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-037",
+    "name": "輪堂千速",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "緑",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2754,
+    "prints": [
+      2754,
+      2882
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトFantastic Driver\nこのホロメンが相手のホロメンをダウンさせた時、自分の#FLOW GLOWを持つバックホロメン1人を選ぶ。選んだホロメンを含め重なっているホロメンすべてを手札に戻せる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "緑",
+          "緑",
+          "無"
+        ],
+        "name": "Victory Feast",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "黄+50",
+        "text": "自分の推しホロメンが〈輪堂千速〉なら、自分のステージのDebut以外のホロメン1人につき、このアーツ+30。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-038",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2755,
+    "prints": [
+      2755,
+      2921
+    ],
+    "hp": 110,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\nこのホロメンにツールが付いているなら、自分のデッキを1枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "鍛冶にかける想い",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-039",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2756,
+    "prints": [
+      2756,
+      2981
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のデッキから、ツール2枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "資材集めはお任せ！",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-040",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2757,
+    "prints": [
+      2757,
+      2922
+    ],
+    "hp": 180,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトクレーバーな仕事人\n自分のアーカイブの#カエラ'sアームズを持つツール1枚を手札に戻せる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "終わらぬ探求",
+        "power": 40,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-041",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2758,
+    "prints": [
+      2758,
+      2923
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\nこのホロメンに#カエラ'sアームズを持つツールが付いているなら、このホロメンのアーツに必要な赤-1。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "兼ね備えた冷静と熱意",
+        "power": 30,
+        "power_plus": true,
+        "text": "自分のBuzzホロメンか2ndホロメンに#カエラ'sアームズを持つツールが付いているなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-042",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "Buzzホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2759,
+    "prints": [
+      2759,
+      2883
+    ],
+    "ability_text": "赤赤木立にひそむ神秘　70\n自分のアーカイブの#カエラ'sアームズを持つツール1枚をこのホロメンに付ける。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-043",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2760,
+    "prints": [
+      2760,
+      2924
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトHappy Summer Days\n自分のステージに#カエラ'sアームズを持つツールが2枚以上あるなら、自分のアーカイブのエール1枚を自分のホロメンに送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "Vacation on Islands",
+        "power": 60,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "相手のコラボホロメンに特殊ダメージ30を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-044",
+    "name": "カエラ・コヴァルスキア",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2761,
+    "prints": [
+      2761,
+      2862,
+      2884
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト師から受け継ぎしもの\nこのホロメンにツールが付いているなら、このホロメンは、#カエラ'sアームズを持つツールをもう1枚まで付けられる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤",
+          "赤"
+        ],
+        "name": "鍛冶屋の本懐",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "このホロメンに#カエラ'sアームズを持つツールが付いているなら、このアーツ+60。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-045",
+    "name": "赤井はあと",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2762,
+    "prints": [
+      2762,
+      2885
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクトスイートはあちゃま\nサイコロを1回振る。奇数なら、相手のセンターホロメンに特殊ダメージ30を与える。偶数なら、自分のデッキを2枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤",
+          "赤",
+          "無"
+        ],
+        "name": "おいしいお菓子を作る！",
+        "power": 170,
+        "power_plus": false,
+        "tokkou": "黄+50",
+        "text": "自分のアーカイブのDebut〈赤井はあと〉1枚をステージに出す。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-046",
+    "name": "百鬼あやめ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2763,
+    "prints": [
+      2763,
+      2925
+    ],
+    "hp": 110,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分のエールデッキの上から1枚をアーカイブできる:自分のデッキから、Debut〈百鬼あやめ〉1枚をステージに出す。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "鬼の宴",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-047",
+    "name": "ハコス・ベールズ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2764,
+    "prints": [
+      2764,
+      2926,
+      2982
+    ],
+    "hp": 100,
+    "bloom_level": "Debut",
+    "baton_touch": [],
+    "tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分のセンターが〈大空スバル〉なら、自分のデッキを1枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "風船はいかが？",
+        "power": 20,
+        "power_plus": true,
+        "text": "自分のステージに〈大空スバル〉がいるなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-048",
+    "name": "ハコス・ベールズ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2765,
+    "prints": [
+      2765,
+      2927
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈大空スバル〉なら、自分のデッキから、1st[〈大空スバル〉と〈ハコス・ベールズ〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "ボクと楽しもうよ！",
+        "power": 30,
+        "power_plus": false,
+        "text": "サイコロを1回振る。奇数なら、相手のコラボホロメンに特殊ダメージ20を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-049",
+    "name": "ハコス・ベールズ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2766,
+    "prints": [
+      2766,
+      2886
+    ],
+    "hp": 190,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト熱き取り調べ\n自分の推しホロメンが〈大空スバル〉なら、このホロメンのアーツに必要な無色-3。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "しらばっくれるな！",
+        "power": 80,
+        "power_plus": false,
+        "tokkou": "緑+50",
+        "text": "自分の推しホロメンが〈大空スバル〉なら、自分のアーカイブの[〈大空スバル〉か〈ハコス・ベールズ〉]1枚を手札に戻す。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-050",
+    "name": "ハコス・ベールズ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2767,
+    "prints": [
+      2767,
+      2863,
+      2887
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト大空警察国際部代表\n自分の推しホロメンが〈大空スバル〉なら、相手のバックホロメン1人を選ぶ。選んだホロメンと相手のコラボホロメンを交代させる。相手のコラボホロメンがいないなら、かわりに、選んだホロメンをコラボポジションに移動させる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "ネズミの大捕り物",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "紫+50",
+        "text": "自分のステージの〈大空スバル〉1人につき、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-051",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2768,
+    "prints": [
+      2768,
+      2928
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "愛され系小悪魔",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "こういうのもいいでしょ？",
+        "power": 30,
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を自分の#歌を持つバックホロメンに付け替えられる。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-052",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2769,
+    "prints": [
+      2769
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のエールデッキの上から1枚を自分の〈常闇トワ〉に送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "この後なにしよっか？",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-053",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2770,
+    "prints": [
+      2770,
+      2929
+    ],
+    "hp": 180,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "ストリートトワ",
+        "power": 30,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "常闇眷属と過ごすひととき",
+        "power": 80,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-054",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2771,
+    "prints": [
+      2771,
+      2930
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のエールデッキの上から1枚を自分の〈常闇トワ〉に送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "情熱のパレット",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のステージに#歌を持つ2ndホロメンがいるなら、相手のホロメン1人に特殊ダメージ20を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-055",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2772,
+    "prints": [
+      2772,
+      2888
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "小悪魔のほほ笑み",
+        "power": 20,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "今、寝てたでしょ～？",
+        "power": 50,
+        "power_plus": false,
+        "text": "このアーツがこのターンに使う2回目のアーツなら、このホロメンのエール1枚を自分の他の#歌を持つホロメンに付け替えられる。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-056",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2773,
+    "prints": [
+      2773,
+      2931
+    ],
+    "hp": 210,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "闘志あふれるファイター",
+        "power": 40,
+        "power_plus": false,
+        "tokkou": "赤+50",
+        "text": "自分のアーカイブのエール1枚を自分の#歌を持つホロメンに送る。"
+      },
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "研鑽の果ての一撃",
+        "power": 50,
+        "power_plus": false,
+        "tokkou": "赤+50",
+        "text": "このアーツがこのターンに使う2回目のアーツなら、自分のデッキの上から1枚をホロパワーにする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-057",
+    "name": "常闇トワ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2774,
+    "prints": [
+      2774,
+      2864,
+      2889
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "魔界学校の優等生",
+        "power": 70,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "このアーツがこのターンに使う2回目のアーツなら、自分のデッキの上から4枚を見る。その中から、サポート1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+      },
+      {
+        "cost": [
+          "青",
+          "無",
+          "無"
+        ],
+        "name": "一人前の悪魔になるために",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "このアーツがこのターンに使う3回目のアーツなら、相手のホロメン1人に特殊ダメージ50を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-058",
+    "name": "猫又おかゆ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2775,
+    "prints": [
+      2775,
+      2890
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈猫又おかゆ〉なら、自分のエールデッキの上から1枚を自分の〈猫又おかゆ〉に送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "猫とまどろむ夜",
+        "power": 30,
+        "power_plus": false,
+        "text": "相手のホロメン1人に特殊ダメージ10を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-059",
+    "name": "ムーナ・ホシノヴァ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2776,
+    "prints": [
+      2776,
+      2932
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n相手のターンで、自分の〈ムーナ・ホシノヴァ〉がダウンした時、自分のエールデッキの上から1枚をこのホロメン以外の自分の#ID1期生を持つバックホロメンに送る。自分のギフト「月の歌い手」はターンに1回しか使えない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "魂揺らすシャウト",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-060",
+    "name": "ムーナ・ホシノヴァ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2777,
+    "prints": [
+      2777,
+      2933
+    ],
+    "hp": 140,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のデッキの上から3枚を見る。その中から、#ID1期生を持つホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "青"
+        ],
+        "name": "今日はお姉さんモード",
+        "power": 50,
+        "power_plus": false,
+        "text": "相手のセンターホロメンとコラボホロメンに特殊ダメージ10を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-061",
+    "name": "ムーナ・ホシノヴァ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2778,
+    "prints": [
+      2778,
+      2891
+    ],
+    "hp": 180,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト月の女神\n自分の推しホロメンが〈ムーナ・ホシノヴァ〉なら、自分のエールデッキの上から1枚をこのホロメンに送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "青",
+          "青"
+        ],
+        "name": "月影照らす道標",
+        "power": 80,
+        "power_plus": false,
+        "text": "このホロメンのエール2枚を自分の#ID1期生を持つバックホロメン1人に付け替える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-062",
+    "name": "ムーナ・ホシノヴァ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2779,
+    "prints": [
+      2779,
+      2865,
+      2892
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト夜を照らす光\nこのホロメンが相手のホロメンをダウンさせた時、自分のステージに#ID1期生を持つホロメンが5人以上いるなら、相手のホロメン1人に特殊ダメージ50を与える。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "青",
+          "青",
+          "青",
+          "青"
+        ],
+        "name": "魅惑の佇まい",
+        "power": 120,
+        "power_plus": true,
+        "tokkou": "赤+50",
+        "text": "自分の推しホロメンが〈ムーナ・ホシノヴァ〉なら、このホロメンの青エール5枚をアーカイブできる:自分のステージの#ID1期生を持つホロメン1人につき、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-063",
+    "name": "オーロ・クロニー",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2780,
+    "prints": [
+      2780,
+      2893
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Promise"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のデッキを下から1枚引く。自分のブルームエフェクト「Student of Time」はターンに1回しか使えない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青"
+        ],
+        "name": "Let's Study Together!",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のデッキから、[〈Boros〉か〈Kronies〉]1枚を自分の〈オーロ・クロニー〉に付ける。そしてデッキをシャッフルする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-064",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2781,
+    "prints": [
+      2781,
+      2934
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "もう離せへんで～",
+        "power": 20,
+        "power_plus": true,
+        "text": "相手の手札が4枚以上あるなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-065",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2782,
+    "prints": [
+      2782,
+      2983
+    ],
+    "hp": 120,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のデッキから、〈綺々羅々ヴィヴィ〉2枚を公開し、手札に加える。そして自分のデッキをシャッフルする。相手は、自身のデッキを1枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "喜んでくれたらヴィヴィもうれしい！",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-066",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2783,
+    "prints": [
+      2783,
+      2935
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\nこのターンの間、このホロメンのアーツ+20。相手の手札が7枚以上あるなら、かわりに、このターンの間、自分のステージの〈綺々羅々ヴィヴィ〉全員のアーツ+20。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "買い物つきあってー！",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-067",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2784,
+    "prints": [
+      2784,
+      2936
+    ],
+    "hp": 130,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈綺々羅々ヴィヴィ〉なら、自分のデッキを2枚引き、相手は、自身のデッキを1枚引く。自分のブルームエフェクト「あまあまヴィヴィ」はターンに1回しか使えない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "早くこっちに来て～",
+        "power": 50,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-068",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2785,
+    "prints": [
+      2785,
+      2894
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "コスメへのこだわり",
+        "power": 40,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "紫",
+          "紫"
+        ],
+        "name": "これ、試してみようかな",
+        "power": 60,
+        "power_plus": false,
+        "text": "このホロメンに〈メイクアップ〉が付いているなら、自分のデッキから#FLOW GLOWを持つホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-069",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2786,
+    "prints": [
+      2786,
+      2937
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト12人目の選手\n相手の手札が7枚以上あるなら、このホロメンが受けるアーツダメージ-50。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "ヴィヴィはディフェンス推しやで！",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "緑+50"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-070",
+    "name": "綺々羅々ヴィヴィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2787,
+    "prints": [
+      2787,
+      2866,
+      2895
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトストロングコミュニケーター\n[センターポジション限定]相手の手札が7枚以上あるなら、このホロメンのアーツに必要な無色-2。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "無",
+          "無"
+        ],
+        "name": "ヴィヴェイシャスヴィジョン",
+        "power": 120,
+        "power_plus": true,
+        "tokkou": "黄+50",
+        "text": "相手の手札が7枚以上あるなら、このアーツ+70。相手の手札が10枚以上あるなら、かわりに、このアーツ+100。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-071",
+    "name": "AZKi",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2788,
+    "prints": [
+      2788,
+      2896
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分のステージの〈風真いろは〉1人を選ぶ。このターンの間、自分のホロパワー1枚につき、選んだホロメンのアーツ+10。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "輝く出会い",
+        "power": 40,
+        "power_plus": false,
+        "text": "自分のステージに〈風真いろは〉がいるなら、自分のデッキを1枚引く。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-072",
+    "name": "クレイジー・オリー",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2789,
+    "prints": [
+      2789,
+      2897
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\nこのターンに自分のホロメンがアーカイブからBloomしていたなら、自分のデッキを2枚引く。自分のブルームエフェクト「ダンス・マカブル」はターンに1回しか使えない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "青き花吹雪の祝福",
+        "power": 30,
+        "power_plus": true,
+        "text": "このターンに自分のホロメンがアーカイブからBloomしていたなら、このアーツ+30。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-073",
+    "name": "ネリッサ・レイヴンクロフト",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2790,
+    "prints": [
+      2790,
+      2938
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n[センターポジション限定]自分のホロパワーが2枚以上あるなら、自分の〈ネリッサ・レイヴンクロフト〉全員が受けるアーツダメージ-30。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "魔力の調べ",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-074",
+    "name": "ネリッサ・レイヴンクロフト",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2791,
+    "prints": [
+      2791,
+      2939
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のアーカイブの#Adventを持つ[Debutホロメンか1stホロメン]1枚を手札に戻せる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無",
+          "無"
+        ],
+        "name": "秘儀の加護",
+        "power": 50,
+        "power_plus": true,
+        "text": "このアーツの対象が1st以上のホロメンなら、このアーツ+50。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-075",
+    "name": "ネリッサ・レイヴンクロフト",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2792,
+    "prints": [
+      2792,
+      2898
+    ],
+    "hp": 140,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n[センターポジション限定]自分の推しスキルを使った時、このターンの間、自分のコラボの〈ネリッサ・レイヴンクロフト〉のアーツに必要な紫-1。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "安らぎの歌",
+        "power": 40,
+        "power_plus": false,
+        "text": "自分の推しホロメンが〈ネリッサ・レイヴンクロフト〉なら、自分のデッキを1枚引き、自分の手札1枚をホロパワーにする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-076",
+    "name": "ネリッサ・レイヴンクロフト",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2793,
+    "prints": [
+      2793,
+      2867,
+      2899
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト魔人の臥所\n自分のホロパワー1～3枚をアーカイブできる:アーカイブしたホロパワー1枚につき、このターンの間、自分のステージの#歌を持つホロメン全員のアーツ+30。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "紫",
+          "無"
+        ],
+        "name": "妖艶なる音色",
+        "power": 140,
+        "power_plus": false,
+        "tokkou": "緑+50",
+        "text": "このアーツで相手のホロメンをダウンさせた時、自分のアーカイブの〈ネリッサ・レイヴンクロフト〉1枚を手札に戻す。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-077",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2794,
+    "prints": [
+      2794,
+      2940,
+      2984
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\nサイコロを1回振る。6なら、このターンの間、このホロメンのアーツ+20。1なら、このホロメンをお休みさせる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄"
+        ],
+        "name": "待った？",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-078",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2795,
+    "prints": [
+      2795,
+      2985
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分が後攻で最初のターンなら、自分のデッキを3枚引き、手札1枚をアーカイブする。アーカイブしたカードが#ラミィのお酒を持たないなら、さらに自分の手札1枚をアーカイブする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "晩酌のお誘い",
+        "power": 10,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-079",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2796,
+    "prints": [
+      2796,
+      2941
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のデッキの上から5枚を見る。その中から、#ラミィのお酒を持つサポート1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "令嬢のウィンク",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のサポートが付いているホロメンがいるなら、自分のデッキを1枚引く。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-080",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2797,
+    "prints": [
+      2797,
+      2942
+    ],
+    "hp": 190,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトやきもちユニーリア\n自分のアーカイブのエール1枚を自分の#お酒を持つホロメンに送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "ラミィしか愛せないんじゃないの？",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-081",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2798,
+    "prints": [
+      2798,
+      2845,
+      2900
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト\n自分のアーカイブの#ラミィのお酒を持つサポートが1枚以下なら、このホロメンのアーツに必要な無色+1。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄",
+          "黄"
+        ],
+        "name": "んー！ うますぎるー！",
+        "power": 60,
+        "power_plus": false,
+        "text": "このホロメンのエール2枚をアーカイブできる:相手のDebut以外のホロメン1人に特殊ダメージ40を与える。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-082",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2799,
+    "prints": [
+      2799,
+      2943
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクトトレーニング完了\n自分のアーカイブに#ラミィのお酒を持つサポートがあるなら、自分のエールデッキの上から1枚を自分の〈雪花ラミィ〉に送る。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄",
+          "無",
+          "無"
+        ],
+        "name": "この後は至福の一杯で",
+        "power": 130,
+        "power_plus": false,
+        "tokkou": "青+50"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-083",
+    "name": "雪花ラミィ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2800,
+    "prints": [
+      2800,
+      2868,
+      2901
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト顔が肝臓\n自分のアーカイブの#ラミィのお酒を持つサポートが4枚以下なら、このホロメンのアーツに必要な無色+2。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄"
+        ],
+        "name": "酒、酒、つまみ、酒、酒、酒！",
+        "power": 160,
+        "power_plus": false,
+        "tokkou": "白+50",
+        "text": "± サイコロを1回振る。6なら、このアーツ+100。1なら、このアーツ-100。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-084",
+    "name": "夏色まつり",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2801,
+    "prints": [
+      2801,
+      2944
+    ],
+    "hp": 110,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト\n自分の手札のLIMITEDのサポート1枚をアーカイブできる:自分のデッキから、Debut〈夏色まつり〉1～2枚をステージに出す。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "リボン、うれしいな",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-085",
+    "name": "夏色まつり",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2802,
+    "prints": [
+      2802,
+      2945
+    ],
+    "hp": 140,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈夏色まつり〉なら、自分のアーカイブのLIMITEDのサポート1枚をデッキの下に戻せる:自分のステージの〈夏色まつり〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+30。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "かわいく描けたから見てよ～",
+        "power": 50,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-086",
+    "name": "夏色まつり",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2803,
+    "prints": [
+      2803,
+      2902
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分の推しホロメンが〈夏色まつり〉なら、自分のデッキの上から5枚を見る。その中から、LIMITEDのサポート1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄"
+        ],
+        "name": "太鼓でわっしょーい！",
+        "power": 40,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-087",
+    "name": "夏色まつり",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2804,
+    "prints": [
+      2804,
+      2869,
+      2903
+    ],
+    "hp": 210,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトあざとい清楚担当\n自分の推しホロメンが黄の〈夏色まつり〉で、自分のステージのホロメン全員が〈夏色まつり〉なら、自分のホロパワーの上から1枚をアーカイブできる:このターンの間、自分が使えるLIMITEDのサポートの枚数は2枚になる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄"
+        ],
+        "name": "夏色まつりは清楚だよなぁ！？",
+        "power": 60,
+        "power_plus": true,
+        "tokkou": "白+50",
+        "text": "自分のアーカイブにLIMITEDのサポートが5枚以上あるなら、このアーツ+60。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-088",
+    "name": "桃鈴ねね",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2805,
+    "prints": [
+      2805,
+      2904
+    ],
+    "hp": 180,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトキミと二度寝\n自分の推しホロメンが〈桃鈴ねね〉なら、このホロメンは1回に200以上のアーツダメージを受けない。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄",
+          "黄"
+        ],
+        "name": "布団にもぐりこんじゃうぞ",
+        "power": 100,
+        "power_plus": false,
+        "tokkou": "青+50",
+        "text": "自分のアーカイブのエールを自分の#5期生を持つホロメン1～2人に1枚ずつ送る。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-089",
+    "name": "アユンダ・リス",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "黄",
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2806,
+    "prints": [
+      2806,
+      2905
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト\n自分のステージに[緑と青と黄]エールがあるなら、自分の#ID1期生を持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+30。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "黄",
+          "無"
+        ],
+        "name": "世界に響く美声",
+        "power": 50,
+        "power_plus": false,
+        "text": "自分の推しホロメンの色が緑か青か黄なら、自分のエールデッキの上から1枚を自分の#ID1期生を持つホロメンに送る。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-090",
+    "name": "コラボパソコン",
+    "card_type": [
+      "サポート",
+      "アイテム"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2807,
+    "prints": [
+      2807,
+      2946
+    ],
+    "ability_text": "このカードは、自分のホロパワー1枚をアーカイブしなければ使えない。\n自分のデッキから、コラボエフェクトを持つ、自分の推しホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-091",
+    "name": "あずいろ BESTIE DAYS",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2808,
+    "prints": [
+      2808,
+      2947
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈AZKi〉か〈風真いろは〉で、前の相手のターンに自分のホロメンがダウンしていなければ使えない。\n自分のデッキから、1st[〈AZKi〉と〈風真いろは〉]1枚ずつをステージに出す。そしてデッキをシャッフルする。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-092",
+    "name": "雨の日ヴィヴィ",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2809,
+    "prints": [
+      2809,
+      2948
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈綺々羅々ヴィヴィ〉でなければ使えない。\nお互いそれぞれのデッキを2枚引く。その後、相手の手札が7枚以上あるなら、このターンの間、自分のステージの〈綺々羅々ヴィヴィ〉全員のアーツ+30。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-093",
+    "name": "応援するホロリス",
+    "card_type": [
+      "サポート",
+      "イベント"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2810,
+    "prints": [
+      2810,
+      2949
+    ],
+    "ability_text": "自分のステージのエール1～2枚を選び、自分のホロメンに割り振って付け替える。その後、自分のエールが付いているホロメンが4人以上いるなら、自分のアーカイブのエール1枚を自分のホロメンに送る。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-094",
+    "name": "大空警察",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2811,
+    "prints": [
+      2811,
+      2991,
+      2992
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉で、前の相手のターンに自分のホロメンがダウンしていなければ使えない。\n相手のバックホロメン1人を選ぶ。選んだホロメンをお休みさせる。そのホロメンは、次の相手のリセットステップでアクティブにならない。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-095",
+    "name": "君に乾杯",
+    "card_type": [
+      "サポート",
+      "イベント"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2812,
+    "prints": [
+      2812,
+      2950
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈雪花ラミィ〉でなければ使えない。\n相手のセンターホロメンかコラボホロメンを選ぶ。選んだホロメンに特殊ダメージ10を与える。自分のアーカイブに〈君に乾杯〉が2枚以上あるなら、かわりに、選んだホロメンに特殊ダメージ40を与える。\n自分の〈君に乾杯〉はターンに1回しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-096",
+    "name": "コンコ コンコンコ コンコンコン",
+    "card_type": [
+      "サポート",
+      "イベント"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2813,
+    "prints": [
+      2813,
+      2951
+    ],
+    "ability_text": "自分のステージの#ReGLOSSを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのバトンタッチに必要な無色-1。その後、自分のアーカイブのエール1枚を自分のバックの〈轟はじめ〉に送る。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-097",
+    "name": "コンビプレイ",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2814,
+    "prints": [
+      2814,
+      2952
+    ],
+    "ability_text": "自分のデッキを2枚引く。その後、自分のステージのエール1枚をエールデッキの下に戻し、自分のエールデッキから、エール1枚を自分のホロメンに送る。そしてエールデッキをシャッフルする。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-098",
+    "name": "スイカバブル",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2815,
+    "prints": [
+      2815,
+      2953
+    ],
+    "ability_text": "自分のデッキを4枚引く。その後、自分のアーカイブにLIMITEDのサポートがあるなら、自分の手札4枚を好きな順でデッキの下に戻す。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-099",
+    "name": "スピード違反",
+    "card_type": [
+      "サポート",
+      "イベント"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2816,
+    "prints": [
+      2816,
+      2954
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉で、自分のステージのエールの枚数が相手より少ない時にしか使えない。\n自分のアーカイブのエール2枚を、自分のホロメン1人に送る。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-100",
+    "name": "ノエルの特盛牛丼",
+    "card_type": [
+      "サポート",
+      "イベント"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2817,
+    "prints": [
+      2817,
+      2955
+    ],
+    "ability_text": "自分のステージの〈白銀ノエル〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。さらに、選んだホロメンがBuzzホロメンか2ndホロメンなら、そのホロメンのHP50回復。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-101",
+    "name": "バカ！変態！うるさーい！もう知らなーい！",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2818,
+    "prints": [
+      2818,
+      2956
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈常闇トワ〉でなければ使えない。\n相手のセンターホロメンに特殊ダメージ20を与える。その後、このターンの間、自分の〈常闇トワ〉の3回目のアーツは、相手のDebut以外のバックホロメンも対象にできる。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-102",
+    "name": "ばんちょーダンス",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2819,
+    "prints": [
+      2819,
+      2957
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈轟はじめ〉でなければ使えない。\n自分のデッキの上から2枚をホロパワーにする。その後、自分のホロパワーを見る。その中から1～2枚を手札に加える。そしてホロパワーをシャッフルする。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-103",
+    "name": "変な動き",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2820,
+    "prints": [
+      2820,
+      2958
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈白銀ノエル〉でなければ使えない。\n自分のアーカイブの[〈白銀ノエル〉と〈牛丼〉]1枚ずつを手札に戻す。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-104",
+    "name": "ホロライブ体力王決定戦",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2821,
+    "prints": [
+      2821,
+      2959
+    ],
+    "ability_text": "このターンの間、自分のステージの残りHPが最も高いホロメン全員のアーツ+30。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-105",
+    "name": "BIG3",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2822,
+    "prints": [
+      2822,
+      2846,
+      2906
+    ],
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉か〈白銀ノエル〉か〈雪花ラミィ〉でなければ使えない。\n自分のデッキを2枚引く。その後、自分のデッキの上から3枚を見る。その中から、自分の推しホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-106",
+    "name": "カエラが作ったホロシールド",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2823,
+    "prints": [
+      2823,
+      2960
+    ],
+    "ability_text": "このツールが付いている[Buzzか2nd]の〈カエラ・コヴァルスキア〉のHP+40。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-107",
+    "name": "カエラが作ったホロソード",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2824,
+    "prints": [
+      2824,
+      2961
+    ],
+    "ability_text": "このツールが付いている[Buzzか2nd]の〈カエラ・コヴァルスキア〉のアーツ+40。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-108",
+    "name": "常闇トワのブレイクマイク",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2825,
+    "prints": [
+      2825,
+      2962
+    ],
+    "ability_text": "このツールが付いている〈常闇トワ〉のアーツ+20。\n◆2nd〈常闇トワ〉に付いていたら能力追加\nこのホロメンに付いている青エールすべては、紫エールとしても扱う。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-109",
+    "name": "メイクアップ",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2826,
+    "prints": [
+      2826,
+      2963
+    ],
+    "ability_text": "このツールが付いている〈綺々羅々ヴィヴィ〉のアーツ+20。\n◆1st以上の〈綺々羅々ヴィヴィ〉に付いていたら能力追加\n[センターポジション限定]自分のパフォーマンスステップが終了する時、このターンにBloomした#FLOW GLOWを持つホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-110",
+    "name": "雪夜月",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2827,
+    "prints": [
+      2827
+    ],
+    "ability_text": "◆〈雪花ラミィ〉に付いていたら能力追加\n自分のパフォーマンスステップが終了する時、このターンにこのホロメンがアーツを使っていたなら、このホロメンに付いている〈雪夜月〉1枚をアーカイブし、自分のデッキを1枚引く。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hBP09-111",
+    "name": "Pemaloe",
+    "card_type": [
+      "サポート",
+      "ファン"
+    ],
+    "color": null,
+    "expansion": "hBP09",
+    "release_date": "2026-09-19",
+    "canonical_print": 2828,
+    "prints": [
+      2828,
+      2964
+    ],
+    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンのエール1枚を自分の他のホロメンに付け替える。\nこのファンは、自分の〈カエラ・コヴァルスキア〉だけに付けられ、1人につき何枚でも付けられる。",
+    "min_price": null
   }
 ]

@@ -9775,6 +9775,516 @@
     "release_date": "2026-06-19",
     "ability_text": "During your opponent's turn, if the holomem this fan is attached to is downed, you may send the top card of your cheer deck to your 〈Oozora Subaru〉.\n\n\n\nYou may only attach this fan to your 〈Oozora Subaru〉, and you may attach any number of this fan per holomem."
   },
+  "hEB01-001": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-001_OSR.webp",
+    "release_date": "2026-09-25",
+    "oshi_skill": {
+      "name": "Sudden Romance",
+      "text": "Choose 1 〈Tokino Sora〉 on your stage. Bloom the chosen holomem using a 〈Tokino Sora〉 from your deck. Shuffle your deck. During this turn, the chosen holomem requires -1 colorless for its Arts."
+    },
+    "sp_oshi_skill": null
+  },
+  "hEB01-002": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-002_OSR.webp",
+    "release_date": "2026-09-25",
+    "oshi_skill": {
+      "name": "Uh, Was That a Little Too Spicy for You?",
+      "text": "Deal 50 special damage to 1 of your opponent's back holomem other than Debut. If 3 or more holomem are stacked to your center holomem, deal 50 special damage to 1 of your opponent's back holomem other than Debut."
+    },
+    "sp_oshi_skill": null
+  },
+  "hEB01-003": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-003_OSR.webp",
+    "release_date": "2026-09-25",
+    "oshi_skill": {
+      "name": "Analysis Complete! Private Area for Two",
+      "text": "Reveal cards from the top of your deck equal to the number of cheers on your stage. If there are 3 or more holomem among the revealed cards, during this turn, all 〈Hakui Koyori〉 on your stage get Arts+30. Add all revealed holomem other than Debut to your hand, and archive the remaining cards."
+    },
+    "sp_oshi_skill": null
+  },
+  "hEB01-004": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-004_C.webp",
+    "release_date": "2026-09-25",
+    "arts": [
+      {
+        "name": "A Cozy Distance",
+        "text": "Draw 1 card."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-005": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-005_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf you went second and it is your first turn, search 1~3 Debut holomem 〈Tokino Sora〉 with Extra from your deck, and place them on your stage. Shuffle your deck. If 3 Debut holomem were placed this way, return 1 card from your hand to the bottom of your deck."
+    },
+    "arts": [
+      {
+        "name": "Sure! I'm So Glad You Invited Me!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-006": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-006_C.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Gift",
+      "text": "Gift\nDuring your opponent's turn, if this holomem is downed, you may return 1 support card attached to this holomem to your hand."
+    },
+    "arts": [
+      {
+        "name": "So We Don't Get Separated, Okay?",
+        "text": "If the target of this Arts is a 1st or greater holomem, this Arts gets +30."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-007": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-007_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nDraw 1 card, and return 1 card from your hand to the bottom of your deck."
+    },
+    "arts": [
+      {
+        "name": "Don’t Look Away, Okay?",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-008": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-008_R.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nReveal 1 〈STAR STAR☆T〉 from your deck, and add it to your hand. Shuffle your deck."
+    },
+    "arts": [
+      {
+        "name": "I'm Blaming It on the Summer Heat",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-009": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-009_R.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab EffectThis Song Is for You\nReveal 1 2nd holomem 〈Tokino Sora〉 from your deck, and add it to your hand. Shuffle your deck."
+    },
+    "arts": [
+      {
+        "name": "You Know You're More Special Than Anyone Else, Right?",
+        "text": "Return 1~3 holomem from your archive to your deck and shuffle it. Draw 1 card."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-010": {
+    "name": "Tokino Sora",
+    "img": "hEB01/EN_hEB01-010_RR.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom EffectEven the Usual Path Feels Special Today\n[Center Position Only] You may roll a die once. If it is odd, choose 1 of your opponent's back holomem. Swap your opponent's center holomem with the chosen holomem."
+    },
+    "arts": [
+      {
+        "name": "You're Always There When I Turn Around",
+        "text": "If all holomem on your stage are 〈Tokino Sora〉, you may rest 1 of your back 2nd holomem 〈Tokino Sora〉: When this holomem used Arts, use the same Arts once more."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 0",
+      "#Singing",
+      "#Summer"
+    ]
+  },
+  "hEB01-011": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-011_C.webp",
+    "release_date": "2026-09-25",
+    "arts": [
+      {
+        "name": "Summer Festivals Are So Exciting!",
+        "text": "You may archive 1 cheer from this holomem: Reveal 1 〈Houshou Marine〉 with #Summer from your deck, and add it to your hand. Shuffle your deck."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-012": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-012_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf you went second and it is your first turn, reveal 1 〈Houshou Marine〉 with Bloom Effect from your deck, and add it to your hand. Shuffle your deck."
+    },
+    "arts": [
+      {
+        "name": "Time for the Cap’n to Flaunt Her Swimsuit♡",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-013": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-013_C.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nYou may archive 1 holomem stacked to this holomem: Send the top card of your cheer deck to your holomem."
+    },
+    "arts": [
+      {
+        "name": "Shall We Leave the Crowd... And Go Somewhere Private?",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-014": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-014_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nDeal 10 special damage to 1 of your opponent's back holomem."
+    },
+    "arts": [
+      {
+        "name": "Don't Hold Back and Just Leave Everything to Me, Okay?",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-015": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-015_R.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "青◇The Spot Next to Me Is Open...　60\nIf 2 or more holomem are stacked to this holomem, you may archive 1 cheer from your stage: Send the top card of your cheer deck to your holomem."
+  },
+  "hEB01-016": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-016_R.webp",
+    "release_date": "2026-09-25",
+    "arts": [
+      {
+        "name": "You're Hooked on Me for Life, Right?",
+        "text": "If 3 or more holomem are stacked to this holomem, this Arts gets +50."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-017": {
+    "name": "Houshou Marine",
+    "img": "hEB01/EN_hEB01-017_RR.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom EffectI'll Give You a Bite Too♡\nSend 1 cheer from your archive to this holomem."
+    },
+    "arts": [
+      {
+        "name": "Say, Could You... Get That Bit of Chocolate from My Lips?♡",
+        "text": "If your Oshi holomem is 〈Houshou Marine〉, you may archive all holomem stacked to this holomem: If you archived 1 or more, this Arts gets +100. If you archived 5 or more, deal 100 special damage to 1 of your opponent's back holomem other than Debut."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#Gen 3",
+      "#Painting",
+      "#Sea",
+      "#Summer"
+    ]
+  },
+  "hEB01-018": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-018_C.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Gift",
+      "text": "Gift\nDuring your opponent's turn, if this holomem is downed, you may return 1 support card with #KOYO LABO attached to this holomem to your hand."
+    },
+    "arts": [
+      {
+        "name": "It's Really Exciting, Isn't It?♡",
+        "text": "If a support card with #KOYO LABO is attached to this holomem, this Arts gets +20."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-019": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-019_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nIf you went second and it is your first turn, reveal 1 Debut holomem and 1 support card with #KOYO LABO from your deck, and add them to your hand. Shuffle your deck."
+    },
+    "arts": [
+      {
+        "name": "Please Look Forward to Koyo's Swimsuit♡",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-020": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-020_C.webp",
+    "release_date": "2026-09-25",
+    "arts": [
+      {
+        "name": "I Chose This Yukata After Studying My Assistant's Tastes♡",
+        "text": ""
+      },
+      {
+        "name": "Let the Exciting Experiments Begin!",
+        "text": "Reveal cards from the top of your deck equal to the number of cheers on your stage. This Arts gets +10 for each holomem revealed by this ability. Return the revealed cards to your deck and shuffle it."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-021": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-021_U.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Collab Effect",
+      "text": "Collab Effect\nRestore 20 HP to 1 of your holomem for each 〈Koyori's Assistants〉 on your stage."
+    },
+    "arts": [
+      {
+        "name": "Caught you! Wao-!",
+        "text": ""
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-022": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-022_R.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom Effect\nYou may return 1~2 〈Koyori's Assistants〉 from your archive to your hand."
+    },
+    "arts": [
+      {
+        "name": "Assistant, What's This?",
+        "text": "If your stage has a 2nd holomem, this Arts gets +20."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-023": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-023_R.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Bloom Effect",
+      "text": "Bloom EffectIt's Time for My Swimsuit Reveal, Assistants!\nYou may return 1~4 〈Hakui Koyori〉 from your archive to the bottom of your deck in any order. If you returned 4 cards this way, you may attach 1 support card with #KOYO LABO from your archive to your 〈Hakui Koyori〉."
+    },
+    "arts": [
+      {
+        "name": "Now You Can't See Anyone but Koyo!♡",
+        "text": "Draw cards until your hand has the same number of cards as the number of 〈Koyori's Assistants〉 on your stage."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-024": {
+    "name": "Hakui Koyori",
+    "img": "hEB01/EN_hEB01-024_RR.webp",
+    "release_date": "2026-09-25",
+    "keyword": {
+      "name": "Gift",
+      "text": "GiftLose Yourself in Koyo!\nThis holomem gets +10 HP for each 〈Koyori's Assistants〉 attached to this holomem. This holomem's Arts requires -1 colorless for each 〈Koyori's Assistants〉 attached to this holomem."
+    },
+    "arts": [
+      {
+        "name": "A Special Time Nobody Else Knows About...♡",
+        "text": "Reveal cards from the top of your deck equal to the number of cheers on your stage. This Arts gets +20 for each holomem revealed this way. Restore 20 HP to 1 of your holomem for each holomem revealed this way. Return the revealed cards to your deck and shuffle it."
+      }
+    ],
+    "tags": [
+      "#JP",
+      "#holoX",
+      "#Kemomimi",
+      "#Summer"
+    ]
+  },
+  "hEB01-025": {
+    "name": "Summer PC",
+    "img": "hEB01/EN_hEB01-025_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "■If your life is 2 or greater, search 1 Debut holomem with #Summer from your deck, and place it on your stage. Shuffle your deck.\n\n■If your life is 1, reveal 1 holomem with #Summer from your deck, and add it to your hand. Shuffle your deck."
+  },
+  "hEB01-026": {
+    "name": "Bearine",
+    "img": "hEB01/EN_hEB01-026_U.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "This card can only be used if your Oshi holomem is 〈Houshou Marine〉.\n\nDraw 2 cards. You may reveal 1 〈Houshou Marine〉 from your hand, and return it to the bottom of your deck. If returned this way, draw 2 cards.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hEB01-027": {
+    "name": "Summer Concert",
+    "img": "hEB01/EN_hEB01-027_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "During this turn, all holomem with #Summer on your stage get Arts+30. Send 1 cheer from your archive to your holomem.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hEB01-028": {
+    "name": "Watermelon Splitting",
+    "img": "hEB01/EN_hEB01-028_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "Choose 1 2nd holomem on your stage. During this turn, the chosen holomem gets Arts+30. If that holomem downs your opponent's holomem by Arts damage this turn, draw 2 cards.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hEB01-029": {
+    "name": "Splash Shooting",
+    "img": "hEB01/EN_hEB01-029_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "This card can only be used if your center holomem and collab holomem are holomem with #Summer. \n\n\n\nDeal 30 special damage to your opponent's center holomem or collab holomem. \n\n\n\nYou may only use 〈Splash Shooting〉 once per turn."
+  },
+  "hEB01-030": {
+    "name": "hololive Summer",
+    "img": "hEB01/EN_hEB01-030_U.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "Draw 2 cards. If your stage has 3 or more holomem with #Summer, look at the top 2 cards of your deck. Add 1 card from among them to your hand. Archive the remaining cards.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hEB01-031": {
+    "name": "Playing with Water",
+    "img": "hEB01/EN_hEB01-031_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "Send 1 cheer from your archive to your holomem with #Summer."
+  },
+  "hEB01-032": {
+    "name": "STAR STAR☆T",
+    "img": "hEB01/EN_hEB01-032_U.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "If your Oshi holomem is 〈Tokino Sora〉, this card can be used on your first turn even if you went first. \n\n\n\nDraw 3 cards, and return 1 card from your hand to the bottom of your deck.\n\n\n\nLIMITED：Usable only 1 per turn."
+  },
+  "hEB01-033": {
+    "name": "Beach Ball",
+    "img": "hEB01/EN_hEB01-033_C.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "The holomem with #Summer this tool is attached to gets Arts+10.\n\n\n\nWhen the holomem this tool is attached to used Arts, you may reattach this tool to your [center holomem or collab holomem] with #Summer.\n\n\n\nOnly 1 tool can be attached to each of your holomem."
+  },
+  "hEB01-034": {
+    "name": "Solved with a Bang!",
+    "img": "hEB01/EN_hEB01-034_U.webp",
+    "release_date": "2026-09-25",
+    "ability_text": "The holomem this tool is attached to gets Arts+10.\n\n\n\n◆Additional ability if attached to a 2nd holomem 〈Hakui Koyori〉\n\n[Center Position・Collab Position Only] At the end of your performance phase, you may archive 1 〈Solved with a Bang!〉 attached to this holomem: Deal 30 special damage to your opponent's center holomem.\n\n\n\nOnly 1 tool can be attached to each of your holomem."
+  },
   "hPR-002": {
     "name": "ReGLOSS",
     "img": "EN_hPR-002_U_02.webp",
