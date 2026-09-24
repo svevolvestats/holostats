@@ -1678,7 +1678,8 @@
         ]
       }
     ],
-    "prev_id": null
+    "prev_id": "4f46da",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "6e01ce": {
     "name": "オーロ・クロニー",
@@ -5246,7 +5247,8 @@
         ]
       }
     ],
-    "prev_id": null
+    "prev_id": "a52741",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "8b90b8": {
     "name": "IRyS",
@@ -8533,7 +8535,8 @@
         "pref_code": 12
       }
     ],
-    "prev_id": null
+    "prev_id": "14bd4e",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "2876fc": {
     "name": "兎田ぺこら",
@@ -8680,7 +8683,8 @@
         "pref_code": 8
       }
     ],
-    "prev_id": null
+    "prev_id": "2876fc",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "8eb1ad": {
     "name": "戌神ころね",
@@ -8865,8 +8869,7 @@
         "pref_code": 3
       }
     ],
-    "prev_id": "097a66",
-    "prev_period": "2026-08-01~2026-08-14"
+    "prev_id": null
   },
   "1b0015": {
     "name": "七詩ムメイ",
@@ -9437,7 +9440,8 @@
         "pref_code": 8
       }
     ],
-    "prev_id": null
+    "prev_id": "b65802",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "3d3672": {
     "name": "FUWAMOCO",
@@ -9574,7 +9578,8 @@
         "pref_code": 28
       }
     ],
-    "prev_id": null
+    "prev_id": "3d3672",
+    "prev_period": "2026-08-15~2026-08-28"
   },
   "982747": {
     "name": "ムーナ・ホシノヴァ",

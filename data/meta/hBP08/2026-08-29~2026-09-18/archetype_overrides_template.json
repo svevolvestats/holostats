@@ -1,0 +1,431 @@
+{
+  "_split_suggestions": {
+    "9742b6": {
+      "name": "9742b6",
+      "oshi_id": "hBP07-003",
+      "n": 44,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP03-087",
+              "card_name": "コールアンドレスポンス",
+              "ratio": 11
+            },
+            {
+              "name": "hBP07-015",
+              "card_name": "ベスティア・ゼータ",
+              "ratio": 11
+            },
+            {
+              "name": "hBP01-027",
+              "card_name": "ベスティア・ゼータ",
+              "ratio": 16
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP07-059",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 84,
+              "co_occur_pct": 0,
+              "diff_pct": -95
+            },
+            {
+              "y": "hBP04-053",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 84,
+              "co_occur_pct": 0,
+              "diff_pct": -95
+            },
+            {
+              "y": "hBP08-094",
+              "y_name": "パパは仕事を辞める",
+              "y_ratio": 68,
+              "co_occur_pct": 0,
+              "diff_pct": -77
+            },
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 61,
+              "co_occur_pct": 0,
+              "diff_pct": -69
+            },
+            {
+              "y": "hBP04-050",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 59,
+              "co_occur_pct": 0,
+              "diff_pct": -67
+            },
+            {
+              "y": "hSD01-018",
+              "y_name": "サブパソコン",
+              "y_ratio": 77,
+              "co_occur_pct": 5,
+              "diff_pct": -58
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-049",
+              "card_name": "エリザベス・ローズ・ブラッドフレイム",
+              "ratio": 20
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 61,
+              "co_occur_pct": 2,
+              "diff_pct": -63
+            },
+            {
+              "y": "hBP04-050",
+              "y_name": "シオリ・ノヴェラ",
+              "y_ratio": 59,
+              "co_occur_pct": 2,
+              "diff_pct": -60
+            },
+            {
+              "y": "hBP01-072",
+              "y_name": "ハコス・ベールズ",
+              "y_ratio": 59,
+              "co_occur_pct": 2,
+              "diff_pct": -60
+            }
+          ]
+        }
+      ]
+    },
+    "aec778": {
+      "name": "aec778",
+      "oshi_id": "hEB01-002",
+      "n": 32,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-018",
+              "card_name": "サブパソコン",
+              "ratio": 16
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-038",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 59,
+              "co_occur_pct": 0,
+              "diff_pct": -70
+            },
+            {
+              "y": "hEB01-031",
+              "y_name": "水遊び",
+              "y_ratio": 78,
+              "co_occur_pct": 3,
+              "diff_pct": -69
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP02-095",
+              "card_name": "ドクロくん",
+              "ratio": 19
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 88,
+              "co_occur_pct": 6,
+              "diff_pct": -67
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP04-089",
+              "card_name": "ツートンカラーパソコン",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "hEB01-030",
+              "y_name": "ホロライブ・サマー",
+              "y_ratio": 59,
+              "co_occur_pct": 3,
+              "diff_pct": -62
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-016",
+              "card_name": "春先のどか",
+              "ratio": 38
+            }
+          ],
+          "drops": [
+            {
+              "y": "hEB01-030",
+              "y_name": "ホロライブ・サマー",
+              "y_ratio": 59,
+              "co_occur_pct": 9,
+              "diff_pct": -55
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD17-010",
+              "card_name": "ステラ",
+              "ratio": 19
+            }
+          ],
+          "drops": [
+            {
+              "y": "hEB01-016",
+              "y_name": "宝鐘マリン",
+              "y_ratio": 75,
+              "co_occur_pct": 6,
+              "diff_pct": -51
+            }
+          ]
+        }
+      ]
+    },
+    "13dfc9": {
+      "name": "13dfc9",
+      "oshi_id": "hEB01-003",
+      "n": 30,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP01-060",
+              "card_name": "鷹嶺ルイ",
+              "ratio": 47
+            },
+            {
+              "name": "hBP01-061",
+              "card_name": "鷹嶺ルイ",
+              "ratio": 47
+            },
+            {
+              "name": "hBP08-062",
+              "card_name": "鷹嶺ルイ",
+              "ratio": 47
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP04-009",
+              "y_name": "博衣こより",
+              "y_ratio": 63,
+              "co_occur_pct": 13,
+              "diff_pct": -65
+            }
+          ]
+        }
+      ]
+    },
+    "e4401f": {
+      "name": "e4401f",
+      "oshi_id": "hBP06-004",
+      "n": 24,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD14-010",
+              "card_name": "holoAN",
+              "ratio": 67
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 17,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "bf36a8": {
+      "name": "bf36a8",
+      "oshi_id": "hBP06-003",
+      "n": 20,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP06-085",
+              "card_name": "フェイバリットパソコン",
+              "ratio": 35
+            },
+            {
+              "name": "hBP08-102",
+              "card_name": "クールなパーカー",
+              "ratio": 35
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP01-108",
+              "y_name": "じゃあ敵だね",
+              "y_ratio": 65,
+              "co_occur_pct": 0,
+              "diff_pct": -100
+            },
+            {
+              "y": "hBP02-079",
+              "y_name": "爆発の魔法",
+              "y_ratio": 40,
+              "co_occur_pct": 0,
+              "diff_pct": -62
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP07-094",
+              "card_name": "ギリわるロボ",
+              "ratio": 25
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 60,
+              "co_occur_pct": 5,
+              "diff_pct": -53
+            },
+            {
+              "y": "hSD01-016",
+              "y_name": "春先のどか",
+              "y_ratio": 60,
+              "co_occur_pct": 5,
+              "diff_pct": -53
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD01-016",
+              "card_name": "春先のどか",
+              "ratio": 60
+            },
+            {
+              "name": "hSD14-010",
+              "card_name": "holoAN",
+              "ratio": 60
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP06-094",
+              "y_name": "ワークアウト",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            },
+            {
+              "y": "hBP03-088",
+              "y_name": "凸待ち",
+              "y_ratio": 20,
+              "co_occur_pct": 0,
+              "diff_pct": -50
+            }
+          ]
+        }
+      ]
+    },
+    "c4d6a4": {
+      "name": "c4d6a4",
+      "oshi_id": "hBP08-003",
+      "n": 14,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hSD01-017",
+              "card_name": "マネちゃん",
+              "ratio": 36
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD14-010",
+              "y_name": "holoAN",
+              "y_ratio": 64,
+              "co_occur_pct": 7,
+              "diff_pct": -69
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP08-060",
+              "card_name": "FUWAMOCO",
+              "ratio": 36
+            }
+          ],
+          "drops": [
+            {
+              "y": "hSD01-016",
+              "y_name": "春先のどか",
+              "y_ratio": 57,
+              "co_occur_pct": 7,
+              "diff_pct": -58
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

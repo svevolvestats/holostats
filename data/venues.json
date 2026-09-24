@@ -14727,6 +14727,53 @@
   ],
   "カードショップ竜星のPAO秋葉原ロケット無線店": [
     {
+      "date": "2026-09-24",
+      "event_id": "1740105",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "YSLYF",
+          "deck_id": "C6X0L",
+          "rank": 1
+        },
+        {
+          "friend_code": "SSMUU",
+          "deck_id": "A3PHE",
+          "rank": 2
+        },
+        {
+          "friend_code": "CTYNC",
+          "deck_id": "1XW6G4",
+          "rank": 3
+        },
+        {
+          "friend_code": "KKJZJ",
+          "deck_id": "QCE0L",
+          "rank": 4
+        },
+        {
+          "friend_code": "PBAFL",
+          "deck_id": "RB1V6",
+          "rank": 5
+        },
+        {
+          "friend_code": "IAHBN",
+          "deck_id": "2Z5A8L",
+          "rank": 6
+        },
+        {
+          "friend_code": "MNSZD",
+          "deck_id": "14M4Y4",
+          "rank": 7
+        },
+        {
+          "friend_code": "KIUXJ",
+          "deck_id": "17LVJ4",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-14",
       "event_id": "1684819",
       "participants": 33,
@@ -30191,6 +30238,53 @@
     }
   ],
   "カードラボ長野店": [
+    {
+      "date": "2026-09-24",
+      "event_id": "1726692",
+      "participants": 21,
+      "top8": [
+        {
+          "friend_code": "BKXQM",
+          "deck_id": "1SUHQ8",
+          "rank": 1
+        },
+        {
+          "friend_code": "UBYDN",
+          "deck_id": "EZPGQ",
+          "rank": 2
+        },
+        {
+          "friend_code": "ZEFLU",
+          "deck_id": "XFZJC",
+          "rank": 3
+        },
+        {
+          "friend_code": "MXDTU",
+          "deck_id": "1GAV72",
+          "rank": 4
+        },
+        {
+          "friend_code": "DWYKC",
+          "deck_id": "1HLSWQ",
+          "rank": 5
+        },
+        {
+          "friend_code": "ZNSUY",
+          "deck_id": "QQTBN",
+          "rank": 6
+        },
+        {
+          "friend_code": "PFSFN",
+          "deck_id": "1QUQCY",
+          "rank": 7
+        },
+        {
+          "friend_code": "GAIFA",
+          "deck_id": "KHEYY",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-01",
       "event_id": "1683397",
