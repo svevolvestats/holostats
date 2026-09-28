@@ -16501,6 +16501,53 @@
   ],
   "カードショップ＠ほ～む。宮崎店": [
     {
+      "date": "2026-09-28",
+      "event_id": "1751889",
+      "participants": 25,
+      "top8": [
+        {
+          "friend_code": "HPZPX",
+          "deck_id": "G9SME",
+          "rank": 1
+        },
+        {
+          "friend_code": "TEGKA",
+          "deck_id": "1U7LVJ",
+          "rank": 2
+        },
+        {
+          "friend_code": "RNOKN",
+          "deck_id": "1YLCKN",
+          "rank": 3
+        },
+        {
+          "friend_code": "XXOBP",
+          "deck_id": "YJEHJ",
+          "rank": 4
+        },
+        {
+          "friend_code": "OMXBF",
+          "deck_id": "GB1VW",
+          "rank": 5
+        },
+        {
+          "friend_code": "DQXOA",
+          "deck_id": "86WGQ",
+          "rank": 6
+        },
+        {
+          "friend_code": "TWORU",
+          "deck_id": "2Z410Y",
+          "rank": 7
+        },
+        {
+          "friend_code": "WGGEP",
+          "deck_id": "1CQ056",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-31",
       "event_id": "1708644",
       "participants": 20,
@@ -40858,6 +40905,53 @@
   ],
   "トレーディングカードゲームショップ193名駅椿店": [
     {
+      "date": "2026-09-27",
+      "event_id": "1741645",
+      "participants": 38,
+      "top8": [
+        {
+          "friend_code": "YJGHN",
+          "deck_id": "ZX6GL",
+          "rank": 1
+        },
+        {
+          "friend_code": "XHPRZ",
+          "deck_id": "Y9WZE",
+          "rank": 2
+        },
+        {
+          "friend_code": "NIQMG",
+          "deck_id": "290KNG",
+          "rank": 3
+        },
+        {
+          "friend_code": "CMJEP",
+          "deck_id": "16PN04",
+          "rank": 4
+        },
+        {
+          "friend_code": "FIXNZ",
+          "deck_id": "1VGDNL",
+          "rank": 5
+        },
+        {
+          "friend_code": "SNIRS",
+          "deck_id": "1UNFMW",
+          "rank": 6
+        },
+        {
+          "friend_code": "DLFJD",
+          "deck_id": "VHWSC",
+          "rank": 7
+        },
+        {
+          "friend_code": "ZKZLT",
+          "deck_id": "112DUY",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-06",
       "event_id": "1741644",
       "participants": 53,
@@ -57089,6 +57183,53 @@
     }
   ],
   "ホビーステーション金沢店": [
+    {
+      "date": "2026-09-28",
+      "event_id": "1739458",
+      "participants": 18,
+      "top8": [
+        {
+          "friend_code": "SUOHP",
+          "deck_id": "1EUJF6",
+          "rank": 1
+        },
+        {
+          "friend_code": "WYVON",
+          "deck_id": "1VF3KJ",
+          "rank": 2
+        },
+        {
+          "friend_code": "PGINT",
+          "deck_id": "19L7CY",
+          "rank": 3
+        },
+        {
+          "friend_code": "NSXGN",
+          "deck_id": "13FNHS",
+          "rank": 4
+        },
+        {
+          "friend_code": "NRMIV",
+          "deck_id": "QZHTE",
+          "rank": 5
+        },
+        {
+          "friend_code": "SXJSE",
+          "deck_id": "1W7CJY",
+          "rank": 6
+        },
+        {
+          "friend_code": "JHAOV",
+          "deck_id": "201EWQ",
+          "rank": 7
+        },
+        {
+          "friend_code": "YWGYD",
+          "deck_id": "168T7S",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "event_id": "1699349",
