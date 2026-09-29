@@ -45300,6 +45300,53 @@
   ],
   "ドラゴンスター秋葉原駅前店": [
     {
+      "date": "2026-09-29",
+      "event_id": "1727179",
+      "participants": 27,
+      "top8": [
+        {
+          "friend_code": "YSLYF",
+          "deck_id": "1G8QLC",
+          "rank": 1
+        },
+        {
+          "friend_code": "KXEGJ",
+          "deck_id": "266VYC",
+          "rank": 2
+        },
+        {
+          "friend_code": "CRSWV",
+          "deck_id": "1Z0TMW",
+          "rank": 3
+        },
+        {
+          "friend_code": "OHDTU",
+          "deck_id": "SYCWG",
+          "rank": 4
+        },
+        {
+          "friend_code": "YAPDP",
+          "deck_id": "11ANS8",
+          "rank": 5
+        },
+        {
+          "friend_code": "DKTUQ",
+          "deck_id": "293SNG",
+          "rank": 6
+        },
+        {
+          "friend_code": "YXPAE",
+          "deck_id": "18WM5W",
+          "rank": 7
+        },
+        {
+          "friend_code": "TMAUH",
+          "deck_id": "1Q0BUQ",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-31",
       "event_id": "1692223",
       "participants": 32,
