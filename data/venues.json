@@ -28629,6 +28629,53 @@
   ],
   "カードラボ池袋店": [
     {
+      "date": "2026-09-26",
+      "event_id": "1730384",
+      "participants": 24,
+      "top8": [
+        {
+          "friend_code": "OLBAY",
+          "deck_id": "2T4X56",
+          "rank": 1
+        },
+        {
+          "friend_code": "DCPWB",
+          "deck_id": "MX82L",
+          "rank": 2
+        },
+        {
+          "friend_code": "APRBX",
+          "deck_id": "1XEV40",
+          "rank": 3
+        },
+        {
+          "friend_code": "UHRVE",
+          "deck_id": "1X0ZC8",
+          "rank": 4
+        },
+        {
+          "friend_code": "OJHVI",
+          "deck_id": "962QU",
+          "rank": 5
+        },
+        {
+          "friend_code": "NBHCM",
+          "deck_id": "19827E",
+          "rank": 6
+        },
+        {
+          "friend_code": "EBQLE",
+          "deck_id": "1VTX7S",
+          "rank": 7
+        },
+        {
+          "friend_code": "TSIKO",
+          "deck_id": "2326TS",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-08-26",
       "event_id": "1721938",
       "participants": 32,
