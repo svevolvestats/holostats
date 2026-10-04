@@ -5200,7 +5200,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 280
+    "min_price": 480
   },
   {
     "oracle_id": "hBP01-080",
@@ -13051,7 +13051,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 120
+    "min_price": 280
   },
   {
     "oracle_id": "hSD06-006",
@@ -29604,7 +29604,7 @@
       2133
     ],
     "ability_text": "自分のデッキを2枚引く。その後、自分のライフが4以下なら、自分のこのターンにDebutホロメンからBloomした1stホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 4480
+    "min_price": 1080
   },
   {
     "oracle_id": "hBP06-091",
