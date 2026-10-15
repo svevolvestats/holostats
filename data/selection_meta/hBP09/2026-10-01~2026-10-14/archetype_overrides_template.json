@@ -1,0 +1,126 @@
+{
+  "_split_suggestions": {
+    "7f9a23": {
+      "name": "7f9a23",
+      "oshi_id": "hBP09-002",
+      "n": 59,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP08-091",
+              "card_name": "クリエイターパソコン",
+              "ratio": 10
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-074",
+              "y_name": "フレンドリーパソコン",
+              "y_ratio": 86,
+              "co_occur_pct": 0,
+              "diff_pct": -96
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hSD14-010",
+              "card_name": "holoAN",
+              "ratio": 37
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP05-080",
+              "y_name": "SorAZセレブレーション",
+              "y_ratio": 44,
+              "co_occur_pct": 0,
+              "diff_pct": -70
+            }
+          ]
+        },
+        {
+          "xs": [
+            {
+              "name": "hBP09-017",
+              "card_name": "轟はじめ",
+              "ratio": 42
+            }
+          ],
+          "drops": [
+            {
+              "y": "hBP02-079",
+              "y_name": "爆発の魔法",
+              "y_ratio": 46,
+              "co_occur_pct": 7,
+              "diff_pct": -52
+            }
+          ]
+        }
+      ]
+    },
+    "10f30c": {
+      "name": "10f30c",
+      "oshi_id": "hBP09-005",
+      "n": 45,
+      "pairs": [
+        {
+          "xs": [
+            {
+              "name": "hBP02-065",
+              "card_name": "ネリッサ・レイヴンクロフト",
+              "ratio": 24
+            },
+            {
+              "name": "hBP02-067",
+              "card_name": "ネリッサ・レイヴンクロフト",
+              "ratio": 24
+            },
+            {
+              "name": "hBP09-076",
+              "card_name": "ネリッサ・レイヴンクロフト",
+              "ratio": 24
+            }
+          ],
+          "drops": [
+            {
+              "y": "hEB01-028",
+              "y_name": "スイカ割り",
+              "y_ratio": 49,
+              "co_occur_pct": 2,
+              "diff_pct": -53
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "auto_splits": [],
+  "merges": [
+    {
+      "_comment": "sources: list of auto_ids. oshi_id/member/name informational.",
+      "sources": [],
+      "oshi_id": "",
+      "member": "",
+      "name": ""
+    }
+  ],
+  "splits": [
+    {
+      "_comment": "source: single auto_id. rules applied in order; remainder kept. required: oracle_ids (cardno), NOT card names.",
+      "source": "",
+      "rules": [
+        {
+          "required": [],
+          "name": ""
+        },
+        {
+          "required": [],
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
