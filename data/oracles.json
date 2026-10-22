@@ -2828,7 +2828,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 50
+    "min_price": 780
   },
   {
     "oracle_id": "hBP01-022",
@@ -37899,7 +37899,7 @@
         "text": "自分のステージに#0期生を持つ2ndホロメンがいるなら、このアーツ+20。"
       }
     ],
-    "min_price": 780
+    "min_price": 280
   },
   {
     "oracle_id": "hBP08-018",
