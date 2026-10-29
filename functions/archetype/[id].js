@@ -1,5 +1,4 @@
 // _shared.js
-var R2_BASE = "https://pub-bdbcbaf7e9804fe7a47da87d11c7064c.r2.dev";
 var CACHE_NAME = "sve-og-v1";
 async function fetchJson(url) {
   const cache = await caches.open(CACHE_NAME);
@@ -20,11 +19,6 @@ function isCrawler(request) {
 function serveIndex(context) {
   const origin = new URL(context.request.url).origin;
   return context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
-}
-function cardImageUrl(print) {
-  if (!print?.image_url) return null;
-  const filename = print.image_url.split("/").pop().replace(/\.webp$/i, ".jpg");
-  return `${R2_BASE}/images/${print.expansion}/${filename}`;
 }
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -74,11 +68,6 @@ async function serveWithOG(context, ogProps) {
 }
 
 // holo/archetype/[id].js
-function holoCardImageUrl(print) {
-  if (!print?.image_url) return null;
-  if (/^https?:\/\//.test(print.image_url)) return print.image_url.replace(/\.webp$/i, ".jpg");
-  return cardImageUrl(print);
-}
 async function onRequest(context) {
   const { params, request } = context;
   if (!isCrawler(request)) return serveIndex(context);
@@ -90,27 +79,15 @@ async function onRequest(context) {
   try {
     if (!cup || !era || !period) throw new Error("missing era param");
     const base = cup === "entry" ? `${origin}/data/entry_meta/${era}/${period}` : `${origin}/data/meta/${era}/${period}`;
-    const [meta, oracles, prints] = await Promise.all([
+    const [meta, cardImg] = await Promise.all([
       fetchJson(`${base}/meta.json`),
-      fetchJson(`${origin}/data/oracles.json`),
-      fetchJson(`${origin}/data/prints.json`)
+      // {oracle_id: full .jpg URL} from scraper/build_og_lookup.py --holo —
+      // parsing oracles+prints (~3MB) overran the Workers CPU limit.
+      fetchJson(`${origin}/data/og/card_img.json`)
     ]);
     const arch = meta.archetypes?.find((a) => a.id === archId);
     if (!arch) throw new Error("not found");
-    const oracleById = Object.fromEntries(oracles.map((o) => [o.oracle_id, o]));
-    const printBySiteId = Object.fromEntries(prints.map((p) => [p.site_id, p]));
-    let imageUrl = null;
-    const candidates = [...arch.top_cards || [], arch.oshi_id].filter(Boolean);
-    for (const cardno of candidates) {
-      const oracle = oracleById[cardno];
-      if (oracle) {
-        const img = holoCardImageUrl(printBySiteId[oracle.canonical_print]);
-        if (img) {
-          imageUrl = img;
-          break;
-        }
-      }
-    }
+    const imageUrl = [...arch.top_cards || [], arch.oshi_id].filter(Boolean).map((id) => cardImg[id]).find(Boolean) || null;
     const archName = arch.name || arch.member || archId;
     const cupLabel = cup === "entry" ? "\u30A8\u30F3\u30C8\u30EA\u30FC" : "\u30D6\u30EB\u30FC\u30E0";
     const ctxLabel = `${era} ${cupLabel} ${period}`;

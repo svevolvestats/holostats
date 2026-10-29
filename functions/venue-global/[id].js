@@ -69,14 +69,6 @@ async function serveWithOG(context, ogProps) {
 
 // holo/venue-global/[id].js
 var COUNTRY_NAME = { 2: "United States", 3: "Singapore", 4: "United Kingdom", 5: "Canada", 13: "Argentina", 15: "Australia", 16: "Austria", 23: "Belgium", 40: "Brazil", 44: "Costa Rica", 45: "Croatia", 50: "Denmark", 65: "France", 69: "Germany", 71: "Greece", 79: "Hong Kong", 80: "Hungary", 83: "Indonesia", 88: "Italy", 105: "Lithuania", 107: "Macau", 111: "Malaysia", 118: "Mexico", 126: "Myanmar", 130: "Netherlands", 131: "New Zealand", 145: "Peru", 146: "Philippines", 147: "Poland", 148: "Portugal", 170: "South Korea", 172: "Spain", 177: "Sweden", 178: "Switzerland", 180: "Taiwan", 183: "Thailand", 199: "Vietnam" };
-function venueId(name) {
-  let h = 5381;
-  for (let i = 0; i < name.length; i++) {
-    h = (h << 5) + h ^ name.charCodeAt(i);
-    h = h >>> 0;
-  }
-  return h.toString(16).padStart(8, "0");
-}
 async function onRequest(context) {
   const { params, request } = context;
   const id = decodeURIComponent(params.id);
@@ -85,14 +77,13 @@ async function onRequest(context) {
   const gtid = url.searchParams.get("gtid") || "";
   if (!isCrawler(context.request)) return serveIndex(context);
   try {
-    const venueInfo = await fetchJson(`${origin}/data/venue_info_global.json`);
-    const venueName = Object.keys(venueInfo).find((name) => venueId(name) === id);
-    if (!venueName) throw new Error("not found");
-    const info = venueInfo[venueName];
-    const country = COUNTRY_NAME[info.country_id] || null;
-    const addr = [info.city_address, country].filter(Boolean).join(", ");
+    const venues = await fetchJson(`${origin}/data/og/venues_global.json`);
+    const hit = venues[id];
+    if (!hit) throw new Error("not found");
+    const [venueName, cityAddress, countryId] = hit;
+    const addr = [cityAddress, COUNTRY_NAME[countryId] || null].filter(Boolean).join(", ");
     const description = addr ? `${addr} \u2014 hololive OFFICIAL CARD GAME` : "hololive OFFICIAL CARD GAME";
-    return serveWithOG(context, {
+    return await serveWithOG(context, {
       title: `${venueName} | \u30DB\u30ED\u30AB\u7D71\u8A08\u5C40`,
       description,
       imageUrl: `${origin}/api/og/venue/${id}`,

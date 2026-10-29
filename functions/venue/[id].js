@@ -68,28 +68,19 @@ async function serveWithOG(context, ogProps) {
 }
 
 // holo/venue/[id].js
-function venueId(name) {
-  let h = 5381;
-  for (let i = 0; i < name.length; i++) {
-    h = (h << 5) + h ^ name.charCodeAt(i);
-    h = h >>> 0;
-  }
-  return h.toString(16).padStart(8, "0");
-}
 async function onRequest(context) {
   const { params, request } = context;
   const id = decodeURIComponent(params.id);
   const origin = new URL(request.url).origin;
   if (!isCrawler(context.request)) return serveIndex(context);
   try {
-    const venueInfo = await fetchJson(`${origin}/data/venue_info.json`);
-    const venueName = Object.keys(venueInfo).find((name) => venueId(name) === id);
-    if (!venueName) throw new Error("not found");
-    const info = venueInfo[venueName];
-    const description = info.address || "hololive OFFICIAL CARD GAME \u500B\u4EBA\u6226CS\u958B\u50AC\u5E97\u8217";
-    return serveWithOG(context, {
+    const venues = await fetchJson(`${origin}/data/og/venues.json`);
+    const hit = venues[id];
+    if (!hit) throw new Error("not found");
+    const [venueName, address] = hit;
+    return await serveWithOG(context, {
       title: `${venueName} | \u30DB\u30ED\u30AB\u7D71\u8A08\u5C40`,
-      description,
+      description: address || "hololive OFFICIAL CARD GAME \u500B\u4EBA\u6226CS\u958B\u50AC\u5E97\u8217",
       imageUrl: `${origin}/api/og/venue/${id}`,
       pageUrl: `${origin}/venue/${id}`
     });

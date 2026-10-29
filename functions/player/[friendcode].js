@@ -81,22 +81,10 @@ async function onRequest(context) {
   }
   if (!isCrawler(context.request)) return serveIndex(context);
   try {
-    const [bloom, entry] = await Promise.all([
-      fetchJson(`${origin}/data/players.json`).catch(() => ({})),
-      fetchJson(`${origin}/data/entry_players.json`).catch(() => ({}))
-    ]);
-    const pb = bloom[fc];
-    const pe = entry[fc];
-    if (!pb && !pe) throw new Error("not found");
-    const names = (pb?.names?.length ? pb.names : pe?.names) || [];
-    const name = names[0] || fc;
-    const stat = (k) => (pb?.[k] ?? 0) + (pe?.[k] ?? 0);
-    const wins = stat("wins"), second = stat("second"), top8 = stat("top8");
-    const desc = [
-      wins ? `\u512A\u52DD\uFF1A${wins}\u56DE` : null,
-      second ? `\u6E96\u512A\u52DD\uFF1A${second}\u56DE` : null,
-      top8 ? `TOP8\uFF1A${top8}\u56DE` : null
-    ].filter(Boolean).join(" ");
+    const players = await fetchJson(`${origin}/data/og/players.json`);
+    const hit = players[fc];
+    if (!hit) throw new Error("not found");
+    const [name, desc] = hit;
     return serveWithOG(context, {
       title: `${name} | \u30DB\u30ED\u30AB\u7D71\u8A08\u5C40`,
       description: desc,

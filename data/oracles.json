@@ -25085,7 +25085,8 @@
       1768,
       2567,
       2693,
-      3014
+      3014,
+      3017
     ],
     "ability_text": "自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1～2枚を公開し、ステージに出す。そしてデッキをシャッフルする。Debutホロメンを2枚出したなら、さらに、自分の手札1枚をデッキの下に戻す。",
     "min_price": 180
@@ -26255,7 +26256,7 @@
       "once_per_game": true,
       "text": "相手のセンターホロメンかコラボホロメンどちらかに、自分のアーカイブの赤エール1枚につき、特殊ダメージ20を与える。"
     },
-    "min_price": 39800
+    "min_price": 980
   },
   {
     "oracle_id": "hBP06-005",
@@ -31199,7 +31200,7 @@
       "once_per_game": true,
       "text": "自分のデッキの上から6枚を見る。その中から、カード3枚を手札に加える。そして残ったカードを好きな順でデッキの上に戻す。その後、自分のホロメン全員のHP50回復。"
     },
-    "min_price": 780
+    "min_price": 12800
   },
   {
     "oracle_id": "hBP07-004",
@@ -35466,7 +35467,8 @@
       2202,
       2324,
       2470,
-      2683
+      2683,
+      3042
     ],
     "ability_text": "自分のデッキを３枚引く。\n\r\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 180
@@ -37946,7 +37948,7 @@
         "text": "自分の推しホロメンが〈ときのそら〉なら、自分のステージの他の〈ときのそら〉1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手の2ndのバックホロメンも対象にできる。"
       }
     ],
-    "min_price": 280
+    "min_price": 780
   },
   {
     "oracle_id": "hBP08-019",
@@ -42250,7 +42252,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2500,
     "prints": [
-      2500
+      2500,
+      3018
     ],
     "ability_text": "自分のライフが2以上なら、自分のデッキから、#サマーを持つDebutホロメン1枚をステージに出す。そしてデッキをシャッフルする。自分のライフが1なら、自分のデッキから、#サマーを持つホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
     "min_price": 120
@@ -42268,7 +42271,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2501,
     "prints": [
-      2501
+      2501,
+      3019
     ],
     "ability_text": "このカードは、自分の推しホロメンが〈宝鐘マリン〉でなければ使えない。\n自分のデッキを2枚引く。その後、自分の手札の〈宝鐘マリン〉1枚を公開し、デッキの下に戻せる。戻したなら、自分のデッキを2枚引く。\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 50
@@ -42286,7 +42290,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2502,
     "prints": [
-      2502
+      2502,
+      3020
     ],
     "ability_text": "このターンの間、自分のステージの#サマーを持つホロメン全員のアーツ+30。その後、自分のアーカイブのエール1枚を自分のホロメンに送る。\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 50
@@ -42304,7 +42309,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2503,
     "prints": [
-      2503
+      2503,
+      3021
     ],
     "ability_text": "自分のステージの2ndホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+30し、そのホロメンがアーツダメージでホロメンをダウンさせた時、自分のデッキを2枚引く。\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 50
@@ -42321,7 +42327,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2504,
     "prints": [
-      2504
+      2504,
+      3022
     ],
     "ability_text": "このカードは、自分のセンターホロメンとコラボホロメンが#サマーを持つホロメンでなければ使えない。\n相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。\n自分の〈スプラッシュシュート〉はターンに1回しか使えない。",
     "min_price": 30
@@ -42339,7 +42346,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2505,
     "prints": [
-      2505
+      2505,
+      3023
     ],
     "ability_text": "自分のデッキを2枚引く。その後、自分のステージに#サマーを持つホロメンが3人以上いるなら、自分のデッキの上から2枚を見る。その中から1枚を手札に加える。そして残ったカードをアーカイブする。\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 80
@@ -42356,7 +42364,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2506,
     "prints": [
-      2506
+      2506,
+      3024
     ],
     "ability_text": "自分のアーカイブのエール1枚を自分の#サマーを持つホロメンに送る。",
     "min_price": 50
@@ -42374,7 +42383,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2507,
     "prints": [
-      2507
+      2507,
+      3025
     ],
     "ability_text": "このカードは、自分の推しホロメンが〈ときのそら〉なら、自分が先攻で最初のターンでも使える。\n自分のデッキを3枚引き、手札1枚をデッキの下に戻す。\nLIMITED：ターンに1枚しか使えない。",
     "min_price": 50
@@ -42391,7 +42401,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2508,
     "prints": [
-      2508
+      2508,
+      3026
     ],
     "ability_text": "このツールが付いている#サマーを持つホロメンのアーツ+10。\nこのツールが付いているホロメンがアーツを使った時、このツールを自分の#サマーを持つ[センターホロメンかコラボホロメン]に付け替えられる。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
     "min_price": 30
@@ -42408,7 +42419,8 @@
     "release_date": "2026-08-21",
     "canonical_print": 2509,
     "prints": [
-      2509
+      2509,
+      3027
     ],
     "ability_text": "このツールが付いているホロメンのアーツ+10。\n◆2nd〈博衣こより〉に付いていたら能力追加\n [センターポジション・コラボポジション限定]自分のパフォーマンスステップが終了する時、このホロメンに付いている〈なんでも爆解！〉1枚をアーカイブできる：相手のセンターホロメンに特殊ダメージ30を与える。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
     "min_price": 50
@@ -43505,7 +43517,8 @@
     "prints": [
       2748,
       2860,
-      2878
+      2878,
+      3015
     ],
     "hp": 220,
     "bloom_level": "2nd",
@@ -45818,7 +45831,8 @@
     "canonical_print": 2803,
     "prints": [
       2803,
-      2902
+      2902,
+      3016
     ],
     "hp": 170,
     "bloom_level": "1st",
@@ -46144,7 +46158,7 @@
       2953
     ],
     "ability_text": "自分のデッキを4枚引く。その後、自分のアーカイブにLIMITEDのサポートがあるなら、自分の手札4枚を好きな順でデッキの下に戻す。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 380
+    "min_price": 3980
   },
   {
     "oracle_id": "hBP09-099",
@@ -46384,5 +46398,741 @@
     ],
     "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンのエール1枚を自分の他のホロメンに付け替える。\nこのファンは、自分の〈カエラ・コヴァルスキア〉だけに付けられ、1人につき何枚でも付けられる。",
     "min_price": 30
+  },
+  {
+    "oracle_id": "hSD20-001",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3028,
+    "prints": [
+      3028
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "ヒーローポリス疾走！",
+      "holo_power": -3,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "相手のDebut以外の[センターホロメンとコラボホロメン]に、自分のステージのエール1枚につき、特殊ダメージ10を与える。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-002",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3029,
+    "prints": [
+      3029
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "赤"
+        ],
+        "name": "笑顔にさせちゃっていいですか！？？",
+        "power": 20,
+        "power_plus": true,
+        "text": "[センターポジション限定]自分のステージにエールが2枚以上あるなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-003",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3030,
+    "prints": [
+      3030
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト即集合！\n自分が後攻で最初のターンなら、自分のデッキから、[#アソビ★まわり隊！を持つDebutホロメンと1st〈百灯キョーコ〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "ドンチャン大騒ぎの始まり",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-004",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3031,
+    "prints": [
+      3031
+    ],
+    "hp": 180,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": null,
+    "arts": [
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "出勤準備完了！",
+        "power": 60,
+        "power_plus": false
+      },
+      {
+        "cost": [
+          "赤",
+          "無",
+          "無",
+          "無"
+        ],
+        "name": "拡声器いらずのビッグボイス",
+        "power": 140,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-005",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3032,
+    "prints": [
+      3032
+    ],
+    "hp": 150,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト差し伸べる手\n自分のステージの#アソビ★まわり隊！を持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "考えるより先に動く",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-006",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3033,
+    "prints": [
+      3033
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト誰にだって手を伸ばす！\n自分のステージのエール1枚をアーカイブできる:自分のアーカイブの#アソビ★まわり隊！を持つホロメン1枚を手札に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤",
+          "無"
+        ],
+        "name": "渦巻くハイテンション",
+        "power": 50,
+        "power_plus": true,
+        "text": "自分のステージにエールが6枚以上あるなら、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-007",
+    "name": "百灯キョーコ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "赤",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3034,
+    "prints": [
+      3034
+    ],
+    "hp": 190,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト情熱系ヒーローポリス\n[センターポジション限定]自分のコラボホロメンのアーツ+20。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "赤",
+          "赤",
+          "無"
+        ],
+        "name": "「最強」担当",
+        "power": 150,
+        "power_plus": true,
+        "tokkou": "緑+50",
+        "text": "自分のステージにエールが6枚以上あるなら、このアーツ+50。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-008",
+    "name": "宙科そぴあ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3035,
+    "prints": [
+      3035
+    ],
+    "hp": 120,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト夢は弾けるビッグバン！\n相手のターンで、このホロメンがダウンした時、自分のデッキを1枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "全部この目で確かめにいくよ！",
+        "power": 10,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-009",
+    "name": "宙科そぴあ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3036,
+    "prints": [
+      3036
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト面白さの探求\n自分のステージに#アソビ★まわり隊！を持つホロメンが3人以上いるなら、このホロメンのエール1枚をアーカイブできる：自分のデッキを2枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "抑えきれない知的好奇心",
+        "power": 30,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-010",
+    "name": "宙科そぴあ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3037,
+    "prints": [
+      3037
+    ],
+    "hp": 130,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ブルームエフェクト",
+      "text": "ブルームエフェクト仲間を探すぞ～！\n自分のデッキの上から3枚を見る。その中から、#アソビ★まわり隊！を持つホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "面白いもの見つけたよ！",
+        "power": 50,
+        "power_plus": false,
+        "text": "このホロメンのエール1枚を自分の他の#アソビ★まわり隊！を持つホロメンに付け替えられる。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-011",
+    "name": "宙科そぴあ",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "青",
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3038,
+    "prints": [
+      3038
+    ],
+    "hp": 200,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト（自称）天才宇宙飛行士\n自分のアーカイブのエール2枚を自分の#アソビ★まわり隊！を持つホロメン1人に送れる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "青",
+          "無"
+        ],
+        "name": "「ひらめき」担当",
+        "power": 80,
+        "power_plus": true,
+        "tokkou": "白+50",
+        "text": "このホロメンのエール1～3枚をアーカイブできる:アーカイブしたエール1枚につき、このアーツ+20。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-012",
+    "name": "アソビ★まわり隊！",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3039,
+    "prints": [
+      3039
+    ],
+    "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n自分のデッキの上から4枚を見る。その中から、#アソビ★まわり隊！を持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-013",
+    "name": "ぐるぐるTIME！",
+    "card_type": [
+      "サポート",
+      "イベント",
+      "LIMITED"
+    ],
+    "color": null,
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3040,
+    "prints": [
+      3040
+    ],
+    "ability_text": "このカードは、自分のステージのホロメン全員が#アソビ★まわり隊！を持つホロメンでなければ使えない。\n相手のバックホロメン1人を選ぶ。選んだホロメンと相手のセンターホロメンを交代させる。その後、相手と勝敗が決まるまでじゃんけんする。自分が勝ったなら、自分のデッキを3枚引く。\nLIMITED:ターンに1枚しか使えない。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD20-014",
+    "name": "百灯キョーコの拡声器",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hSD20",
+    "release_date": "2026-10-30",
+    "canonical_print": 3041,
+    "prints": [
+      3041
+    ],
+    "ability_text": "このツールが付いている〈百灯キョーコ〉のアーツ+20。\n◆1st以上の〈百灯キョーコ〉に付いていたら能力追加\nこのホロメンが相手のホロメンをダウンさせた時、自分のアーカイブのエール1枚を自分の#アソビ★まわり隊！を持つバックホロメンに送れる。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-001",
+    "name": "熱千めら",
+    "card_type": [
+      "推しホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3043,
+    "prints": [
+      3043
+    ],
+    "life": 5,
+    "oshi_skill": {
+      "name": "ご利益じゃ！",
+      "holo_power": -2,
+      "once_per_turn": true,
+      "once_per_game": false,
+      "text": "自分のステージのホロメン1人を選ぶ。自分のアーカイブのギフトを持つホロメン1枚につき、このターンの間、選んだホロメンのアーツ+10。さらに、選んだホロメンが〈熱千めら〉なら、そのホロメンのアーツに必要な無色-1。"
+    },
+    "sp_oshi_skill": null,
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-002",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3044,
+    "prints": [
+      3044
+    ],
+    "hp": 120,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト防火対策 基礎！\nこのホロメンが受けるアーツダメージ-10。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "火の用心じゃ～！",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-003",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3045,
+    "prints": [
+      3045
+    ],
+    "hp": 130,
+    "bloom_level": "Debut",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクト炎を鎮める不思議な力\n自分が後攻で最初のターンなら、自分のデッキから、ギフトを持つ〈熱千めら〉2枚を公開する。その中から1枚を手札に加え、残ったカードをアーカイブする。そしてデッキをシャッフルする。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "無"
+        ],
+        "name": "響く拍子木",
+        "power": 20,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-004",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3046,
+    "prints": [
+      3046
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト防火対策 応用！\nこのホロメンが受けるアーツダメージ-20。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "元気な頑張り屋",
+        "power": 30,
+        "power_plus": false,
+        "text": "自分のデッキを1枚引き、手札1枚をアーカイブする。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-005",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3047,
+    "prints": [
+      3047
+    ],
+    "hp": 170,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "コラボエフェクト",
+      "text": "コラボエフェクトハジけるアソビの渦\n自分のアーカイブにギフトを持つホロメンが3枚以上あるなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫"
+        ],
+        "name": "最高の非日常へ",
+        "power": 40,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-006",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3048,
+    "prints": [
+      3048
+    ],
+    "hp": 160,
+    "bloom_level": "1st",
+    "baton_touch": [
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフトご利益パワー\nこのホロメンがダウンした時、このホロメンのエール1～2枚を選び、自分の他のホロメンに割り振って付け替えられる。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "火消しの本領発揮じゃ！",
+        "power": 60,
+        "power_plus": false
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-007",
+    "name": "熱千めら",
+    "card_type": [
+      "ホロメン"
+    ],
+    "color": "紫",
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3049,
+    "prints": [
+      3049
+    ],
+    "hp": 210,
+    "bloom_level": "2nd",
+    "baton_touch": [
+      "無",
+      "無"
+    ],
+    "tags": [
+      "#アソビ★まわり隊！"
+    ],
+    "keyword": {
+      "name": "ギフト",
+      "text": "ギフト火消しのサラマンダー\nこのホロメンがダウンした時、自分のデッキを2枚引く。"
+    },
+    "arts": [
+      {
+        "cost": [
+          "紫",
+          "無"
+        ],
+        "name": "「ご利益」担当",
+        "power": 100,
+        "power_plus": true,
+        "tokkou": "黄+50",
+        "text": "自分のアーカイブにギフトを持つホロメンが3枚以上あるなら、このアーツ+50。"
+      }
+    ],
+    "min_price": null
+  },
+  {
+    "oracle_id": "hSD21-008",
+    "name": "熱千めらの拍子木",
+    "card_type": [
+      "サポート",
+      "ツール"
+    ],
+    "color": null,
+    "expansion": "hSD21",
+    "release_date": "2026-10-30",
+    "canonical_print": 3050,
+    "prints": [
+      3050
+    ],
+    "ability_text": "このツールが付いている〈熱千めら〉のアーツ+20。\n◆1st以上の〈熱千めら〉に付いていたら能力追加\nこのホロメンが相手のホロメンをダウンさせた時、自分のデッキを1枚引き、手札1枚をアーカイブする。\nツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "min_price": null
   }
 ]
