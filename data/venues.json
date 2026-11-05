@@ -6614,6 +6614,55 @@
       ]
     }
   ],
+  "Japan TCG Center錦糸町マルイ店": [
+    {
+      "date": "2026-11-05",
+      "event_id": "1797488",
+      "participants": 32,
+      "top8": [
+        {
+          "friend_code": "RUPMW",
+          "deck_id": "12GUQL",
+          "rank": 1
+        },
+        {
+          "friend_code": "ENAPK",
+          "deck_id": "9KWEU",
+          "rank": 2
+        },
+        {
+          "friend_code": "TKVXW",
+          "deck_id": "SQQQL",
+          "rank": 3
+        },
+        {
+          "friend_code": "KHIUX",
+          "deck_id": "131R16",
+          "rank": 4
+        },
+        {
+          "friend_code": "RKCYQ",
+          "deck_id": "15MLEG",
+          "rank": 5
+        },
+        {
+          "friend_code": "ZTNQN",
+          "deck_id": "13AAAG",
+          "rank": 6
+        },
+        {
+          "friend_code": "ZRZYQ",
+          "deck_id": "8GKK6",
+          "rank": 7
+        },
+        {
+          "friend_code": "IBQPI",
+          "deck_id": "1AVWJC",
+          "rank": 8
+        }
+      ]
+    }
+  ],
   "MINT GAMES池袋店": [
     {
       "date": "2026-09-26",
