@@ -46383,6 +46383,53 @@
   ],
   "ドラゴンスター秋葉原駅前店": [
     {
+      "date": "2026-11-06",
+      "event_id": "1800953",
+      "participants": 21,
+      "top8": [
+        {
+          "friend_code": "AZIXK",
+          "deck_id": "1QQQ2G",
+          "rank": 1
+        },
+        {
+          "friend_code": "TKVXW",
+          "deck_id": "SQQQL",
+          "rank": 2
+        },
+        {
+          "friend_code": "KCFUS",
+          "deck_id": "1QNGVJ",
+          "rank": 3
+        },
+        {
+          "friend_code": "UHPSO",
+          "deck_id": "NK416",
+          "rank": 4
+        },
+        {
+          "friend_code": "ETXKY",
+          "deck_id": "LNMXN",
+          "rank": 5
+        },
+        {
+          "friend_code": "KQOQK",
+          "deck_id": "1LLYBN",
+          "rank": 6
+        },
+        {
+          "friend_code": "QCSSJ",
+          "deck_id": "B81AQ",
+          "rank": 7
+        },
+        {
+          "friend_code": "VOBPR",
+          "deck_id": "1VVRME",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "event_id": "1727179",
       "participants": 27,
@@ -56754,6 +56801,53 @@
     }
   ],
   "ホビーステーション川崎店": [
+    {
+      "date": "2026-11-06",
+      "event_id": "1800142",
+      "participants": 25,
+      "top8": [
+        {
+          "friend_code": "VSDEQ",
+          "deck_id": "1ZXH2L",
+          "rank": 1
+        },
+        {
+          "friend_code": "PTEOO",
+          "deck_id": "M0UTS",
+          "rank": 2
+        },
+        {
+          "friend_code": "ZVCPC",
+          "deck_id": "RT3Y0",
+          "rank": 3
+        },
+        {
+          "friend_code": "EFCWY",
+          "deck_id": "946ZJ",
+          "rank": 4
+        },
+        {
+          "friend_code": "UMNJP",
+          "deck_id": "1EG9ZW",
+          "rank": 5
+        },
+        {
+          "friend_code": "FLTZA",
+          "deck_id": "ZN9AG",
+          "rank": 6
+        },
+        {
+          "friend_code": "VFVWK",
+          "deck_id": "FRWG8",
+          "rank": 7
+        },
+        {
+          "friend_code": "HUXEP",
+          "deck_id": "1H6PC8",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "event_id": "1800141",
