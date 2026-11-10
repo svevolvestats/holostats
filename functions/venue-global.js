@@ -2,7 +2,7 @@
 function escapeHtml(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function injectOG(html, { title, description, imageUrl, pageUrl }) {
+function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
   let out = html;
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`);
   out = out.replace(
@@ -16,13 +16,23 @@ function injectOG(html, { title, description, imageUrl, pageUrl }) {
     `$1${descEscaped}$2`
   );
   if (out === prevOut) console.warn("[injectOG] og:description replacement failed \u2014 tag missing or malformed in index.html");
+  if (description) {
+    out = out.replace(/(<meta name="description" content=")[\s\S]*?(")/, `$1${descEscaped}$2`);
+  }
+  if (canonical) {
+    out = out.replace(/<link rel="canonical"[^>]*>/g, "");
+    out = out.replace("</head>", `  <link rel="canonical" href="${escapeHtml(canonical)}" />
+</head>`);
+  }
   out = out.replace(/<meta property="og:url"[^>]*>/g, "");
   out = out.replace(/<meta property="og:image"[^>]*>/g, "");
   out = out.replace(/<meta name="twitter:image"[^>]*>/g, "");
   const extra = [
     `<meta property="og:url" content="${escapeHtml(pageUrl)}" />`,
-    imageUrl ? `<meta property="og:image" content="${imageUrl}" />` : "",
-    imageUrl ? `<meta name="twitter:image" content="${imageUrl}" />` : ""
+    // imageUrl is built from URL params on some routes (?period=, ?event=, ?s=),
+    // so it must be escaped like every other attribute value here.
+    imageUrl ? `<meta property="og:image" content="${escapeHtml(imageUrl)}" />` : "",
+    imageUrl ? `<meta name="twitter:image" content="${escapeHtml(imageUrl)}" />` : ""
   ].filter(Boolean).join("\n  ");
   out = out.replace("</head>", `  ${extra}
 </head>`);

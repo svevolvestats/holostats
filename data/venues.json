@@ -38274,6 +38274,58 @@
   ],
   "トレカショップ竜のしっぽ梅田NU茶屋町店": [
     {
+      "date": "2026-11-10",
+      "event_id": "1825186",
+      "participants": 29,
+      "top8": [
+        {
+          "friend_code": "ECTGD",
+          "deck_id": "1WS23J",
+          "rank": 1
+        },
+        {
+          "friend_code": "VUEJJ",
+          "deck_id": "1TMTPW",
+          "rank": 2
+        },
+        {
+          "friend_code": "XZKWB",
+          "deck_id": "1GKY1E",
+          "rank": 3
+        },
+        {
+          "friend_code": "NBHCM",
+          "deck_id": "13P29W",
+          "rank": 4
+        },
+        {
+          "friend_code": "HBRDF",
+          "deck_id": "QYCVN",
+          "rank": 5
+        },
+        {
+          "friend_code": "ANHPE",
+          "deck_id": "2G2GQG",
+          "rank": 6
+        },
+        {
+          "friend_code": "IUBJJ",
+          "deck_id": "B5L4L",
+          "rank": 7
+        },
+        {
+          "friend_code": "SPTTB",
+          "deck_id": "GHBQQ",
+          "rank": 8
+        },
+        {
+          "friend_code": "NSRHD",
+          "deck_id": "1A1P9J",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-26",
       "event_id": "1738928",
       "participants": 18,
@@ -54226,6 +54278,53 @@
     }
   ],
   "ホビーステーション仙台駅前店": [
+    {
+      "date": "2026-11-10",
+      "event_id": "1812196",
+      "participants": 18,
+      "top8": [
+        {
+          "friend_code": "NCWIQ",
+          "deck_id": "GPRZS",
+          "rank": 1
+        },
+        {
+          "friend_code": "IMIOW",
+          "deck_id": "1PQYZJ",
+          "rank": 2
+        },
+        {
+          "friend_code": "QSOHQ",
+          "deck_id": "XTAWQ",
+          "rank": 3
+        },
+        {
+          "friend_code": "VXGEI",
+          "deck_id": "EYMJL",
+          "rank": 4
+        },
+        {
+          "friend_code": "CFEJG",
+          "deck_id": "1N4XCC",
+          "rank": 5
+        },
+        {
+          "friend_code": "VMKLW",
+          "deck_id": "2T1L5W",
+          "rank": 6
+        },
+        {
+          "friend_code": "YXOWA",
+          "deck_id": "DULSC",
+          "rank": 7
+        },
+        {
+          "friend_code": "HIWSP",
+          "deck_id": "12YCX2",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "event_id": "1730373",
