@@ -11453,6 +11453,53 @@
   ],
   "カードゲームのシーガル郡山店": [
     {
+      "date": "2026-11-13",
+      "event_id": "1814458",
+      "participants": 19,
+      "top8": [
+        {
+          "friend_code": "WUJNG",
+          "deck_id": "J7TAQ",
+          "rank": 1
+        },
+        {
+          "friend_code": "RUBRT",
+          "deck_id": "1PFZYL",
+          "rank": 2
+        },
+        {
+          "friend_code": "UWSNY",
+          "deck_id": "PBQUL",
+          "rank": 3
+        },
+        {
+          "friend_code": "OIBXE",
+          "deck_id": "1VPB0U",
+          "rank": 4
+        },
+        {
+          "friend_code": "OTDCA",
+          "deck_id": "1TTX52",
+          "rank": 5
+        },
+        {
+          "friend_code": "TBPMC",
+          "deck_id": "QY86L",
+          "rank": 6
+        },
+        {
+          "friend_code": "HUCAY",
+          "deck_id": "1FV3F6",
+          "rank": 7
+        },
+        {
+          "friend_code": "HSEYM",
+          "deck_id": "YRS4L",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "event_id": "1814459",
       "participants": 59,
