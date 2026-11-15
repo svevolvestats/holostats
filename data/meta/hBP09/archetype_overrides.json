@@ -1,0 +1,14 @@
+{
+  "merges": [],
+  "auto_splits": [],
+  "splits": [
+    {
+      "source": "924151",
+      "name": "AZKi（ふつうのパソコン・SorAZセレブレーション）",
+      "rules": [
+        { "required": ["hBP06-060"], "name": "AZKi（森カリオペ）" },
+        { "required": ["hBP09-021"], "name": "AZKi（轟はじめ）" }
+      ]
+    }
+  ]
+}

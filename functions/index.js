@@ -74,8 +74,8 @@ async function onRequest(context) {
         pageUrl = `${origin}/?era=${encodeURIComponent(eraKey)}`;
       }
     } else {
-      const meta = await fetchJson(`${origin}/data/meta.json`);
-      const p = meta.period ?? {};
+      const last = await fetchJson(`${origin}/data/archetype_last_date.json`);
+      const p = [...last.periods ?? []].sort((a, b) => a.start.localeCompare(b.start)).at(-1) ?? {};
       periodStr = p.start && p.end ? `\uFF08${p.start}\u301C${p.end}\uFF09` : "";
     }
     const title = `\u500B\u4EBA\u6226CS\u74B0\u5883${periodStr} | \u30DB\u30ED\u30AB\u7D71\u8A08\u5C40`;
