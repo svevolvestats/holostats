@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14",
+  "generated_at": "2026-11-15",
   "cups": {
     "bloom": {
       "analysis_cutoff": "2026-10-02",
@@ -3769,7 +3769,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 1,
           "participants": 20,
           "player": "もやしやし",
@@ -3841,7 +3841,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 2,
           "participants": 20,
           "player": "のーれあ",
@@ -3913,7 +3913,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 3,
           "participants": 20,
           "player": "鮎",
@@ -3985,7 +3985,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 4,
           "participants": 20,
           "player": "ELLIE",
@@ -4057,7 +4057,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 5,
           "participants": 20,
           "player": "空白",
@@ -4129,7 +4129,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 6,
           "participants": 20,
           "player": "JHufself",
@@ -4201,7 +4201,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 7,
           "participants": 20,
           "player": "剣",
@@ -4273,7 +4273,7 @@
         {
           "date": "2026-11-08",
           "event_id": "1826573",
-          "venue": "カードショップ彩々　鹿児島店",
+          "venue": "カードショップ彩々鹿児島店",
           "rank": 8,
           "participants": 20,
           "player": "森山",
@@ -4345,7 +4345,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 1,
           "participants": 26,
           "player": "イチ",
@@ -4381,7 +4381,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 1,
           "participants": 31,
           "player": "化け狸",
@@ -4435,7 +4435,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 1,
           "participants": 32,
           "player": "Souka",
@@ -4489,7 +4489,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 1,
           "participants": 32,
           "player": "あとり",
@@ -4507,7 +4507,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 2,
           "participants": 26,
           "player": "いぎゃー",
@@ -4543,7 +4543,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 2,
           "participants": 31,
           "player": "mika",
@@ -4597,7 +4597,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 2,
           "participants": 32,
           "player": "ノナメ",
@@ -4651,7 +4651,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 2,
           "participants": 32,
           "player": "飼い猫",
@@ -4669,7 +4669,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 3,
           "participants": 26,
           "player": "天江ましろ",
@@ -4705,7 +4705,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 3,
           "participants": 31,
           "player": "レカレカ",
@@ -4759,7 +4759,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 3,
           "participants": 32,
           "player": "幽狸",
@@ -4813,7 +4813,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 3,
           "participants": 32,
           "player": "しろあん",
@@ -4831,7 +4831,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 4,
           "participants": 26,
           "player": "しろあん",
@@ -4867,7 +4867,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 4,
           "participants": 31,
           "player": "ゆきさめ",
@@ -4921,7 +4921,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 4,
           "participants": 32,
           "player": " ひだ",
@@ -4975,7 +4975,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 4,
           "participants": 32,
           "player": "いぎゃー",
@@ -4993,7 +4993,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 5,
           "participants": 26,
           "player": "C10Se",
@@ -5029,7 +5029,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 5,
           "participants": 31,
           "player": "Atu/猫",
@@ -5083,7 +5083,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 5,
           "participants": 32,
           "player": "オカケン",
@@ -5137,7 +5137,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 5,
           "participants": 32,
           "player": "チャワ",
@@ -5155,7 +5155,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 6,
           "participants": 26,
           "player": "issue",
@@ -5191,7 +5191,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 6,
           "participants": 31,
           "player": "はるっち",
@@ -5245,7 +5245,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 6,
           "participants": 32,
           "player": "koretto",
@@ -5299,7 +5299,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 6,
           "participants": 32,
           "player": "くろみみ",
@@ -5317,7 +5317,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 7,
           "participants": 26,
           "player": "フォルテ",
@@ -5353,7 +5353,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 7,
           "participants": 31,
           "player": "宮",
@@ -5407,7 +5407,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 7,
           "participants": 32,
           "player": "コマノ",
@@ -5461,7 +5461,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 7,
           "participants": 32,
           "player": "meer",
@@ -5479,7 +5479,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802754",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 8,
           "participants": 26,
           "player": "アセロラ",
@@ -5515,7 +5515,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1830245",
-          "venue": "フルコンプ仙台駅前店",
+          "venue": "フルコンプPLAYERSCENTER仙台駅前店",
           "rank": 8,
           "participants": 31,
           "player": "ノブ",
@@ -5569,7 +5569,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1815488",
-          "venue": "MINT GAMES池袋店",
+          "venue": "MINTGAMES池袋",
           "rank": 8,
           "participants": 32,
           "player": "ナー",
@@ -5623,7 +5623,7 @@
         {
           "date": "2026-11-07",
           "event_id": "1802753",
-          "venue": "トレカショップ ジョニー",
+          "venue": "トレカショップジョニー",
           "rank": 8,
           "participants": 32,
           "player": "トーヤ",
@@ -5659,7 +5659,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 1,
           "participants": 25,
           "player": "むみぃ",
@@ -5695,7 +5695,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 2,
           "participants": 25,
           "player": "りーあべると",
@@ -5731,7 +5731,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 3,
           "participants": 25,
           "player": "ガイア",
@@ -5767,7 +5767,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 4,
           "participants": 25,
           "player": "キツネ",
@@ -5803,7 +5803,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 5,
           "participants": 25,
           "player": "ガンス",
@@ -5839,7 +5839,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 6,
           "participants": 25,
           "player": "みそぎ",
@@ -5875,7 +5875,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 7,
           "participants": 25,
           "player": "コマノ",
@@ -5911,7 +5911,7 @@
         {
           "date": "2026-11-06",
           "event_id": "1800142",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 8,
           "participants": 25,
           "player": "だるた",
@@ -6667,7 +6667,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 1,
           "participants": 31,
           "player": "ツナツナ",
@@ -6685,7 +6685,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 1,
           "participants": 32,
           "player": "地球委員長",
@@ -6739,7 +6739,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 1,
           "participants": 26,
           "player": "まっぴー",
@@ -6847,7 +6847,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 2,
           "participants": 31,
           "player": "ツナえもん",
@@ -6865,7 +6865,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 2,
           "participants": 32,
           "player": "コマノ",
@@ -6919,7 +6919,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 2,
           "participants": 26,
           "player": "ふぇっちゃん",
@@ -7027,7 +7027,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 3,
           "participants": 31,
           "player": "蜂･蜜太郎",
@@ -7045,7 +7045,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 3,
           "participants": 32,
           "player": "ARATA",
@@ -7099,7 +7099,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 3,
           "participants": 26,
           "player": "ねりくり",
@@ -7207,7 +7207,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 4,
           "participants": 31,
           "player": "だいふく",
@@ -7225,7 +7225,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 4,
           "participants": 32,
           "player": "らんす",
@@ -7279,7 +7279,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 4,
           "participants": 26,
           "player": "mintia",
@@ -7387,7 +7387,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 5,
           "participants": 31,
           "player": "トウシロウ",
@@ -7405,7 +7405,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 5,
           "participants": 32,
           "player": "なお",
@@ -7459,7 +7459,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 5,
           "participants": 26,
           "player": "Esika",
@@ -7567,7 +7567,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 6,
           "participants": 31,
           "player": "光陰",
@@ -7585,7 +7585,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 6,
           "participants": 32,
           "player": "だるた",
@@ -7639,7 +7639,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 6,
           "participants": 26,
           "player": "くろん",
@@ -7747,7 +7747,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 7,
           "participants": 31,
           "player": "Gchan（じーちゃん）",
@@ -7765,7 +7765,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 7,
           "participants": 32,
           "player": "ヤナギン",
@@ -7819,7 +7819,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 7,
           "participants": 26,
           "player": "ナリ",
@@ -7927,7 +7927,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1830849",
-          "venue": "ホビーステーション神戸三宮店",
+          "venue": "ホビーステーション 神戸三宮店",
           "rank": 8,
           "participants": 31,
           "player": "ガイさん",
@@ -7945,7 +7945,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1800141",
-          "venue": "ホビーステーション川崎店",
+          "venue": "ホビーステーション 川崎店",
           "rank": 8,
           "participants": 32,
           "player": "クーデレスキー",
@@ -7999,7 +7999,7 @@
         {
           "date": "2026-11-03",
           "event_id": "1817547",
-          "venue": "ホビーステーション千葉店",
+          "venue": "ホビーステーション 千葉店",
           "rank": 8,
           "participants": 26,
           "player": "ソウ",
@@ -8377,7 +8377,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 1,
           "participants": 29,
           "player": "べる",
@@ -8467,7 +8467,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 1,
           "participants": 32,
           "player": "こっさん",
@@ -8575,7 +8575,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 2,
           "participants": 29,
           "player": "チヅルスキー",
@@ -8665,7 +8665,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 2,
           "participants": 32,
           "player": "カトケン",
@@ -8773,7 +8773,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 3,
           "participants": 29,
           "player": "アルク",
@@ -8863,7 +8863,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 3,
           "participants": 32,
           "player": "ガンス",
@@ -8971,7 +8971,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 4,
           "participants": 29,
           "player": "コバルト",
@@ -9024,24 +9024,6 @@
         },
         {
           "date": "2026-11-01",
-          "event_id": "1801943",
-          "venue": "竜星の嵐　名古屋店",
-          "rank": 4,
-          "participants": 64,
-          "player": "ハセ",
-          "friend_code": "NCAIN",
-          "oshi_id": "hBP07-001",
-          "member": "角巻わため",
-          "color": "白",
-          "deck_id": "M2EV2",
-          "archetype_id": "05594c",
-          "archetype_name": "角巻わため",
-          "era_key": "bloom:hBP09:2026-09-19~2026-10-02",
-          "sim_score": 0.916,
-          "is_estimated": true
-        },
-        {
-          "date": "2026-11-01",
           "event_id": "1818617",
           "venue": "カードショップ竜星のPAO大宮店",
           "rank": 4,
@@ -9061,7 +9043,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 4,
           "participants": 32,
           "player": "WsM/つかさ",
@@ -9074,6 +9056,24 @@
           "archetype_name": "AZKi（フロンティアスピリット・AZKi）",
           "era_key": "bloom:hBP09:2026-09-19~2026-10-02",
           "sim_score": 0.803,
+          "is_estimated": true
+        },
+        {
+          "date": "2026-11-01",
+          "event_id": "1801943",
+          "venue": "竜星の嵐　名古屋店",
+          "rank": 4,
+          "participants": 64,
+          "player": "ハセ",
+          "friend_code": "NCAIN",
+          "oshi_id": "hBP07-001",
+          "member": "角巻わため",
+          "color": "白",
+          "deck_id": "M2EV2",
+          "archetype_id": "05594c",
+          "archetype_name": "角巻わため",
+          "era_key": "bloom:hBP09:2026-09-19~2026-10-02",
+          "sim_score": 0.916,
           "is_estimated": true
         },
         {
@@ -9169,7 +9169,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 5,
           "participants": 29,
           "player": "Arthur",
@@ -9259,7 +9259,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 5,
           "participants": 32,
           "player": "千刃(センバ)",
@@ -9367,7 +9367,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 6,
           "participants": 29,
           "player": "かたなし",
@@ -9457,7 +9457,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 6,
           "participants": 32,
           "player": "うぃんで",
@@ -9565,7 +9565,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 7,
           "participants": 29,
           "player": "xxxkisekixxx",
@@ -9655,7 +9655,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 7,
           "participants": 32,
           "player": "オクゴン",
@@ -9763,7 +9763,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1804073",
-          "venue": "カードラボ　アバンティ京都店",
+          "venue": "カードラボアバンティ京都店",
           "rank": 8,
           "participants": 29,
           "player": "もち",
@@ -9853,7 +9853,7 @@
         {
           "date": "2026-11-01",
           "event_id": "1818054",
-          "venue": "CARD WINGS　秋葉原駅前店",
+          "venue": "CARDWINGS秋葉原駅前店",
           "rank": 8,
           "participants": 32,
           "player": "ぷーすけ",
