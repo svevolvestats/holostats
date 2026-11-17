@@ -45260,6 +45260,53 @@
   ],
   "トーナメントセンターバトロコ柏駅前": [
     {
+      "date": "2026-11-16",
+      "event_id": "1823533",
+      "participants": 21,
+      "top8": [
+        {
+          "friend_code": "RUPMW",
+          "deck_id": "1J6LL0",
+          "rank": 1
+        },
+        {
+          "friend_code": "JGBTY",
+          "deck_id": "1JUCFS",
+          "rank": 2
+        },
+        {
+          "friend_code": "ZEULY",
+          "deck_id": "18NWP2",
+          "rank": 3
+        },
+        {
+          "friend_code": "FAECX",
+          "deck_id": "9QZSU",
+          "rank": 4
+        },
+        {
+          "friend_code": "DAAWD",
+          "deck_id": "90KSU",
+          "rank": 5
+        },
+        {
+          "friend_code": "HWUGO",
+          "deck_id": "AJFUY",
+          "rank": 6
+        },
+        {
+          "friend_code": "WCUNJ",
+          "deck_id": "Z622C",
+          "rank": 7
+        },
+        {
+          "friend_code": "LZSVY",
+          "deck_id": "16TKCL",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-01",
       "event_id": "1728869",
       "participants": 25,
