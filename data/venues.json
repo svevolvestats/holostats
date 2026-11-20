@@ -5173,6 +5173,53 @@
   ],
   "Japan TCG Center吉祥寺駅北口店": [
     {
+      "date": "2026-11-19",
+      "event_id": "1832639",
+      "participants": 37,
+      "top8": [
+        {
+          "friend_code": "OJHVI",
+          "deck_id": "DE5JU",
+          "rank": 1
+        },
+        {
+          "friend_code": "ITUJR",
+          "deck_id": "83UWQ",
+          "rank": 2
+        },
+        {
+          "friend_code": "QSRFF",
+          "deck_id": "LU6PJ",
+          "rank": 3
+        },
+        {
+          "friend_code": "QMBXX",
+          "deck_id": "15V8NU",
+          "rank": 4
+        },
+        {
+          "friend_code": "RKCYQ",
+          "deck_id": "1M7GX2",
+          "rank": 5
+        },
+        {
+          "friend_code": "VFVWK",
+          "deck_id": "1E8GQY",
+          "rank": 6
+        },
+        {
+          "friend_code": "BKZTY",
+          "deck_id": "1AFK76",
+          "rank": 7
+        },
+        {
+          "friend_code": "QPJJC",
+          "deck_id": "1TYUU8",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "event_id": "1832638",
       "participants": 25,
@@ -33407,6 +33454,53 @@
     }
   ],
   "カードラボ静岡店": [
+    {
+      "date": "2026-11-19",
+      "event_id": "1807288",
+      "participants": 21,
+      "top8": [
+        {
+          "friend_code": "CBVPV",
+          "deck_id": "17TLUG",
+          "rank": 1
+        },
+        {
+          "friend_code": "NZJSQ",
+          "deck_id": "18HQBS",
+          "rank": 2
+        },
+        {
+          "friend_code": "TDDYS",
+          "deck_id": "M3G9J",
+          "rank": 3
+        },
+        {
+          "friend_code": "GBYGP",
+          "deck_id": "M0B96",
+          "rank": 4
+        },
+        {
+          "friend_code": "BTLQB",
+          "deck_id": "1PWE0Y",
+          "rank": 5
+        },
+        {
+          "friend_code": "DYOWJ",
+          "deck_id": "1K4D44",
+          "rank": 6
+        },
+        {
+          "friend_code": "TEVNJ",
+          "deck_id": "358AK",
+          "rank": 7
+        },
+        {
+          "friend_code": "FDZUC",
+          "deck_id": "MMJSQ",
+          "rank": 8
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "event_id": "1726309",
