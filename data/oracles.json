@@ -11466,7 +11466,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 2180
+    "min_price": 1980
   },
   {
     "oracle_id": "hSD03-004",
@@ -16840,7 +16840,7 @@
         "power_plus": false
       }
     ],
-    "min_price": 30
+    "min_price": 50
   },
   {
     "oracle_id": "hBP03-077",
@@ -22343,7 +22343,7 @@
       "once_per_game": true,
       "text": "このゲームの間、自分の〈ネリッサ・レイヴンクロフト〉全員のアーツに必要な無色-1。"
     },
-    "min_price": 10800
+    "min_price": 280
   },
   {
     "oracle_id": "hBP05-007",
@@ -26256,7 +26256,7 @@
       "once_per_game": true,
       "text": "相手のセンターホロメンかコラボホロメンどちらかに、自分のアーカイブの赤エール1枚につき、特殊ダメージ20を与える。"
     },
-    "min_price": 39800
+    "min_price": 1080
   },
   {
     "oracle_id": "hBP06-005",
@@ -29615,7 +29615,7 @@
       2133
     ],
     "ability_text": "自分のデッキを2枚引く。その後、自分のライフが4以下なら、自分のこのターンにDebutホロメンからBloomした1stホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。\nLIMITED:ターンに1枚しか使えない。",
-    "min_price": 980
+    "min_price": 880
   },
   {
     "oracle_id": "hBP06-091",
