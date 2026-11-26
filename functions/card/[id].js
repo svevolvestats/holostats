@@ -62,11 +62,36 @@ function injectOG(html, { title, description, imageUrl, pageUrl, canonical }) {
 </head>`);
   return out;
 }
+var CANONICAL_PARAMS = [
+  ["/", ["period", "era"]],
+  ["/recap", ["event"]],
+  ["/archetype/*", ["period", "recap", "trio", "era"]],
+  ["/lineage", ["class"]],
+  ["/guide", ["tab"]],
+  ["/cr", ["tab"]],
+  ["/venue", ["tab", "kind"]],
+  ["/prices", ["card"]]
+];
+function defaultCanonical(requestUrl) {
+  const url = new URL(requestUrl);
+  let path = url.pathname;
+  if (path.length > 1 && path.endsWith("/")) path = path.replace(/\/+$/, "");
+  const rule = CANONICAL_PARAMS.find(([p]) => p.endsWith("/*") ? path.startsWith(p.slice(0, -1)) : path === p);
+  const qs = (rule ? rule[1] : []).filter((key) => url.searchParams.get(key)).map((key) => `${key}=${encodeURIComponent(url.searchParams.get(key))}`).join("&");
+  return `${url.origin}${path}${qs ? `?${qs}` : ""}`;
+}
 async function serveWithOG(context, ogProps) {
   const origin = new URL(context.request.url).origin;
+  if (!ogProps.noindex && ogProps.canonical === void 0) {
+    ogProps = { ...ogProps, canonical: defaultCanonical(context.request.url) };
+  }
   const indexRes = await context.env.ASSETS.fetch(new Request(`${origin}/index.html`));
   let html = await indexRes.text();
   if (!ogProps.defaultOG) html = injectOG(html, ogProps);
+  else if (ogProps.canonical) {
+    html = html.replace("</head>", `  <link rel="canonical" href="${escapeHtml(ogProps.canonical)}" />
+</head>`);
+  }
   const extraHeaders = {};
   if (ogProps.noindex) {
     const robots = ogProps.noindex === "follow" ? "noindex" : "noindex, nofollow";

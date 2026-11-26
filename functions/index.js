@@ -81,7 +81,8 @@ async function onRequest(context) {
     const title = `\u500B\u4EBA\u6226CS\u74B0\u5883${periodStr} | \u30DB\u30ED\u30AB\u7D71\u8A08\u5C40`;
     const indexRes = await env.ASSETS.fetch(new Request(`${origin}/index.html`));
     const html = await indexRes.text();
-    return new Response(injectOG(html, { title, description: "", imageUrl, pageUrl }), {
+    const canonical = pageUrl === origin ? `${origin}/` : pageUrl;
+    return new Response(injectOG(html, { title, description: "", imageUrl, pageUrl, canonical }), {
       headers: {
         "Content-Type": "text/html;charset=UTF-8",
         "Cache-Control": "public, max-age=300"

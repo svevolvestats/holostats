@@ -9349,6 +9349,53 @@
   ],
   "アメニティードリーム横浜店": [
     {
+      "date": "2026-11-25",
+      "event_id": "1827235",
+      "participants": 16,
+      "top8": [
+        {
+          "friend_code": "NOXHB",
+          "deck_id": "126YKS",
+          "rank": 1
+        },
+        {
+          "friend_code": "UREUN",
+          "deck_id": "UV3RJ",
+          "rank": 2
+        },
+        {
+          "friend_code": "DTKYY",
+          "deck_id": "B1HLC",
+          "rank": 3
+        },
+        {
+          "friend_code": "QCSSJ",
+          "deck_id": "12H55J",
+          "rank": 4
+        },
+        {
+          "friend_code": "EJKYZ",
+          "deck_id": "ZT136",
+          "rank": 5
+        },
+        {
+          "friend_code": "EJWMJ",
+          "deck_id": "18KDD2",
+          "rank": 6
+        },
+        {
+          "friend_code": "NPKZZ",
+          "deck_id": "252H0L",
+          "rank": 7
+        },
+        {
+          "friend_code": "OGYJC",
+          "deck_id": "ZSVN4",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "event_id": "1827234",
       "participants": 28,

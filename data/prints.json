@@ -507,7 +507,7 @@
     "prices": {
       "mercard": {
         "price": 4980,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -621,7 +621,7 @@
     "prices": {
       "mercard": {
         "price": 4980,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -639,7 +639,7 @@
     "mercard_id": 33,
     "prices": {
       "mercard": {
-        "price": 19800,
+        "price": 17800,
         "sold_out": false,
         "date": "2026-11-25"
       }
@@ -1628,7 +1628,7 @@
     "prices": {
       "mercard": {
         "price": 80,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -7092,7 +7092,7 @@
     "prices": {
       "mercard": {
         "price": 19800,
-        "sold_out": true,
+        "sold_out": false,
         "date": "2026-11-25"
       }
     }
@@ -15241,7 +15241,7 @@
     "prices": {
       "mercard": {
         "price": 3980,
-        "sold_out": true,
+        "sold_out": false,
         "date": "2026-11-25"
       }
     }
@@ -16178,7 +16178,7 @@
     "prices": {
       "mercard": {
         "price": 7480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -18344,7 +18344,7 @@
     "prices": {
       "mercard": {
         "price": 8480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -20111,7 +20111,7 @@
     "prices": {
       "mercard": {
         "price": 2480,
-        "sold_out": true,
+        "sold_out": false,
         "date": "2026-11-25"
       }
     }
@@ -24205,7 +24205,7 @@
     "prices": {
       "mercard": {
         "price": 4480,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -24680,7 +24680,7 @@
     "prices": {
       "mercard": {
         "price": 1280,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -38359,7 +38359,7 @@
     "prices": {
       "mercard": {
         "price": 180,
-        "sold_out": true,
+        "sold_out": false,
         "date": "2026-11-25"
       }
     }
@@ -40482,7 +40482,7 @@
     "prices": {
       "mercard": {
         "price": 50,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -46193,7 +46193,7 @@
     "prices": {
       "mercard": {
         "price": 1280,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
@@ -53660,7 +53660,7 @@
     "prices": {
       "mercard": {
         "price": 3980,
-        "sold_out": false,
+        "sold_out": true,
         "date": "2026-11-25"
       }
     }
