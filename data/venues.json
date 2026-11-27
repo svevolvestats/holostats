@@ -33925,6 +33925,53 @@
   ],
   "カードラボ長野店": [
     {
+      "date": "2026-11-26",
+      "event_id": "1804869",
+      "participants": 17,
+      "top8": [
+        {
+          "friend_code": "INSGZ",
+          "deck_id": "2D6ZN0",
+          "rank": 1
+        },
+        {
+          "friend_code": "EJKYZ",
+          "deck_id": "ZT136",
+          "rank": 2
+        },
+        {
+          "friend_code": "MCTCJ",
+          "deck_id": "133YB2",
+          "rank": 3
+        },
+        {
+          "friend_code": "UBYDN",
+          "deck_id": "1CQ952",
+          "rank": 4
+        },
+        {
+          "friend_code": "JINFS",
+          "deck_id": "132KMS",
+          "rank": 5
+        },
+        {
+          "friend_code": "ZEFLU",
+          "deck_id": "172E8Y",
+          "rank": 6
+        },
+        {
+          "friend_code": "RGXSY",
+          "deck_id": "1ZXSP2",
+          "rank": 7
+        },
+        {
+          "friend_code": "QYVBJ",
+          "deck_id": "DLTVW",
+          "rank": 8
+        }
+      ]
+    },
+    {
       "date": "2026-09-24",
       "event_id": "1726692",
       "participants": 21,
