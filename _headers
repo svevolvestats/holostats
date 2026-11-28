@@ -10,3 +10,7 @@
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
+
+# Self-hosted @fontsource woff2 (scripts/self_hosted_fonts.mjs); contents never change per file name
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
